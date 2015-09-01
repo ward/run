@@ -1,0 +1,14 @@
+# Site settings
+title: Run
+email: ward@wardje.eu
+timezone: UTC
+description: > # this means to ignore newlines until "baseurl:"
+  Anything that I find interesting enough to relate to my running.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+author: Ward Muylaert
+
+# Build settings
+markdown: kramdown
