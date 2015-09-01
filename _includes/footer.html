@@ -7,14 +7,38 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li>{{ site.author }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
+          {% if site.social.smashrun %}
+          <li>
+            <a href="http://smashrun.com/{{ site.social.smashrun }}">
+              Smashrun
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.social.strava %}
+          <li>
+            <a href="https://www.strava.com/athletes/{{ site.social.strava }}">
+              Strava
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.social.runkeeper %}
+          <li>
+            <a href="https://runkeeper.com/user/{{ site.social.runkeeper }}">
+              Runkeeper
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.social.github %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">
@@ -28,7 +52,7 @@
           </li>
           {% endif %}
 
-          {% if site.twitter_username %}
+          {% if site.social.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
               <span class="icon  icon--twitter">
