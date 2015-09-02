@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "20km door Brussel"
+date: 2015-05-31 17:05:00
+tags: report
 ---
 
 Oh boy, the big one, if you're from Belgium. There are longer races, with a
