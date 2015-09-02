@@ -37,7 +37,7 @@ myself to ignore it, but it was definitely a constant nagging feeling.
 
 Beyond the peeing sensation, things were going mostly smoothly. I did not have
 the way-too-fast-start I had two weeks before in the
-[10km de l'ULB]({% post_url 2015-04-26-10km-de-l-ulb %})
+[10km de l'ULB]({{ site.baseurl }}{% post_url 2015-04-26-10km-de-l-ulb %})
 so I managed to stay pretty consistent throughout the race. Till
 kilometre four it was mostly climbing, followed by some downhill until the next
 hill around the seven km mark. I mostly managed to adjust my pace for each to
