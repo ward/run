@@ -7,7 +7,7 @@ permalink: /bxl/
 On this page a list of any and all upcoming races in Brussels that I know
 about, no matter how small or big.
 
-<table>
+<table id="bxlruns">
   <thead>
     <tr>
       <th>Date</th>
@@ -19,10 +19,10 @@ about, no matter how small or big.
   <tbody>
 {% for race in site.data.bxlruns %}
     <tr>
-      <td>{{race.date}}</td>
-      <td>{{race.name}}</td>
-      <td>{{race.distance}}</td>
-      <td>{{race.notes}}</td>
+      <td class="date">{{race.date}}</td>
+      <td class="name">{{race.name}}</td>
+      <td class="distance">{{race.distance}}</td>
+      <td class="notes">{{race.notes}}</td>
     </tr>
 {% endfor %}
   </tbody>

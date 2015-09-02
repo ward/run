@@ -202,3 +202,20 @@ pre {
         }
     }
 }
+
+
+/**
+ * Tables (added by ward 2015-02-09)
+ */
+table {
+  border-collapse: collapse;
+  tr:nth-child(2n) {
+    background-color: #eeeeee;
+  }
+  td {
+    padding: 0.3em;
+    &.distance {
+      text-align: right;
+    }
+  }
+}
