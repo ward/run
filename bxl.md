@@ -19,7 +19,7 @@ about, no matter how small or big.
   <tbody>
 {% for race in site.data.bxlruns %}
     <tr>
-      <td class="date">{{race.date}}</td>
+      <td class="date">{{race.date | date: "%-d %b %Y" }}</td>
       <td class="name">{{race.name}}</td>
       <td class="distance">{{race.distance}}</td>
       <td class="notes">{{race.notes}}</td>

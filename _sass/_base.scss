@@ -214,8 +214,16 @@ table {
   }
   td {
     padding: 0.3em;
-    &.distance {
-      text-align: right;
+  }
+  &#bxlruns {
+    font-size: $small-font-size;
+    td {
+      &.date {
+        white-space: nowrap;
+      }
+      &.distance {
+        text-align: right;
+      }
     }
   }
 }
