@@ -235,4 +235,7 @@ input {
   border: 1px solid #e8e8e8;
   border-radius: 0.5em;
   padding: 0.1em 0.6em;
+  &.narrow {
+    width: 4em;
+  }
 }
