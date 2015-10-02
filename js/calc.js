@@ -481,12 +481,32 @@ function updateTime() {
  * Add event listeners for age grade
  */
 document.addEventListener("DOMContentLoaded", function(event) {
-  document.getElementById("agAge").addEventListener("change", updatePercent);
-  document.getElementById("agGender").addEventListener("change", updatePercent);
-  document.getElementById("agDistance").addEventListener("change", updatePercent);
-  document.getElementById("agHours").addEventListener("change", updatePercent);
-  document.getElementById("agMinutes").addEventListener("change", updatePercent);
-  document.getElementById("agSeconds").addEventListener("change", updatePercent);
+  // Keep track of which was last set: time (0) or percent (1)
+  var agLastUsed = 0;
+  var updateLast = function() {
+    if (agLastUsed === 0) {
+      updatePercent();
+    } else if (agLastUsed === 1) {
+      updateTime();
+    } else {
+      new Error("Age Grade: Last used broken");
+    }
+  };
+  var _timeEntered = function() {
+    agLastUsed = 0;
+    updatePercent();
+  };
+  var _percentEntered = function() {
+    agLastUsed = 1;
+    updateTime();
+  };
 
-  document.getElementById("agPercent").addEventListener("change", updateTime);
+  document.getElementById("agAge").addEventListener("change", updateLast);
+  document.getElementById("agGender").addEventListener("change", updateLast);
+  document.getElementById("agDistance").addEventListener("change", updateLast);
+  document.getElementById("agHours").addEventListener("change", _timeEntered);
+  document.getElementById("agMinutes").addEventListener("change", _timeEntered);
+  document.getElementById("agSeconds").addEventListener("change", _timeEntered);
+
+  document.getElementById("agPercent").addEventListener("change", _percentEntered);
 });
