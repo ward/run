@@ -99,7 +99,7 @@ and continued on my way.
 
 Next followed around 300 metre of running alone until I caught up to the next
 guy around 3.7 km in. I was beginning to feel it though, so decided I was happy
-with staying behind him for a while. We crossed the grand place together and
+with staying behind him for a while. We crossed the Grand Place together and
 when my watch beeped that we had passed the 4 km (3:19), I thought I would have
 a go at trying to pass him. This seemed to work rather well and I caught up to
 the female who had been running about 20 metre in front of us. I passed her in
@@ -145,8 +145,9 @@ Some results of the people I encountered:
   chip time. <!-- Elke Musial -->
 * The kid and the older guy crossed the line 24 and 30 seconds behind me. Chip
   times 34 and 40 seconds slower than mine. <!-- Bertrand Entzinger and Laurent Vigny -->
-* Could not make out airplane guy's bib number in the finish video. Will check
-  again once the photos are online.
+* Airplane guy got caught up by the kid, but outsprinted him in the final
+  straight. He finished 45 seconds behind me in chip time though, so in a way
+  the kid still beat him. <!-- Marthe Geulette -->
 
 The [Strava activity](https://www.strava.com/activities/405881832) for your
 enjoyment.
