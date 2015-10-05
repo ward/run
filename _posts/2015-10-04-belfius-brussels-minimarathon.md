@@ -75,6 +75,7 @@ wide to avoid coming to a complete halt. The course had now entered the park in
 front of the Royal Palace and it was slightly going uphill again here, so I
 decided I could use another breather when I reached the next group, a 40 year
 old guy and a teenager (both ages estimates).
+[A picture of me behind the kid, older guy on my left][sportograf1].
 
 I was pretty close to settling behind these two for a longer while, when a guy
 was starting to pass me on my left as we were nearing the 3 km mark. I decided
@@ -91,7 +92,7 @@ which point he pulled out another small sprint. Not particularly worried I
 caught up a third time. Now he decided to do a mini sprint while spreading his
 arms pretending to be an airplane. Yeah, I am not sure what was going on in his
 mind either. Regardless, the gap he now created was maybe two metre so I
-promptly closed again.  He did not have another sprint left so I dropped him
+promptly closed it again. He did not have another sprint left so I dropped him
 and continued on my way.
 
 ### Actual Racing
@@ -115,9 +116,11 @@ spot, something I did not expect at all. It did explain the emptiness of the
 streets from 2 km onwards. Thinking I now really needed to beat this guy, I
 thought about when to try and place a sprint. He however decided the time was
 now and sped up a bit. I noticed I could not even follow him then, let alone
-sprint past him so I stayed at the pace I was running. More than happy with the
+sprint past him so I stayed at the pace I was running.
+[Him about to cross the line with me in the background][sportograf2]. More than
+happy with the
 result and probably the first time I crossed the line with an actual "fuck yes"
-moment.
+moment. [Video of the finish][finish].
 
 ## Results
 
@@ -132,13 +135,24 @@ beat me probably were doing the marathon or the half, but too bad for them! It
 is a small race on the sidelines of the bigger ones, but it is nice to finish
 high regardless.
 
-Furthermore, the guy that dropped me in the sprint started out earlier so in
-the final time it seems he is actually 12 seconds and three spots behind me!
-(Eat that!) The female we passed in those final stretches apparently ended up
-as second female, finishing 3 seconds behind me and 16 seconds behind me in
-chip time.
+Some results of the people I encountered:
 
-<!-- Timothy Byrne and Elke Musial respectively -->
+* The guy that dropped me in the sprint crossed the line 3 seconds before me, but
+  it turns out he started out earlier. His final time is actually 12 seconds and
+  three spots behind me! (Eat that!) <!-- Timothy Byrne -->
+* The female we passed in those final stretches ended up as second female, crossing
+  the line 3 seconds behind me and 16 seconds behind me in
+  chip time. <!-- Elke Musial -->
+* The kid and the older guy crossed the line 24 and 30 seconds behind me. Chip
+  times 34 and 40 seconds slower than mine. <!-- Bertrand Entzinger and Laurent Vigny -->
+* Could not make out airplane guy's bib number in the finish video. Will check
+  again once the photos are online.
 
 The [Strava activity](https://www.strava.com/activities/405881832) for your
 enjoyment.
+
+
+
+[sportograf1]: https://www.flickr.com/photos/wardmuylaert/21340929883/in/album-72157659393962596/
+[sportograf2]: https://www.flickr.com/photos/wardmuylaert/21775148959/in/album-72157659393962596/
+[finish]: https://www.flickr.com/photos/wardmuylaert/21322260334/in/album-72157659393962596/
