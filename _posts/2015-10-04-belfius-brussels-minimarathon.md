@@ -149,8 +149,10 @@ Some results of the people I encountered:
   straight. He finished 45 seconds behind me in chip time though, so in a way
   the kid still beat him. <!-- Marthe Geulette -->
 
-The [Strava activity](https://www.strava.com/activities/405881832) for your
-enjoyment.
+The [Strava activity](https://www.strava.com/activities/405881832) and
+[official
+results](http://www.chronorace.be/Classements/ListeRapports.aspx?eventId=1138162038541186)
+for your enjoyment.
 
 Update: I contacted the organisers about the shorter distance and they
 confirmed my suspicion. According to them the race is 4.59k long. Extrapolating
