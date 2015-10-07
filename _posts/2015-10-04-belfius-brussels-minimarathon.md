@@ -152,7 +152,10 @@ Some results of the people I encountered:
 The [Strava activity](https://www.strava.com/activities/405881832) for your
 enjoyment.
 
-
+Update: I contacted the organisers about the shorter distance and they
+confirmed my suspicion. According to them the race is 4.59k long. Extrapolating
+my time to 5k gives me 17:37. This of course assumes I would be able to hold
+that pace for another few 100m.
 
 [sportograf1]: https://www.flickr.com/photos/wardmuylaert/21340929883/in/album-72157659393962596/
 [sportograf2]: https://www.flickr.com/photos/wardmuylaert/21775148959/in/album-72157659393962596/
