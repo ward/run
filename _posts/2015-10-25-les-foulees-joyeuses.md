@@ -5,17 +5,15 @@ date: 2015-10-25 18:00:00
 tags: report
 ---
 
-After the slight disappointment of the
-[Belfius Brussels 5k]({{ site.baseurl }}{% post_url 2015-10-04-belfius-brussels-minimarathon %})
-being about 400
-metre short of 5km (*officially*), this race was to be the redeemer.  I wanted
-to set a proper PR for my 5km distance. Note that I considered this race the
-moment to do it anyway as the Belfius Brussels 5k course is a considerable
+After the slight disappointment of the [Belfius Brussels 5k][bxl5k] being about
+400 metre short of 5km (*officially*), this race was to be the redeemer.  I
+wanted to set a proper PR for my 5km distance. Note that I considered this race
+the moment to do it anyway as the Belfius Brussels 5k course is a considerable
 amount of net downhill and any time set there could not be called a PR with a
 straight face.
 
 Besides the 5km, there was also a 10km which simply did the 5km loop twice.
-The 10km was actually the main event, but I was set on running a 5km. Also
+The 10km was actually the main event, but I was set on running a 5km. It is also
 worth noting that both the 5km and the 10km started together. This is not a
 problem in terms of the amount of people, I believe the combined amount of
 participants is only around two hundred. In terms of pacing and who to chase,
@@ -27,13 +25,14 @@ Still the same as three weeks ago, there has been no particular 5km training.
 No speed work or anything of the like, simply building my base further. Due to
 some pain in my left knee, I had not actually upped the weekly distance since
 the previous race in order to let it heal a bit. This seems to have been
-successful. Weekly distance is still just below 30km per week.
+successful. Weekly distance is still just below 30km per week, spread out over
+four days.
 
 In light of the time I set three weeks ago, I figured a sub 20 goal was the way
 to go. The girlfriend was also taking part in this race and also wanted to
 break 20 minutes. This shared goal led to one obvious other goal: beating her
-time.  She had the same reasoning and figured she should beat me. *It's
-ooooon*.
+time.  She had the same reasoning and figured she should beat me.
+[*It's ooooon*][itson].
 
 We decided on a shared tactic where we would start together at a slightly
 faster than 4 minutes per km pace and then see how we would hold up. I was
@@ -43,8 +42,8 @@ prepared to sprint for bragging rights in the final few 100 metre.
 
 The clocks went back an hour the night before due to daylight saving's ensuring
 that extra hour of sleep. Always appreciated. The alarm was set for 8 in the
-morning with the race starting at 11. At 7, my body decided I slept enough as
-it is used to get up around 8, so far for the extra hour. No harm done though
+morning with the race starting at 11. At 7, my body decided I had slept enough.
+It is used to get up around 8, extra hours be damned. No harm done though
 and I went through the usual morning routine of a few slices of bread and lots
 of water.
 
@@ -71,9 +70,16 @@ hoped.  Worse, I saw some definite slow people right in front of me that
 probably could have started slightly further back.
 
 The main race organiser gave a little speech about the race and the
-organisation (proceeds go to charity) after which he was going to start the
-race. To do so he said "On y va" ("there we go"), which some people interpreted
-as the start signal. Luckily there is no disqualification for a false start and
+organisation behind it: [La Cité Joyeuse][citejoy]. This organisation was
+founded in 1914 to house orphaned children from World War I.  They still do
+this, but have expanded to also help children with difficult family situations,
+handicapped children, and similar cases. All proceeds from this race go to help
+this charity and the way I understood it everyone organising the race was
+volunteering their time for today as well.  After the short speech, he was
+going to start the race. To do so he said "On y va" ("there we go") to indicate
+he was going to the spot from where he would signal the start. Some people
+however interpreted it as the start signal, leading to some more confusion, but
+general hilarity. Luckily there is no disqualification for a false start and
 after everyone was reorganised, the race started properly.
 
 ## Race
@@ -103,10 +109,10 @@ of the two guys started pulling away. After a moment of hesitation I closed the
 gap of a metre or two and fell in line. Kilometre two was done in 3:44.  Around
 2.2km we turned off the road and onto a trail of one person wide. To top it off
 there were low hanging branches I had to bend under (one guy apparently hit one
-and ended up taking a trip to the hospital) as well as the parts slightly
-elevated with wooden planks that were still dark from last night's rain. I did
-not feel at ease on this part, but luckily it ended 2.5km into the race as we
-turned onto a nicer, wider trail.
+and ended up taking a trip to the hospital) as well as parts of the trail being
+slightly elevated with wooden planks that were still dark from last night's
+rain.  I did not feel at ease on this part, but luckily it ended 2.5km into the
+race as we turned onto a nicer, wider trail.
 
 ### Are We There Yet?
 
@@ -120,7 +126,7 @@ it still stung.
 
 At the 3km mark near the end of that hill, I was about to pass a legally blind
 guy and his running guide. At the time I was, and still am, more surprised to
-see that they had been so far ahead of me. The guide looked back and waved me
+see that they had been so far ahead of me. The guide looked back and waved at me
 to pass them as if it were a simple thing to do. I gave myself a slight push
 and passed them as we turned onto flatter terrain again, finally. Third
 kilometre in 3:57.
@@ -171,3 +177,11 @@ ceremony. I normally would not wait around for this, but since the girlfriend
 decided to go and win her 5k, we kind of had to. In the end, she got the trophy
 and we ran home with it, which happened to be a distance of about 5km. Took it
 slightly slower than during the race though.
+
+Official results still have not been posted, so the [Strava activity][strava]
+will have to do for the time being.
+
+[bxl5k]: {{ site.baseurl }}{% post_url 2015-10-04-belfius-brussels-minimarathon %}
+[itson]: https://www.youtube.com/watch?v=W-_Ql0fN0bA
+[citejoy]: http://lacitejoyeuse.be/
+[strava]: https://www.strava.com/activities/420011827
