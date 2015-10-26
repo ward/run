@@ -164,13 +164,15 @@ though, I guess I will give her that.
 
 ## Results
 
-I stopped my watch a bit too late, it showed 19:09. Official time says 18:50,
-but I have a feeling they may have started *their* timing a bit too late. We
-can meet in the middle, surely? I will see if the final results they post will
-correct this slightly. Regardless, the sub 20 goal has been nicely broken and
-the extra beat-the-girlfriend goal as well. I ranked sixth overall which sounds
-less impressive if you take into account the 5km probably only had around 50
-people. Anyhow: A successful Sunday.
+I stopped my watch a bit too late, it showed 19:09, but I think I was about
+five seconds slow. Official time says 18:50, but I have a feeling they may have
+started *their* timing a bit too late as well. We can meet in the middle,
+surely? The final posted results did not correct this timing in any way.
+Regardless, the sub 20 goal has been nicely broken and the extra
+beat-the-girlfriend goal as well. I ranked sixth overall which sounds less
+impressive if you take into account the 5km only had 50 people. The winner
+finished the course in 16:36.
+Anyhow: A successful Sunday.
 
 After finishing, we had to wait a loooooong time before they got to the awards
 ceremony. I normally would not wait around for this, but since the girlfriend
@@ -178,10 +180,11 @@ decided to go and win her 5k, we kind of had to. In the end, she got the trophy
 and we ran home with it, which happened to be a distance of about 5km. Took it
 slightly slower than during the race though.
 
-Official results still have not been posted, so the [Strava activity][strava]
-will have to do for the time being.
+Official results can be found on their [awful looking website][fouljoy], my
+[Strava activity][strava] is also available.
 
 [bxl5k]: {{ site.baseurl }}{% post_url 2015-10-04-belfius-brussels-minimarathon %}
 [itson]: https://www.youtube.com/watch?v=W-_Ql0fN0bA
 [citejoy]: http://lacitejoyeuse.be/
+[fouljoy]: http://www.lesfouleesjoyeuses.be/
 [strava]: https://www.strava.com/activities/420011827
