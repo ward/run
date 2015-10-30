@@ -368,6 +368,21 @@ CALC.ageGrade = {
   }
 };
 
+CALC.racePredictor = {
+  /**
+   * Calculates a prediction of what your race time will be given the
+   * performance in another race.
+   * Formula devised by Pete Riegel in the '70s. Updated in the '80s.
+   *
+   * @param distanceIn number Length of the performed race in metre
+   * @param timeIn number Time in seconds of the performed race
+   * @param distanceOut number Length of the target race
+   * @return number Predicted time in seconds for the target race
+   */
+  predict: function(distanceIn, timeIn, distanceOut) {
+    return timeIn * Math.pow((distanceOut / distanceIn), 1.06);
+  }
+};
 
 /**
  * Event listeners for pace/speed
@@ -509,4 +524,34 @@ document.addEventListener("DOMContentLoaded", function(event) {
   document.getElementById("agSeconds").addEventListener("change", _timeEntered);
 
   document.getElementById("agPercent").addEventListener("change", _percentEntered);
+});
+
+/**
+ * Event listener for race prediction
+ */
+function updatePrediction() {
+  var distanceIn = parseIntInput("rpDistanceIn");
+  var hourIn = parseIntInput("rpHoursIn");
+  var minutesIn = parseIntInput("rpMinutesIn");
+  var secondsIn = parseIntInput("rpSecondsIn");
+  var timeIn = hourIn * 3600 + minutesIn * 60 + secondsIn;
+  var distanceOut = parseIntInput("rpDistanceOut");
+  var prediction = CALC.racePredictor.predict(distanceIn, timeIn, distanceOut);
+  var times = CALC.util.secToHMS(prediction);
+  var output = times.join(":");
+  document.getElementById("rpTimeOut").value = output;
+}
+
+function parseIntInput(DOMid) {
+  return parseInt(document.getElementById(DOMid).value);
+}
+function listenChange(DOMid, f) {
+  document.getElementById(DOMid).addEventListener("change", f);
+}
+
+document.addEventListener("DOMContentLoaded", function(event) {
+  var DOMids = ['rpDistanceIn', 'rpHoursIn', 'rpMinutesIn', 'rpSecondsIn', 'rpDistanceOut'];
+  DOMids.forEach(function(DOMid) {
+    listenChange(DOMid, updatePrediction);
+  });
 });

@@ -80,3 +80,18 @@ years old
 <input type="number" class="narrow" placeholder="seconds" id="agSeconds" value="0" />s
 
 <input type="number" class="narrow" placeholder="percentage" id="agPercent" value="0" step="0.01" />%
+
+# Race Prediction
+
+This predicts your time in one race based on your time in a previous one.
+Formula devised by Pete Riegel in the 70s.
+
+<input type="number" class="narrow" id="rpDistanceIn" value="0" />m
+
+<input type="number" class="narrow" id="rpHoursIn" value="0" />h
+<input type="number" class="narrow" id="rpMinutesIn" value="0" />m
+<input type="number" class="narrow" id="rpSecondsIn" value="0" />s
+
+<input type="number" class="narrow" id="rpDistanceOut" value="0" />m
+
+<input type="text" class="narrow" id="rpTimeOut" value="" />
