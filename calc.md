@@ -6,6 +6,10 @@ permalink: /calc/
 
 <script type="text/javascript" src="../js/calc.js"></script>
 
+<!-- Kramdown automatically gives us a ToC (though not pretty) -->
+1. TOC
+{:toc}
+
 # Pace
 
 <input type="number" class="narrow" placeholder="minutes" id="minutesperk" min="0" />
