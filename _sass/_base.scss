@@ -239,3 +239,12 @@ input {
     width: 4em;
   }
 }
+
+/**
+ * Strong was not actually strong?
+ * See also https://github.com/jekyll/jekyll/issues/4042
+ * Should be ok once we upgrade Jekyll to >=3.0.0
+ */
+strong {
+  font-weight: bold;
+}
