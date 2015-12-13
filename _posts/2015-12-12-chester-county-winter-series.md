@@ -6,21 +6,22 @@ tags: report
 ---
 
 I had wanted to do a 10k race to see where I would end up these days, but had
-some trouble finding one in the immediate area. Still intent on doing a race,
+some trouble finding one in the immediate area. Still intent on doing *a* race,
 the girlfriend and I decided to do a 5k race that described itself as having a
 "course ideal for PRs". With that in mind, she would focus on breaking 20
 minutes and I just wanted to do better than my 18:50 from [Les Foulées
 Joyeuses][foulees] about a month and a half earlier.
 
 This 5k is the first race in a Winter Series of four races, but will also be
-the only one I will take part in. The second is the day before I leave the USA
-(and thus technically still on the table), the rest will be while I am back in
-Belgium making them rather impossible.
+the only one I will take part in. The second race is the day before I leave the
+USA (and thus technically still on the table), the rest will be while I am back
+in Belgium making them rather impossible.
 
 Different about this Winter Series is the fact that the race's awards are based
-on age grading, attempting to level the playing field. What I concluded from
+on age grading in an attempt to level the playing field. What I concluded from
 this is that I would possibly be able to place high in the regular time based
-ranking, but that I should not even consider managing top 10 age graded.
+ranking, but that I should not even consider managing top 10 in the age graded
+ranking.
 
 ## Training and Strategy
 
@@ -30,9 +31,16 @@ over four days. Tuesdays and Fridays are general aerobic. Thursdays are either
 a tempo run or general aerobic followed by strides. Sundays have a long run
 (for some definition of that word).
 
-The goal for the race was to PR, so my strategy was built on that goal. The
-plan was to start out at about 3:45 per km and see what I had left in the tank
-near the end.
+The weeks before the race had seen me have some trouble with my left leg,
+mostly the calf, so I had decided to throw in a recovery week with volume
+reduced to 80%. I decided to place this recovery week in the week of the race,
+figuring it could work as a sort of taper. This went somewhat OK, though the
+left leg still felt weird the day before the race as well as right after
+getting up in the morning of the race.
+
+The goal for the race was to PR, so my strategy was built around that goal. The
+plan was to start out at about 3:45 per km (PR pace) and see what I had left in
+the tank near the end.
 
 > **Mistake number one**: Thinking I ever follow my race plans.
 
@@ -40,29 +48,23 @@ Furthermore, perusing the list of people that had signed up gave me hopes of
 finishing near the front of the pack. Two days before the race, the gf and I
 were the only people in their 20s. There was one guy aged 30, all the rest were
 young kids or people older than 35. Surely I could take these on. Not to
-mention the people I looked up on Athlinks seemed to have times I could
-definitely beat.
+mention the people that I looked up on Athlinks all seemed to have times I
+could definitely beat.
 
-> **Mistake number two**: Thinking I could keep even footing with older people.
+> **Mistake number two**: Thinking I could keep even footing with older people
+> just because I am younger.
 
 > **Mistake number three**: Thinking teenagers need not be worried about.
 
 > **Mistake number four**: Dismissing sign ups on the morning of the race.
 
-The weeks before the race had seen me have some trouble with my left leg,
-mostly the calf, so I had decided to throw in a recovery week with volume
-reduced to 80%. I decided to place this recovery week in the week of the race,
-figuring it could work as a sort of taper. This went somewhat OK, though the
-left leg still felt weird the day before the race and right after getting up in
-the morning of the race.
-
 ## Morning of the Race
 
 Alarm set at seven, race was at nine. Had some cereal and about a litre of
-water till about 7:40. We drove over and arrived as planned at 8:30, bib pick
-up, toilet break and time for a warm up which due to time constraints ended up
-being only about a kilometre with some strides. The strides had me worried as
-my legs did not feel right while doing them.
+water till about 7:40. We drove over and arrived as planned at 8:30 for the bib
+pick up, a toilet break and a warm up. The warm up only ended up being about a
+kilometre with some strides due to time constraints. The strides had me worried
+as my legs did not feel right while doing them.
 
 > **Mistake number five**: Not enough time set aside, should have arrived
 > earlier.
@@ -94,12 +96,12 @@ not see him again till the finish line.
 I reigned it in and tried finding a suitable pace, but had some trouble doing
 so.  While I had definitely slowed down from the 3:00 per km, I was still
 running faster than I had planned in my race strategy. Slowing down also made a
-pack of, I believe, five people catch up to me and settle in right behind me
-about 700 metre into the race. About 1.5km in, I realised my pacing was still a
-bit too fast and I tried readjusting, dropping off the front of the group. We
-crossed the line in 5:41 with one of the guys pointing out "Boy, we sure are
-going fast".  I could not agree more and around 2km, I had to let go of the
-back of the group. Kilometre splits at 3:26 and 3:43.
+pack of five people catch up to me and settle in right behind me about 700
+metre into the race. About 1.5km in, I realised my pacing was still a bit too
+fast and I tried readjusting, dropping off the front of the group. We crossed
+the line in *5:41* with one of the guys pointing out "Boy, we sure are going
+fast".  I could not agree more and around 2km, I had to let go of the back of
+the group. Kilometre splits at *3:26* and *3:43*.
 
 About 150 metre into the third kilometre, my pace had dropped slower than four
 minutes per km according to my watch. This on top of being dropped by the group
@@ -110,11 +112,12 @@ about 20 metre ahead of me.
 In retrospect I probably should not have worried about it as much as I did
 right at that moment. The guy who passed me ended up overtaking the entire
 group that dropped me and finished second, he was the only one to run negative
-splits over the three laps out of the people in the top forty. The pace was low
+splits over the three laps out of all people in the top forty. The pace was low
 at the beginning of that km as there was a slight uphill. Finally, the kid
-seemed to, at times, take a rather liberal approach to the cone corners I
-mentioned before (see below). I shouldered on, but the pace had definitely
-dropped. Kilometres three and four in 3:51 and 3:58. The second lap in 6:15.
+seemed to, at times, take a rather liberal approach (see below) to the cone
+corners I mentioned before. I shouldered on, but the pace had definitely
+dropped. Kilometres three and four in *3:51* and *3:58*. The second lap in
+*6:15*.
 
 In the last kilometre, I decided I should at least push out anything I had left
 in the tank and try to pass the kid in the process. I managed to slowly creep
@@ -135,13 +138,20 @@ myself on the ground and remained there till I regained my breath.
 ## Results
 
 The official results confirm me missing out on sub 18, placing me at 18:01 and
-ninth to cross the line. The kid in grey managed 17:59, impressive with or
-without inventive corner taking. The people in the group that dropped me
-managed times between 17:06 and 17:41. The guy that overtook us all and managed
-to run negative splits ended up second in 16:58. Blue shirt, finally, was way
-ahead of the rest with 15:34.
+ninth to cross the line out of the 78 participants. The kid in grey managed
+17:59, impressive with or without inventive corner taking. The people in the
+group that dropped me managed times between 17:06 and 17:41. The guy that
+overtook us all and managed to run negative splits ended up second in 16:58.
+Blue shirt, finally, was way ahead of the rest with 15:34.
 
-As usual, [official results][official] and [Strava activity][strava].
+Of course, as mentioned, the official ranking was to be done by age grading.
+This kicked me all the way down to the 26th spot with only 72.06%. Even the
+girlfriend, who solidly went under 20 minutes with 19:41, was only 20th with
+75.02%. To make the top 10 I would have needed to beat 78.33%, which translates
+to beating 16:34. The age grade winner did it with 88.84% or 14:36 for me.
+
+As usual, [official results][official] and [Strava activity][strava] for your
+viewing needs.
 
 [official]: http://www.runccrs.com/ccrs-winter-series-race-1-12122015/
 [foulees]: {{ site.baseurl }}{% post_url 2015-10-25-les-foulees-joyeuses %}
