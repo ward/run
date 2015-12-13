@@ -14,3 +14,4 @@ social:
 
 # Build settings
 markdown: kramdown
+exclude: ['publish.sh']
