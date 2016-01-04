@@ -10,7 +10,8 @@ author: Ward Muylaert
 social:
   strava: wardmuylaert
   smashrun: ward
-  runkeeper: wardmuylaert
+# Do not show runkeeper
+#  runkeeper: wardmuylaert
 
 # Build settings
 markdown: kramdown
