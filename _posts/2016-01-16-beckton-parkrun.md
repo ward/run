@@ -5,11 +5,11 @@ date: 2016-01-16 18:00:00
 tags: report
 ---
 
-I was in London to visit a friend of the girlfriend who wanted to do a race
-while there. She had first set her eyes on the [Battersea Park 5k &
-10k][battersea], but waited too long with signing up. It was sold out and no
-Battersea for her. I did not intend on racing it anyway, for reasons described in
-the training section below.
+I was in London to visit a friend of the girlfriend. The girlfriend wanted to
+do a race while there and had first set her eyes on the [Battersea Park 5k &
+10k][battersea]. However, she waited too long with signing up. It was sold out
+and no Battersea for her. I did not intend on racing it anyway, so no harm done
+for me.
 
 Eager to run any race, she decided on a [parkrun][parkrun], more specifically
 the [Beckton parkrun][beckton]. As the concept does not exist in Belgium, I
@@ -20,12 +20,12 @@ that.
 
 ## Course details
 
-The course is situated in Beckton District Park South and about 1.5 km of it is
-spent on grass.  This is an important detail. The parkrun the week before was
-in muddy conditions, so the ground had taken quite a beating.  For this edition
-of the parkrun, the ground was frozen. In other words, all the weird angles
-that had been formed last week, were now rockhard and ready to make you twist
-an ankle.
+The course is situated in Beckton District Park South and about 1.5 km of the 5
+km race is spent on grass.  This is an important detail. The parkrun the week
+before was in muddy conditions, so the ground had taken quite a beating.  For
+this edition of the parkrun, the ground was frozen. In other words, all the
+weird angles that had been formed last week, were now rockhard and ready to
+make you twist an ankle.
 
 The course itself starts off on asphalt which lasts maybe 100 metre. After that
 it continues onto grass for 700 metre followed by asphalt again. A π turn at
@@ -66,14 +66,14 @@ the just over forty people lined up for the start.
 ## Race
 
 Felt like a slow start, but I still found myself near the front, just behind
-two guys running side-by-side. Following people was a bit of a theme during
-this race as I had no clue about the course and markings were not always
-present. One wearing a blue shirt, one wearing a red shirt. As we ran through
-the grass, a glance at my watch told me we were hovering a bit above 4:00 per
-km, a glance behind me told me the girlfriend was not really following after a
-few 100 metre despite the slower pace. I figured she was not in the mood to go
-much faster, so I forewent the plan of pacing her and was left with the plan of
-a tempo run.
+two guys running side-by-side. One wearing a blue shirt, one wearing a red
+shirt. Following people was a bit of a theme during this race as I had no clue
+about the course and markings were not always present.  As we ran through the
+grass, a glance at my watch told me we were hovering a bit above 4:00 per km, a
+glance behind me told me the girlfriend was not really following after a few
+100 metre despite the slower pace. I figured she was not in the mood to go much
+faster, so I forewent the plan of pacing her and was left with the plan of a
+tempo run.
 
 After about 1 km, red shirt dropped away and I moved in behind blue shirt. He
 lasted for a few 100 metre until Philip took over in the corridor. Making sure
@@ -86,7 +86,7 @@ shirt was leading with me in second position and Philip and blue shirt trailing.
 
 Back onto the grass and I came to the conclusion that this would end up
 slightly harder than a tempo run. The goal from here on out was to trail dark
-shirt until near the end and then push past him for a victory. Easy enough as
+shirt until near the end and then push past him for a victory. Simple enough as
 our pace was still easy enough, hanging around 4:00 per km. I also decided to
 only worry about dark shirt in front of me, as I felt Philip and blue shirt
 behind me slowly fading.
@@ -106,7 +106,7 @@ effort and fade away from beside him. I fall further back as we make a final
 muddy turn back onto a patch of grass. The gap is already several seconds, so I
 glance back and see nobody. At least place two is secure and I am back at a
 more comfortable pace. I cross the line, having spent start to finish in the
-second line.
+second row.
 
 ## Results
 
@@ -131,7 +131,7 @@ Lessons learned:
 * Checking out the course when you are racing is obvious, but also do it when
   you do not think you will end up racing.
 * Sleep, sleep, sleep. Being well rested would have made a huge difference.
-  Not only on race day, but also the part where I moved a run closer to it.
+  Not only on race day, but also the part where I moved up a run because of it.
   Of course, had this been a goal race, I would have dropped or shortened that
   run rather than moving it around like that.
 * It is worthwhile to know if you have a decent sprint or are more made for the
