@@ -1,11 +1,5 @@
 date,name,distance,notes
 2015-09-06,Race for the cure,6.0,
-2015-09-26,Ecotrail de Bruxelles,18.0,
-2015-09-26,Ecotrail de Bruxelles,9.0,
-2015-09-26,Ecotrail de Bruxelles,80.0,"Trail run"
-2015-10-04,Belfius Brussels marathon,42.2,
-2015-10-04,Belfius Brussels halfmarathon,21.1,
-2015-10-04,Belfius Brussels 5k,5.0,
 2015-10-11,5eme Orientrail,11.6,
 2015-10-11,Foulees des Flosses,15.0,
 2015-10-11,Foulees des Flosses,8.0,
@@ -24,24 +18,31 @@ date,name,distance,notes
 2015-11-22,Uccle Ladies Run,6.0,"Not for men over 9yo. https://www.facebook.com/events/1696256970593874/"
 2015-11-22,Uccle Ladies Run,9.0,"Not for men over 9yo. https://www.facebook.com/events/1696256970593874/"
 2015-11-29,Foulée Schaerbeekoise,7.0,
-2015-12-06,Foulees Hivernales AXA,12.7,
-2015-12-06,Foulees Hivernales AXA,5.0,
-2015-12-20,Corrida Gaston Roelants,10.0,
-2015-12-20,Corrida Gaston Roelants,5.0,
 2015-12-26,Manneken Pis Corrida,7.5,
 2015-12-26,Manneken Pis Corridatje,4.5,
 2016-01-16,Relais Givres,12.0,"5 man team, 8k each, 4k together"
-2016-02-07,Hivernales RCB,10.0,
-2016-02-07,Hivernales RCB,20.0,
+2016-02-07,Hivernales RCB,9.2,
+2016-02-07,Hivernales RCB,19.6,Run in Brussels Challenge 2015
 2016-04-10,10km van Brussel,5.0,
 2016-04-10,10km van Brussel,10.0,
-2016-04-17,10km de l'ULB,10.0,
-2016-05-08,15km de Woluwe-Saint-Lambert,15.0,
+2016-04-17,10km de l'ULB,10.0,Run in Brussels Challenge 2016 (probably)
+2016-05-08,15km de Woluwe-Saint-Lambert,15.0,Run in Brussels Challenge 2016 (probably)
 2016-05-08,6km de Woluwe-Saint-Lambert,6.0,
 2016-05-08,30km trail de Woluwe-Saint-Lambert,30.0,
+2016-05-16,10km d'Uccle,10.0,Run in Brussels Challenge 2016 (probably)
 2016-05-29,20km door Brussel,20.0,
+2016-06-12,Les Foulées Estivales,13.8,Run in Brussels Challenge 2016 (probably)
+2016-06-12,Les Foulées Estivales,5.0,
+2016-09-24,Ecotrail of Brussels,80.0,Trail
+2016-09-24,Ecotrail of Brussels,18.0,Trail
+2016-09-24,Ecotrail of Brussels,18.0,Trail duo
+2016-09-24,Ecotrail of Brussels,9.0,Trail
 2016-10-02,Belfius Brussels marathon,42.2,
 2016-10-02,Belfius Brussels halfmarathon,21.1,
 2016-10-02,Belfius Brussels 5k,5.0,(check it is again organised)
+2016-10-09,Foulées des Flosses,15.0,
+2016-10-09,Foulées des Flosses,8.0,
+2016-12-04,Les Foulées Hivernales,12.7,
+2016-12-04,Les Foulées Hivernales,5.0,
 2016-12-18,Corrida Gaston Roelants,10.0,
 2016-12-18,Corrida Gaston Roelants,5.0,
