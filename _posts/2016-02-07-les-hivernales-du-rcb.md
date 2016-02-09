@@ -175,11 +175,43 @@ kilometre to reach my quota for the day.
 My [Strava activity][strava] and the [official results][results] for your
 viewing pleasure. My official time ended up being 40:24, 61st out of 848. Over
 two minutes behind An and over three minutes behind Laurent. I would say I lost
-about 15 places in those last few kilometres of downhill.
+about 15 places in those last few kilometres of downhill. It definitely shows
+in terms of time as well, this picture is Strava's comparison to some of the
+other runners using the FlyBy feature. I am the red line.
 
-Mention part about what to put on your watchface.
+![redline]
+
+This race definitely did not go as planned. Whining about it will not help though,
+so it is best to see what can be learned from it and move on.
+
+TODO these sound a bit meh.
+
+First and foremost is, I believe, the necessity to keep an eye on my heart
+rate.  In a 5 km this can be more easily ignored, but here it may have been
+able to help me slow down a bit sooner, had I looked at it. My watch allows me
+to place up to three data fields in a screen, one of them should be heart rate.
+During this race I had it show total distance, total time, and lap pace. For my
+next race this may change to total distance, lap pace, and heart rate. I can
+set a second screen with three field as well, but realistically I will not be
+changing between screens during a race.
+
+Secondly it will be useful to write out in words how the profile looks like
+before the race. This forces me to think deeper about it then "oh that looks
+quite alright". Only time will tell whether that is sufficient of course.
+
+Finally, if I had ignored An on that first major downhill, maybe things would
+have gone slightly better. This feels secondary to the first point though. If I
+had been going too slow, then following her *would* have been the right choice.
+
+To close, I must address the prize winning part of the title. The girlfriend
+and I hung around for the podiums afterwards and dropped our bib numbers into a
+raffle they were apparently holding as well. To my surprise, my number was
+called and I won some beer: four bottles of Rochefort and a Rochefort glass.
+This also happens to be my favourite beer, so that made it a happy day after
+all. My self destruction had not been completely useless.
 
 [hivernales]: http://leshivernalesdurcb.blogspot.be/
 [results]: http://www.toptiming.be/2016/02/les-hivernales-du-rcb-93km-watermael.html
 [strava]: https://www.strava.com/activities/488054858
 [myrtl]: https://www.youtube.com/watch?v=2GLrKr54yA0
+[redline]: https://farm2.staticflickr.com/1700/24887689966_eef93bde0e_o.png
