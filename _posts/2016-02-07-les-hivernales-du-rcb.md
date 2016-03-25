@@ -30,11 +30,11 @@ Strava). Once you have suffered through this, you can catch your breath on an
 this one around 3%.
 
 You are then presented with another opportunity to maybe recover a bit as
-things stay flat till 5.3 km. Another hill of just over 3% bring you to the
-sixth km. A short downhill brings you to the final climb. This one is only
-about 400 metre, but the gradient is around 4%. You can possibly place a bit of
-a kick here because once you crest the hill at 6.7 km, it is pretty much
-downhill till the finish line.
+things stay flat till 5.3 km. Another hill of just over 3% brings you to the
+sixth km. A short downhill delivers you at the bottom of the final climb. This
+one is only about 400 metre, but the gradient is around 4%. You can possibly
+place a bit of a kick here because once you crest the hill at 6.7 km, it is
+pretty much downhill till the finish line.
 
 ## Strategy
 
@@ -47,9 +47,9 @@ hill and dismissed the rest of the course as "flat enough".
 
 With that explanation in mind, my plan was to start around 4:00 per km pace,
 take it easier on that first big hill and then try to get closer to said pace
-again. I also knew of two other people taking part, Laurent and An, who both
-should be around my pace. If I were to spot either of them, I might be able to
-stick with them, making the pacing slightly easier.
+again. I also knew of two other people taking part, let us call them A and B,
+who both should be around my pace. If I were to spot either of them, I might be
+able to stick with them, making the pacing slightly easier.
 
 ## Training
 
@@ -57,7 +57,7 @@ I have been working on making 50 km running per week the new normal as well as
 getting ready for the start of my 20 km door Brussel training cycle which will
 start the second week of March. The weeks leading up to this race were: 50.6 km
 (included a 5 km race), 40.3 km (an 80% volume week), 52.2 km, and 55 km
-(including distance ran on race day). This was always spread out over four
+(including the distance I ran on race day). This was always spread out over four
 days. I feel like I should also point out these are the highest distance weeks
 I have ever done, so I imagine my body may be needing some extra getting used
 to still.
@@ -81,14 +81,14 @@ hours of sleep. Had a bowl of cornflakes and a bunch of water and left to take
 the metro with the girlfriend, who would be doing the other event today, the 20
 km. Once there, we lost a lot of time standing in line for the toilet. By the
 time we got through all that, there was no time left for a proper warm up so we
-went to line up for the start.
+went to line for the start.
 
 The 20 km and the 10 km started at the same time, adding up to about 1700
 people. Most people were already in place and I had some trouble moving more to
 the front. Eventually I gave up and waited around the tenth row or so. It was a
 relatively wide street as well so all in all I decided I would need to do a bit
-of weaving in the first kilometre or two. I did not see An while waiting for
-the start signal, but I spotted Laurent a few lines before me. He could be a
+of weaving in the first kilometre or two. I did not see B while waiting for
+the start signal, but I spotted A a few lines before me. He could be a
 target of the weaving.
 
 ## Race
@@ -99,7 +99,7 @@ noticeably slower and I had to dodge, squeeze, and use my elbows creatively. As
 soon as possible, I moved outside of the stream of runners and into the (car
 free) opposing lane so I could speed up without worries. After two right turns
 I did a similar thing using the sidewalk. As I approached the end of the first
-km, things were not as crowded any more and I also spotted An. I crept closer
+km, things were not as crowded any more and I also spotted B. I crept closer
 to her, finally falling in step aside her after one km. Grunting "Hey" and
 matching her pace, we continued and reached the start of the first hill.
 
@@ -110,7 +110,7 @@ naturally going slower than the previous splits, but in my mind I kept the
 effort reasonably similar. I also figured the downhill right after the climb
 would be sufficient if I did push a bit too hard. I crested the hill and was
 glad the hardest part of the race was behind me. I did not look back, but
-assumed An was still close enough behind me, which would validate my "I went up
+assumed B was still close enough behind me, which would validate my "I went up
 it at the correct pace" assumption.
 
 This turned out to be somewhat true as she raced past me halfway down the hill.
@@ -125,10 +125,10 @@ uphill. The fourth kilometre was past us and so was the downhill.
 
 The next climb started and I noticed I had a bit more trouble keeping up.
 Around this point, we also split away from those running the 20 km, removing
-some of the people around me. An was slowly breaking away and I gave up trying
+some of the people around me. B was slowly breaking away and I gave up trying
 to match her pace as it was beginning to give me issues. Looking back at the
 heart rate data, it went up even more on this part, but sadly enough I had not
-given my heart rate a look yet.  The flat section that followed gave me some
+given my heart rate a look yet. The flat section that followed gave me some
 respite, but I already saw the next hill looming beyond it, which did not help
 my motivation. I pushed myself over it and survived the sixth kilometre.
 
@@ -165,7 +165,7 @@ my watch lest I see the disappointment of my total time.
 Of course, I could not avoid that forever. As I neared the line, I saw their
 clock ticking past 40 minutes and knew today was a failure. I jogged past the
 line and munched down some of their fruit, cookies, and tea. I briefly talked
-to Laurent as well as An and then went for my "cooldown" of eight something
+to A as well as B and then went for my "cooldown" of eight something
 kilometre to reach my quota for the day.
 
 > Splits eight and nine: 4:48, 4:36.
@@ -174,32 +174,32 @@ kilometre to reach my quota for the day.
 
 My [Strava activity][strava] and the [official results][results] for your
 viewing pleasure. My official time ended up being 40:24, 61st out of 848. Over
-two minutes behind An and over three minutes behind Laurent. I would say I lost
-about 15 places in those last few kilometres of downhill. It definitely shows
-in terms of time as well, this picture is Strava's comparison to some of the
-other runners using the FlyBy feature. I am the red line.
+two minutes behind B and over three minutes behind A. I would say I lost
+about 15 places in those last few kilometres of downhill. This following image
+is quite telling, it shows my time compared to some others on Strava who took part
+in the race. I am the red line.
 
 ![redline]
 
 This race definitely did not go as planned. Whining about it will not help though,
 so it is best to see what can be learned from it and move on.
 
-TODO these sound a bit meh.
-
-First and foremost is, I believe, the necessity to keep an eye on my heart
-rate.  In a 5 km this can be more easily ignored, but here it may have been
-able to help me slow down a bit sooner, had I looked at it. My watch allows me
-to place up to three data fields in a screen, one of them should be heart rate.
-During this race I had it show total distance, total time, and lap pace. For my
-next race this may change to total distance, lap pace, and heart rate. I can
-set a second screen with three field as well, but realistically I will not be
-changing between screens during a race.
+Main take away is, I think, that racing only by feeling is not a great idea if
+you do not have experience in the distance. I really should have kept an eye on
+my heart rate as well, then I might have noticed sooner that I needed to slow
+down. For my next 10 km race, on 17 April, I will try out some different data
+fields on my watch. I have two screens on my watch with three fields each. I
+will try overall distance, lap pace and current heart rate on the first (main)
+one. I will still have to think what I will put on screen two to complement
+this while also keeping it useful as a "backup main screen", though
+realistically I will not be actively changing screens during a race.
 
 Secondly it will be useful to write out in words how the profile looks like
 before the race. This forces me to think deeper about it then "oh that looks
-quite alright". Only time will tell whether that is sufficient of course.
+quite alright", an approach that failed here. Only time will tell whether that
+is sufficient of course.
 
-Finally, if I had ignored An on that first major downhill, maybe things would
+Finally, if I had ignored B on that first major downhill, maybe things would
 have gone slightly better. This feels secondary to the first point though. If I
 had been going too slow, then following her *would* have been the right choice.
 
