@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les 10km de l'ULB"
-date: 2016-04-17 18:00:00
+date: 2016-04-17 17:00:00
 tags: report
 ---
 
@@ -20,14 +20,14 @@ trial on a track sounded horrible.
 
 ## Training
 
-I have been following Pete Pfitzinger's lowest half marathon plan (12 weeks up
-to 76 km per week) with [some modifications][pfitzmods]. I had to shuffle
-the weeks around quite a bit to fit this race in properly, but all in all I
-felt OK with the preparation. I am now halfway through the 12 weeks and this was
-a nice moment to see where I stand. The week leading up to the race was heavy
-though, leaving my legs quite tired on Thursday. The rest day on Friday and the
-short recovery run on Saturday really were needed to get my legs in somewhat
-decent race shape.
+I have been following Pete Pfitzinger's lowest half marathon plan (12 weeks
+with up to 76 km per week) with [some modifications][pfitzmods]. I had to
+shuffle the weeks around quite a bit to fit this race in properly, but all in
+all I felt OK with the preparation. I am now halfway through the 12 weeks and
+this was a nice moment to see where I stand. The week leading up to the race
+was heavy though, leaving my legs quite tired on Thursday. The rest day on
+Friday and the short recovery run on Saturday really were needed to get my legs
+in somewhat decent race shape.
 
 I am unsure whether the leg tiredness is due to me shuffling the weeks around
 and ending up with a heavier week earlier than intended or whether it would
@@ -38,31 +38,33 @@ this plan. I think the next two weeks will be telling.
 ## Course details
 
 The course is mostly the same as last year's, though they changed the direction
-around and added a few 100 metre. The hills are all still there though. I went
-to [check it out][ulbcheckout] two weeks prior and it could definitely ruin
-your legs soon if you do not pay attention. On their site they mentioned the
-course was actually 10.3 km long.
+around and took some different turns. All in all I think the distance is pretty
+much the same. The hills are all still there as well. I went to [check it
+out][ulbcheckout] two weeks prior and it could definitely ruin your legs soon
+if you do not pay attention. On their site they mentioned the course was
+actually 10.3 km long.
 
 In the first two kilometre, you climb 15-20 metre, descend them, and then climb
 them again. It briefly flattens out somewhat and then climbs another 15-20
 metre to bring you at the end of the third km. By this point the road has also
 turned first into cobbles, then into a dirt path.
 
-From that point it is mostly downhill till 4.1 km in, with one downside. One
-turn of close to π and another well over π/2. Both force you to slow down and
-speed back up. You have now reached the lowest point of the course, so
-naturally it is time to start climbing again. All the way till 6.5 km in you
-are going to be mostly unhappy with the grade you are running on. On the way
-there, you also pass a water stand in case you need to splash some in your
-face. Right before the water stand is an intermediate time measurement.
+From that point on it is mostly downhill till 4.1 km in, with two downsides in
+the form of sharp turns. One turn of close to π and another well over π/2. Both
+force you to slow down and speed back up. You have now also reached the lowest
+point of the course, so naturally it is time to start climbing again. All the
+way till 6.5 km in you are going to be mostly unhappy with the grade you are
+running on. On the way there, you also pass a water stand in case you need to
+splash some in your face. Right before the water stand is an intermediate time
+measurement.
 
 On the plus side, that was also the highest point and up until 8.3 km you can
 take advantage of that by (mostly) descending. Time to catch your breath for
 the final speed ups, if you have anything left. And immediately lose it again.
 Over the next 400 metre, you climb 20 metre you were no longer in the mood for.
 You are almost at the finish though and can now cruise downwards (again,
-mostly) until the final 500 metre of the race, which go up again to squeeze the
-most out of your final kick.
+mostly) until the final few hundred metre of the race, which go up again to
+squeeze the most out of your final kick.
 
 ## Goals and Strategy
 
@@ -104,37 +106,40 @@ see how much I had left to speed up.
 I did not sleep very well, having some trouble falling asleep and waking up
 during the night, requiring another 1h30 to fall asleep again. I did not
 consciously feel very tired, but I imagine some influence on my body remained.
-I ate my usual pre-race food of two times two slices of bread with americain
-préparé while drinking a bunch of water.
+After waking up at 7:45, I ate my usual pre-race food of two times two slices
+of bread with americain préparé while drinking a bunch of water.
 
 The girlfriend and I took the metro and the tram to get to the start around
-9:30 (with the race starting at 10:30). Bib pick up was efficient and so was
-the bag drop off so we waited a bit before starting our warmup. Warmup was just
-a little jog, we forgot about strides and the like as we were focused on making
-sure to get a toilet trip in before the race.
+9:30 (with the race starting at 10:30). Bib pick up and bag drop off were
+efficient, so we waited a bit before starting our warmup. Warmup was just a
+little jog, we forgot about strides and the like as we were focused on making
+sure to get a final toilet trip in before the race.
 
 The weather was about perfect with some sun and around 8 degrees Celcius. We
 lined up around the fourth or fifth line and did our usual sighing at people
-that clearly did not belong at the front. One of those was a girl in front of
-me, one person between us. She will play a bit of a role at the start.
+that clearly did not belong at the front, realising many people behind us
+likely thought the same about us. One of those was a girl in front of me (one
+person separating us) with headphones on and looking overdressed. She will play
+a bit of a role at the start.
 
 ## Race
 
 At exactly 10:30, the race was started. Two steps past the start line, the girl
 I mentioned before fell on the ground. I am assuming she was starting slower
-than the people right behind her expected and feet must have hit each other.
-Whatever the reason, she was sprawled in my way. In a split second I decided
-that the fastest way around her was to jump over her. Yeah. I jumped with my
-legs spread enough to not hit her in the face by accident, landed safely on the
-other side and ran on.
+than the people right behind her expected or was not paying attention because
+of the music. Some feet must have hit each other and down she went. Whatever
+the reason, she was sprawled in my way. In a split second I decided that the
+fastest way around her was to jump over her. Yeah. I jumped with my legs spread
+enough to not hit her in the face by accident, landed safely on the other side
+and ran on.
 
 Slight adrenaline rush and I sprinted past some people for a few 100 metre
-before trying to reign myself, the goal was to run at 170 HR after all. I saw a
-guy from a local racing team (RCB, Racing Club de Bruxelles) named François, he
-had his name on the back of his shirt. I stayed near him till about halfway the
-third kilometre but eventually he started pulling away while I tried to keep my
-heart rate under control. I appreciate he had his name on his back as it
-allowed me to look him up in the results afterwards.
+before trying to reign myself in, the goal was to run at 170 HR after all. I
+saw a guy from a local racing team (RCB, Racing Club de Bruxelles) named
+François, he had his name on the back of his team shirt. I stayed near him till
+about halfway the third kilometre but eventually he started pulling away while
+I tried to keep my heart rate under control. I appreciate he had his name on
+his back as it allowed me to look him up in the results afterwards.
 
 > Kilometre one in 3:54, kilometre two in 4:08.
 
@@ -171,23 +176,23 @@ Soon some pretty bad cobbles started. I had anticipated this however, when I
 checked out the course two weeks prior, and moved to the earth/grass area on
 the side of the road. Bad idea. It had rained enough to make this muddy and
 slippery and after a few steps I switched back to balancing on the cobbles.
-This too I had anticipated, finding that the middle part of the road was the
-most flat. I could not however move onto it as the two people I had just passed
-had passed me again because of my muddy adventure, blocking my middle lane.
-Sighing, I passed them on the left side before moving to the middle. It still
-was pretty bad, but the best I was going to get on this section. The cobbles
-finally ended about 7.2 km into the race.
+This too I had anticipated, having found out that the middle part of the road
+was the most flat. I could not however move onto it as the two people I had
+just passed had passed me again because of my muddy adventure, blocking my
+middle lane.  Sighing, I passed them on the left side before moving to the
+middle. It still was pretty bad, but the best I was going to get on this
+section. The cobbles finally ended about 7.2 km into the race.
 
 > Kilometre seven in 4:00, kilometre eight in 4:23.
 
 During the final serious climb, from km 8.1 to 8.5, yet another guy from team
 RCB joined me. This one did not have his name on the back of shirt, so he shall
-be called noname. He pulled a few metres away, but never a really substantial
-gap.  During the final kilometre, I was beginning to struggle. My right calf
-started feeling pretty darn sore/slight cramping and I felt a side stitch
-developing. I kept telling myself it was just a little bit, but a kilometre can
-feel pretty long still. The slight pains slowed me down enough to bring my
-heart rate back closer to some semblance of control in the lower 170s.
+be called noname. He pulled a few metres away, but never created a really
+substantial gap.  During the final kilometre, I was beginning to struggle. My
+right calf started feeling pretty darn sore/slight cramping and I felt a side
+stitch developing. I kept telling myself it was just a little bit, but a
+kilometre can feel pretty long still. The slight pains slowed me down enough to
+bring my heart rate back closer to some semblance of control in the lower 170s.
 
 We came out of the forest and turned through the second to last turn. Noname
 was still a few metre before me and I decided I would bite through the pain and
@@ -197,6 +202,8 @@ I passed noname right before the final turn and managed to somehow speed up
 just a bit more racing towards the finish line. I crossed the line as my heart
 rate hit 188, a new maximum for me, I will have to slightly adjust training
 zones.
+
+> Kilometre nine in 4:23, kilometre ten in 4:03.
 
 ## Results
 
@@ -216,9 +223,9 @@ From the RCB guys that I had briefly run with or behind, François had the best
 time with 41:02 in 84th place. Noname I believe finished nine seconds faster
 than me, 133rd position with a time of 42:38, though I do not know his name so
 am not 100% sure. This would indicate he started quite a few rows behind me.
-Gaetan finally finished 147th with 42:58. I never looked back, so I cannot
-confirm, but I feel like I must have created a gap after the water stand and
-that it just mostly stayed that way till the finish.
+Gaetan finished 147th with 42:58. I never looked back, so I cannot confirm, but
+I feel like I must have created a gap after the water stand and that it just
+mostly stayed that way till the finish.
 
 I must admit, I was disappointed during (more people passing me than I had
 wanted) and right after the race (because of my time). Especially when I
@@ -226,12 +233,14 @@ noticed I recovered pretty quickly from the effort, making it feel like I could
 have and should have gone faster. The more I think about it though, the more OK
 I am with it. Especially the part where I did not blow up completely. Not to
 mention it is not the goal race of this spring, so there is only so much I can
-expect from it.
+expect from it. I do however believe I should try to become more realistic in
+my goals. The time of "noob gainz" is over, sadly.
 
 Up to the next race, which will likely be the 6 km race in the "15 km de
-Woluwe-Saint-Lambert" event. Unless the girlfriend and I decide to take the
-leap into crazy and do a 10,000 metre time trial on the track for Pfitz' "tune
-up race".
+Woluwe-Saint-Lambert" event on 8 May. Unless the girlfriend and I decide to
+take the leap into crazy and do a 10,000 metre time trial on the track for
+Pfitz' "tune up race". I would mostly do it out of curiosity of what my PB
+could be on the flat.
 
 [ulb]: http://www.10kmulb.org/
 [ulbcheckout]: https://www.strava.com/activities/534408930
