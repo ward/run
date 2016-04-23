@@ -226,6 +226,16 @@ table {
       }
     }
   }
+  &#results {
+    td {
+      &.date {
+        white-space: nowrap;
+      }
+      &.distance, &.time {
+        text-align: right;
+      }
+    }
+  }
 }
 
 /**
