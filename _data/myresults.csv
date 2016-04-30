@@ -1,10 +1,10 @@
-date,name,distance,time
-2015-04-26,Les 10 km de l'ULB,10.0,44:52
-2015-05-10,15 km de Woluwe-Saint-Lambert,14.0,1:04:27
-2015-05-31,20 km door Brussel,20.0,1:30:41
-2015-10-04,Belfius Brussels Marathon,4.5,16:10
-2015-10-25,Les Foulées Joyeuses,5.0,18:50
-2015-12-12,Chester County Running Store 5k Winter Series Race #1,5.0,18:01
-2016-01-16,Beckton parkrun #191,5.0,19:22
-2016-02-07,Les Hivernales du RCB,9.3,40:24
-2016-04-17,Les 10 km de l'ULB,10.0,42:47
+date,name,distance,time,agegrade
+2015-04-26,Les 10 km de l'ULB,10.0,44:52,59.54
+2015-05-10,15 km de Woluwe-Saint-Lambert,14.0,1:04:27,???
+2015-05-31,20 km door Brussel,20.0,1:30:41,60.92
+2015-10-04,Belfius Brussels Marathon,4.5,16:10,???
+2015-10-25,Les Foulées Joyeuses,5.0,18:50,68.93
+2015-12-12,Chester County Running Store 5k Winter Series Race #1,5.0,18:01,72.06
+2016-01-16,Beckton parkrun #191,5.0,19:22,67.03
+2016-02-07,Les Hivernales du RCB,9.3,40:24,???
+2016-04-17,Les 10 km de l'ULB,10.0,42:47,62.44
