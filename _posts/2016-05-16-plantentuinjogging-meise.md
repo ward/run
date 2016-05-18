@@ -83,15 +83,19 @@ you are pretty much done and glad things are over.
 ## Goals and Strategy
 
 Looking at last year's top ten, it looked feasible to try and place in it. I
-also had the mind of aiming for sub-4:00/km pace, but was not sure how possible
+also had a mind of aiming for sub-4:00/km pace, but was not sure how possible
 that was on this course.
 
 I decided my strategy would be to start out at 4:00/km and see if I could hold
-it up and beyond that see how possible it was to stay top ten. Right before the
-race I adjusted that slightly, allowing me more speed at the start since it was
-downhill.
+it up. Beyond that I would just try my best to be and stay in the top ten.
+Right before the race I adjusted my pace goal slightly, allowing me more speed
+at the start since it was downhill.
 
 ## Morning of the Race
+
+The past months most of my runs were in the 5-10C range. The past two weeks the
+weather suddenly decided to climb above 20C and I had trouble adjusting. Lucky
+for me this weekend things dropped back down to a high of 12ish C. Perfect.
 
 For my first time ever, I did not have to get up particularly early for a race.
 The start was not till 13:00 after all. This did leave me on unfamiliar
@@ -223,10 +227,17 @@ As a cooldown, the girlfriend and I did the entire loop again, though at a much
 calmer pace this time. After that followed some rice pie and drinks, before we
 biked home with her gifts and flowers.
 
+I would say I learned two things from this race. First, I think I have gotten
+too used to taking hills easy. There are plenty of hills near me and as I run
+by heart rate, I try to slow down quite a bit when going up them.  I wonder if
+this played a part in losing so much time on every uphill. On the other hand,
+maybe I had blown up if I had not taken them easily.  Second, I yearn for a
+flattish road race. Hilly, traily races are not as useful if you are trying to
+gauge your improvement.
+
 [officialsite]: http://meelopersmeise.be/
 [firstvo2max]: https://www.strava.com/activities/553118615
 [secondvo2max]: https://www.strava.com/activities/567175503
 [racestrava]: https://www.strava.com/activities/576892983
 [results]: http://kraftmanchronotiming.be/1.%20Uitslagen/A.2016/Plantentuinjogging%20Meise%20%207.2%20km.pdf
 [pfitzmods]: {{ site.baseurl }}{% post_url 2016-02-29-pfitz-adjustments %}
-[rcbhivernales]: {{site.baseurl }}{% post_url 2016-02-07-les-hivernales-du-rcb %}
