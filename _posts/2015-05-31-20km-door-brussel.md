@@ -6,7 +6,7 @@ tags: report
 ---
 
 Oh boy, the big one, if you're from Belgium. There are longer races, with a
-marathon and a half marathon early October. There are (slightly) bigger races,
+marathon and a half marathon early October. There are similarly big races,
 with the Antwerp 10 miles. The Brussels' 20k though. It has been around for a
 while now. My dad used to run it, not that I remember that anymore, I was too
 young at the time. I reckon it is the most important running race one can run
