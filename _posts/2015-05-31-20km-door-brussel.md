@@ -111,11 +111,13 @@ Now to the good part, the times! Good indeed. I had set out to run 1h40m, back
 when I signed up and after the knee troubles the past week that remained the
 goal. As mentioned before I was overtaking quite a bit of people at the start
 and I feel like that did not change throughout the race. I overtook more people
-than the other way around, as far as I could tell. My official time at the line
-was 1 hour 30 minutes 41 seconds. If I had known I would be so close to
-breaking 1h30, I probably would have started sprinting a bit sooner. Still
-overjoyed with the time though. Accompanying it is my rank, 2833rd. I think I
-can conclude that next year will be a start from box one, barring any injuries.
+than the other way around, as far as I could tell. My [official
+time](http://20km.c-e.be/Classements/Classement20km2014.aspx?eventId=1138136268742672)
+at the line was 1 hour 30 minutes 41 seconds. If I had known I would be so
+close to breaking 1h30, I probably would have started sprinting a bit sooner.
+Still overjoyed with the time though. Accompanying it is my rank, 2833rd. I
+think I can conclude that next year will be a start from box one, barring any
+injuries.
 
 To finish off, a link to the activity on
 [Strava](https://www.strava.com/activities/315497560) and
