@@ -134,12 +134,54 @@ around and the cobbles quickly become very wet. In case you have never encounter
 a wet cobbled road: it is slippery. Luckily the cobbles did not last much longer
 and before long you turn unto Avenue Louise.
 
-> Kilometre one in x:xx, kilometre two in x:xx, kilometre three in x:xx.
+> Kilometre one in 4:18, kilometre two in 4:13, kilometre three in 4:26.
 
 So far so good, as I manage to hit the paces I had set out to hit. Things also
 get slightly better on Avenue Louise in terms of the crowd's pace, it is bound
 to be more similar to yours by now. There are also no more turns to be
 concerned about for the next few kilometre, it is a straight line.
+
+Even so, someone in front of me decides to plant more than just his body
+against the pavement as he miscalculates a hop onto the sidewalk. He quickly
+jumps back up again as another guy and I ask him "Ça va?" ("Are you OK?") in
+chorus. He grunts and continues on.
+
+While it is straight, this road features some tunnels and just like last year
+getting out of them is the most annoying part. It is pretty steep. My heart
+rate started rising towards 180 which is, I think, around the edge of VO2max
+for me. Not 100% sure, but either way it is a bit high for me. Despite this, I
+saw things were not going smoothly as my splits remained above what I needed to
+hit for 1h25. I went through the first 7km about 1m30s too slow, but was not
+too worried yet as the second half of the race is easier than the first.
+
+> Kilometre four in 4:25, kilometre five in 4:54, kilometre six in 4:13,
+> kilometre seven in 4:50. Official five km split at 22:07.
+
+Around the point where we entered the Terkamerenbos I decided some consistency
+would be nice and, realising I am often pretty bad at pacing, started tailing a
+random guy that seemed like he might be knowing what he was doing. This went
+well for a bit, but I lost track of him at the next water stand. The volunteers
+there seemed unprepared and undermanned on one side... my side. I noticed I was
+about to not get any water, so decided to grab a bottle from their bottle packs
+myself. I grabbed for one, but my grip on it was not tight enough and it fell
+from the pack unto the ground. I did a quick break, turn around, grab bottle,
+turn around, start again. Just what I needed when the pacing is not going entirely
+as planned. At least I had some water to throw over my head.
+
+We passed the time mat for the halfway point, but my watch was still quite a
+bit away from ten kilometre. This briefly gave me hope, thinking my watch was
+just fucking up. A bit further we passed the actual sign for the ten kilometre.
+I guess the people placing the signs and the people placing the mats were not
+in sync. Either way, hopes shattered.
+
+> Kilometre eight in 4:39, kilometre nine in 4:37, kilometre ten in 4:35.
+> Official "ten km" split at 43:35.
+
+I was not as much aware of these splits during the race as may seem to be the
+case in my telling here. I knew things were going slower than I had set out to
+do, but the actual numbers did not really register. The thing that did register
+time and time again was the fact that my heart rate remained consistently too
+close to 180.
 
 ## Results
 
