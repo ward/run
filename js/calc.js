@@ -384,6 +384,31 @@ CALC.racePredictor = {
   }
 };
 
+CALC.hrzones = {
+  /**
+   * Gives zones according to Pete Pfitzinger's Faster Road Racing.
+   */
+  petemax: function(maxhr) {
+    return {
+      recovery: [0,0.76*maxhr],
+      generalaerobic: [0.7*maxhr,0.81*maxhr],
+      endurance: [0.74*maxhr,0.84*maxhr],
+      lactatethreshold: [0.8*maxhr,0.91*maxhr],
+      vo2max: [0.94*maxhr,0.98*maxhr]
+    };
+  },
+  petehrr: function(restinghr, maxhr) {
+    var hrr = maxhr - restinghr;
+    return {
+      recovery: [0,(0.7*hrr)+restinghr],
+      generalaerobic: [(0.62*hrr)+restinghr,(0.75*hrr)+restinghr],
+      endurance: [(0.65*hrr)+restinghr,(0.78*hrr)+restinghr],
+      lactatethreshold: [(0.75*hrr)+restinghr,(0.88*hrr)+restinghr],
+      vo2max: [(0.92*hrr)+restinghr,(0.97*hrr)+restinghr]
+    };
+  }
+};
+
 /**
  * Event listeners for pace/speed
  */
