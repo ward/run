@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20 km door Brussel"
+title: "Disappointing 20 km door Brussel"
 tags: report
 ---
 
@@ -239,25 +239,59 @@ around her goal time of 1:27:30 then.
 
 ## Results
 
-It was not. Not even close. My official time was 1h 30m 40s, Strava agrees.
-Exactly one second better than last year. I can only say this was a
-disappointment across the line.  I trained harder. I trained smarter. I barely
-did better. I could try to blame it on the warmer weather (20C & clouded, last months
-I was used to running at maybe 12C max), I could try to blame it on the sore
-throat I had all week, but in the end this does not make me feel better about
-the result. It is what it is and it is much slower than I hoped. The only
-uplifting news I find for myself is that I did about 500 spots better than last
-year: 2345th. It seems I was not the only one having more trouble than last year.
+It was not. Not even close. My [official time][results] was 1h 30m 40s,
+[Strava][strava] agrees though the distance it shows is short. I seem to be the
+only one on Strava with that problem though. Exactly one second better than
+last year. I can only say this was a disappointment across the line.  I trained
+harder (last year's peak week was this year's start). I trained smarter
+(backing off when I felt I might run into injury). Yet I barely did better. I
+could try to blame it on the warmer weather (20C & clouded, last months I was
+used to running at maybe 12C max), I could try to blame it on the sore throat I
+had all week, but in the end this does not make me feel better about the
+result. It is what it is and it is much slower than I hoped. The only uplifting
+news I find for myself is that I did about 500 spots better than last year:
+2345th. It seems I was not the only one having more trouble than last year.
 
-Tina
-Lab
+With seeing the girlfriend so late in the race, you can imagine she was close
+behind me across the line.  I managed to put her on 18s still. Victory. Though
+obviously her time is much more impressive if you take the obvious gender
+difference into account. I also managed to be faster than the other people from
+the lab as well as the friends I saw post on facebook. A hollow victory though,
+I was only focused on my own time (and not getting mocked by the girlfriend).
 
-Plans to come
+Another man and woman I have been hoping to keep up with for the past months
+also took part, but they absolutely smoked me. He did it in 1:22:24, she did it
+in 1:24:18. They have been smoking me in the past few races too though, so I
+expected as much.
 
-* Too crowded unless you are one of the first 1000 or so, I think
-* Too much chance of the weather not being to my liking at the end of May
+So what is next? I do not think the failure in the race had anything to do with
+the choice of the plan, so I will be sticking to Uncle Pete's plans in the
+future.  In the next few months I will just do some base building, it puts less
+pressure on my runs. Raise the weekly distance, keep some tempos and strides in
+and just enjoy it all.
+
+I am still looking for a main goal for fall, most likely
+a half marathon because I wanted to race that distance once this year.  I doubt
+I will use a specific plan to get me there.  Like I said, base building. As
+that main goal draws closer, I could be inclined to incorporate ideas from a
+specific plan though.
+
+I have doubts whether I want to run this race again next year. Two things are
+currently strongly dissuading me:
+
+1. The crowd. I had hoped this would be better this year, starting in wave one
+   and everything. It was not. I have the feeling you have to be in the first
+   1000 (just made that number up) before it becomes OK. To satisfy my
+   curiosity: that required 1:25:10 this year. Hey, look what my goal was.
+2. The weather. At the end of May, chances are it is going to be warmer than I
+   want to race in. I want low 10s, not 20C.
+
+I still have a while to decide, but for the time being I am looking at other
+options. Suggestions welcome.
 
 
 [officialsite]: http://www.20kmdebruxelles.be/
+[results]: http://prod.chronorace.be/Classements/Classement20km2016.aspx?eventId=1187476853185720&lng=FR
+[strava]: https://www.strava.com/activities/591672604
 [pfitzmods]: {{ site.baseurl }}{% post_url 2016-02-29-pfitz-adjustments %}
 [meiserace]: {{ site.baseurl }}{% post_url 2016-05-16-plantentuinjogging-meise %}
