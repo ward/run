@@ -183,7 +183,76 @@ do, but the actual numbers did not really register. The thing that did register
 time and time again was the fact that my heart rate remained consistently too
 close to 180.
 
+The next few kilometres were done on autopilot. I am sitting here and for the
+life of me cannot really pinpoint what happened at this point in the race. Just
+chugging along. There was a bit of a downhill at some point which the
+handicapped people in their handibikes took advantage from, they zoomed past,
+having to brake to safely navigate the crowd. I guess that does give me a point
+to raise. There are charities pushing a buggy along with someone incapable of
+moving themselves in the buggy. This would be OK if it were not for the fact
+that these groups take up *so much room*. They also let them start at the
+front, regardless of their pace. In a race this crowded, this makes for
+needless extra weaving for the other runners. Let them start even earlier (they
+currently start 15 minutes before the first wave) or put them where they belong
+pace wise.
+
+> Kilometre eleven in 4:43, kilometre twelve in 4:33, kilometre thirteen in
+> 4:26.
+
+After about 14 kilometre, I decided to just ignore my pacing altogether. It was
+clear to me my goal was out the window. I switched my watch to only show my heart
+rate and managed to bring it down a few beats. This apparently immediately shows
+up in my paces too.
+
+> Kilometre fourteen in 4:33, kilometre fifteen in 4:43, kilometre sixteen in
+> 4:44, kilometre seventeen in 4:49. Their official 15 km split says 1:07:06.
+
+After very long stretch of autopilot, we turned onto the Tervurenlaan. This
+meant climbing was to be done.  Last year I cruised through this, not really
+losing any pace as I went up it. This year was disastrous.  I slowed down to a
+5:25 split and was just so happy when I crested (the worst of) the hill.
+
+Inexplicably the last few kilometres to the line are done on a terribly narrow
+stretch. Two cars wide tops. If you plan on sprinting to the line, you best
+prepare to get your elbows ready in order to squeeze through. I had no such
+plans and just chugged further.
+
+> Kilometre eighteen in 5:25, kilometre nineteen in 4:36.
+
+Suddenly however, with about one kilometre to go, I saw someone in front of me
+that could be the girlfriend.  Upon further inspection, it really was her. How
+did that happen, why was she in front of me?! I had settled with having a
+disappointing time, but I will not get beaten by her! I would hear about it for
+ages.  With renewed energy, I decided to sprint to the finish line. As I passed
+her, I gave her a tap on the shoulder said "damnit!" or something similar and
+raced away.  Surprised with what I still managed, I made my way through the
+crowd, running on narrow sidewalk edges, hopping on and off like a madman.  I
+squeezed through gaps that were not there, to the malcontent of other runners.
+I was a bit rude, I must admit, but at the time I had but one goal: keep the
+girlfriend behind me.
+
+I crossed the line and immediately came to a halt. I stopped my watch and saved
+the run. I forgot to even look at my time, so automated is the stop and save
+motion. I knew it was going to be bad, I just had no clue how bad exactly.
+Considering the girlfriend was so close behind, I imagined I would still be
+around her goal time of 1:27:30 then.
+
 ## Results
+
+It was not. Not even close. My official time was 1h 30m 40s, Strava agrees.
+Exactly one second better than last year. I can only say this was a
+disappointment across the line.  I trained harder. I trained smarter. I barely
+did better. I could try to blame it on the warmer weather (20C & clouded, last months
+I was used to running at maybe 12C max), I could try to blame it on the sore
+throat I had all week, but in the end this does not make me feel better about
+the result. It is what it is and it is much slower than I hoped. The only
+uplifting news I find for myself is that I did about 500 spots better than last
+year: 2345th. It seems I was not the only one having more trouble than last year.
+
+Tina
+Lab
+
+Plans to come
 
 * Too crowded unless you are one of the first 1000 or so, I think
 * Too much chance of the weather not being to my liking at the end of May
