@@ -58,7 +58,7 @@ century anywhere in the world.
 
 After reaching it, you are three kilometre into the race and a climb starts
 towards Ter Kamerenbos (a.k.a. Bois de la Cambre a.k.a. La Cambre Forest")
-ending in it at 7.5 km after which things flatten out somewhat. You leave this
+ending up in it at 7.5 km after which things flatten out somewhat. You leave this
 park/forest around kilometre ten and now stick to one road for the next seven
 kilometre.
 
@@ -97,7 +97,7 @@ We were out the door around half past eight to catch the metro. Arriving at the
 metro station near the start, we caught the first signs of the big crowd we
 would have to deal with the rest of the day. A big blob of people was queuing
 up for the exits and none of the queues seemed to be making any progress.
-Worse, a minute after our metro, another metro was going to arrive, likely also
+Worse, a minute after our metro another metro was going to arrive, likely also
 filled to the brim with runners. Unwilling to wait around with no progress, I
 led us to a closed exit which quickly brought us to the platform on the other
 side, for metros in the opposite direction. The crowd here was considerably
@@ -121,10 +121,10 @@ realsies.
 Oh how I hate the crowds. From the start (and, spoiler alert, till the end),
 there was no way around a group of people. There is just about never a bunch of
 open space. You are constantly weaving between others and others weave past
-you. It is a total clusterfuck. Every possible gap is used, ribbons are jumped
+you. It is a total clusterfuck. Every possible gap is used, police ribbons are jumped
 over or ducked under to get on the sidewalk just to have that little bit of
 extra room. There are simply so many people and, especially those first
-kilometres, you are constantly between people trying to find their pace. One
+kilometres, you are constantly between people still trying to find their pace. One
 person's pace never seems to match the pace of the other people nearby or, at
 least, my pace.
 
@@ -136,7 +136,7 @@ and before long you turn unto Avenue Louise.
 
 > Kilometre one in 4:18, kilometre two in 4:13, kilometre three in 4:26.
 
-So far so good, as I manage to hit the paces I had set out to hit. Things also
+So far so good, as I more or less manage to hit the paces I had set out to hit. Things also
 get slightly better on Avenue Louise in terms of the crowd's pace, it is bound
 to be more similar to yours by now. There are also no more turns to be
 concerned about for the next few kilometre, it is a straight line.
@@ -199,16 +199,16 @@ pace wise.
 > Kilometre eleven in 4:43, kilometre twelve in 4:33, kilometre thirteen in
 > 4:26.
 
-After about 14 kilometre, I decided to just ignore my pacing altogether. It was
+After about 14 kilometre, I decided to just ignore my pacing altogether. I had only my splits to go by (I had somehow forgotten to enable the total time data field on my watch), but it was
 clear to me my goal was out the window. I switched my watch to only show my heart
 rate and managed to bring it down a few beats. This apparently immediately shows
 up in my paces too.
 
 > Kilometre fourteen in 4:33, kilometre fifteen in 4:43, kilometre sixteen in
-> 4:44, kilometre seventeen in 4:49. Their official 15 km split says 1:07:06.
+> 4:44, kilometre seventeen in 4:49. Official fifteen km split at 1:07:06.
 
-After very long stretch of autopilot, we turned onto the Tervurenlaan. This
-meant climbing was to be done.  Last year I cruised through this, not really
+After a very long stretch of autopilot, we turned onto the Tervurenlaan. This
+meant some climbing was to be done. Last year I cruised through this section, not really
 losing any pace as I went up it. This year was disastrous.  I slowed down to a
 5:25 split and was just so happy when I crested (the worst of) the hill.
 
@@ -222,7 +222,7 @@ plans and just chugged further.
 Suddenly however, with about one kilometre to go, I saw someone in front of me
 that could be the girlfriend.  Upon further inspection, it really was her. How
 did that happen, why was she in front of me?! I had settled with having a
-disappointing time, but I will not get beaten by her! I would hear about it for
+disappointing time, but I would not get beaten by her! I would hear about it for
 ages.  With renewed energy, I decided to sprint to the finish line. As I passed
 her, I gave her a tap on the shoulder said "damnit!" or something similar and
 raced away.  Surprised with what I still managed, I made my way through the
@@ -235,7 +235,7 @@ I crossed the line and immediately came to a halt. I stopped my watch and saved
 the run. I forgot to even look at my time, so automated is the stop and save
 motion. I knew it was going to be bad, I just had no clue how bad exactly.
 Considering the girlfriend was so close behind, I imagined I would still be
-around her goal time of 1:27:30 then.
+around her goal time of 1:27 then.
 
 ## Results
 
@@ -245,10 +245,10 @@ only one on Strava with that problem though. Exactly one second better than
 last year. I can only say this was a disappointment across the line.  I trained
 harder (last year's peak week was this year's start). I trained smarter
 (backing off when I felt I might run into injury). Yet I barely did better. I
-could try to blame it on the warmer weather (20C & clouded, last months I was
+could try to blame it on the warmer weather (20C & clouded, last months I had gotten
 used to running at maybe 12C max), I could try to blame it on the sore throat I
 had all week, but in the end this does not make me feel better about the
-result. It is what it is and it is much slower than I hoped. The only uplifting
+result. It is what it is and it is much slower than I had hoped. The only uplifting
 news I find for myself is that I did about 500 spots better than last year:
 2345th. It seems I was not the only one having more trouble than last year.
 
@@ -256,17 +256,19 @@ With seeing the girlfriend so late in the race, you can imagine she was close
 behind me across the line.  I managed to put her on 18s still. Victory. Though
 obviously her time is much more impressive if you take the obvious gender
 difference into account. I also managed to be faster than the other people from
-the lab as well as the friends I saw post on facebook. A hollow victory though,
-I was only focused on my own time (and not getting mocked by the girlfriend).
+work that took part, as well as the friends I saw post on facebook. A hollow victory though,
+I was only focused on my own time.
 
-Another man and woman I have been hoping to keep up with for the past months
-also took part, but they absolutely smoked me. He did it in 1:22:24, she did it
-in 1:24:18. They have been smoking me in the past few races too though, so I
-expected as much.
+The only ones I would have been interested in beating, are two people I have
+been seeing at races around Brussels, but who have generally been better than
+me. I had hoped to creep closer in this race, but that did not happen. They
+absolutely smoked me.  First one is a guy, who ran it in 1:22:24. The other is
+a girl, finishing in 1:24:18. They have been smoking me in the past few races
+too, so I expected as much.
 
 So what is next? I do not think the failure in the race had anything to do with
 the choice of the plan, so I will be sticking to Uncle Pete's plans in the
-future.  In the next few months I will just do some base building, it puts less
+future. In the next few months I will just do some base building, it puts less
 pressure on my runs. Raise the weekly distance, keep some tempos and strides in
 and just enjoy it all.
 
@@ -283,7 +285,7 @@ currently strongly dissuading me:
    and everything. It was not. I have the feeling you have to be in the first
    1000 (just made that number up) before it becomes OK. To satisfy my
    curiosity: that required 1:25:10 this year. Hey, look what my goal was.
-2. The weather. At the end of May, chances are it is going to be warmer than I
+2. The weather. At the end of May, chances are it is going to be warmer than what I
    want to race in. I want low 10s, not 20C.
 
 I still have a while to decide, but for the time being I am looking at other
