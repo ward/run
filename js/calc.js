@@ -399,12 +399,28 @@ CALC.hrzones = {
   },
   petehrr: function(restinghr, maxhr) {
     var hrr = maxhr - restinghr;
+    var round = function(n) { return Math.round(n*100) / 100; };
     return {
-      recovery: [0,(0.7*hrr)+restinghr],
-      generalaerobic: [(0.62*hrr)+restinghr,(0.75*hrr)+restinghr],
-      endurance: [(0.65*hrr)+restinghr,(0.78*hrr)+restinghr],
-      lactatethreshold: [(0.75*hrr)+restinghr,(0.88*hrr)+restinghr],
-      vo2max: [(0.92*hrr)+restinghr,(0.97*hrr)+restinghr]
+      recovery: [
+        0,
+        round((0.7*hrr)+restinghr)
+      ],
+      generalaerobic: [
+        round((0.62*hrr)+restinghr),
+        round((0.75*hrr)+restinghr)
+      ],
+      endurance: [
+        round((0.65*hrr)+restinghr),
+        round((0.78*hrr)+restinghr)
+      ],
+      lactatethreshold: [
+        round((0.75*hrr)+restinghr),
+        round((0.88*hrr)+restinghr)
+      ],
+      vo2max: [
+        round((0.92*hrr)+restinghr),
+        round((0.97*hrr)+restinghr)
+      ]
     };
   }
 };
@@ -578,5 +594,33 @@ document.addEventListener("DOMContentLoaded", function(event) {
   var DOMids = ['rpDistanceIn', 'rpHoursIn', 'rpMinutesIn', 'rpSecondsIn', 'rpDistanceOut'];
   DOMids.forEach(function(DOMid) {
     listenChange(DOMid, updatePrediction);
+  });
+});
+
+/**
+ * Event listener for hr zones
+ */
+
+function updateZones() {
+  var hrRest = parseIntInput("hrRest");
+  var hrMax = parseIntInput("hrMax");
+  var zones = CALC.hrzones.petehrr(hrRest, hrMax);
+  document.getElementById('hrRecovery').innerHTML = zones.recovery[1];
+  document.getElementById('hrGAmin').innerHTML = zones.generalaerobic[0];
+  document.getElementById('hrGAmax').innerHTML = zones.generalaerobic[1];
+  document.getElementById('hrEndurancemin').innerHTML = zones.endurance[0];
+  document.getElementById('hrEndurancemax').innerHTML = zones.endurance[1];
+  document.getElementById('hrLTmin').innerHTML = zones.lactatethreshold[0];
+  document.getElementById('hrLTmax').innerHTML = zones.lactatethreshold[1];
+  document.getElementById('hrVO2min').innerHTML = zones.vo2max[0];
+  document.getElementById('hrVO2max').innerHTML = zones.vo2max[1];
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  document.getElementById('hrRest').addEventListener('change', function(event) {
+    updateZones();
+  });
+  document.getElementById('hrMax').addEventListener('change', function(event) {
+    updateZones();
   });
 });

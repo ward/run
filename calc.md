@@ -95,3 +95,48 @@ Formula devised by Pete Riegel in the 70s.
 <input type="number" class="narrow" id="rpDistanceOut" value="0" />m
 
 <input type="text" class="narrow" id="rpTimeOut" value="" />
+
+# Pete Pfitzinger Heart Rate Zones
+
+Using the numbers and categories in *Faster Road Racing*. Good book, go get it.
+
+<input type="number" class="narrow" placeholder="Resting heart rate" id="hrRest" value="45" />
+
+<input type="number" class="narrow" placeholder="Maximum heart rate" id="hrMax" value="190" />
+
+<table>
+  <thead>
+    <tr>
+      <th>Zone</th>
+      <th>Min</th>
+      <th>Max</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Recovery</td>
+      <td></td>
+      <td id="hrRecovery"></td>
+    </tr>
+    <tr>
+      <td>General aerobic</td>
+      <td id="hrGAmin"></td>
+      <td id="hrGAmax"></td>
+    </tr>
+    <tr>
+      <td>Endurance</td>
+      <td id="hrEndurancemin"></td>
+      <td id="hrEndurancemax"></td>
+    </tr>
+    <tr>
+      <td>Lactate threshold</td>
+      <td id="hrLTmin"></td>
+      <td id="hrLTmax"></td>
+    </tr>
+    <tr>
+      <td>VO2max</td>
+      <td id="hrVO2min"></td>
+      <td id="hrVO2max"></td>
+    </tr>
+  </tbody>
+</table>
