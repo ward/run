@@ -4,8 +4,8 @@ email: ward@wardje.eu
 timezone: UTC
 description: > # this means to ignore newlines until "baseurl:"
   Anything that I find interesting enough to relate to my running.
-baseurl: "/run" # the subpath of your site, e.g. /blog/
-url: "http://wardje.eu" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://run.wxm.be" # the base hostname & protocol for your site
 author: Ward Muylaert
 social:
   strava: wardmuylaert
