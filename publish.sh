@@ -1,8 +1,8 @@
 #!/bin/sh
 
 SRC=./_site/
-DST_REMOTE=ward@wardje.eu
-DST_FOLDER=/var/www/wardje.eu/run/
+DST_REMOTE=ward@wxm.be
+DST_FOLDER=/var/www/run.wxm.be/
 
 jekyll build
 
