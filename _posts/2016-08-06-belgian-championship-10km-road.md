@@ -148,7 +148,7 @@ My time was nowhere near sub 40, but I did break my PR by over a minute. The
 into account and put me at [41:44][results]. That might have to do with it
 being a championship: with all the different age categories they want to
 have first over the line = winner. I ranked 159th out of 496 participants. The
-girlfriend ran it in 44:48, making her 39th out of 121 females.
+girlfriend ran it in 44:38, making her 39th out of 121 females.
 
 I cannot say I was close to the winner, he did it in 30:06. Nor the female
 winner for that matter, who managed 35:11. I expected as much. A result that
