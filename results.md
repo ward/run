@@ -4,6 +4,29 @@ title: results
 permalink: /results/
 ---
 
+## PRs
+
+<table id="personalrecords">
+  <thead>
+    <tr>
+      <th>Distance</th>
+      <th>Date</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for distance in site.data.personalrecords %}
+    <tr>
+      <td class="distance">{{ distance.distance }}</td>
+      <td class="date">{{ distance.date | date: "%-d %b %Y" }}</td>
+      <td class="time">{{ distance.time }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+## Results
+
 Here an overview of the results of different races that I have taken part in.
 Age grade for distances that are not somewhat standard would require
 extrapolation, making it potentially useless to interpret, if done incorrectly.
