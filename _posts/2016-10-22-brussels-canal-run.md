@@ -33,14 +33,15 @@ for a few more weeks.
 During those weeks, I slowly worked things back to my original planning,
 culminating in the past two weeks before the race.  Each week in turn broke my
 personal record for longest distance in one week. Only by a few 100 metre each
-time, but still: 72.5 km and 72.7 km. Previous record was 72.4 km. Progression
-over the past weeks has been: 27.8, 28.4, 56.2, 61.6, 64.7, 50.5, 72.5, 72.7.
+time, but still: 72.5 km and 72.7 km. The previous record was 72.4 km.
+Progression over the past weeks has been: 27.8, 28.4, 56.2, 61.6, 64.7, 50.5,
+72.5, 72.7.
 
 The main workouts I have been doing, have been depending on the day. I run on
 Tuesday, Wednesday, Friday, Saturday, and Sunday.  Tuesday is usually GA with
 some strides or GA with a speed workout (e.g., 2×(4×200)).  Wednesday is an
 endurance run, I use these to commute to work.  Friday is either an LT or a
-VO2max.  LT run are done by LT intervals, like 3×10 minutes at LT pace.  I've
+VO2max.  LT runs are done by LT intervals, like 3×10 minutes at LT pace. I have
 only actually done one VO2max so far during this plan, though more had been
 scheduled. I avoided them whenever the hip felt tricky.  The workout I did do
 was 5×1000 metre at 3-5k race pace. I place that at 3:45 / km pace. Saturdays
@@ -54,7 +55,8 @@ km, Wednesday 9.3 km, Friday 5 km. Race on Saturday.
 The course is pretty simple. You start along the canal and run along the canal
 for 1.7 km. You cross a bridge (some "elevation") and run back on the other
 side of the canal for 2 km. Cross another bridge (no elevation here) and run
-back to the finish. The longer distances just run it two and three times.
+back to the finish. The longer distances (i.e., the 8 and 12 km) just run it
+two and three times.
 
 One spot around the 2.7 km mark was a terrible bottleneck, everyone is forced
 into a small footpath where you can just barely overtake someone else if the
@@ -73,7 +75,8 @@ workout, 3:45/km pace had felt like suffering and hard to hit.  However, you
 can always push yourself more during a race, so I figured 15:00 would be a nice
 goal to aim for.  Depending on the people that showed up, I might even podium
 with it. That last hope was quickly crushed when I saw this year the amount of
-people to take part had more than tripled: 149 people ended up taking part.
+people to take part had more than tripled: 149 people ended up taking part in
+the 4 km.
 
 As such, my goal was to hit 15:00 (3:45 / km pace).
 
@@ -111,8 +114,9 @@ sides. As is also usual, I let myself get dragged in it for a bit, thinking
 watch told me I was running at 3:10ish pace. I knew the great feeling would not
 last long and dialled it back some. A balding guy with some rainbow coloured
 stripes on his shoulder was near me and I decided to hang onto him for a bit.
-He looked slightly older, so I expected him to be better at pacing. This worked
-out nicely and I essentially trailed behind him till the turn across the canal.
+He looked slightly older, so I expected him to be better at pacing (more book
+cover judging). This worked out nicely and I essentially trailed behind him
+till the turn across the canal.
 
 Only 500 metre into our race, we also started overtaking runners from the 12 km
 race.  My involuntary pacer solved this by essentially going further from the
@@ -122,7 +126,9 @@ managed to get through it pretty unscathed. Just past the bridge, on the tiny
 "downhill" away from the bridge, I found rainbow shoulder was going down it too
 easily. The time was right and I took over the lead. I figured he would not
 mind and could follow me a bit now instead. I never looked back, but at some
-point I must have dropped him (TODO: Check his bib through photos).
+point I must have dropped him. He was not with me at the finish.
+
+<!-- TODO: Find rainbow dude in photos? -->
 
 Just past the turn, about 1.8 km into the race, I also passed a girl I
 recognised from the 12 km start: headphone selfie taking girl. I let out a
@@ -133,7 +139,7 @@ small internal sigh and zoomed past her.
 The allotted space on this side of the canal was more narrow and passing the 12
 km people without zigzagging continuously was proving difficult.  Instead, I
 decided to go just outside the police barriers so I could overtake people more
-easily. I could go past the barriers easy enough as there was no connection
+easily. I could go past the barriers easily enough as there was no connection
 between individual barriers. I hoped this way I could also end up avoiding the
 single file bottleneck to which I was now rapidly approaching.
 
@@ -155,8 +161,8 @@ angrily) yelled back without looking back "Don't wear headphones then!".
 Someone else yelled at us "Use the street then if you want to pass more
 easily!". Shit dude, you don't think that is what we had wanted to do?
 
-We got through it and the road widened a bit again, enough to overtake people
-without making them needlessly angry.
+We got through it and the sidewalk widened a bit again, enough to overtake
+people without making them needlessly angry.
 
 > Kilometre three in 3:40.
 
@@ -177,7 +183,7 @@ He manages to get ahead of me and we race across the line.
 
 We also almost hit the people with goodie bags right behind the line. They
 apparently thought it wise to stand maybe five metre past the finish without
-any room for us. I took a sort of turn and used the garage door there to help
+any room for us. I took a sort of turn and used a garage door there to help
 slow me down.
 
 ## Results
@@ -191,7 +197,12 @@ the podium. Last year's third overall would have only been 31st today.
 Headphone selfie taking girl finished her 12 km as 229th out of 265 finishers,
 in 1h12m58s.
 
-Rainbow shoulder ???
+I am unsure where rainbow shoulder ended up, no photos of the race have
+surfaced (so far?), I did not see him finish, and I never got to see his bib
+during the race.
+
+The girlfriend got herself into a sprint for the finish as well. She however
+did manage to win that sprint and, with it, the race. Defending champion!
 
 [hipfail]: https://www.strava.com/activities/685663878
 [results2015]: http://www.chronorace.be/Classements/Classement.aspx?eventId=1187476853208149&mode=large&IdClassement=12593
