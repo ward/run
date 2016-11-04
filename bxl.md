@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bxl
+#title: bxl
 permalink: /bxl/
 ---
 
