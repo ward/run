@@ -128,7 +128,7 @@ easily. The time was right and I took over the lead. I figured he would not
 mind and could follow me a bit now instead. I never looked back, but at some
 point I must have dropped him. He was not with me at the finish.
 
-<!-- TODO: Find rainbow dude in photos? -->
+<!-- Rainbow guy was Vincent Delaunoy bib 829 -->
 
 Just past the turn, about 1.8 km into the race, I also passed a girl I
 recognised from the 12 km start: headphone selfie taking girl. I let out a
@@ -197,9 +197,13 @@ the podium. Last year's third overall would have only been 31st today.
 Headphone selfie taking girl finished her 12 km as 229th out of 265 finishers,
 in 1h12m58s.
 
-I am unsure where rainbow shoulder ended up, no photos of the race have
+<s>I am unsure where rainbow shoulder ended up, no photos of the race have
 surfaced (so far?), I did not see him finish, and I never got to see his bib
-during the race.
+during the race.</s> Using a picture from the startline showed his face, but not
+his bib. I then googled some names from the results that I thought could be him
+(white guy, 40s) and... actually found him.  Internet creeping! Anyway, he died
+a bit. He finished 21st in 16:42. That is 2:21 behind me. Considering we were
+together at the halfway point, that is quite the fading away.
 
 The girlfriend got herself into a sprint for the finish as well. She however
 did manage to win that sprint and, with it, the race. Defending champion!
