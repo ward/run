@@ -101,7 +101,76 @@ remained the same though: aim for sub 40.
 
 ## Race Day
 
+Nothing too eventful here, though the girlfriend decided to DNS. At first she
+had planned to do the 10 miles race. Due to her lingering sickness (she caught
+the same thing I had, with some delay, but not as strongly affected), she
+shortened it to the 10 km race, then the 5 km race, and eventually deciding it
+was safer not to push the body just yet. I remained convinced I should give it
+a try, so we took the train to Lier. This took 1h30 to 2h and was one of those
+few moments where I wish I had a driver's license and car. Oh well.
+
+I went to line up for the start on a little road of maybe a car wide. Going by
+previous results, I figured my goal time would place me around 30th. So I
+dutifully lined up several rows back from the front. People were still quite
+spread out, but I did not give that any thought until the announcer pointed out
+the entire grassy field to my right would also be part of the start line.  This
+approach placed me much further back in the crowd than I had wanted. A few rows
+back when rows are 6ish people wide is different from rows of 30+ people.
+Worse, while the startline was now very wide, the path narrowed about 200 metre
+further to the car-wide road I was on. This reminded me of descriptions of
+cross country race starts. I decided I would go fast enough at the start to not
+be in a potential bottleneck. Especially when I heard some guy in front of me
+say "yea, I am aiming for 45 minutes, if I do not end up walking of course".
+
 ## Race
+
+Once the race started, I managed to quickly move up through the crowd. Once
+past the potential bottleneck area, I was behind a small group but immediately
+felt they would be going too fast for me. When a guy next to me expressed that
+same feeling out loud ("phew, this is going a bit too fast"), I checked my
+watch and realised he was right.  We were going 3:30 <!-- TODO CHECK THIS PACE,
+INSERT TINA PICTURE? -->. I asked him what he was aiming for. He wanted a 3:45
+pace. I said that would definitely be more than I could handle today and 100
+metre further I purposefully slowed down a lot, letting a group of 10-15 people
+pass me.
+
+I find my own pace, but after the first km auto lap I realise I am going
+slightly too slow. Maybe I should autolap more often during a race where I want
+to PR. I adjust my pace accordingly. By this time, some people have been right
+behind me. I guess I will be playing pacer for them today. I do not mind, I
+have my own time goal and dare not rely on their pacing to get me there anyway.
+I do not try to force them to take the lead in our little group. I do not even
+bother looking back, so I am unsure how many there are behind me at this point,
+maybe a picture will pop up. Only two I am sure of:
+
+1. an older guy with some grey streaks in his hair (he comes next to me a few
+   times in the first km) and
+2. someone behind who yells out things coming from the opposite direction. The
+   path we run on is not blocked off for the race, so there are still some
+   cyclists and walkers around. It seems like a little thing, but I really
+   appreciate him doing that while I half zone out half die over the next kms.
+
+I am slowly reeling in some kid as we approach the first bridge turn. Not
+wanting him in my way when I turn, I make sure to speed up slightly so I can
+catch him before the turn.  The turn momentarily saps all pace out of me, but
+as we are only about 1.6 km into the race, I quickly recover and get back into
+the groove.
+
+Find my own pace around 4:00 and realise there are some people trailing me.
+Do not care, let them follow, I got my own goal and do not dare rely on their pacing.
+Keep this up for a while, trying to keep the pace where it should be.
+It hurts and my willpower is strained.
+Around 6 km coming out of a right turn, the path goes straight for a bit before turning to the left.
+I follow the straight, my peeps immediately go left through the grass.
+Notice it, turn to follow them, suddenly trailing them. Quickly have trouble following them and let them go for a bit.
+Catch back up, give up again. They pass yellow fluo guy.
+Around 7(?) km, I pass yellow fluo guy that was in my view entire race is finally passed. Look for him in photos after me?
+Two guys come from behind me. I am struggling and let them pass me.
+Quickly decide I need to hold on or I will die.
+Latch on and trust their pacing.
+Oldish guy that trailed me forever remains slightly ahead of us.
+
+<!-- See also google keep -->
 
 ## Results
 
