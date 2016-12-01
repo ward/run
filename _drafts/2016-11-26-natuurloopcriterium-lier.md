@@ -156,6 +156,32 @@ catch him before the turn.  The turn momentarily saps all pace out of me, but
 as we are only about 1.6 km into the race, I quickly recover and get back into
 the groove.
 
+I continue leading my group, though often when looking at my watch I feel it is
+going slightly too slow and speed up some. Just before the 4 km mark, we go
+under a bridge to go to the other side of some railroad track. The guy standing
+at the end of the bridge does a poor job indicating the way and if there were
+no guys ahead of me, I would have taken a wrong turn here. I do not think I
+lose any time, but it does annoy me briefly.
+
+We pass a sign indicating the 5 km mark, but my watch strongly disagrees: 4.65
+km in 18:35. That time would indeed be too fast for 5 km.
+
+Around 6 km a left turn is coming up. As I follow the path towards it, I notice
+the people behind me just going left through the grassy patch. Apparently
+everyone has been doing that, so I also take my turn. Suddenly I find myself at
+the back of my group. Now I can also see what is left of my group: two guys,
+one of which the older guy. No clue if the other guy is the one who was
+shouting warnings. I do not think it a good idea to try to immediately pass
+them again to resume my pacing, so I decide to follow.
+
+This quickly bites me in the ass: they slowly pull away from me. I do not know
+if they speed up or if I slow down, but it is a rather demoralizing moment. I
+come back to them briefly, but fade away again immediately. Soon after two
+other guys pass me and I briefly wonder if they were perhaps part of my little
+group before. I am struggling as they start pulling away, but quickly decide I
+need to hold on and use their pacing or completely fade away. I latch on and
+zone out focusing on their steps.
+
 Find my own pace around 4:00 and realise there are some people trailing me.
 Do not care, let them follow, I got my own goal and do not dare rely on their pacing.
 Keep this up for a while, trying to keep the pace where it should be.
@@ -171,6 +197,15 @@ Latch on and trust their pacing.
 Oldish guy that trailed me forever remains slightly ahead of us.
 
 <!-- See also google keep -->
+
+Hun 5k bord was 4.65 voor mij. 18:36 daar.  Groepje geleid voor eerste 6km.
+Kerel met donker haar met grijze tinten constant in m'n nek. Een bocht bij 6k
+pakte ik stukken groter dus groepje (2 over) ging me voorbij. Ik dacht hun te
+laten pacen maar kon niet meer mee. Ander groepje van twee passeerde me later.
+Hun ook eerst kwijt, dan weer bijgekomen. Hun begonnen volgen. 1 van de twee
+ging ervandoor op 1km van het eind. De andere stak ik voorbij bij bet opgaan
+van de piste. In laatste bocht voor de piste haalde ikook grijzede kerel in.
+Hij zei "zolang ik maar onder 40min geraak!".
 
 ## Results
 
