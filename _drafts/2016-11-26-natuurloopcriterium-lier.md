@@ -174,13 +174,46 @@ one of which the older guy. No clue if the other guy is the one who was
 shouting warnings. I do not think it a good idea to try to immediately pass
 them again to resume my pacing, so I decide to follow.
 
+<!-- The not older guy is 1231 Vincent Van Dessel, 26th in 39:33 -->
+<!-- Remember there are finish photos! -->
+
 This quickly bites me in the ass: they slowly pull away from me. I do not know
 if they speed up or if I slow down, but it is a rather demoralizing moment. I
 come back to them briefly, but fade away again immediately. Soon after two
 other guys pass me and I briefly wonder if they were perhaps part of my little
-group before. I am struggling as they start pulling away, but quickly decide I
-need to hold on and use their pacing or completely fade away. I latch on and
-zone out focusing on their steps.
+group before. I am struggling as they start pulling away as well, but quickly
+decide I need to hold on and use their pacing or completely fade away. I
+briefly speed up to latch on and zone out focusing on their steps.
+
+This works nicely for quite some time, the pace feels pretty consistent. The
+older guy who had followed me for some time remains in sight. With about one
+kilometre to go, one of them speeds up.  I do not react and neither does the
+other guy. I know I cannot carry a speed-up till the finish. A final bridge
+turn once again briefly makes me hate everything.  We start closing in on the
+older guy. About 200 metre before entering the track, we pass him.  He looks
+back at us, recognises me, and yells "As long as I can get under 40!" at me
+with a grin.
+
+This gives me a mental boost and I slowly pull up next to tight sweatpants guy,
+passing him right before we enter the track to make sure I can choose my path
+on the narrow entrance. Breathing gets heavy as I push out anything I have
+left. The track has many people on the inner lanes: the slower people from the
+5k race are also finishing. I am forced into lane two and three to go around
+them. As I get closer to the finish line, I pass a first timing mat. I think it
+was only placed there so the announcer could see the names of people about to
+finish as immediately after I pass it he says "and here is Ward from Brussels".
+
+On the right of me I see a photographer and slightly behind him the girlfriend,
+also ready to take pictures. <!-- TODO Confirm? I do not remember --> On the
+left I see three clocks, one for each distance. The 10 km one is at 39:4X. I am
+happy, but dead. I cross the finish line and hang on a railing. Someone asks me
+if I am OK and I reply "no" between deep breaths. He gives me a slightly
+worried face, so I smile and say "I will be".
+
+<!-- TODO Somewhere around the 1k to go point I also start passing him. Then on
+the lightest of bumps, I lose speed and he passes me again -->
+
+---
 
 Find my own pace around 4:00 and realise there are some people trailing me.
 Do not care, let them follow, I got my own goal and do not dare rely on their pacing.
@@ -208,6 +241,27 @@ van de piste. In laatste bocht voor de piste haalde ikook grijzede kerel in.
 Hij zei "zolang ik maar onder 40min geraak!".
 
 ## Results
+
+- Myself
+- Older guy
+- Tight sweatpants guy
+- Guy from the first km that I talked to
+- Other guy that was trailing me for a bit
+
+## Future
+
+Getting slight injuries or sickness annoyed me (more than it should?) while
+following this kind of strict plan. It immediately feels like things are being
+wasted, you are behind schedule, you lose your potential. I reckon I still have
+improvement in me from just getting more consistent distance in my legs, so I
+will just do some base building over the coming months. At the very least I
+want 75ish km per week to be my new normal. I will probably continue beyond
+that though, 100 kilometre per week is also a nice sounding number to aim for.
+That will also require adding another day of running in my week, going from
+five to six. Included in a week, I will likely opt for a day with some strides
+at the end, a lactate threshold run, and a long run. No particular racing goal
+for the next months, though I might hop in some here and there to test my
+fitness.
 
 [belgchamp]: {{ site.baseurl }}{% post_url 2016-08-06-belgian-championship-10km-road %} "Belgian Championship 10 km road"
 [natuurloop]: https://www.natuurlopenvanlier.be/
