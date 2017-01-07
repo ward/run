@@ -38,7 +38,7 @@ remained uncomfortable. This kept me on my toes for a while: at the least sign
 of weakness from my hip, I gave up on workouts. The real fast parts (speed and
 strides) I pretty much avoided altogether. My distance remained mostly what I
 had planned out.  I broke my weekly distance record twice in a row right before
-the first tune up race.
+the first tune up race. First to 72.5 km, then to 72.7 km.
 
 This [first tune up race][canalrun] was the fifth week before race week. It
 went well, I ran 4 km in 14:21. However, I think I might have done it slightly
@@ -75,20 +75,20 @@ no elevation to be found. Those bumps suck the pace out of you, but at least
 they are quickly over with. Running along the river also makes the course
 pretty uneventful, but that is OK, I am not here for the scenery.
 
-The start is near the track where the finish is. After 1.6 km you come at a
-bridge you have to cross to run back on the other side.  In other words two
-short right angle turns in quick succession. I will refer to this as a bridge
-turn, there are some more further down the line. At about 2.2 km, there is a
-turn slightly larger than a right angle.  Next you are good for a while, turn
-left under a bridge around 3.8 km and then right immediately to continue in the
-same direction as before the bridge.  Around 4.7 km there is another turn
-larger than a right angle. At 6.7 km you have another bridge turn. About 1 km
-from the end, a last bridge turn has to be completed. Once you reach the track
-where the finish lies, you have to completely one lap to be home free.
+The start is alongside the main river. After 1.6 km along one side you come at
+a bridge you have to cross to run back on the other side of it. In other words
+two short right angle turns in quick succession. I will refer to this as a
+bridge turn, there are some more of these further down the line. At about 2.2
+km, there is a turn slightly larger than a right angle. Next you are good for a
+while, turn left under a bridge around 3.8 km and then right immediately to
+continue in the same direction as before the bridge. Around 4.7 km there is
+another turn larger than a right angle. At 6.7 km you have another bridge turn.
+About 1 km from the end, a last bridge turn has to be completed. Once you reach
+the track where the finish lies, you have to complete one lap to be home free.
 
-The bridge turns were pretty nasty. On the bridge itself you could only go on
-the sidewalk, so you had to turn very sharply. This takes your pace away
-completely.  Throughout the race, these and the random short bumps really hurt
+The bridge turns were pretty nasty. On the bridge itself you could often only
+go on the sidewalk, so you had to turn very sharply. This takes your pace away
+completely. Throughout the race, these and the random short bumps really hurt
 me.
 
 ## Goals and Strategy
@@ -120,7 +120,7 @@ Worse, while the startline was now very wide, the path narrowed about 200 metre
 further to the car-wide road I was on. This reminded me of descriptions of
 cross country race starts. I decided I would go fast enough at the start to not
 be in a potential bottleneck. Especially when I heard some guy in front of me
-say "yea, I am aiming for 45 minutes, if I do not end up walking of course".
+say "yea, I am aiming for 45 minutes ... if I do not end up walking, of course".
 
 ## Race
 
@@ -128,27 +128,28 @@ Once the race started, I managed to quickly move up through the crowd. Once
 past the potential bottleneck area, I was behind a small group but immediately
 felt they would be going too fast for me. When a guy next to me expressed that
 same feeling out loud ("phew, this is going a bit too fast"), I checked my
-watch and realised he was right.  We were going 3:30 <!-- TODO CHECK THIS PACE,
-INSERT TINA PICTURE? -->. I asked him what he was aiming for. He wanted a 3:45
-pace. I said that would definitely be more than I could handle today and 100
-metre further I purposefully slowed down a lot, letting a group of 10-15 people
-pass me.
+watch and realised he was right. We were going 3:30. I asked him what he was
+aiming for. He wanted a 3:45 pace. I said that would definitely be more than I
+could handle today and 100 metre further I purposefully slowed down a lot,
+letting a group of 10-15 people pass me.
+
+[![Talking about pace]][talkingpace]
 
 I find my own pace, but after the first km auto lap I realise I am going
 slightly too slow. Maybe I should autolap more often during a race where I want
 to PR. I adjust my pace accordingly. By this time, some people have been right
 behind me. I guess I will be playing pacer for them today. I do not mind, I
-have my own time goal and dare not rely on their pacing to get me there anyway.
-I do not try to force them to take the lead in our little group. I do not even
-bother looking back, so I am unsure how many there are behind me at this point,
-maybe a picture will pop up. Only two I am sure of:
+have my own time goal and dare not rely on their pacing to get me there.  I do
+not try to force them to take the lead in our little group. I do not even
+bother looking back, so I am unsure how many there are behind me at this point.
+No pictures showed up of these moments. Only two people I am sure of:
 
 1. an older guy with some grey streaks in his hair (he comes next to me a few
-   times in the first km) and
+   times in the first two km) and
 2. someone behind who yells out things coming from the opposite direction. The
    path we run on is not blocked off for the race, so there are still some
    cyclists and walkers around. It seems like a little thing, but I really
-   appreciate him doing that while I half zone out half die over the next kms.
+   appreciate him doing that while I half zone out, half die over the next kms.
 
 I am slowly reeling in some kid as we approach the first bridge turn. Not
 wanting him in my way when I turn, I make sure to speed up slightly so I can
@@ -169,84 +170,66 @@ km in 18:35. That time would indeed be too fast for 5 km.
 Around 6 km a left turn is coming up. As I follow the path towards it, I notice
 the people behind me just going left through the grassy patch. Apparently
 everyone has been doing that, so I also take my turn. Suddenly I find myself at
-the back of my group. Now I can also see what is left of my group: two guys,
-one of which the older guy. No clue if the other guy is the one who was
-shouting warnings. I do not think it a good idea to try to immediately pass
-them again to resume my pacing, so I decide to follow.
-
-<!-- The not older guy is 1231 Vincent Van Dessel, 26th in 39:33 -->
-<!-- Remember there are finish photos! -->
+the back of my group. Now I can also see what is left of us: two guys, one of
+which the older guy. No clue if the other guy is the one who was shouting
+warnings. I do not think it a good idea to try to immediately pass them again
+to resume my pacing, so I decide to follow.
 
 This quickly bites me in the ass: they slowly pull away from me. I do not know
 if they speed up or if I slow down, but it is a rather demoralizing moment. I
-come back to them briefly, but fade away again immediately. Soon after two
-other guys pass me and I briefly wonder if they were perhaps part of my little
-group before. I am struggling as they start pulling away as well, but quickly
-decide I need to hold on and use their pacing or completely fade away. I
-briefly speed up to latch on and zone out focusing on their steps.
+come back to them briefly, but fade away again immediately. Soon after this,
+two *other* guys pass me (one in tight sweatpants) and I briefly wonder if they
+were perhaps part of my little group before. I am struggling as they start
+pulling away as well, but quickly decide I need to hold on and use their pacing
+or I will completely fade away. I briefly speed up to latch on and zone out
+focusing on their steps.
 
 This works nicely for quite some time, the pace feels pretty consistent. The
 older guy who had followed me for some time remains in sight. With about one
-kilometre to go, one of them speeds up.  I do not react and neither does the
-other guy. I know I cannot carry a speed-up till the finish. A final bridge
-turn once again briefly makes me hate everything.  We start closing in on the
-older guy. About 200 metre before entering the track, we pass him.  He looks
-back at us, recognises me, and yells "As long as I can get under 40!" at me
-with a grin.
+kilometre to go, one of the two guys I am trailing, speeds up. I know I cannot
+carry a speed-up till the finish. I do not react and neither does sweatpants. A
+final bridge turn once again briefly makes me hate everything. We start closing
+in on the older guy. About 200 metre before entering the track, we pass him.
+He looks back at us, recognises me, and yells "As long as I can get under 40!"
+at me with a grin.
+
+<!-- TODO Somewhere around the 1k to go point I also start passing sweatpants.
+Then on the lightest of bumps, I lose speed and he passes me again -->
+
+[![Closing in]][closingin]
 
 This gives me a mental boost and I slowly pull up next to tight sweatpants guy,
 passing him right before we enter the track to make sure I can choose my path
-on the narrow entrance. Breathing gets heavy as I push out anything I have
+on its narrow entrance. Breathing gets heavy as I push out anything I have
 left. The track has many people on the inner lanes: the slower people from the
 5k race are also finishing. I am forced into lane two and three to go around
 them. As I get closer to the finish line, I pass a first timing mat. I think it
 was only placed there so the announcer could see the names of people about to
 finish as immediately after I pass it he says "and here is Ward from Brussels".
 
+[![Finishing]][finish]
+
 On the right of me I see a photographer and slightly behind him the girlfriend,
-also ready to take pictures. <!-- TODO Confirm? I do not remember --> On the
-left I see three clocks, one for each distance. The 10 km one is at 39:4X. I am
-happy, but dead. I cross the finish line and hang on a railing. Someone asks me
-if I am OK and I reply "no" between deep breaths. He gives me a slightly
-worried face, so I smile and say "I will be".
+also ready to take pictures. On the left I see three clocks, one for each
+distance. The 10 km one is at 39:4X. I am happy, but dead. I cross the finish
+line and hang on a railing. Someone asks me if I am OK and I reply "no" between
+deep breaths. He gives me a slightly worried face, so I smile and say "I will
+be".
 
-<!-- TODO Somewhere around the 1k to go point I also start passing him. Then on
-the lightest of bumps, I lose speed and he passes me again -->
-
----
-
-Find my own pace around 4:00 and realise there are some people trailing me.
-Do not care, let them follow, I got my own goal and do not dare rely on their pacing.
-Keep this up for a while, trying to keep the pace where it should be.
-It hurts and my willpower is strained.
-Around 6 km coming out of a right turn, the path goes straight for a bit before turning to the left.
-I follow the straight, my peeps immediately go left through the grass.
-Notice it, turn to follow them, suddenly trailing them. Quickly have trouble following them and let them go for a bit.
-Catch back up, give up again. They pass yellow fluo guy.
-Around 7(?) km, I pass yellow fluo guy that was in my view entire race is finally passed. Look for him in photos after me?
-Two guys come from behind me. I am struggling and let them pass me.
-Quickly decide I need to hold on or I will die.
-Latch on and trust their pacing.
-Oldish guy that trailed me forever remains slightly ahead of us.
-
-<!-- See also google keep -->
-
-Hun 5k bord was 4.65 voor mij. 18:36 daar.  Groepje geleid voor eerste 6km.
-Kerel met donker haar met grijze tinten constant in m'n nek. Een bocht bij 6k
-pakte ik stukken groter dus groepje (2 over) ging me voorbij. Ik dacht hun te
-laten pacen maar kon niet meer mee. Ander groepje van twee passeerde me later.
-Hun ook eerst kwijt, dan weer bijgekomen. Hun begonnen volgen. 1 van de twee
-ging ervandoor op 1km van het eind. De andere stak ik voorbij bij bet opgaan
-van de piste. In laatste bocht voor de piste haalde ikook grijzede kerel in.
-Hij zei "zolang ik maar onder 40min geraak!".
+<!-- Catch back up, give up again. They pass yellow fluo guy.  Around 7(?) km,
+I pass yellow fluo guy that was in my view entire race is finally passed. Look
+for him in photos after me?  Two guys (one is sweatpants) come from behind me.
+I am struggling and let them pass me.  -->
 
 ## Results
 
-- Myself
-- Older guy
-- Tight sweatpants guy
-- Guy from the first km that I talked to
-- Other guy that was trailing me for a bit
+Achievement unlocked. [Official timing][results] and [Strava] have me in 28th
+place in 39:45.  Older guy ends up just behind me in 39:54. Sweatpants follows
+2 seconds behind him.  The guy that dropped sweatpants and I finishes 26th in
+39:40.  The guy that was part of the group I carried halfway does another spot
+better: 25th in 39:33.  The guy I talked with briefly during the fast start
+ends up around where he expected: 37:10 for a 12th spot.  To win the race, you
+needed to beat 32:09.
 
 ## Future
 
@@ -267,3 +250,11 @@ fitness.
 [natuurloop]: https://www.natuurlopenvanlier.be/
 [canalrun]: {{ site.baseurl }}{% post_url 2016-10-22-brussels-canal-run %} "Brussels Canal Run 4 km"
 [vrede]: {{ site.baseurl }}{% post_url 2016-11-11-jogging-van-de-vrede %} "Jogging van de Vrede 4 km"
+[Talking about pace]: https://c7.staticflickr.com/1/275/31978651982_b73d27f269_z.jpg
+[talkingpace]: https://www.flickr.com/photos/wardmuylaert/31978651982/in/album-72157677101300461/
+[Closing in]: https://c2.staticflickr.com/1/673/32127296185_dc2bfccb3d_z.jpg
+[closingin]: https://www.flickr.com/photos/wardmuylaert/32127296185/in/album-72157677101300461/
+[Finishing]: https://c2.staticflickr.com/1/387/32127296065_1835d0587d_z.jpg
+[finish]: https://www.flickr.com/photos/wardmuylaert/32127296065/in/album-72157677101300461/
+[results]: https://tijdregistratie.jahoma.nl/result/180326
+[Strava]: https://www.strava.com/activities/786204517
