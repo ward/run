@@ -1,0 +1,10 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+$base-font-family: "Charis SIL", serif;
+// Width of the content area
+$content-width:    40em;
+
+@import "minima";

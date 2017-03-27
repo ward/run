@@ -15,4 +15,9 @@ social:
 
 # Build settings
 markdown: kramdown
-exclude: ['publish.sh']
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - publish.sh
