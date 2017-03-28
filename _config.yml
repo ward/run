@@ -20,4 +20,6 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - publish.sh
