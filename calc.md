@@ -4,7 +4,7 @@ title: calc
 permalink: /calc/
 ---
 
-<script type="text/javascript" src="../js/calc.js"></script>
+<script type="text/javascript" src="../assets/js/calc.js"></script>
 
 <!-- Kramdown automatically gives us a ToC (though not pretty) -->
 1. TOC

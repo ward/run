@@ -8,3 +8,63 @@ $base-font-family: "Charis SIL", serif;
 $content-width:    40em;
 
 @import "minima";
+
+
+/**
+ * Tables (added by ward 2015-02-09)
+ */
+table {
+  border-collapse: collapse;
+  tr:nth-child(2n) {
+    background-color: $grey-color-light;
+  }
+  td {
+    padding: 0.3em;
+  }
+  &#bxlruns {
+    font-size: $small-font-size;
+    td {
+      &.date {
+        white-space: nowrap;
+      }
+      &.distance {
+        text-align: right;
+      }
+    }
+  }
+  &#results {
+    td {
+      &.date {
+        white-space: nowrap;
+      }
+      &.distance, &.time, &.agegrade {
+        text-align: right;
+      }
+    }
+  }
+}
+
+/**
+ * Input styling for JavaScript client side calculators
+ */
+input {
+  border: 1px solid #e8e8e8;
+  border-radius: 0.5em;
+  padding: 0.1em 0.6em;
+  &.narrow {
+    width: 4em;
+  }
+}
+
+.post-content {
+  p {
+    text-align: justify;
+  }
+}
+
+/**
+ * Remove the black bar at the top of the site
+ */
+.site-header {
+  border-top: 0px;
+}
