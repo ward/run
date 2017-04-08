@@ -29,7 +29,8 @@ running.
 Two main vars in training: volume and intensity.  Mostly some history here.
 Zapotek, Lydiard. Meh.
 
-TODO: script to analyse my runs by HR if possible, pace otherwise, to classify them as easy, mid, and hard. Get a summary for every week ever.
+TODO: script to analyse my runs by HR if possible, pace otherwise, to classify
+them as easy, mid, and hard. Get a summary for every week ever.
 
 ## Chapter 3
 
@@ -167,4 +168,138 @@ training effective.
    depressingly slow when put that way). Increase till your reach your genetic
    limit (whereever that may be), at which point you cannot increase further by
    running. Good luck ever reaching that point, I guess.
-4. Do tried-and-true workouts.
+4. Do tried-and-true workouts. They emerged over the ages and probably says
+   something.  He defines 12 different types of runs and will use them later in
+   his plans. In other words *this section is important* to understand the
+   plans. Refer back to it when reading a plan. One type will have several
+   different variations (e.g., Recovery run 1 through 9 provide different
+   lengths of running). For each workout he also states how much of it is in
+   which intensity zone so you can tailor things to remain at or near the 80/20
+   ratio.
+    1. (low) Recovery run. Entirely in zone 1. After workouts. Alternative to
+       day off.
+    2. (low) Foundation run. Mostly in zone 2. Warmup and cooldown in zone 1.
+       This type will be done the most by far.
+    3. (low) Long run. Sort of extended foundation run. Defined in terms of
+       length as it is there to build endurance for the particular race you
+       want to do.
+    4. (moderate) Fast finish run. A short bit of zone 3 at the end of a
+       foundation run. For a little injection of moderate into volume building
+       or recovery weeks.
+    5. (moderate) Tempo run. Sustained zone 3 sandwiched between a warmup and
+       cooldown. Emphasized in peak phase of training.
+    6. (moderate) Cruise interval run. Multiple zone 3 intervals with zone 1
+       rest. Enables more total moderate work than the tempo run.
+    7. (moderate) Long run with speed play. Short bursts of zone 3 here and
+       there. Good for late in training cycle when you have already done the
+       longest run you will do. Measured by distance like the regular long run.
+    8. (moderate) Long run with fast finish. Same idea and purpose as previous,
+       but the zone 3 is only at the end.
+    9. (high) Speed play run. Foundation and interval crossover. Mostly in zone
+       two. Short bursts at zone 4. Easier than regular interval, not done on
+       track. Simple way to introduce some high effort into things.  Same
+       injection idea as fast finish (during volume building and recovery).
+    10. (high) Hill repetition run. Uphill interval run, has parts in zone 5.
+        Many of the same benefits as interval, but less stressful on legs.
+        Bridge between base and peak training.
+    11. (high) Short interval run. Repeated 60-90s efforts at zone 5. Jogs in
+        zone 1. Enhance aerobic capacity, high-intensity fatigue resistance,
+        and running economy.
+    12. (high) Long interval run. Repeated 3-5 min efforts at zone 4. Maximizes
+        high-intensity fatigue resistance.
+    13. (high) Mixed interval run. Sharpen up for racing after gotten solid
+        foundation. Efforts in zone 3, 4, and 5. Maintains fitness gains in
+        each of the zones.
+6. Obey the hard/easy principle. Split up high workouts by lighter ones.
+   Microcycle of seven days with three hard days buffered by light ones. Two at
+   moderate or high. One as long run.
+7. Practice step cycles. Rule 5 at broader scale. Mesocycle, multiweek training
+   block with load varied from week to week, each week slightly harder than
+   previous. Last week is a recovery week. Mostly via volume. Usually 3-4
+   weeks. 4 better for low volumes, 3 for higher or older. 3 is safer.
+8. Train progressively. There should be a goal/direction in your plan, you
+   progress towards it. For example incrementally harder. Or more and more race
+   specific hard workouts. Early part of training is then to make sure you can
+   handle it. First part is still base etc.
+
+## Chapter 8 - 5k
+
+The 20 of the 80/20 should focus on high, not moderate. Three plans. Each nine
+weeks long: 3 base, 5 peak, 1 taper. Recovery every third.
+
+## Chapter 9 - 10k
+
+Race is similar intensity to the 5k. Little more training volume. Little more
+moderate-high effort balance.  Twelve weeks long: 6 base, 4 peak, 2 taper.
+Recovery every third.
+
+## Chapter 10 - half
+
+Focused program of endurance building. High intensity fatigue resistance.
+Fifteen weeks: 6 base, 7 peak, 2 taper. (6-8-1 for lowest plan). Recovery every
+third.
+
+## Chapter 11 - marathon
+
+He finds it a bit longer than what is good. Very high level of endurance. Get
+used to running hard in state of fatigue. Plans try to avoid you hitting the
+wall. Eighteen week long: 9 base, 7 peak, 2 taper. Recovery every third.
+
+## Chapter 12 - Cross training as an alternative to running more
+
+Supplement running with cycling or other nonimpact to avoid injuries. Does not
+help for your running skill though.
+
+Do it once a week regardless, so you can
+more easily do it more often when injured and even slightly before to avoid
+injury. Also avoids injury in that other sport.
+
+In terms of actually supplementing, he poses two approaches:
+
+- Minimalist. Add single cross training session. Five to six workouts is still
+  a 20% increase, injury risk pretty much the same. Avoids adding a lot of
+  training time. Also good if you are near running limit and just want to add a
+  tiny little bit.
+- Aggressive. Multiple cross-training, often at the expense of running. So more
+  cautious in a way. Good for injury prone runners and those over 35 who worry
+  about it. Max performance => more cross train. Fear of injury => less run
+  (but never less than 3). Max number of workouts per week is 13 (doubles with
+  one recovery day). Only 6-7 need be runs.
+
+Apply 80/20 rule to the entirety, not just running! He advises to do your
+hardest parts in the discipline you compete in.
+
+If injured, replace every run with equivalent cross training. You can find your
+HR zones by doing the same 30 minute test etc as you do with running.
+
+His top seven cross training:
+
+1. Antigravity treadmill running. Great for injury, just make yourself lighter
+   till the pain disappears, then give yourself more weight over time as you
+   heal. Pricy. Inaccessible.
+2. Biking. Quadriceps are main muscle while just shock absorber in running.
+   Getting your bike fitted is really important!
+3. Outdoor elliptical biking. Elliptical with wheels.
+4. Indoor elliptical biking. Bit boring possibly.
+5. Pool running. The lack of impact and weight bearing might set you up for
+   injury right after. Boring.
+6. Slideboarding. Skating motion simulation. Typically for ice hockey players
+   etc. Not too crazy pricy. Small and for at home. Good if you easily get knee
+   pain.
+7. Uphill treadmill walking. Similar motion to running, for the brain.
+
+Finishes that section with a little grading table for each, grading for running
+specificity, convenience, and enjoyableness.
+
+## Chapter 13: 80/20 for everyone?
+
+Running better for weightloss than other activities. This chapter is focused on
+weight loss and says the 80/20 approach is best for this too.
+
+Also some stuff as an intro to triathloning. Tip on how to get started with the
+swimming part.
+
+## Appendix: Detailed intensity control guidelines for 80/20 workouts
+
+For every type of run he describes, tips are given how you should stay in the
+correct zone and effort.
