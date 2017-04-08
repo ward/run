@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Faster Road Racing by Pete Pfitzinger
-permalink: /books/faster-road-racing
 exclude: true
 ---
 
