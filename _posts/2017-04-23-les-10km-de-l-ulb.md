@@ -89,7 +89,7 @@ know how I am in that position, I just grab and drink and munch. Well, I am
 blaming *some* of them. I saw one lady grab a few sports drinks and just put
 them in a bag unopened. Bitch.
 
-# Results
+## Results
 
 The race for the podium was decided in a three way sprint, finishing in 33:36,
 33:40, and 33:43.  First female came in at 39:47. In total, over 3200 people
@@ -104,5 +104,4 @@ usual one. If you have interest in a race, but cannot actually take part,
 definitely consider volunteering. As for me, I do like the running part better
 and hope to just run the races I am interested in.
 
-[belgchamp]: {{ site.baseurl }}{% post_url 2016-08-06-belgian-championship-10km-road %} "Belgian Championship 10 km road"
 [10kulb]: http://www.10kmulb.org/
