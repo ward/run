@@ -157,6 +157,8 @@ had a headache. Oh boy.
 
 ## Plantentuinjogging Meise Race
 
+### Race
+
 We still went out there to just give it a try. I have a feeling if it were not
 for me though, she might have skipped it altogether.  As it is, we arrived
 there around 12:15 for a 13:00 race start, quickly went through the motions of
@@ -169,11 +171,102 @@ feeling rude too.
 
 As soon as the start signal was given, the girlfriend squeezed next to them on
 the left. I got stuck immediately as the three ladies started some slow
-jog-thing. I thought "fuck being rude" and pushed myself through them with my
-hands. Do not stand on the front line if you do not belong at all...
+jog-walk-thing. I thought "fuck being rude" and pushed myself through them with
+my hands. Do not stand on the front line if you do not belong at all...
 
+I ran towards the girlfriend and adjusted to her pace. I always start too
+quick, so in the first several 100 metre I would just follow her and let her
+set the pace. After about 300 metre we turn into the park where most of the
+race is run. I see one girl up ahead, so she is immediately the main target.
+
+<!-- TODO Was it around 1km? Check with a map and hope I remember D: -->
+
+We seem to be going at an OK pace and move closer to her. Around the 1 km mark
+we catch up to her, but also get caught up to by another woman. We have also
+started climbing some and I feel like it is not going super smooth for the
+girlfriend. I let her set the pace here since she is usually better at uphills.
+In the downhill I take the lead again to make sure she does not ease up too
+much. On the flatter ground right after I feel like she is having trouble to
+keep up. I manually click the lap button when I see the 2km pass by (I had
+forgotten to turn on autolap). Just over nine minutes for two km, slower than
+we should be going. My own heart rate is only in the low 160s.
+
+As we start climbing again, a girl and her father (?) pass us. The girlfriend
+starts to slow down some more.  The sickness is getting to her. As it gets
+worse, I ask her how things are feeling. She says DNFing sounds nice. Yikes.
+She ends up deciding to walk for a bit and then see where her body takes her. I
+will continue on without her.  We are at this point 2.8 km in the race, covered
+in a bit over 13 minutes. She is third female.
+
+I get going and see 3 km pass by on my watch, manually pressing lap again. That
+lap was 5:17.  I do not recall whether the 3 km sign was nearby at this point.
+I quickly spot the second female and pass her.  I pick up people that passed us
+earlier one by one. TODO Around the merging point (distance?) I fall in behind
+a group with a younger kid in it with the idea of following them briefly to
+regain composure. This does not last even 100 metre as I still feel I have
+plenty left in the tank. I press the lap button as I pass the 4km sign. Time of
+3:27, the GPS tells me that lap was about 800 metre.
+
+As I suffer through ups and downs, grass and mud, I sometimes see the first
+female in the distance. She seems _too far_, though I make it my mission to try
+my best to pass her still. Defending the girlfriend's honour, clearly. The 5km
+sign is 1km behind the 4 km sign according to my GPS (this is not self evident
+in Belgium). Lap time: 4:20. As I run downwards to a section where the route
+briefly touches on an earlier point, I hear someone yell.  The girlfriend is
+running again which feels reassuring (TODO How much km behind is she here?).
+She later tells me she also saw the first female a bit ahead of me and "within
+reach". I however do not see her and think I will be too late. I pass the 6 km
+sign with a lap time of 4:30.
+
+At this point there is a downhill and a water stand. Without breaking my
+stride, I grab a cup of water, pour it over my head, and throw it in the trash
+in one smooth movement. My own perception of this event is confirmed by a
+spectator yelling that looked nice. I leave the park and see the first female
+up ahead, turning a corner.  As I go around the corner myself, I see her on the
+next uphill. This one starts out very gradually and I already see her
+struggling. A biker is next to her to show her the way (and probably some
+encouragement). I creep closer by, not quite catching her yet. However, I
+remember this section from last year.  There is a right turn up ahead after
+which the gradual uphill becomes, essentially, a wall upwards. Total buzz- and
+legkiller.
+
+As I make the turn, I see she has not gotten very far yet. She is dying.  I
+decide to give it an extra boost up the hill. I know I can basically give it my
+all upwards since there is a slight downhill right after. I definitely can stay
+ahead of her on a downhill. I pass her a bit over halfway this final nasty
+climb and zoom off.  The biker jokingly yells at me something along the lines
+of "Is that a way to treat a lady?". I just extend my arms in a shrug and
+continue.  I crest the hill and cruise to the finish. Lapped the 7 km sign
+somewhere in that climb in 4:09 and the final bit (366 metre says the GPS
+watch) at 4:00 pace.
+
+### Results
+
+TODO Links.
+
+The official results have me at 32:12, putting me as 13th overall, just under 6
+minutes from the overall winner. Slower than the girlfriend's CR from last year
+as well, so I know her CR will not be broken by today's winner. The female
+winner finished in 32:24. The girlfriend still clocked in fifth somehow, but
+just over five minutes behind the female winner.
+
+The GPS clocked in at 7144 metre in 32:18. The 2.8 km with the girlfriend were
+done at an average of 4:43 pace and 163 heart rate. The 4.3 km without her was
+at 4:23 and 180 respectively. All in all I felt pretty great still after the
+race, which was nice.
 
 ## Future
+
+I do not have any immediate race goals. I will just continue building a base
+distance-wise for a while longer and getting used to six days of running a
+week. Immediate future has two conferences (or four, technically) that will zap
+my energy. They and their travel fall between 18 May (yes, four days after the
+race) and 11 June. I will have to make sure I do not kill my legs during those
+lack-of-sleep days. I figure keeping distance steady should be enough.
+
+After all that I want to get back to 70 km a week and get very used to that.
+Maybe I will decide on a fall half to keep things goal-oriented. (I think the
+girlfriend showed some interest in Copenhagen).
 
 
 [plantentuin2016]: {{ site.baseurl }}{% post_url 2016-05-16-plantentuinjogging-meise %} "Plantentuinjogging Meise 2016"
