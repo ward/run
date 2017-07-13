@@ -21,9 +21,9 @@ of my spring plans. Instead, it was base building time again. History has made
 me cautious, so the weeks before the races I have only been in the 50s km
 range, spread over five days. The week before the race I made that six days,
 the first time I had ever run five days in a row, let alone six. All of the
-runs have been easy (GA in Pfitz terms) with some recovery and some strides
-sprinkled throughout. One increase in intensity at a time I figure and for now
-I just want to up my distance again first.
+runs have been easy (General Aerobic in Pete Pfitzinger terms) with some
+recovery and some strides sprinkled throughout. One increase in intensity at a
+time I figure and for now I just want to up my distance again first.
 
 ## Course Details
 
@@ -31,20 +31,22 @@ I just want to up my distance again first.
 
 The concept here is that teams compete against one another over a time period
 of 12 hours. The course consists of one ~575 metre long loop (as measured by my
-GPS). Members of the team complete the loop as often as possible. You *have* to
-switch every lap, so you are essentially running almost 600 metre and then
-waiting for your next turn. In practice this meant 2-3 minutes of waiting per
-other person running and usually you are not lucky enough to only have to wait
-for one other person. My colleague had convinced me to run for one of the
-weakest teams in the line up (they were second to last last time). The
-reasoning was that we could get a timeslot of one hour and just run between the
-two of us, minimising the waiting time.
+GPS). Members of the team complete the loop as often as possible. Your team
+*has* to switch person every lap, so you are essentially running almost 600
+metre and then waiting for your next turn. In practice this meant 2-3 minutes
+of waiting per other person running. Usually you are not lucky enough to only
+have to wait for one other person, so the waiting in between can get a bit
+annoying. My colleague had convinced me to run for one of the weakest teams in
+the line up (they were second to last last time). The reasoning was that we
+could ask that team for a timeslot of one hour and just run between the two of
+us, minimising the waiting time.
 
 Besides an awful downhill turn on earth with tree roots sticking out at the
-start, the course is on either asphalt or on the campus track. There are three
-bottlenecks: that awful turn (since you want the main path), the entrance to
-the track, and the exit of the track. Besides that the teams area is pretty
-crowded at all times but you can mostly get through unscathed.
+start, the course is on either asphalt or on the campus' track. There are three
+bottlenecks: that awful turn (since you want the main path which is slightly
+smoother), the entrance to the track, and the exit of the track. The area where
+the teams are gathered is pretty crowded at all times but you can mostly get
+through unscathed.
 
 ### Plantentuinjogging
 
@@ -63,28 +65,28 @@ to pace the girlfriend.
 
 The Plantentuinjogging only had the goal of having the girlfriend repeat last
 year's victory and set a new CR in the process. She set the CR last year, but
-took it a bit easy at times so that was a *soft* one in a way. I did not
+took it a bit easy at times so that was a *soft* CR in a way. I did not
 consider myself really race ready yet (i.e., capable to equal or improve on
 last year's performance), but a tempo like effort could have been enough to
 pace her anyway.
 
 ## 12-urenloop Race
 
-We arrived shortly before 18:00 and found the team to actually have quite a bit
-of people ready and willing to run. So far for our calm one hour of alternating
-between the two of us. All pacing plans quickly went out the window too. When I
-got handed the baton the first time, I immediately raced off, forgetting all
-about my warm up. Excitement of the crowd, I guess? I am never good at taking
-race starts easy and this one would have a lot of them. Each of them I went out
-too fast.
+We arrived shortly before 18:00, eight hours into the race. The team actually
+had quite a bit of people ready and willing to run. So far for our calm one
+hour of alternating between the two of us. All pacing plans quickly went out
+the window too. When I got handed the baton the first time, I immediately raced
+off, forgetting all about my warm up. Excitement of the crowd, I guess? I am
+never good at taking race starts easy and this one would have a lot of starts.
+I went out too fast on each one of them.
 
-I quickly noticed I was not going to get as much running in as I had hoped for
-and decided to run another hour for a team more dear to me, that of the science
-student group. The waiting was much longer than anticipated. On the flipside,
-this made the laps I did do faster without getting to me as much at the time.
-In that second hour, the sun became an annoying distraction too. It was setting
-and getting closer to the horizon. To see your teammates coming, you had to
-squint westward into that setting sun.
+I quickly noticed I was not going to get as much running in as I had hoped for.
+I decided to run another hour for a team more dear to me, that of the science
+student group. The waiting for a turn was much longer than anticipated
+throughout. On the flipside, this made the laps I *did* do faster without
+tiring out my body as quickly. In that second hour, the sun became an annoying
+distraction too. It was setting and getting closer to the horizon. To see your
+teammates coming, you had to squint westward into that setting sun.
 
 Most laps were uneventful, but some laps dragged me into racing a bit more. In
 one of them someone started right as I passed their team's stand, I immediately
@@ -92,9 +94,9 @@ tried to make sure I dropped him (and succeeded). In another two girls were
 ahead of me in the first 100-200 metre as I slowly reeled them in. Passed one
 easily enough, but the other gave a bit more trouble. Once I reached her around
 the halfway mark, she slowed down quite a bit though. Guess she went too hard,
-I quickly left her.  In a third, our teammate that ran before us arrived with
-both our baton and the baton of another team. I was rather confused with that
-until I passed a member of the other team, lying in the grass on the side,
+I quickly left her.  In a third lap, our teammate that ran before us arrived
+with both our baton and the baton of another team. I was rather confused with
+that until I passed a member of the other team, lying in the grass on the side,
 looking a bit dazed. Still not sure what happened there. Finally every hour had
 a "fun" lap. The two I witnessed was a naked round at 18:00 and a run in
 flippers at 19:00. Much to nobody's surprise, the naked run had pretty much
@@ -108,16 +110,16 @@ Finally, here is a bit of an overview of my laps (and waiting time).
 |--------------|
 |1|2:14|7:49|
 |2|2:16|9:50|
-|3|2:09|6:53|
+|3|**2:09**|6:53|
 |4|2:09|11:19|
 |5|2:11|2:25|
 |6|2:18|2:32|
 |7|2:18|4:27|
-|8|2:15|10:12|
+|8|2:15|**10:12**|
 |9|2:17|9:13|
 |10|2:18|7:36|
-|11|2:16|1:59|
-|12|2:23|7:18|
+|11|2:16|**1:59**|
+|12|**2:23**|7:18|
 |13|2:21||
 
 That is a median time of 2:16 and waiting time of 7:27 (averages of 2:15 and
@@ -162,12 +164,12 @@ had a headache. Oh boy.
 We still went out there to just give it a try. I have a feeling if it were not
 for me though, she might have skipped it altogether.  As it is, we arrived
 there around 12:15 for a 13:00 race start, quickly went through the motions of
-getting ready and did a short warm up. We lined up near the startline. I wanted
-to be on the startline, but the girlfriend did not care as much.  There were
-some kids in front of us that would start with a sprint and then die anyway.
-Soon after three old ladies also went to stand there. I have no clue what they
-thought they were doing there, but I could not squeeze past them without
-feeling rude too.
+getting ready, and did a short warm up. We lined up near the startline. I
+wanted to be *on* the startline, but the girlfriend did not care as much.
+There were some kids in front of us. Kids are OK, they generally start with a
+sprint, clearing them out of your way, and then die anyway.  Soon after three
+old ladies also went to stand there. I have no clue what they thought they were
+doing there, but I could not squeeze past them without feeling rude too.
 
 As soon as the start signal was given, the girlfriend squeezed next to them on
 the left. I got stuck immediately as the three ladies started some slow
@@ -179,17 +181,17 @@ quick, so in the first several 100 metre I would just follow her and let her
 set the pace. After about 300 metre we turn into the park where most of the
 race is run. I see one girl up ahead, so she is immediately the main target.
 
-<!-- TODO Was it around 1km? Check with a map and hope I remember D: -->
-
-We seem to be going at an OK pace and move closer to her. Around the 1 km mark
-we catch up to her, but also get caught up to by another woman. We have also
-started climbing some and I feel like it is not going super smooth for the
+We seem to be going at an OK pace and move closer to her. Around the 700 metre
+mark we catch up to her, but also get caught up to by another woman. We have
+also started climbing some and I feel like it is not going super smooth for the
 girlfriend. I let her set the pace here since she is usually better at uphills.
 In the downhill I take the lead again to make sure she does not ease up too
 much. On the flatter ground right after I feel like she is having trouble to
 keep up. I manually click the lap button when I see the 2km pass by (I had
 forgotten to turn on autolap). Just over nine minutes for two km, slower than
 we should be going. My own heart rate is only in the low 160s.
+
+[![The girlfriend and I]][gfandilink]
 
 As we start climbing again, a girl and her father (?) pass us. The girlfriend
 starts to slow down some more.  The sickness is getting to her. As it gets
@@ -201,19 +203,19 @@ in a bit over 13 minutes. She is third female.
 I get going and see 3 km pass by on my watch, manually pressing lap again. That
 lap was 5:17.  I do not recall whether the 3 km sign was nearby at this point.
 I quickly spot the second female and pass her.  I pick up people that passed us
-earlier one by one. TODO Around the merging point (distance?) I fall in behind
-a group with a younger kid in it with the idea of following them briefly to
-regain composure. This does not last even 100 metre as I still feel I have
-plenty left in the tank. I press the lap button as I pass the 4km sign. Time of
-3:27, the GPS tells me that lap was about 800 metre.
+earlier one by one. Around 3.5km, I fall in behind a group with a younger kid
+in it. I have the idea of following them briefly to regain composure. This does
+not last even 100 metre as I still feel I have plenty left in the tank. I press
+the lap button as I pass the 4km sign. Time of 3:27, though the GPS tells me
+that lap was about 800 metre.
 
 As I suffer through ups and downs, grass and mud, I sometimes see the first
-female in the distance. She seems _too far_, though I make it my mission to try
+female in the distance. She seems *too far*, though I make it my mission to try
 my best to pass her still. Defending the girlfriend's honour, clearly. The 5km
 sign is 1km behind the 4 km sign according to my GPS (this is not self evident
 in Belgium). Lap time: 4:20. As I run downwards to a section where the route
 briefly touches on an earlier point, I hear someone yell.  The girlfriend is
-running again which feels reassuring (TODO How much km behind is she here?).
+running again which feels reassuring. It puts her about 600 metre behind me.
 She later tells me she also saw the first female a bit ahead of me and "within
 reach". I however do not see her and think I will be too late. I pass the 6 km
 sign with a lap time of 4:30.
@@ -221,9 +223,9 @@ sign with a lap time of 4:30.
 At this point there is a downhill and a water stand. Without breaking my
 stride, I grab a cup of water, pour it over my head, and throw it in the trash
 in one smooth movement. My own perception of this event is confirmed by a
-spectator yelling that looked nice. I leave the park and see the first female
-up ahead, turning a corner.  As I go around the corner myself, I see her on the
-next uphill. This one starts out very gradually and I already see her
+spectator yelling that it looked nice. I leave the park and see the first
+female up ahead, turning a corner.  As I go around the corner myself, I see her
+on the next uphill. This one starts out very gradually and I already see her
 struggling. A biker is next to her to show her the way (and probably some
 encouragement). I creep closer by, not quite catching her yet. However, I
 remember this section from last year.  There is a right turn up ahead after
@@ -234,26 +236,26 @@ As I make the turn, I see she has not gotten very far yet. She is dying.  I
 decide to give it an extra boost up the hill. I know I can basically give it my
 all upwards since there is a slight downhill right after. I definitely can stay
 ahead of her on a downhill. I pass her a bit over halfway this final nasty
-climb and zoom off.  The biker jokingly yells at me something along the lines
-of "Is that a way to treat a lady?". I just extend my arms in a shrug and
+climb and zoom off.  The biker jokingly yells at me:
+"Is that a way to treat a lady?". I just extend my arms in a shrug and
 continue.  I crest the hill and cruise to the finish. Lapped the 7 km sign
 somewhere in that climb in 4:09 and the final bit (366 metre says the GPS
 watch) at 4:00 pace.
 
 ### Results
 
-TODO Links.
-
 The official results have me at 32:12, putting me as 13th overall, just under 6
 minutes from the overall winner. Slower than the girlfriend's CR from last year
 as well, so I know her CR will not be broken by today's winner. The female
 winner finished in 32:24. The girlfriend still clocked in fifth somehow, but
-just over five minutes behind the female winner.
+over five minutes behind the female winner.
 
-The GPS clocked in at 7144 metre in 32:18. The 2.8 km with the girlfriend were
-done at an average of 4:43 pace and 163 heart rate. The 4.3 km without her was
-at 4:23 and 180 respectively. All in all I felt pretty great still after the
-race, which was nice.
+The [GPS][stravameise] clocked in at 7144 metre in 32:18. The 2.8 km with the
+girlfriend were done at an average of 4:43 pace and 163 heart rate. The 4.3 km
+without her was at 4:23 and 180 respectively. All in all I felt pretty great
+still after the race, which was nice.
+
+The three old ladies at the start line finished in 52:57, 52:57, and 49:19. OK.
 
 ## Future
 
@@ -271,3 +273,6 @@ girlfriend showed some interest in Copenhagen).
 
 [plantentuin2016]: {{ site.baseurl }}{% post_url 2016-05-16-plantentuinjogging-meise %} "Plantentuinjogging Meise 2016"
 [strava12uren]: https://www.strava.com/activities/980129271
+[stravameise]: https://www.strava.com/activities/985862413
+[The girlfriend and I]: https://farm5.staticflickr.com/4251/35013589140_bff70650b3_b.jpg
+[gfandilink]: https://www.flickr.com/photos/wardmuylaert/35013589140/in/album-72157682953043751/
