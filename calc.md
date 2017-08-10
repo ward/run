@@ -24,7 +24,29 @@ per mile
 <input type="number" class="narrow" placeholder="minutes" id="minutesperd" />
 <input type="number" class="narrow" placeholder="seconds" id="secondsperd" />
 per
-<input type="number" class="narrow" placeholder="metres" id="distance" min="0" />
+<input type="number" class="narrow" placeholder="metres" id="distance" min="0" value="1000" />
+<select id="pace_predefined_distance">
+  <option value="5000">5 km</option>
+  <option value="6000">6 km</option>
+  <option value="6437">4 mile</option>
+  <option value="8000">8 km</option>
+  <option value="8047">5 mile</option>
+  <option value="10000">10 km</option>
+  <option value="12000">12 km</option>
+  <option value="15000">15 km</option>
+  <option value="16093">10 mile</option>
+  <option value="20000">20 km</option>
+  <option value="21097">Half marathon</option>
+  <option value="25000">25 km</option>
+  <option value="30000">30 km</option>
+  <option value="42195">Marathon</option>
+  <option value="50000">50 km</option>
+  <option value="80467">50 mile</option>
+  <option value="100000">100 km</option>
+  <option value="150000">150 km</option>
+  <option value="160934">100 mile</option>
+  <option value="200000">200 km</option>
+</select>
 
 <input type="number" class="narrow" placeholder="kilometres" id="kmperh" step="0.01" min="0" />
 per hour

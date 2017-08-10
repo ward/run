@@ -454,6 +454,7 @@ function updated() {
   'use strict';
   var distance = parseInt(document.getElementById("distance").value) || 0;
   CALC.pace.setDistance(distance);
+  document.getElementById("pace_predefined_distance").value = null;
 }
 function updatekph() {
   'use strict';
@@ -466,6 +467,13 @@ function updatemps() {
   var mps = parseFloat(document.getElementById("mpers").value) || 0;
   CALC.pace.setMPerS(mps);
   updatepacefields();
+}
+
+function fill_predefined_distance() {
+  'use strict';
+  var distance = parseInt(document.getElementById("pace_predefined_distance").value) || 0;
+  document.getElementById("distance").value = distance;
+  CALC.pace.setDistance(distance);
 }
 /**
  * Fill in pace fields with new info
@@ -498,6 +506,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
   document.getElementById("distance").addEventListener("change", updated);
   document.getElementById("kmperh").addEventListener("change", updatekph);
   document.getElementById("mpers").addEventListener("change", updatemps);
+
+  // Filling in of predefined distances
+  document.getElementById("pace_predefined_distance").value = null;
+  document.getElementById("pace_predefined_distance").addEventListener("change", fill_predefined_distance);
+
+  // Default value in the distance field
+  CALC.pace.setDistance(1000);
 });
 
 /**
@@ -623,4 +638,5 @@ document.addEventListener('DOMContentLoaded', function(event) {
   document.getElementById('hrMax').addEventListener('change', function(event) {
     updateZones();
   });
+  updateZones();
 });
