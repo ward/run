@@ -89,6 +89,21 @@ impuls-response formula proposed by Bannister et al.
 
 Difference between ATL and CTL.
 
+# RR
+
+From the mailing list:
+
+> Ramp Rate.
+> 
+> The rate at which the long term stress has been increasing.
+> It looks back 7 days, or whatever you have configured in preferences for STS.
+> 
+> So, negative figures indicate CTL/LTS has been dropping recently and positive means its been increasing.
+> Obviously, if you ramp up too quickly - i.e. try to do more miles/intensity too early - then you risk injury.
+> 
+> Its just a way of quantifying the rate of change in training load over the short term.
+> Its been in GC for at least 5 years ;)
+
 # Refs
 
 http://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Help_me_understand_the_pmc_calculations_of_ctl_and_atl_P5530452/
