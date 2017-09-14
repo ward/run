@@ -1,9 +1,9 @@
 #!/bin/sh
 
 SRC=./_site/
-DST_REMOTE=ward@wxm.be
+DST_REMOTE=vps
 DST_FOLDER=/var/www/run.wxm.be/
 
-jekyll build
+bundle exec jekyll build
 
 rsync -e ssh -r $SRC $DST_REMOTE:$DST_FOLDER
