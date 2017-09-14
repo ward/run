@@ -7,18 +7,18 @@ tags:
 ---
 
 I found out there was a small race on walking distance from my house, the
-Jaarmarktjogging Jette. It is located in a park I have run through hundreds of
-times. I could not let that slip by. I signed up for it, knowing I was not
-going to be in any decent shape anyway. There was a 4 and an 8 km race, I
-signed up for the 4 km.
+Jaarmarktjogging Jette 4k and 8k. It is located in a park I have run through
+hundreds of times. I could not let that slip by. I signed up for the 4k,
+despite the lack of shape I am in.
 
 ## Training
 
 I have mostly been in a sort of base building mode as of late. Sick of getting
 injured more often than I want to, I decided to just take it easy and add
 distance till I reach something reasonable. Reasonable in my mind would be
-about 70 km per week, for the time being. After I reached that very comfortably
-for some time, I figure I could add some more intensity back into the grind.
+about 70 km per week, for the time being. After I would have reached that very
+comfortably for some time, I figure I could add some more intensity back into
+the grind.
 
 However, my body once more decided differently. After coming back home from
 vacation around the start of August, I had been mostly comfortable around 60 km
@@ -31,15 +31,16 @@ injured at my right knee/upper shin area. The right calf had been tight for
 several days before that, but I had been ignoring it with the idea it would fix
 itself. It did not and instead I got the short end of the stick. In retrospect,
 I am just blaming myself for not listening to my body. That is sounding all too
-familiar. I _think_ my legs got extra tired from my return to bike commuting,
-if only I had considered that beforehand.
+familiar. I _think_ my legs got extra tired from my return to bike commuting.
+If only I had considered that beforehand.
 
 The weeks before the race, I ended up running 62.8km, 40.8km, and 45.1km. I was
 somewhat pushing through the injury by keeping my daily distance very low,
-enabling me to react to any developing pain. In the week of this race though, I
-decided I was balancing a very narrow ledge with this. After running 8.8 on
-Tuesday and 5.1 on Wednesday, I did not run till Sunday, the day of the race.
-Instead, I swam some on Thursday and Saturday. That had been a _long_ time ago.
+enabling me to react to any developing pain. In the week of this race however,
+I decided I was balancing a very narrow ledge by pushing through pain and
+injury. After running 8.8 on Tuesday and 5.1 on Wednesday, I did not run till
+Sunday, the day of the race.  Instead, I swam some on Thursday and Saturday.
+That had been a _long_ time ago.
 
 ## Course Details
 
@@ -71,19 +72,17 @@ make sure to not leave anything in the tank.
 
 ## Race
 
-We walked over around 9:15, got there by 9:30, got our bib, and went for a bit
-of a warmup. When lining up I ended up around the fourth row, but most people
-there looked decently fast. No old ladies or little kids at the front. Both the
-4 km and the 8 km started at the same time.
+The girlfriend and I walked over around 9:15, got there by 9:30, got our bib,
+and went for a bit of a warmup. When lining up I ended up around the fourth
+row, but most people there looked decently fast. No old ladies or little kids
+at the front. Both the 4 km and the 8 km started at the same time.
 
 Right after the start has been given, I find myself veering to the outside to
-pass some people. I also immediately see someone take a bit of a lead in the
-first 100 metre. I assume he must be doing the 4 km. I fall in with a group of
-about seven or eight people and for a bit the feeling of running in a pack is
+pass some people. I also immediately see someone create a small gap in the first 100
+metre. I assume he must be doing the 4 km. I fall in with a group of about
+seven or eight people and for a bit the feeling of running in a pack is
 elating.  It does not last long. At about 500 metre in I reckon they are going
 faster than I can handle. I let them run off.
-
-> TODO: Picture of this group?
 
 Around the 1 km mark, most of it had been a slight climb so far, there is a
 short steep uphill. It zaps the pace out of me and someone that had been
@@ -92,9 +91,9 @@ bottle holders). I never see him again. There are another two such uphills in
 the next few 100 meter and they ruin my pace every time. Right before cresting
 the main hill of this race, somebody in a purple-blue shirt passes me. Turns
 out to be a guy that added me on Strava a week or two before. Right after
-cresting the hill, someone else passes me. This second person is in bright
-yellow, though that does not appear on the photos placed online. I wonder if
-his front is differently coloured from the back.
+cresting the hill, someone in a bright yellow shirt passes me. <!-- though that
+bright yellow does not appear on the photos placed online. I wonder if his
+front is differently coloured from the back. -->
 
 With the downhill starting, I figure I can easily keep up or reel them back in.
 I am usually better at these. To my surprise, this is not at all the case. I
@@ -103,20 +102,20 @@ manage to keep them in sight, but cannot close the gap. Turning onto the few
 seem equally affected. After this we keep going downhill uneventfully.
 
 With 1.5 km to go, there's about 300 meter of bad cobbles with grass in
-between.  I am a bit wary of these and slow down some while passing them. Doing
-so makes me lose more terrain on purple and yellow shirt. Worse, I am hearing
-someone behind me closing in by the end of the cobble section. I do not know
-what my position in the race is by now. There are about 10 people ahead of me,
-if I were to guess. I am unaware who in front of me is in the 4 km race.
-
-> TODO: Count people from photos after cobbles?
+between.  I am a bit wary of these and slow down some while crossing them.
+Doing so makes me lose more terrain on purple and yellow shirt. Worse, I am
+hearing someone behind me closing in by the end of the cobble section. I do not
+know what my position in the 4 km race is by now. There are about 10 people
+ahead of me, if I were to guess (later counting with the photos tells me there
+are 12 people ahead of me), but I do not know who is doing the 4 and who the 8.
 
 Less than 1 km from the line, we briefly cross paths with those ahead of us. I
-spot two 4 km bibs. Adding the quick starter to that (whom I never caught up
-to), that places me in fourth position at best. At a π turn, I manage to glance
-at the guy behind me. He too has a 4 km bib. In other words: with about 600
-metre to go I find myself battling for (possibly) fourth position. Whether it
-really is for fourth place, I do not know at the time, but battle for it I will.
+take the opportunity to look for 4 km bibs and spot spot two of them. Adding
+the quick starter to that (whom I had not seen since the start), that places me
+in fourth position at best. At a π turn, I manage to glance at the guy behind
+me. He too has a 4 km bib. In other words: with about 600 metre to go I find
+myself battling for (possibly) fourth position. Whether it really is for fourth
+place or, say, tenth, I do not know at the time, but battle for it I will.
 
 I start speeding up, but with 400 metre to go I realise I am overshooting a
 bit.  I manage to dial myself back in so that I can keep up the effort till the
@@ -139,21 +138,40 @@ bib I read. The girlfriend was not in the mood for a fast race and finished
 second female in 18:09, 56 seconds behind the first female.
 
 The 8 km was dominated by the fast starter who won it in 25:45, nearly a  minute
-in front of the second. Purple shirted Strava friend finished 10th in 29:15, I
-think he lost some spots in that second half.
-
-> TODO: Is that so after recounting?
+in front of the second. Purple shirted Strava friend finished 10th in 29:15.
 
 I think it is clear that a lot of the fast people were doing the 8 km instead
 of the 4 km. Nevertheless, I am quite happy with "podiuming". I even got a 18
-euro giftcard for some magazine. Yay.
+euro gift card for some running magazine. Yay.
 
-*Note: Both races were short. Think of it as a "around that distance" race.
+*Note: Both races were short. Think of it as an "around that distance" race.
 Welcome to Belgium.*
 
 ## Future
 
-Goals, future races, planned training
+The girlfriend had the idea of doing a flat half in the Netherlands at the end
+of October. I was OK with following her plan.  We have not signed up for it yet
+(there is still quite some time). Possibly a good thing: the girlfriend is
+hesitant about even bothering with it due to being out of shape. Rather: not in
+the shape she wants to be. This somewhat affects the immediate future, but not
+too much. I think I will just focus on base building and remaining injury free
+for the coming months: steady distance, some strides, eventually some LT type
+workouts. I still want to eventually get to 70km a week while remaining in one
+piece.  Besides that, I intend to keep on swimming twice a week as well
+(despite my body not being very good at handling chlorine).
+
+In terms of races, I feel like I might have to make up some sort of A goal for
+fall/winter now that the half will likely be cut. For now, these are some race
+options:
+
+- 1/10: Jogging '80, the 10k. Only one on this list I will definitely do. (They
+  also offer 5, 15, and 20)
+- 22/10: Brussels Canal Run (has 4k, 8k, and 12k)
+- 11/11: Jogging van de Vrede (also 4, 8, and 12)
+- 20/11: Foulées Joyeuses (5k and 10k)
+
+None of them scream "A goal" to me though. Maybe that is for the best, then I
+can more easily focus on just the base.
 
 [strava]: https://www.strava.com/activities/1154299196
 [results]: http://jette.irisnet.be/nl/vrije-tijd/sport/resultaten-jogging-2017
