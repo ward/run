@@ -94,29 +94,73 @@ strides, and squeezed in threeish rows from the start.
 
 ## Race
 
-TODO
+The thing with my starts is that I often start too quickly.  I have a way to
+cheat me through this though.  If I see a woman around the pace I want, I just
+stick behind her.  A woman around that pace tends to be better than I am, with
+respect to our genders.  So she is also more likely to be better at pacing.
+Thus, sticking behind a woman at the start helps me not fuck up.  Which is what
+I did.  First 500 metre are behind the woman who won the Jaarmarktjogging Jette
+race I participated in back in August. After that I switched to another one
+whom I stuck around for the next two or three kilometre.  I believe after that
+she turned for the 20 km course.
 
-Start and stick behind the short blond woman I have seen at jaarmarktjogging. Figure she has better pacing than I do.
-Switch to another female 500 metre or so further.
-Some guy around my position is known by everyone of the road marking people.
-All of them yell "Allez Marc" as we pass by.
-Up the hill, he is dropped. Still with the one female. Some other guy passing me but does not get far, I pass him again on the downhill around the 3 km mark.
-10k splits from the 20k race at 3.9-4k.
-Next to an older guy for the next km.
-Think I drop him at 5ish km.
-Turn onto a street for 100 metre, then back onto the forest trail-y stuff for water stand.
-Guy who had been 10s or so in front of me slows down a lot for that one and I pass him.
-I just splash the water on me really. Drinking from cups is too hard.
-Downwards to the edge of brussels and flanders, 7.5km in.
-Turn back away from the edge, climbing.
-A guy passes me as I have a difficult moment, I latch onto him.
-Survive climbing behind him and with about 1.5 km to go things start to flatten out.
-I speed up, drop him.
-Last km is pretty much downhill, by then the guy is way behind already.
+A guy who was near us at this point must have been part of the organizing
+running club.  Every person signalling the road, yelled out "Allez Marc" when
+they saw him.  I dropped him once we started the hill after 1.5 km.  Some other
+guy passes me up the hill, but I do not let it distract me from my own heart
+rate (low 170s, which is around my LT heart rate).  This is the hill I killed
+myself on two years ago after all.  He does not get particularly far and on the
+downhill right after the climb, I pass him again.  We go a bit back and forth
+after that till the 20 km race splits away from the 10 km race just before the
+fourth kilometre.  He and the woman who was running nearby peel off for that
+one.
+
+For the next kilometre, I am running next to an older guy.  The traily road
+here is not the greatest: stones sticking out and the like.  Thus I never
+bother squeezing right behind him and just following, but instead we stay
+abreast of one another.  Around the 5 km mark, I believe I drop him (I write
+this a bit later).
+
+At 5.7ish, we briefly turn onto the side of an actual street for 100-200 metre
+before turning back into the forest and its traily ground.  The water stand is
+coming up and I see a guy about 10 seconds ahead of me.  At the water stand, he
+almost stops completely and I pass him.  I grab a cup of water too, but do not
+slow down and just splash it on me.  Drinking from cups is too hard and you do
+not need to drink for a 10 km race in cold weather anyway.
+
+We turn right, downwards to the edge of Brussels and Flanders.  This is the
+extra bit they added to get the race to 10 km total.  We reach the "border"
+around 7.5 km in, run along it briefly and turn back away, up the hill.  I have
+a brief difficult moment and a guy passes me.  I figure by this point I might
+as well risk blowing up.  I latch onto him.  With about 1.5 km to go, the hill
+ends and I am not dead.  From here on out it is first flat and then downhill.
+I feel better again, speed up, and drop the guy.  By the time the downhill
+starts for the final km, he is already way behind.  The girlfriend is there to
+take my picture, though I notice her too late to do any crazy moves.  I keep up
+the pace towards the finish line, where the winner has already started his
+cooldown run.
 
 ## Results
 
+The [results] have me at 41:16 in 40th position out of 872 finishers.  [Strava]
+is about the same.  That is 21 spots better than two years ago.  I am recovered
+quickly after the race though, my heart rate was in the low 170s throughout, LT
+heart rate.  I probably _could_ have pushed slightly more.  While I feel OK
+quickly after the race, I do feel my legs during runs on the days after the
+race.
+
+The top three finished in 33:24, 34:21, and 36:23. Still a long way to go for
+me before I come near that. If ever. Two of the women finished ahead of me:
+37:01 and 39:02. Not close to them either.
+
 ## Future
+
+I am a bit unsure _what_ to even aim for.  It does not help that I will likely
+be abroad for both the 10 km de l'ULB and the 20 km door Brussel, two races I
+have used as targets or side targets in the past.  So, I do not really feel
+like setting my sights on a particular race just yet. I am happy sticking to
+just getting more and better running in.
 
 [strava]: https://www.strava.com/activities/1390796816
 [rcb2016]: {{ site.baseurl }}{% post_url 2016-02-07-les-hivernales-du-rcb %}
+[results]: https://www.chronorace.be/Classements/ListeRapports.aspx?eventId=1189173365052717
