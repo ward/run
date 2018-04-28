@@ -6,15 +6,35 @@ tags:
 - report
 ---
 
-See HP laptop.
+On Monday I decided I really felt like racing something longer than the 10 km
+races I have been doing recently.  I want to do the 20 km door Brussel at the
+end of May and I feel like I need a bit more of an idea of what to expect.  It
+has been two years since I raced anything over 10 km. My eye fell on the
+"Jogging Den Bos Rond" which offered a 5.7 km, a 11.2 km, and a 16.7 km by
+doing one, two, or three loops, respectively. I decided to do the 16.7 km one.
 
 ## Training
 
-See HP laptop.
+In February I had some consistent weeks in a row. About 65 km per week with an
+LT workout, a long run, and some speedwork in it ("R" in Jack Daniels'
+terminology). The rest of the day are filled up with easy runs and Mondays are
+a day off. In March I came down with a fever and less than ideal breathing,
+though I managed to mostly contain it to just one week in terms of runs
+skipped. However, it did interfere with the actual workouts. Between getting
+sick and this race, I did no real workouts any more.
+
+The weeks leading up to the race, I did the following distances: 30.1 (fever
+week), 62.6, 65.6, and 66.4 (race week, including the race).  I purposefully
+put the race at the end of three high weeks. I usually take an easier week
+every fourth week so figured I would combine it with recovery from the race.
 
 ## Course Details
 
-See HP laptop.
+There is about 100 metre of asphalt that takes you from/to to the start/finish.
+The rest is just doing the loop one, two, or three times. Most of the course is
+pretty much flat. Not enough to affect your pace more than a few seconds.
+
+The loop starts with a few 100 metre of asphalt.
 
 ## Goals and Strategy
 
