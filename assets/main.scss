@@ -42,6 +42,13 @@ table {
       }
     }
   }
+  &#personalrecords {
+    td {
+      &.time {
+        text-align: right;
+      }
+    }
+  }
 }
 
 /**

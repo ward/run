@@ -40,7 +40,7 @@ just keep it as question marks.
       <th>Name</th>
       <th>Distance</th>
       <th>Time</th>
-      <th>Age grade</th>
+      <th>Age Grade</th>
     </tr>
   </thead>
   <tbody>
