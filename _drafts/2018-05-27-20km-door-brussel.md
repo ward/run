@@ -66,8 +66,8 @@ Some highlights:
 - Decent net uphill in the first half
 - Add on to that three tunnels
 - Bit more downhill in the second half
-- Easiness of second half negated by a 40m climb over 1 km starting neatly
-  around 2.5 km from the finish
+- Easiness of second half negated by a 40m climb over the course of 1 km
+  starting neatly around 2.5 km from the finish
 
 ## Goals and Strategy
 
@@ -85,15 +85,118 @@ At the very least I wanted to PR. Besides that I figured my body could handle a
 1:27:30, which would hopefully be plenty to keep him away. I had a stretch goal
 of 1:25 if I was feeling particularly good.
 
-In the week of the race, two important things happened. First, the weather
-prediction was terrible. The entire week was not that bad, but had plenty of
-rain and thunderstorms. The Sunday prediction for the race, however, was around
-24C at the start with not a cloud in the sky and a high of 29C. Not my kind of
-temperature.
+In the week of the race, two important things happened.
 
-## Race Day
+For the first point, let me sketch my co-worker's running a bit. On a yearly
+basis, when the worst of winter is past, he starts training for the 20km, races
+it, and then his running consistency slowly fizzles out again. As far as I have
+been able to gather, he has been doing it like that for at least five years
+now, possibly more. The same stuff was happening this year. He started at the
+end of January, doing 9 km, 21 km, and then 43 km in the first three weeks.
+After that he hovered around that weekly distance, sometimes down to 25,
+sometimes up to 55. He however spreads out these kilometres over an odd choice
+of runs. A selection includes: not running for seven days, then running 20 km
+and 17 km over the course of three days; and running 57 km over the course of
+four days, one of the runs being 30 km.
+
+With the sketch behind us, let us get on to the actual important news. The
+weekend before the race, he decided he should do _a 20 km run at 20 km race
+pace_ on Friday evening followed by hunting for a 4.5 km segment of mine on
+Sunday morning. Wednesday he tells me his foot hurts a bit (the foot had been
+nagging him a bit about a month ago), even when walking.  Thursday he comes
+into the office on crutches. The pain was too much to walk on and he was going
+to the doctor later that day. He still had hopes for Sunday, I just hoped he
+was not going to be dumb enough to run on that. Side note: I have also done
+dumb stuff in my running training, most of us have probably been there. I
+however did try to warn him almost every time we talked about running, so I
+feel like I can be free in what I say about it now.
+
+As for the second important thing, the weather prediction was terrible. The
+entire week was not that hot and had plenty of rain and thunderstorms. The
+Sunday prediction for the race, however, was around 24C at the start with not a
+cloud in the sky and a high of 29C. Not my kind of temperature. The race
+organisers said there would be three water curtains to help with the heat. The
+news outlets all started putting articles online how to survive a day like
+that. We barely ever reach 30C here, so this was a big deal. The day before the
+race, the weather was about the same as the weather was predicted to be on the
+day itself. I decided to do my planned recovery run, starting 30 minutes past
+what would be the starting time. [It sucked][strava-saturday], I suffered, it
+ruined my confidence for the race. At this point, I was going to be happy with
+a PR.
+
+The final plan was: do the first 10 km at 1h30 pace, then see what (if) I can
+do in the second half.
+
+## Pre-race Logistics
+
+### Friday
+
+To be more kind to my body, I decided to work from home on Friday. I tried to
+make sure I drank more water than usual to stay extra hydrated (is that even a
+thing?). There was no run this day.
+
+### Saturday
+
+I usually need quite some sleep (9 hours+) and am sadly also not very good at
+sleeping. Despite my attempts to fall asleep, I only got about 6-7 hours in. I
+hoped I could make it up the next night.
+
+As mentioned in the previous section, the weather on Saturday was pretty much
+the same as what was predicted for Sunday. I ran at 10:30 (30 minutes past the
+race's start time) to get an idea of what to expect. As above: [it
+sucked][strava-saturday], I suffered, it ruined my confidence for the race.
+
+The rest of the day was not kind to me either. Every time I got up out of the
+couch, I had a head rush and felt dizzy. I was still drinking quite a bit of
+water, but my body was not happy. I wondered if I got dehydrated after all. I
+was not sure what else I could do besides all the water drinking I was doing. I
+was not sure it was dehydration at all.
+
+I finished the day with my usual pre-race dinner of spaghetti bolognese.
+
+I had trouble falling asleep.
+
+### Sunday
+
+I woke up at 7:00 (3 hours till race start), only getting in about 7 hours of
+sleep. I decided to help wake me up by blasting up beat classic Belgian songs.
+It helped and they would stay on till I left around 8:30.
+
+I had two and a halve plates of the leftovers which was, in retrospect, maybe
+just a bit too much for a race. A burp during the race briefly brought up a
+tiny bit of it.
+
+Besides that it was a matter of drinking enough water and using the toilet
+often enough. We left at 8:30 to catch the metro to be at the race area around
+9:15. (The girlfriend was not racing, but was kind enough to come along and
+carry some water for after the race and a change of clothes)
+
+After some last small sips of water, I went into my wave's corral around 9:30,
+doing a short warmup jog in the area. Some clouds were showing, but afterwards
+I still went to hide under one of the trees to ensure I keep cool enough.
+
+- bolero
+- anthem
+- a few rain drops
+- start
 
 ## Race
+
+- too fast a start again
+- trying to hand water to guy in front who did not hear me
+- share it with someone who asked, wished him luck
+- 3k point was ahead of schedule
+- noticing someone with a weird running style, he stays a bit in front of me
+  for a while. Around 5k he just goes to the side and starts walking
+- tunnels slow me down, was still going too hard
+- tunnels probably made the gps iffy again
+- 6k still going ahead of schedule
+- strongly consider isostar
+- grab isostar, try two sips, regret and feel belly for a while after
+- water curtain area, run next to it, try to get hat wet too. Eh effect.
+- most of the water I have been grabbing has been going on head, trouble drinking it
+
+- ...
 
 ## Results
 
@@ -104,3 +207,4 @@ temperature.
 [edition2016]: {{site.baseurl }}{% post_url 2016-05-29-20km-door-brussel %}
 [12urenloop]: {{site.baseurl }}{% post_url 2018-05-09-12-urenloop %}
 [joggingdenbosrond]: {{site.baseurl }}{% post_url 2018-04-08-jogging-den-bos-rond %}
+[strava-saturday]: https://www.strava.com/activities/1596485020
