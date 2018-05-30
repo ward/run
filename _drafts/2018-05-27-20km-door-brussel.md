@@ -26,11 +26,17 @@ week. Been doing it this way as I have noticed some trouble in the past in
 getting safely past 70, so I have been giving my body time to catch up to
 things.
 
-The 65 km idea started in February and went OK then. Got some tempos in, some
-few 100m sprints. Halfway through March I caught a fever right before having to
-go to Italy for a conference.  I was forced to take several days off.  I went
-to the conference while still on fever reducing meds and short on sleep. It was
-a bit hard on the body, but I managed to get back to running.
+I also feel like I should mention I have been ensuring my long run is not too
+crazy in comparison to the total distance I run in a week.  Specifically, I
+have not run more than 18 km in one run since 8 January 2017, when I ran 21.5.
+This would not change in the build up to this race. I know I can run 20 km and
+I did not believe it would add anything in particular to my training.
+
+The 65 km per week idea started in February and went OK then. Got some tempos
+in, some few 100m sprints. Halfway through March I caught a fever right before
+having to go to Italy for a conference. I was forced to take several days off.
+I went to the conference while still on fever reducing meds and short on sleep.
+It was a bit hard on the body, but I managed to get back to running.
 
 In April my mind was turning towards the 20 km. I did a [test race on the 8th
 of April][joggingdenbosrond], seven weeks before the race. It went pretty well,
@@ -38,14 +44,15 @@ despite keeping myself under control, I managed around 4:20 pace. Of course,
 that one was flatter and, as it turns out, cooler temperature than the 20 km
 would be. Regardless, that sealed it for me, and I signed up shortly after. The
 rest of April went fine until the final week. My right knee had been bothering
-me a bit. It was not painful, just noticeable. A rusty/creaky feeling. I
-decided to take some days off, see if it changed anything. After a few days, it
-was still similar and I just got back into running.
+me a bit. It was not painful, just noticeable. A rusty/creaky feeling, the
+movement felt not necessarily smooth. I find it hard to describe. I decided to
+take some days off, see if it changed anything. After a few days, it was still
+similar and I just got back into running.
 
 For the first two weeks of May, I decided to slightly up the distance I ran: 68
-km and 70 km. Peaking of sorts (hah).  On top of that, the Wednesday of the
+km and 70 km. Peaking of sorts (hah). On top of that, the Wednesday of the
 second week had a [sort of 31×600m workout][12urenloop]. That one definitely
-tired the body out.  I got through it though and squeezed out a progression
+tired the body out. I got through it though and squeezed out a progression
 long run on the Sunday of that second week too.
 
 The next (and final) two weeks would be easier, with the race on the Sunday of
@@ -124,8 +131,8 @@ what would be the starting time. [It sucked][strava-saturday], I suffered, it
 ruined my confidence for the race. At this point, I was going to be happy with
 a PR.
 
-The final plan was: do the first 10 km at 1h30 pace, then see what (if) I can
-do in the second half.
+The final plan was: do the first 10 km at 1h30 pace, then see what (if
+anything) I can do in the second half.
 
 ## Pre-race Logistics
 
@@ -133,7 +140,7 @@ do in the second half.
 
 To be more kind to my body, I decided to work from home on Friday. I tried to
 make sure I drank more water than usual to stay extra hydrated (is that even a
-thing?). There was no run this day.
+thing?). There was no run planned this day.
 
 ### Saturday
 
@@ -164,23 +171,41 @@ It helped and they would stay on till I left around 8:30.
 
 I had two and a halve plates of the leftovers which was, in retrospect, maybe
 just a bit too much for a race. A burp during the race briefly brought up a
-tiny bit of it.
+tiny bit of it to the back of my throat.
 
 Besides that it was a matter of drinking enough water and using the toilet
 often enough. We left at 8:30 to catch the metro to be at the race area around
 9:15. (The girlfriend was not racing, but was kind enough to come along and
 carry some water for after the race and a change of clothes)
 
-After some last small sips of water, I went into my wave's corral around 9:30,
-doing a short warmup jog in the area. Some clouds were showing, but afterwards
-I still went to hide under one of the trees to ensure I keep cool enough.
+There was a brief distraction by a goose family ending up in the crowd. The
+police helped the troublemakers on their way though.
 
-- bolero
-- anthem
-- a few rain drops
-- start
+I made sure my watch was on the data screens I wanted Time-Distance-HR and Avg
+Pace-Lap Pace-HR.  The Forerunner 225 only has two screens with up to the three
+fields each. After some last small sips of water, I went into my wave's corral
+around 9:30, doing a short warm-up jog in the area. Some clouds were showing,
+but afterwards I still went to hide under one of the trees to ensure I keep
+cool enough.
+
+Soon, the [Bolero by Maurice Ravel][bolero] started playing. The 20 km door
+Brussel always uses this ~15 minutes long classical song as the final build up
+to the start. I kept my head focused on the race and did some knee lifts and
+similar things to keep the body moving. When the Bolero ends, the Belgian
+anthem starts playing, not many races in Belgium do this. I used it to get a
+bit more hyped and everyone's clapping helped get me further in the right
+mindset. By the end of it, I noticed a few rain drops were falling from the
+sky, which gave me back some of the confidence I had lost in the warmth the day
+before. The few lost drops would stop again immediately, but it was what I
+needed to fully focus on not worrying. The gun went off and everyone started
+slowly walking or jogging to the start line, which is a bit of a bottleneck.
 
 ## Race
+
+As is tradition in most any race of mine, I started out too fast. In my
+defence, it is a bit tricky to get right. The first km is downwards for a
+couple 100 metre before going upwards about to the same elevation it started
+out at.
 
 - too fast a start again
 - trying to hand water to guy in front who did not hear me
@@ -190,13 +215,23 @@ I still went to hide under one of the trees to ensure I keep cool enough.
   for a while. Around 5k he just goes to the side and starts walking
 - tunnels slow me down, was still going too hard
 - tunnels probably made the gps iffy again
+- realised the avg pace field was going to be useless and I'd have to look at
+  total time whenever passing a km marker
 - 6k still going ahead of schedule
 - strongly consider isostar
 - grab isostar, try two sips, regret and feel belly for a while after
 - water curtain area, run next to it, try to get hat wet too. Eh effect.
-- most of the water I have been grabbing has been going on head, trouble drinking it
+- most of the water I have been grabbing has been going on head, trouble
+  drinking it
 
 - ...
+
+- first half in 43:51, second half in 44:08
+- cobbles at the end felt much harder than at the start due to tiredness
+- bib 1592 was next to me at start and ~28 minutes in. 15 seconds behind me
+  somewhere in tervuren climb, think she caught up to me there, that I was
+  behind her briefly, then left her behind. Could be wrong. Check pictures of
+  women finishing around me.
 
 ## Results
 
@@ -208,3 +243,4 @@ I still went to hide under one of the trees to ensure I keep cool enough.
 [12urenloop]: {{site.baseurl }}{% post_url 2018-05-09-12-urenloop %}
 [joggingdenbosrond]: {{site.baseurl }}{% post_url 2018-04-08-jogging-den-bos-rond %}
 [strava-saturday]: https://www.strava.com/activities/1596485020
+[bolero]: https://www.youtube.com/watch?v=r30D3SW4OVw
