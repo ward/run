@@ -342,17 +342,60 @@ some water, a banana, and my medal.  The girlfriend finds me and we walk on to
 get away from the crowd and to find some shade under the trees. I drop down and
 take over 30 minutes before I feel like moving again to head home.
 
-- first half in 43:51, second half in 44:08
+<!--
 - bib 1592 was next to me at start and ~28 minutes in. 15 seconds behind me
   somewhere in tervuren climb, think she caught up to me there, that I was
   behind her briefly, then left her behind. Could be wrong. Check pictures of
   women finishing around me.
+  -->
 
 ## Results
 
+My [official time][results] is 1:27:59. [My Strava][strava] is also available.
+Despite the more friendly profile of the second half, I still had a positive
+split: 43:51 and 44:08. That makes for a 2:41 PR. I am satisfied, but not
+particularly overjoyed with this. I feel like I could definitely have done much
+better if it were not for the warmth. My ranking seems to confirm this, I broke
+into the top 1000 (984th to be exact). A PR of over 1300 spots.  That one
+_does_ make me quite happy. For comparison, two years ago, when it was five
+degrees Celsius cooler and clouded, the top 1000 was just over 1:25.
 
+|Year|Time|Rank|
+|:--:|---:|---:|
+|2015|1:30:41|2833|
+|2016|1:30:40|2345|
+|2018|1:27:59|984|
 
 ## Future
+
+### Near Future
+
+I am thinking I will go back to / continue with my base building. I believe it
+is time to try and push my weekly distance a bit further again. Hopefully my
+body agrees with my mind. Looking at other people, I still have quite a lot of
+room for improvement.
+
+### Fall
+
+The half marathon distance is a bit stupid, I like my numbers round.  Following
+that train of thought, I sort of got hooked on the idea of finding and doing
+various 20 km races. First major candidate for such a plan would be the [20
+kilomètres de Paris][paris20k] on 14 October. I would have to see whether I can
+actually fit that into my plans without it getting disgustingly pricy, but I
+like the idea on the surface. I believe it is both more flat and more likely to
+be less warm than the Brussels one.
+
+### Next Edition
+
+I have not decided yet whether I will take part again next year. The same two
+factors that made me hesitant after the 2016 edition are still in play:
+
+1. It is still a rather crowded affair. It was better than I remembered, which
+   is likely due to ensuring I start closer to the front of my wave, by
+   entering it earlier and getting "in the line" earlier. Another big factor is
+   that I also have gotten faster, of course.
+2. The weather at the end of May can be really sucky. This can ruin time goals
+   completely.
 
 [strava]: https://www.strava.com/activities/1599138377
 [edition2015]: {{site.baseurl }}{% post_url 2015-05-31-20km-door-brussel %}
@@ -361,3 +404,5 @@ take over 30 minutes before I feel like moving again to head home.
 [joggingdenbosrond]: {{site.baseurl }}{% post_url 2018-04-08-jogging-den-bos-rond %}
 [strava-saturday]: https://www.strava.com/activities/1596485020
 [bolero]: https://www.youtube.com/watch?v=r30D3SW4OVw
+[results]: http://prod.chronorace.be/Classements/Classement20km2017.aspx?eventId=1187502622894179&lng=NL
+[paris20k]: http://www.20kmparis.com/

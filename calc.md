@@ -62,9 +62,8 @@ you to compare yourself to someone of a different age or gender. In essence
 this value is the ratio of your time to the world record (or expected world
 record) for someone in your category.
 
-The way I understand it, this does *not* mean that a value of 70% indicates
-you are in the top 30% of the world. The value is only there to compare with
-the values of other people.
+This does *not* mean that a value of 70% indicates you are in the top 30% of
+the world. The value is only there to compare with the values of other people.
 
 <input type="number" class="narrow" placeholder="age" id="agAge" min="5" max="100" value="20" />
 years old
