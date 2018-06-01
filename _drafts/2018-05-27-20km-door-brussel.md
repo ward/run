@@ -59,10 +59,10 @@ The next (and final) two weeks would be easier, with the race on the Sunday of
 the second week. The distance went down a little bit (60k and 50k planned),
 though I still threw in a tempo on the Thursday of the first week. The first
 week ended in a trip to Amsterdam, which did add some walking and biking. The
-biking tired out the hip a little bit (left side especially), I think the
-rental bike must have not been too great for it. The week of the race was
-almost all recovery runs, except for Wednesday when I squeezed in a 500m sprint
-for a little internet competition.
+biking tired out my hip a little bit (left side especially), I think the rental
+bike must have not been too great for it and forced me in a slightly awkward
+position. The week of the race was almost all recovery runs, except for
+Wednesday when I squeezed in a 500m sprint for a little internet competition.
 
 ## Course Details
 
@@ -72,7 +72,7 @@ Some highlights:
 
 - Decent net uphill in the first half
 - Add on to that three tunnels
-- Bit more downhill in the second half
+- More downhill in the second half
 - Easiness of second half negated by a 40m climb over the course of 1 km
   starting neatly around 2.5 km from the finish
 
@@ -110,7 +110,7 @@ With the sketch behind us, let us get on to the actual important news. The
 weekend before the race, he decided he should do _a 20 km run at 20 km race
 pace_ on Friday evening followed by hunting for a 4.5 km segment of mine on
 Sunday morning. Wednesday he tells me his foot hurts a bit (the foot had been
-nagging him a bit about a month ago), even when walking.  Thursday he comes
+nagging him already about a month ago), even when walking.  Thursday he comes
 into the office on crutches. The pain was too much to walk on and he was going
 to the doctor later that day. He still had hopes for Sunday, I just hoped he
 was not going to be dumb enough to run on that. Side note: I have also done
@@ -131,8 +131,8 @@ what would be the starting time. [It sucked][strava-saturday], I suffered, it
 ruined my confidence for the race. At this point, I was going to be happy with
 a PR.
 
-The final plan was: do the first 10 km at 1h30 pace, then see what (if
-anything) I can do in the second half.
+The final plan was: do the first 10 km at 1h30 pace (4:30 per km), then see
+what (if anything) I can do in the second half.
 
 ## Pre-race Logistics
 
@@ -166,7 +166,7 @@ I had trouble falling asleep.
 ### Sunday
 
 I woke up at 7:00 (3 hours till race start), only getting in about 7 hours of
-sleep. I decided to help wake me up by blasting up beat classic Belgian songs.
+sleep again. I decided to help wake me up by blasting up beat classic Belgian songs.
 It helped and they would stay on till I left around 8:30.
 
 I had two and a halve plates of the leftovers which was, in retrospect, maybe
@@ -181,11 +181,13 @@ carry some water for after the race and a change of clothes)
 There was a brief distraction by a goose family ending up in the crowd. The
 police helped the troublemakers on their way though.
 
+TODO PICTURE
+
 I made sure my watch was on the data screens I wanted Time-Distance-HR and Avg
 Pace-Lap Pace-HR.  The Forerunner 225 only has two screens with up to the three
 fields each. After some last small sips of water, I went into my wave's corral
 around 9:30, doing a short warm-up jog in the area. Some clouds were showing,
-but afterwards I still went to hide under one of the trees to ensure I keep
+but afterwards I still went to hide under one of the trees to ensure I kept
 cool enough.
 
 Soon, the [Bolero by Maurice Ravel][bolero] started playing. The 20 km door
@@ -205,35 +207,150 @@ slowly walking or jogging to the start line, which is a bit of a bottleneck.
 As is tradition in most any race of mine, I started out too fast. In my
 defence, it is a bit tricky to get right. The first km is downwards for a
 couple 100 metre before going upwards about to the same elevation it started
-out at.
+out at. Around the end of the second kilometre, you pass in front of the royal
+palace, running over terrible terrible cobbles. At this point in time I still
+feel fresh so the extra concentration for it is easily managed.
 
-- too fast a start again
-- trying to hand water to guy in front who did not hear me
-- share it with someone who asked, wished him luck
-- 3k point was ahead of schedule
-- noticing someone with a weird running style, he stays a bit in front of me
-  for a while. Around 5k he just goes to the side and starts walking
-- tunnels slow me down, was still going too hard
-- tunnels probably made the gps iffy again
-- realised the avg pace field was going to be useless and I'd have to look at
-  total time whenever passing a km marker
-- 6k still going ahead of schedule
-- strongly consider isostar
-- grab isostar, try two sips, regret and feel belly for a while after
-- water curtain area, run next to it, try to get hat wet too. Eh effect.
-- most of the water I have been grabbing has been going on head, trouble
-  drinking it
+As we pass the first water stand, things are a bit of a clusterfuck. I somewhat
+easily can grab one, but someone in front of me fails to.  I start getting his
+attention to share mine, but he asks someone else before he notices me.
+Someone else comes from behind me and asks if I he can use what I have left.  I
+happily oblige and wish him good luck. I did not catch his bib so I do not know
+whether that worked out. I pass the 3k point on my watch ahead of my time
+schedule.
 
-- ...
+> First three kilometre in 4:09, 4:19, and 4:28.
+
+I notice someone with a rather weird running style in front of me. His legs
+swing somewhat sideways and it all looks rather laboured. I briefly ponder
+about it, but figure if it works for him, I am not one to judge. The race is
+softly climbing up a boulevard at this point, though everything is made more
+difficult by three tunnels spread throughout it. The tunnels give a brief
+reprieve when you enter them, but coming back out of them is a climb on top of
+the climbing. Not my favourite moment of the race, not the worst either though.
+Just past the second tunnel I notice the guy with the odd running style again.
+As I once again ponder his efficiency, he veers to the left side of the road
+and starts walking. So far for that question.
+
+We reach the end of the boulevard around the 6 km point and turn into
+Terkamerenbos. I notice my GPS distance and the race signage already disagree
+on the distance. I blamed it on the tunnels and decided I would ignoring the
+"average pace" field of my watch in favour of doing some calculations using my
+total time and the race signage. I do not have that information here, so the
+GPS laps are all that are mentioned here. Either way, I come still a bit too
+quickly through 6 km as well.
+
+> Kilometres four, five, and six: 4:45, 4:41, 4:24.
+
+This forest-y area we are now in has some more shade and I try to stick to it
+where possible.  The second water bottle stand is still clusterfucky, but
+slightly better than the last one. I begin to notice I am not good at drinking
+from a bottle while running, managing only the tiniest of sips, stressing my
+patience. Most of the water ends up on my head instead. Maybe a bit of waste as
+I see the first of the water curtains coming up around 7.5 km into the race.
+The setup is some device lying on the ground that is spraying upwards, creating
+a sort of fan of water. I take my hat off as we run past it in hopes of getting
+that extra wet too. The effects of it did not feel as significant as I hoped.
+Each individual water spray is rather thin. At the next provision stand only
+the sports drink by one of the sponsors is served. I grab one, take two sips of
+it and decide I do not trust it enough to down everything. I had not tested how
+my stomach handles it after all. A wise choice: shortly after the two sips my
+stomach felt rather heavy, something that would last for a km or two.
+
+Next we make a sharp right turn to get back out of the forest. During the turn,
+someone on the inside suddenly stops turning, running straight into my path,
+getting me out of my stride. I cast an angry glance and see him start walking.
+I do not understand how he thought that was the best course of action. If I
+recall he could have more easily stepped in between the sparse bushes on the
+inside of the turn. Shortly thereafter, I pass the official 10 km mark. I am
+over a minute ahead of what I had planned. Shortly _there_ after, my watch
+tells me we hit 10.
+
+> Official 10 km split: 43:51 (i.e., 4:23/km or on pace for 1:27:42).
+
+> Kilometres seven through ten: 4:51, 4:19, 4:22, and 4:26.
+
+I thought that from here on out it would be smooth sailing on a slight descent
+for a while.  I had misremembered. The road remains flat-ish and even throws in
+another climb at 11 km. It is not that bad in se, but my body started feeling
+the effort and running ahead of what I thought was good for me. Luckily after
+that last bump, the descending does finally start. I still feel the warmth and
+that fact that I went out a bit too fast though and am not speeding up the way
+I had hoped I would. I zoned out more from here on out too, not noticing or
+remembering as much from my surroundings as I did before. 
+
+As I spot the second water curtain on the other side of the road (~12 km?), I
+veer towards it (while ensuring I do not run in front of other runners). I
+decide to just run straight over the device, maximising the amount of water to
+hit me. I exit completely drenched, but feeling a bit refreshed. In retrospect
+I think it was worth it in this weather.
+
+I notice someone who, from the side, looks like someone I might know. He does
+not notice me. For a while I hesitate whether to say hi, but eventually I pass
+him without having said a word. Turns out it was not that person, so social
+crisis averted.
+
+In my zoning out, I do notice the shirt of someone in front of me. It says
+"follow me till the last mile". I think he may have been a pacer before.  Over
+the next kilometres, I will see him often as we run about the same pace.
+
+> Kilometres eleven through fifteen: 4:35, 4:24, 4:22, 4:28, and 4:26.
+
+The descending is behind us now and I am feeling the effort more and more. It
+is starting to show in my splits as I have trouble holding the 4:30 pace I had
+planned for the _first_ half. I get a little worried about completely blowing
+up. I use the final water curtain in the same manner as the second, running
+straight over it. Quite some water gets in my shoes now, which feels less nice.
+The rest of my body is very happy with the refreshment though.
+
+It is needed too, because the worst is yet to come. The Tervurenlaan climb is
+coming up, hated and feared by most people doing this race. In 2015 I had quite
+some in the tank still and felt quite alright on it. In 2016 I was already
+falling apart and the climb just completely ruined me. I feared today would not
+be a happy memory.
+
+We turn onto the Tervurenlaan and... things feel OK. It is going upwards, but
+not that bad at all.  My relief is short-lived. The actual climb was still to
+come. Once that happens, I start slowing down more, adjusting my pace to keep
+my heart rate under 180. I see "follow me till the last mile" guy slowly
+getting away, but do not bother adjusting my pace to his. By the time we reach
+the top, I am ready for this race to end.
+
+> Kilometres sixteen through eighteen: 4:32, 4:35, and 5:07.
+
+I feel that my body has not much left to give and focus on tailing a woman who
+passes by for some pacing. I do know that PRing should be easy now. In the
+distance I see the monument marking the finish line. I get caught up in the
+moment and make a beginner's mistake: I start my end "sprint". There is however
+another 1.5 km to go. I realise this as we reach a roundabout that I know to be
+about 1 km from the line. I briefly slow down again, but then think "fuck it".
+If there is anything at all left in the tank, then we are throwing it all out
+now. I overtake people, an act that is going much more smoothly than in
+previous editions. The crowd of remaining runners is much less dense than I am
+used to. One of the people I pass is "follow me till the last mile" guy, which
+gives me some satisfaction. It took me longer than the last mile, but I
+listened to his shirt in the end.
+
+Coming into the park in which the finish line is located, there are some
+cobbles. While they are, in theory, much easier to run on than the one in front
+of the royal palace early on in the race, they give me more difficulty. My
+tired body has trouble quickly getting itself through that section.
+
+Finally the finish line itself is in sight. I use whatever else I have left and
+am glad to have made it in one piece. After crossing, I stumble through to get
+some water, a banana, and my medal.  The girlfriend finds me and we walk on to
+get away from the crowd and to find some shade under the trees. I drop down and
+take over 30 minutes before I feel like moving again to head home.
 
 - first half in 43:51, second half in 44:08
-- cobbles at the end felt much harder than at the start due to tiredness
 - bib 1592 was next to me at start and ~28 minutes in. 15 seconds behind me
   somewhere in tervuren climb, think she caught up to me there, that I was
   behind her briefly, then left her behind. Could be wrong. Check pictures of
   women finishing around me.
 
 ## Results
+
+
 
 ## Future
 
