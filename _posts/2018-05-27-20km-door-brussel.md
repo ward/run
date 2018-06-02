@@ -183,7 +183,7 @@ carry some water for after the race and a change of clothes.
 There was a brief distraction due to a goose family ending up in the crowd. The
 police helped the troublemakers on their way though.
 
-[![goosepic]][gooselink]
+[![goosepic]][gooselink]  
 *Another agent was present outside this view. Someone else told me they had
 seen five agents discussing the goose situation earlier.*
 
