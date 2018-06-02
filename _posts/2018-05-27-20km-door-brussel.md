@@ -39,9 +39,9 @@ I went to the conference while still on fever reducing meds and short on sleep.
 It was a bit hard on the body, but I managed to get back to running.
 
 In April my mind was turning towards the 20 km. I did a [test race on the 8th
-of April][joggingdenbosrond], seven weeks before the race. It went pretty well,
-despite keeping myself under control, I managed around 4:20 pace. Of course,
-that one was flatter and, as it turns out, cooler temperature than the 20 km
+of April][joggingdenbosrond], seven weeks before the race. It went pretty well.
+Despite keeping myself under control, I managed around 4:20 pace. Of course,
+that race was flatter and, as it turns out, cooler temperature than the 20 km
 would be. Regardless, that sealed it for me, and I signed up shortly after. The
 rest of April went fine until the final week. My right knee had been bothering
 me a bit. It was not painful, just noticeable. A rusty/creaky feeling, the
@@ -55,14 +55,14 @@ second week had a [sort of 31×600m workout][12urenloop]. That one definitely
 tired the body out. I got through it though and squeezed out a progression
 long run on the Sunday of that second week too.
 
-The next (and final) two weeks would be easier, with the race on the Sunday of
-the second week. The distance went down a little bit (60k and 50k planned,
+The next (and final) two weeks were easier, with the race on the Sunday of the
+second week. The distance went down a little bit (60k and 50k planned,
 respectively), though I still threw in a tempo on the Thursday of the first
-week. The first week ended with a trip to Amsterdam, which did add some walking
-and biking. The biking tired out my hip a little bit (left side especially), I
-think the rental bike must have forced me in a slightly awkward position. The
-week of the race was almost all recovery runs, except for Wednesday when I
-squeezed in a 500m sprint for a little internet competition.
+week. The first week ended with a trip to Amsterdam, which added some walking
+and biking. The biking tired out the outsides of my hip a little bit (left side
+especially), I think the rental bike must have forced me in a slightly awkward
+position. The week of the race was almost all recovery runs, except for
+Wednesday when I squeezed in a 500m sprint for a little internet competition.
 
 ## Course Details
 
@@ -82,11 +82,12 @@ On a non-number level, I wanted to make sure my co-worker would not be the best
 of the lab after this race. I was OK with him breaking my old PR, but I was set
 on breaking it myself too and doing it better.
 
-In actual numbers, my PR was at 1:30:40 from 2016 (2015 was 1:30:41, I paced
-2016 terribly). His PR was 1:33:xx from 2016. I will admit I did not feel
-terribly threatened (hubris?): I figured if he would break my old PR, it would
-not be by much. He on the other hand _was_ saying his training had been better
-than ever and that he felt more in shape than ever before.
+In actual numbers, my PR was at 1:30:40 from 2016. 2015 had been 1:30:41, I
+paced 2016 terribly and blew up. My co-worker's PR was 1:33:xx from 2016. I
+will admit I did not feel terribly threatened by him (hubris?). I figured if he
+would break my old PR, it would not be by much. He on the other hand _was_
+saying his training had been better than ever and that he felt more in shape
+than ever before.
 
 At the very least I wanted to PR. Besides that I figured my body could handle a
 1:27:30, which would hopefully be plenty to keep him away. I had a stretch goal
@@ -176,34 +177,38 @@ me though, I think.
 
 Besides that it was a matter of drinking enough water and using the toilet
 often enough. We left at 8:30 to catch the metro to be at the race area around
-9:15. (The girlfriend was not racing, but was kind enough to come along and
-carry some water for after the race and a change of clothes)
+9:15. The girlfriend was not racing, but was kind enough to come along and
+carry some water for after the race and a change of clothes.
 
-There was a brief distraction by a goose family ending up in the crowd. The
+There was a brief distraction due to a goose family ending up in the crowd. The
 police helped the troublemakers on their way though.
 
 [![goosepic]][gooselink]
+*Another agent was present outside this view. Someone else told me they had
+seen five agents discussing the goose situation earlier.*
 
-I made sure my watch was on the data screens I wanted Time-Distance-HR and Avg
-Pace-Lap Pace-HR.  The Forerunner 225 only has two screens with up to the three
-fields each. After some last small sips of water, I went into my wave's corral
-around 9:30. For once, entrance to the corral seemed to actually be checked
-properly.  There were even some policemen accompanying the race official in
-case someone would start complaining.  Next I did a short warm-up jog in the
-area. Some clouds were showing, but afterwards I still went to hide under one
-of the trees to ensure I kept cool enough.
+I made sure my watch was on the data screens I wanted. The Forerunner 225 only
+has two screens with up to the three fields each. I picked Time-Distance-HR and
+Avg Pace-Lap Pace-HR. Due to GPS discrepancies, the average pace field would
+prove largely useless. After some last small sips of water, I went into my
+wave's corral around 9:30. For once, entrance to the corral seemed to actually
+be checked properly. There were even some policemen accompanying the race
+official in case someone would start complaining. Next I did a short warm-up
+jog in the area. Some clouds were showing, but afterwards I still went to hide
+under one of the trees to ensure I kept cool enough.
 
 Soon, the [Bolero by Maurice Ravel][bolero] started playing. The 20 km door
 Brussel always uses this ~15 minutes long classical song as the final build up
 to the start. I kept my head focused on the race and did some knee lifts and
-similar things to keep the body moving. When the Bolero ends, the Belgian
-anthem starts playing, not many races in Belgium do this. I used it to get a
-bit more hyped and everyone's clapping helped get me further in the right
-mindset. By the end of it, I noticed a few rain drops were falling from the
-sky, which gave me back some of the confidence I had lost in the warmth the day
-before. The few lost drops would stop again immediately, but it was what I
-needed to fully focus on not worrying. The gun went off and everyone started
-slowly walking or jogging to the start line, which is a bit of a bottleneck.
+similar things to keep the body moving. When the Bolero ends, the [Belgian
+anthem][belgiananthem] starts playing, not many races in Belgium do this. I
+used it to get a bit more hyped and everyone's clapping helped get me further
+in the right mindset. By the end of it, I noticed a few rain drops were falling
+from the sky, which gave me back some of the confidence I had lost in the
+warmth the day before. The few lost drops would stop again immediately, but it
+was what I needed to fully focus on not worrying. The gun went off and everyone
+started slowly walking or jogging to the start line, which is a bit of a
+bottleneck.
 
 ## Race
 
@@ -215,8 +220,8 @@ palace, running over terrible terrible cobbles. At this point in time I still
 feel fresh so the extra concentration for it is easily managed.
 
 As we pass the first water stand, things are a bit of a clusterfuck. I somewhat
-easily can grab one, but someone in front of me fails to.  I start getting his
-attention to share mine, but he asks someone else before he notices me.
+easily can grab one, but someone in front of me fails to do so. I start getting
+his attention to share mine, but he asks someone else before he notices me.
 Someone else comes from behind me and asks if I he can use what I have left.  I
 happily oblige and wish him good luck. I did not catch his bib so I do not know
 whether that worked out. I pass the 3k point on my watch ahead of my time
@@ -237,10 +242,11 @@ and starts walking. So far for that question.
 
 We reach the end of the boulevard around the 6 km point and turn into
 Terkamerenbos. I notice my GPS distance and the race signage already disagree
-on the distance. I blamed it on the tunnels and decided I would ignoring the
+on the distance. I blame it on the tunnels and decide I will ignore the
 "average pace" field of my watch in favour of doing some calculations using my
 total time and the race signage. I do not have that information here, so the
-GPS laps are all that are mentioned here. Either way, I come still a bit too
+GPS laps are all that are mentioned here. Perhaps I should have started
+pressing the lap button when I saw signs. Either way, I am still a bit too
 quickly through 6 km as well.
 
 > Kilometres four, five, and six: 4:45, 4:41, 4:24.
@@ -249,16 +255,20 @@ This forest-y area we are now in has some more shade and I try to stick to it
 where possible.  The second water bottle stand is still clusterfucky, but
 slightly better than the last one. I begin to notice I am not good at drinking
 from a bottle while running, managing only the tiniest of sips, stressing my
-patience. Most of the water ends up on my head instead. Maybe a bit of waste as
-I see the first of the water curtains coming up around 7.5 km into the race.
-The setup is some device lying on the ground that is spraying upwards, creating
-a sort of fan of water. I take my hat off as we run past it in hopes of getting
-that extra wet too. The effects of it did not feel as significant as I hoped.
-Each individual water spray is rather thin. At the next provision stand only
-the sports drink by one of the sponsors is served. I grab one, take two sips of
-it and decide I do not trust it enough to down everything. I had not tested how
-my stomach handles it after all. A wise choice: shortly after the two sips my
-stomach felt rather heavy, something that would last for a km or two.
+patience. I end up pouring most of the water on my head instead. Maybe a bit of
+waste as I see the first of the water curtains coming up around 7.5 km into the
+race.  The setup is some device lying on the ground that is spraying upwards,
+creating a sort of fan of water. I take my hat off as we run past it in hopes
+of getting that extra wet too. The effects of it did not feel as significant as
+I hoped.  Each individual water spray is rather thin. At the next provision
+stand only the sports drink by one of the sponsors is served. I grab one, take
+two sips of it and decide I do not trust it enough to down everything. I had
+not tested how my stomach handles it after all. A wise choice: shortly after
+the two sips my stomach felt rather heavy, something that would last for a km
+or two.
+
+[![terkamerenpic]][terkamerenpiclink]
+*I am on the left, in the Belgian tricolore shorts.*
 
 Next we make a sharp right turn to get back out of the forest. During the turn,
 someone on the inside suddenly stops turning, running straight into my path,
@@ -276,11 +286,11 @@ tells me we hit 10.
 I thought that from here on out it would be smooth sailing on a slight descent
 for a while.  I had misremembered. The road remains flat-ish and even throws in
 another climb at 11 km. It is not that bad in se, but my body started feeling
-the effort and running ahead of what I thought was good for me. Luckily after
-that last bump, the descending does finally start. I still feel the warmth and
-that fact that I went out a bit too fast though and am not speeding up the way
-I had hoped I would. I zoned out more from here on out too, not noticing or
-remembering as much from my surroundings as I did before. 
+the effort of running faster than what I thought was good for me in this
+weather. Luckily after that last bump, the descending does finally start. I am
+not speeding up the way I had hoped I would. Body says no. I zoned out more
+from here on out too, not noticing or remembering as much from my surroundings
+as I did before. 
 
 As I spot the second water curtain on the other side of the road (~12 km?), I
 veer towards it (while ensuring I do not run in front of other runners). I
@@ -291,7 +301,7 @@ I think it was worth it in this weather.
 I notice someone who, from the side, looks like someone I might know. He does
 not notice me. For a while I hesitate whether to say hi, but eventually I pass
 him without having said a word. Turns out it was not that person, so social
-crisis averted.
+awkwardness crisis averted.
 
 In my zoning out, I do notice the shirt of someone in front of me. It says
 "follow me till the last mile". I think he may have been a pacer before.  Over
@@ -321,29 +331,38 @@ the top, I am ready for this race to end.
 
 > Kilometres sixteen through eighteen: 4:32, 4:35, and 5:07.
 
-I feel that my body has not much left to give and focus on tailing a woman who
-passes by for some pacing. I do know that PRing should be easy now. In the
-distance I see the monument marking the finish line. I get caught up in the
-moment and make a beginner's mistake: I start my end "sprint". There is however
-another 1.5 km to go. I realise this as we reach a roundabout that I know to be
-about 1 km from the line. I briefly slow down again, but then think "fuck it".
-If there is anything at all left in the tank, then we are throwing it all out
-now. I overtake people, an act that is going much more smoothly than in
-previous editions. The crowd of remaining runners is much less dense than I am
-used to. One of the people I pass is "follow me till the last mile" guy, which
-gives me some satisfaction. It took me longer than the last mile, but I
-listened to his shirt in the end.
+I feel that my body does not have much left to give. To keep the pace OK, I
+focus on tailing a woman I spotted near me. A glance at my watch does tell me
+that PRing should be easy now. The Tervurenlaan had trees for some shade, but
+now that we are past it, I feel the sun burning on my back. I flip my hat
+backwards and live with potentially looking like a douche. In the distance I
+see the monument marking the finish line.  I get caught up in the moment and
+make a beginner's mistake: I start my end "sprint". There is however another
+1.5 km to go. I realise this as we reach a roundabout that I know to be about 1
+km from the line. I briefly slow down again, but then think "fuck it".  If
+there is anything at all left in the tank, then we are throwing it all out now.
+I overtake people, an act that is going much more smoothly than in previous
+editions. The crowd of remaining runners is less dense than I am used to. One
+of the people I pass is "follow me till the last mile" guy, which gives me some
+satisfaction. It took me longer than the last mile, but I listened to his shirt
+in the end.
 
 Coming into the park in which the finish line is located, there are some
-cobbles. While they are, in theory, much easier to run on than the one in front
-of the royal palace early on in the race, they give me more difficulty. My
-tired body has trouble quickly getting itself through that section.
+cobbles. While they are, in theory, much easier to run on than the ones in
+front of the royal palace early on in the race, they give me more difficulty.
+My tired body has trouble quickly getting itself through that section.
+
+[![finishpic]][finishpiclink]
+*Longingly looking at the finish line.*
 
 Finally the finish line itself is in sight. I use whatever else I have left and
 am glad to have made it in one piece. After crossing, I stumble through to get
 some water, a banana, and my medal.  The girlfriend finds me and we walk on to
 get away from the crowd and to find some shade under the trees. I drop down and
 take over 30 minutes before I feel like moving again to head home.
+
+[![passedoutpic]][passedoutpiclink]
+*Ded.*
 
 <!--
 - bib 1592 was next to me at start and ~28 minutes in. 15 seconds behind me
@@ -369,6 +388,15 @@ degrees Celsius cooler and clouded, the top 1000 was just over 1:25.
 |2016|1:30:40|2345|
 |2018|1:27:59|984|
 
+The injured co-worker did not run the race in the end. The doctor put him on
+anti-inflammation medication, though he said it might also be a stress fracture
+if the pain persists. Of the other co-workers that took part, none finished
+within fifteen minutes of me.
+
+I posted some pictures and results on Facebook. This lead to everyone that saw
+me throughout the week telling me I run ridiculously fast. It is all about the
+point of view, I guess. I definitely need to/want to get better still.
+
 ## Future
 
 ### Near Future
@@ -376,7 +404,7 @@ degrees Celsius cooler and clouded, the top 1000 was just over 1:25.
 I am thinking I will go back to / continue with my base building. I believe it
 is time to try and push my weekly distance a bit further again. Hopefully my
 body agrees with my mind. Looking at other people, I still have quite a lot of
-room for improvement.
+room for improvement with my measly 65 km per week.
 
 ### Fall
 
@@ -393,10 +421,9 @@ be less warm than the Brussels one.
 I have not decided yet whether I will take part again next year. The same two
 factors that made me hesitant after the 2016 edition are still in play:
 
-1. It is still a rather crowded affair. It was better than I remembered, which
-   is likely due to ensuring I start closer to the front of my wave, by
-   entering it earlier and getting "in the line" earlier. Another big factor is
-   that I also have gotten faster, of course.
+1. It is still a rather crowded affair. It was better than I remembered,
+   because I ensured I started closer to the front of my wave and because I
+   have gotten faster since my last edition.
 2. The weather at the end of May can be really sucky. This can ruin time goals
    completely.
 
@@ -412,3 +439,10 @@ factors that made me hesitant after the 2016 edition are still in play:
 [bxl20k]: http://www.20kmdoorbrussel.be/_static/en/index.html
 [goosepic]: https://farm2.staticflickr.com/1727/27640545127_11a1437c1b_z.jpg
 [gooselink]: https://www.flickr.com/photos/wardmuylaert/27640545127/in/album-72157695822801391/
+[belgiananthem]: https://www.youtube.com/watch?v=Wtl8VN2lWaI
+[finishpic]: https://farm2.staticflickr.com/1746/41608738465_a60694bcf0_z.jpg
+[finishpiclink]: https://www.flickr.com/photos/wardmuylaert/41608738465/in/album-72157695822801391/
+[terkamerenpic]: https://farm2.staticflickr.com/1755/42459390562_be5b6279c9_z.jpg
+[terkamerenpiclink]: https://www.flickr.com/photos/wardmuylaert/42459390562/in/album-72157695822801391/
+[passedoutpic]: https://farm2.staticflickr.com/1724/41788583654_d70e38278d_z.jpg
+[passedoutpiclink]: https://www.flickr.com/photos/wardmuylaert/41788583654/in/album-72157695822801391/
