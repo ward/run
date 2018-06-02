@@ -5,7 +5,7 @@ date: 2018-05-27 12:00:00
 tags: report
 ---
 
-Here we are again. My third time competing in the 20 km door Brussel. In the
+Here we are again. My third time competing in the [20 km door Brussel][bxl20k]. In the
 past I took part in the [2015][edition2015] and [2016][edition2016] editions.
 After the 2016 edition I declared I would stop caring about it because it is so
 stupidly crowded: up to 40,000 people sign up, starting across just six waves.
@@ -20,15 +20,15 @@ six weeks before the race itself.
 
 Have not actually done much specificity training for this one. Instead I will
 just describe what I _have_ done the past months. Base building, largely.
-Aiming to run 65 km per week, spread over six days, longer run on Sunday,
-workouts if I think the body (should) feel up for it. Down weeks every fourth
+Aiming to run 65 km per week, spread over six days.  Long runs on Sunday. A
+tempo run if the body feels up to it. Some strides. Down weeks every fourth
 week. Been doing it this way as I have noticed some trouble in the past in
 getting safely past 70, so I have been giving my body time to catch up to
 things.
 
 I also feel like I should mention I have been ensuring my long run is not too
-crazy in comparison to the total distance I run in a week.  Specifically, I
-have not run more than 18 km in one run since 8 January 2017, when I ran 21.5.
+crazy in comparison to the total distance I run in a week. Specifically, I
+have not run more than 18 km in one run since 8 January _2017_, when I ran 21.5.
 This would not change in the build up to this race. I know I can run 20 km and
 I did not believe it would add anything in particular to my training.
 
@@ -47,7 +47,7 @@ rest of April went fine until the final week. My right knee had been bothering
 me a bit. It was not painful, just noticeable. A rusty/creaky feeling, the
 movement felt not necessarily smooth. I find it hard to describe. I decided to
 take some days off, see if it changed anything. After a few days, it was still
-similar and I just got back into running.
+similar and I decided to just get back to running.
 
 For the first two weeks of May, I decided to slightly up the distance I ran: 68
 km and 70 km. Peaking of sorts (hah). On top of that, the Wednesday of the
@@ -56,13 +56,13 @@ tired the body out. I got through it though and squeezed out a progression
 long run on the Sunday of that second week too.
 
 The next (and final) two weeks would be easier, with the race on the Sunday of
-the second week. The distance went down a little bit (60k and 50k planned),
-though I still threw in a tempo on the Thursday of the first week. The first
-week ended in a trip to Amsterdam, which did add some walking and biking. The
-biking tired out my hip a little bit (left side especially), I think the rental
-bike must have not been too great for it and forced me in a slightly awkward
-position. The week of the race was almost all recovery runs, except for
-Wednesday when I squeezed in a 500m sprint for a little internet competition.
+the second week. The distance went down a little bit (60k and 50k planned,
+respectively), though I still threw in a tempo on the Thursday of the first
+week. The first week ended with a trip to Amsterdam, which did add some walking
+and biking. The biking tired out my hip a little bit (left side especially), I
+think the rental bike must have forced me in a slightly awkward position. The
+week of the race was almost all recovery runs, except for Wednesday when I
+squeezed in a 500m sprint for a little internet competition.
 
 ## Course Details
 
@@ -109,8 +109,8 @@ four days, one of the runs being 30 km.
 With the sketch behind us, let us get on to the actual important news. The
 weekend before the race, he decided he should do _a 20 km run at 20 km race
 pace_ on Friday evening followed by hunting for a 4.5 km segment of mine on
-Sunday morning. Wednesday he tells me his foot hurts a bit (the foot had been
-nagging him already about a month ago), even when walking.  Thursday he comes
+Sunday morning. Wednesday he tells me his foot hurts, even when walking (the foot had been
+nagging him already about a month ago). Thursday he comes
 into the office on crutches. The pain was too much to walk on and he was going
 to the doctor later that day. He still had hopes for Sunday, I just hoped he
 was not going to be dumb enough to run on that. Side note: I have also done
@@ -171,7 +171,8 @@ It helped and they would stay on till I left around 8:30.
 
 I had two and a halve plates of the leftovers which was, in retrospect, maybe
 just a bit too much for a race. A burp during the race briefly brought up a
-tiny bit of it to the back of my throat.
+tiny bit of it to the back of my throat. Nothing else of it directly bothered
+me though, I think.
 
 Besides that it was a matter of drinking enough water and using the toilet
 often enough. We left at 8:30 to catch the metro to be at the race area around
@@ -181,14 +182,16 @@ carry some water for after the race and a change of clothes)
 There was a brief distraction by a goose family ending up in the crowd. The
 police helped the troublemakers on their way though.
 
-TODO PICTURE
+[![goosepic]][gooselink]
 
 I made sure my watch was on the data screens I wanted Time-Distance-HR and Avg
 Pace-Lap Pace-HR.  The Forerunner 225 only has two screens with up to the three
 fields each. After some last small sips of water, I went into my wave's corral
-around 9:30, doing a short warm-up jog in the area. Some clouds were showing,
-but afterwards I still went to hide under one of the trees to ensure I kept
-cool enough.
+around 9:30. For once, entrance to the corral seemed to actually be checked
+properly.  There were even some policemen accompanying the race official in
+case someone would start complaining.  Next I did a short warm-up jog in the
+area. Some clouds were showing, but afterwards I still went to hide under one
+of the trees to ensure I kept cool enough.
 
 Soon, the [Bolero by Maurice Ravel][bolero] started playing. The 20 km door
 Brussel always uses this ~15 minutes long classical song as the final build up
@@ -406,3 +409,6 @@ factors that made me hesitant after the 2016 edition are still in play:
 [bolero]: https://www.youtube.com/watch?v=r30D3SW4OVw
 [results]: http://prod.chronorace.be/Classements/Classement20km2017.aspx?eventId=1187502622894179&lng=NL
 [paris20k]: http://www.20kmparis.com/
+[bxl20k]: http://www.20kmdoorbrussel.be/_static/en/index.html
+[goosepic]: https://farm2.staticflickr.com/1727/27640545127_11a1437c1b_z.jpg
+[gooselink]: https://www.flickr.com/photos/wardmuylaert/27640545127/in/album-72157695822801391/
