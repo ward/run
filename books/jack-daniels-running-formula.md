@@ -43,6 +43,21 @@ point. "What is the point of this workout?" is something he likes to repeat.
   Single workout no more than 10% of weekly distance. If you can do steady 20
   min, then do at least 30 min if doing cruise intervals.  Only count the T
   parts here of course, not the E that is warmup, cooldown, ...
-* **I**nterval.
-* (**H**ard).
-* **R**epetition.
+* **I**nterval. Purpose: maximize aerobic power (VO2max). To improve it, need
+  intensity close to or at that.  Takes 90-120s to work up to VO2max. Maximum
+  you can run at it is 11 minutes.  Training between 3-5 minutes, but if you
+  keep recovery short, you can make each interval shorter still. Longer than 5
+  is too demanding. Shorter works since the short recovery time enables
+  reaching VO2max more quickly in the next interval.  From resting, it takes ~2
+  minutes to reach VO2max. Don't go beyond your VO2max pace: no extra benefit,
+  just extra useless stress, and your next intervals might be too slow
+  rendering them useless. His **I** workouts are based on distance in a certain
+  time.  Maximum per week: min(10k, 8% * weekly distance).
+* (**H**ard). Like **I**, but based on time. Pace is by feel of 10-12 min
+  racing. For calculation, assume 5 min =~ 1600m. **H** is handy at altitude,
+  hitting paces is difficult there.
+* **R**epetition. Purpose: improve anaerobic power, speed, running economy.
+  Form very important. Hard:recovery ratio of 1:2 or 1:3 (based on time). Other
+  suggestion: 400m hard, 400m jog with possible walk the last 10-20 meter.
+  Maximum per week: min(8k, 5% * weekly distance). Single interval should max
+  out at ~2 minutes.
