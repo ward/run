@@ -1,13 +1,22 @@
 ---
 layout: page
-title: Jack Daniels' Running Formula by Jack Daniels
+title: Daniels' Running Formula by Jack Daniels
 exclude: true
 ---
 
-This is about the third version of the book.
+My notes are about the third version of the book.
 
-*Idea: Also link to the threads on ARTC discussing each of the chapters with
-Catzerz' summary.*
+# ARTC Review
+
+The ARTC community on reddit reviewed this book through means of a few threads.
+Here are some links, I believe I got all of them.
+
+1. [Understanding Daniels' Running Formula](https://www.reddit.com/r/AdvancedRunning/comments/6pb807/dissecting_daniels_understanding_daniels_running/)
+2. [Physiology of Training Intensities](https://www.reddit.com/r/artc/comments/6qrk62/dissecting_daniels_chapter_two_physiology_of/)
+3. [Training Intensities](https://www.reddit.com/r/artc/comments/6s7jux/dissecting_daniels_part_3_training_intensities/)
+4. [Fitness Benchmarks](https://www.reddit.com/r/artc/comments/6tnemg/dissecting_daniels_part_4_fitness_benchmarks/)
+5. [The Season Plan](https://www.reddit.com/r/artc/comments/6tnemg/dissecting_daniels_part_4_fitness_benchmarks/)
+6. [All About That Base](https://www.reddit.com/r/artc/comments/6wmsmt/dissecting_daniels_part_6_all_about_that_base/)
 
 # Chapter 4: Training Runs and Intensities
 
