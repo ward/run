@@ -161,3 +161,11 @@ Using the numbers and categories in *Faster Road Racing*. Good book, go get it.
     </tr>
   </tbody>
 </table>
+
+# Others' Calculators
+
+* [The Running Calculator](http://www.runfastcoach.com/calc2/index.php) by
+  Tinman Endurance Coaching
+* [Jack Daniels' VDOT Running
+  Calculator](https://runsmartproject.com/calculator/) by The Run S.M.A.R.T.
+  Project
