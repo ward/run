@@ -75,3 +75,17 @@ input {
 .site-header {
   border-top: 0px;
 }
+
+/**
+ * Style the kramdown table of contents
+ */
+#markdown-toc {
+  float: right;
+  padding-left: 2em;
+  margin-left: 1em;
+  list-style-type: upper-roman;
+
+  ol {
+    list-style-type: lower-roman;
+  }
+}
