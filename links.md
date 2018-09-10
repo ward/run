@@ -1,7 +1,7 @@
 ---
 layout: page
 title: links
-permalinks: /links/
+permalink: /links/
 ---
 
 Some interesting links, categorised where possible. Non-exhaustive list, things
