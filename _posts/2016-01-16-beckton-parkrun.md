@@ -2,7 +2,9 @@
 layout: post
 title: "Beckton Parkrun #191"
 date: 2016-01-16 18:00:00
-tags: report
+tags:
+- report
+- podium
 ---
 
 I was in London to visit a friend of the girlfriend. The girlfriend wanted to

@@ -4,6 +4,7 @@ title: "Jaarmarktjogging Jette"
 date: 2017-08-27 12:00:00
 tags:
 - report
+- podium
 ---
 
 I found out there was a small race on walking distance from my house, the

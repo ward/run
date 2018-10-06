@@ -192,3 +192,9 @@ https://www.trainingpeaks.com/blog/applying-the-numbers-part-1-chronic-training-
 https://www.trainingpeaks.com/blog/the-science-of-the-performance-manager/
 
 [ewmawiki]: https://en.wikipedia.org/wiki/Moving_average#Exponential_moving_average "Moving average - Wikipedia"
+
+---
+
+Some playing around with ATL/CTL alpha value https://docs.google.com/spreadsheets/d/1HmoaPjfEVsLyhA4owvr9VMPrQ0y90klQAP-GFNcIjpc/edit#gid=0
+
+TODO: A mention of what Stravistix does? People might know it through that.
