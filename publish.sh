@@ -6,4 +6,4 @@ DST_FOLDER=/var/www/run.wxm.be/
 
 bundle exec jekyll build
 
-rsync -r --checksum --progress $SRC $DST_REMOTE:$DST_FOLDER
+rsync -4 -r --checksum --progress $SRC $DST_REMOTE:$DST_FOLDER
