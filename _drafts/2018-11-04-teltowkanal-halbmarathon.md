@@ -20,6 +20,10 @@ worked out nicely. The longest I had raced so far were editions of the Brussels
 with finding out what I could do on a mostly flat course on a chilly day
 instead.
 
+After making my intentions clear on ARTC, it turned out that Johannes, someone
+I knew there, had run this one last year and was planning on doing so again.
+Competition!
+
 ## Course Details
 
 You start facing a bridge over the Teltowkanal from the Berlin side. You cross
@@ -77,7 +81,7 @@ high for me. Most plans have you building up and peaking in distance during the
 plan. I was however not willing to artificially drop my distance to start a
 plan, nor was I willing to bump further than around that 80 km per week mark
 during the plan. So that immediately scratched distance peaking. Instead I
-decided to stick to 80 km weeks, with a rest week every fourth week.
+decided to stick to 80 km weeks, with a rest week of 60 km every fourth week.
 
 Intensity wise I will use Jack Daniels terms to explain. I did Tempos
 throughout the cycle. The first four weeks also had a week with a Repetition, a
@@ -92,10 +96,11 @@ think it fits in.
 
 Most of this cycle went pretty well. Five weeks out I put my body through a lot
 by also having to attend a conference, which ended up getting me sick (throat,
-slight fever, super tired, that kind of stuff) for a few days. Since then I
-have been paying more attention to drinking hot teas and some throat tablets
-when I think I feel it coming up. Besides that I had usual bouts of tiredness
-and terrible sleep from time to time, my sleep has always been an iffy thing.
+slight fever, super tired, that kind of stuff) on and off for about a week.
+Since then I have been paying more attention to drinking hot teas and some
+throat tablets when I think I feel it coming up. Besides that I had usual bouts
+of tiredness and terrible sleep from time to time, my sleep has always been an
+iffy thing.
 
 My taper started after the Brussels Canal Run by dropping the distance to what
 I run in recovery weeks (~60 km), but still keeping some workouts in.
@@ -104,7 +109,7 @@ Sunday in week one, and a race pace workout on Tuesday in race week. Those last
 two especially gave me a great confidence boost and are two of the three
 workouts I think I want to highlight from this training cycle.
 
-### Highlights
+### Highlighted Workouts
 
 In chronological order.
 
@@ -113,9 +118,8 @@ In chronological order.
    believe this may be my first such workout where I picked the right pace, or
    rather, where I did not pick a pace with which I completely blew up. It was
    a glorious feeling at the time. The only nagging doubt at the time was
-   whether I perhaps picked too slow a pace then. Going by what I ended up
-   running in the race (spoiler!), this might have actually been pretty much
-   the right pace.
+   whether I perhaps picked too slow a pace then. In retrospect, looking at
+   what I have run since, I believe it was pretty much spot on.
 2. [Long run: 16 km @ 4:21][finallongrun] on 28 October 2018 (7 days out). It
    it a bit cheating to take something from the more tapered body, but this run
    (and the next one) were such confidence boosters that I cannot exclude it.
@@ -129,20 +133,102 @@ In chronological order.
    that great Sunday run, this was to be the final test and boy did it boost my
    confidence further. I split 3:57, 3:52, 3:57 and it just felt _easy_.
 
-## Getting There
-
-The extra Barcelona effort. Falling sick
-
 ## Goals and Strategy
 
-1. Faster pace than brussels I guess
-2. Sub 90???
-3. Sub 85 what?
-4. Will I even be able to run :|
+Before the start of the cycle, the goal was just to get a better pace than what
+I ran at the 20 km door Brussel at the end of May.  I ran that one in 1:27:59,
+which is 4:24 per km. The 20 km was a hot day on a hilly route, so I figured
+that is the least I should be able to do.
 
+Shortly into the cycle, Johannes said we should go for sub 90. He had already
+beaten me handily several times in the ARTC Mooseleague races (track
+distances), so not to be outdone, I agreed with the idea. Internally, however,
+I was wondering if that was really possible. Sub 90 requires a 4:16 per km pace
+which is already a decent chunk faster than what I ran in the 20 km.
+
+About three weeks out from race day, I started thinking more seriously about
+what pace I would be able to run.  I did not have a proper recent race to go
+by, so I tried using my times from training to work back to a race pace.
+Usually the tables expect you to enter a recent race time and they will tell
+you what paces to train at. I figured if I manage some training runs on the
+flat, I could work back from that to a race time to aim for. *Note: I did not
+realise this at the time, but JD actually gives using a Tempo as an option if
+you do not have a recent race to go by.* Doing so said I should go sub 85 on
+the half.  *Record stopping scratchy noise.* What?
+
+TODO: Canal run as test, good taper runs, going for it
+
+## Getting There in Pieces
+
+I knew some travel would be required to take part in the race, but it ended up
+a bit more than I bargained for.  Maybe a month out, the girlfriend's brother
+said he would be in Barcelona.  We decided to meet up with him there since she
+had not seen him in a while, we would be there from Friday to the Tuesday
+before the race.  Sadly, there were some strikes in Brussels Airport that
+forced us to use different airports. This extended the travel time from a few
+hours to at least half a day and many uncomfortable bus hours added into the
+already uncomfortable trip. This happened both in going and in returning from
+Barcelona.
+
+Luckily, getting to Berlin Wednesday evening was smooth.  However, I had
+trouble sleeping in the hotel's bed: the mattress was old, hanging down too
+much in the middle and I could feel the springs pressing against me. Thursday
+night, I only slept five hours. Friday night, the same happened. A far cry from
+the nine or more that I prefer. While slightly worrying, I am also often in a
+not-enough-sleep situation, so I figured I could still make do.  It helped that
+we changed to a hotel in Teltow the night before the race. The bed in this
+hotel was better and after napping in it in the afternoon, I slept about nine
+and a half hours during the night.
+
+What had me worried as all hell was something else. Friday morning after the
+first bites of breakfast (some "weltmeister" bread roll we had bought in a
+Lidl), I felt my stomach cramping. I do not know if it was that bread, if it
+was the pho from the night before, or something else. It hurt and it would hurt
+whenever I ate something for that entire day.
+
+After returning from a shakeout at the Hasenheide parkrun on Saturday, the
+healing process started. By this I mean that I had diarrhoea throughout the
+rest of the day. It sucked, but my stomach area felt a little bit better after
+the first round. I tried my best to drink enough water to not get dehydrated.
+Beside that I just let myself be miserable all day and hoped my body would fix
+itself by the time the race started.
+
+Morning of the race, this did not quite seem to be the case. Stomach still felt
+so-so and there was still some bowel emptying.  I had a banana and some
+"breakfast cookie" pack about three hours before the race and then just focused
+on getting everything out and putting enough water in. In-between we picked up
+the bibs from the start area.  I made good use of our hotel near the start (~1
+km away) by just preparing and using the toilet right there. Eventually the
+girlfriend and I jogged over at about 10:15, 15 minutes before the start of the
+race. I did not see Johannes and people were already moving to line up at the
+start.  We walked in the same direction, I took a quick pee on the side, and
+squeezed in around the fifth row.  With a minute or two before the race start,
+I heard my name. Johannes was another five rows or so back from me.  I waved
+him good luck and got ready to race. I just hoped my bowels would leave me
+alone.
 
 ## Race
 
+- Not too messy start for me, but probably because enough near the front and on the outside of the first turn
+- After a km or two, settle in behind a woman in black and, eventually, a guy with orange shorts/shoes.
+- Follow till 9-10 km
+- Woman starts slowing down some, few meter gap on the guy. Watch tells me she is going too slow
+- I close the gap, woman tries holding on too still
+- Still does not feel quite right pacewise, watch confirms
+- I get to the front of our little group and just focus on my own race
+- Alone for the rest of the race, not counting people I pass
+- Start of the second lap sees a bit of a slow down.
+- After 2 km someone in blue zooms past me, briefly hold on
+- See the watch jump to 3:45ish, let him go
+- Use it as a motivator to get my pace somewhat right again at least
+- Already a bit more crowded with people on their second lap still, but enough room on this side
+- Other side it gets pretty bad, I have to yell "pardon" very often. Bloody people with headphones
+- Still, make do
+- Have the perfect cup throw
+- Twist ankle with maybe 1km to go, lots of swearing in dutch/french. A guy I was about to pass says some things, I cannot make it out. Hope he did not think I was swearing at him
+- Either way, not letting this go bad with 1 km to go, force form back, focus on getting home
+- Damned final stairs
+- Finish \o/
 
 ## Results
 
