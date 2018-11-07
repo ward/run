@@ -100,7 +100,7 @@ slight fever, super tired, that kind of stuff) on and off for about a week.
 Since then I have been paying more attention to drinking hot teas and some
 throat tablets when I think I feel it coming up. Besides that I had usual bouts
 of tiredness and terrible sleep from time to time, my sleep has always been an
-iffy thing.
+iffy thing. Still, nothing major that sidelined me.
 
 My taper started after the Brussels Canal Run by dropping the distance to what
 I run in recovery weeks (~60 km), but still keeping some workouts in.
@@ -151,12 +151,20 @@ what pace I would be able to run.  I did not have a proper recent race to go
 by, so I tried using my times from training to work back to a race pace.
 Usually the tables expect you to enter a recent race time and they will tell
 you what paces to train at. I figured if I manage some training runs on the
-flat, I could work back from that to a race time to aim for. *Note: I did not
-realise this at the time, but JD actually gives using a Tempo as an option if
-you do not have a recent race to go by.* Doing so said I should go sub 85 on
-the half.  *Record stopping scratchy noise.* What?
+flat, I could work back from that to a race time to aim for. Doing so said I
+should go sub 85 on the half. *Record stopping scratchy noise.* Wait, what?
 
-TODO: Canal run as test, good taper runs, going for it
+*Note: I did not realise this at the time, but JD actually gives using a Tempo
+as an option if you do not have a recent race to go by.*
+
+Completely fearful of that idea, I decided to just pretend I was ready for such
+a thing at my [next tune-up race][bxlcanal].  I used the same method to arrive
+at a pace estimate and used that in the race.  It went quite well. Shortly
+after followed two good workouts (highlighted above in the Training section)
+during my taper.  These were the boosts I needed. My goal for the half marathon
+would be to go sub 85. Strategy to get there was to just aim for even splits
+throughout (4:02 per km), doing my own thing. If I blew up in the process, so
+be it.
 
 ## Getting There in Pieces
 
@@ -209,15 +217,30 @@ alone.
 
 ## Race
 
-- Not too messy start for me, but probably because enough near the front and on the outside of the first turn
-- After a km or two, settle in behind a woman in black and, eventually, a guy with orange shorts/shoes.
-- Follow till 9-10 km
+I had been warned by Johannes that the start can be a mess. You have got about
+1000 people starting on a road that quickly turns onto a path. My starting
+close to the front and on the outside of the first turn seems to have mostly
+mitigated that for me. I never felt trapped. Not everyone was as lucky.  That
+first turn onto the smaller path has two bollards sticking out. Someone a metre
+or two in front of me did not see them in time and took a tumble after hitting
+one. At least the poles were packed in a soft material.
+
+The start has a lot of people finding their pace. I pass quite some, I get
+passed by others.  I briefly try sticking with a guy in a white shirt, but soon
+notice he is going a bit fast for me. More around 3:50 if I recall. I let him
+go and after some readjusting fall in behind a short woman in black.  She ends
+up falling in behind a guy with orange short and shoes. It seems I have found a
+group.
+
+- Briefly try sticking with a guy in white-ish shirt but he's going more like 3:55s or so, let him go (1080? 7k?)
+- After a km or two, settle in behind a woman in black (might be the 14k winner) and, eventually, a guy with orange shorts/shoes.
+- Follow till about 9 km
 - Woman starts slowing down some, few meter gap on the guy. Watch tells me she is going too slow
 - I close the gap, woman tries holding on too still
 - Still does not feel quite right pacewise, watch confirms
 - I get to the front of our little group and just focus on my own race
 - Alone for the rest of the race, not counting people I pass
-- Start of the second lap sees a bit of a slow down.
+- Start of the third lap sees a bit of a slow down.
 - After 2 km someone in blue zooms past me, briefly hold on
 - See the watch jump to 3:45ish, let him go
 - Use it as a motivator to get my pace somewhat right again at least
@@ -233,6 +256,10 @@ alone.
 ## Results
 
 [strava] and [results]
+
+woman in black might be the 14k winning female, bib 2227, time 55:47
+
+orange short/shoes guy is bib 3376, finished 21st in 1:25:29
 
 ## Future
 
