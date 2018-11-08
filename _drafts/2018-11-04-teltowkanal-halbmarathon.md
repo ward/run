@@ -259,7 +259,11 @@ group.
 
 woman in black might be the 14k winning female, bib 2227, time 55:47
 
-orange short/shoes guy is bib 3376, finished 21st in 1:25:29
+orange short/shoes guy is bib 3376, finished 21st in 1:25:29. He actually stuck
+pretty close-by, see strava flyby. 20-30s behind at end of lap 2. When I was
+slacking a bit, he got back to ~10ish s. Then at the little climb just before
+17k he was at ~20s again, the just straight up stopped/walked. Diff goes to
+~80s, then he lost another 20 or so to the finish
 
 ## Future
 
