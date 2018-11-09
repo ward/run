@@ -20,8 +20,8 @@ worked out nicely. The longest I had raced so far were editions of the Brussels
 with finding out what I could do on a mostly flat course on a chilly day
 instead.
 
-After making my intentions clear on ARTC, it turned out that Johannes, someone
-I knew there, had run this one last year and was planning on doing so again.
+After making my intentions clear on ARTC, it turned out that one of the others,
+Johannes, had run this one last year and was planning on doing so again.
 Competition!
 
 ## Course Details
@@ -142,9 +142,9 @@ that is the least I should be able to do.
 
 Shortly into the cycle, Johannes said we should go for sub 90. He had already
 beaten me handily several times in the ARTC Mooseleague races (track
-distances), so not to be outdone, I agreed with the idea. Internally, however,
-I was wondering if that was really possible. Sub 90 requires a 4:16 per km pace
-which is already a decent chunk faster than what I ran in the 20 km.
+distances). Not to be outdone again, I agreed with the idea. Internally,
+however, I was wondering if that was not too fast. Sub 90 requires a 4:16 per
+km pace which is already a decent chunk faster than what I ran in the 20 km.
 
 About three weeks out from race day, I started thinking more seriously about
 what pace I would be able to run.  I did not have a proper recent race to go
@@ -225,49 +225,108 @@ first turn onto the smaller path has two bollards sticking out. Someone a metre
 or two in front of me did not see them in time and took a tumble after hitting
 one. At least the poles were packed in a soft material.
 
-The start has a lot of people finding their pace. I pass quite some, I get
-passed by others.  I briefly try sticking with a guy in a white shirt, but soon
-notice he is going a bit fast for me. More around 3:50 if I recall. I let him
-go and after some readjusting fall in behind a short woman in black.  She ends
-up falling in behind a guy with orange short and shoes. It seems I have found a
-group.
+The start has a lot of people finding their pace. I pass some, I get passed by
+others.  I briefly try sticking with a guy in a white shirt, but soon notice he
+is going a bit fast for me (~3:50). I let him go and after some readjusting
+fall in behind a short woman in black.  She ends up falling in behind a guy
+with orange short and shoes. It seems I have found a group. This group is
+working out nicely for me, keeping the pace up without too much thinking. The
+non cemented side of the river path is a bit tricky, you cannot see the uneven
+ground until pretty late due to the person running in front of you.
 
-- Briefly try sticking with a guy in white-ish shirt but he's going more like 3:55s or so, let him go (1080? 7k?)
-- After a km or two, settle in behind a woman in black (might be the 14k winner) and, eventually, a guy with orange shorts/shoes.
-- Follow till about 9 km
-- Woman starts slowing down some, few meter gap on the guy. Watch tells me she is going too slow
-- I close the gap, woman tries holding on too still
-- Still does not feel quite right pacewise, watch confirms
-- I get to the front of our little group and just focus on my own race
-- Alone for the rest of the race, not counting people I pass
-- Start of the third lap sees a bit of a slow down.
-- After 2 km someone in blue zooms past me, briefly hold on
-- See the watch jump to 3:45ish, let him go
-- Use it as a motivator to get my pace somewhat right again at least
-- Already a bit more crowded with people on their second lap still, but enough room on this side
-- Other side it gets pretty bad, I have to yell "pardon" very often. Bloody people with headphones
-- Still, make do
-- Have the perfect cup throw
-- Twist ankle with maybe 1km to go, lots of swearing in dutch/french. A guy I was about to pass says some things, I cannot make it out. Hope he did not think I was swearing at him
-- Either way, not letting this go bad with 1 km to go, force form back, focus on getting home
-- Damned final stairs
-- Finish \o/
+> Lap 1: ~27:30 (~4:00 / km)
+>
+> (no official splits, just estimating both distance and pace from GPS after
+> the fact)
+
+It goes great until 8 to 9 km in. Around then a few metre
+gap appears between orange shorts and woman in black.  My watch tells me she is
+going too slow. I move to close the gap, she tries to hold on.  The pacing
+still does not feel quite right and the watch confirms this. I move up further
+to the front of our group and start setting my own pace. I do not know how long
+either of them stays on my tail, if at all.  For the rest of the race I have
+to do my own pacing again.
+
+> Lap 2: ~27:45 (~4:01 / km)
+
+Pacing myself goes well until the start of the third lap. I start feeling a bit
+tired and noticeably slow down some seconds due to mostly mental fatigue, I
+think. I have clear trouble getting myself to get back to proper pace. After 2
+km into that lap, someone in blue zooms past me. I briefly try to hold on, but
+see my watch jump up to 3:45ish pace. I quickly decide not to follow, but to
+try and use that speed up as the mental boost to get me back on track. It works
+somewhat, but I still definitely feel slower than I did earlier in.
+
+It does not help that it gets noticeably more crowded on the path as I pass
+more and more people who are still on their second lap.  On the one side of the
+river this is still OK. The cemented path is wide enough to easily overtake.
+Once on the other side however, it gets narrow. The only word that came to mind
+in German felt a bit too long to bother with, so I just used the French
+"pardon" to try to get people's attention in time for them to make some room
+for me. By and large that is enough, though beware the headphone users.
+
+At the final water stand I grab a cup and empty it over my head. Nothing
+special, that is what I try to do at every one of them I pass. However, I
+notice a woman ensuring all the used cups are slid into one another in the
+garbage bags. I throw my cup at the bag and somehow it makes the perfect line,
+no tumbling around, and slides smoothly into the bag. That got me elated for
+the first time this run.
+
+On the final stretch of trail with holes and roots sticking out, one of those
+dangers gets me.  I twist my ankle slightly with less than one kilometre to go.
+Trying my best not to slow down, I start swearing in Dutch and French.  A guy
+on his second lap that I was about to pass says something to me. I cannot
+properly make it out, but I think it was an encouragement. I just hope he does
+not think I was swearing at him. Either way, eager not to fuck this race up in
+the final stretch, I focus on keeping my form good. This makes the ankle feel
+alright and I continue on. I labour up the final stairs, squeeze out any sprint
+I still have left, and take it home.
+
+> Lap 3: ~28:10 (~4:05 / km)
 
 ## Results
 
-[strava] and [results]
+The [results] peg me at 1:23:48, [Strava] is a second quicker. Note that the
+Strava activity is quite a bit shorter than 21.1 km. While my watch seems to
+lowball the distance often, the discrepancy seems a bit bigger than usual at
+~340m. I do not know if the distance is in any way certified (and I doubt it).
+If you assume the GPS is exact (which I also do not), then extrapolating gives
+1:25:11. More likely it will be somewhere between the 20.76 km from the GPS and
+the actual half distance. As long as the course is at least 20810 metre, it
+extrapolates to a sub 1:25 😉. Not 100% sure what to do with this now. Perhaps
+for a next half marathon I will have to look for a bigger race I know to be
+certified. Extra advantage that there might be more people to pace off of.
 
-woman in black might be the 14k winning female, bib 2227, time 55:47
+I finished 17th, 9:26 behind the winner. I was also beat by one female.
+Olympian [Lisa Hahner][lisahahner] showed up and took second overall in
+1:16:22.
 
-orange short/shoes guy is bib 3376, finished 21st in 1:25:29. He actually stuck
-pretty close-by, see strava flyby. 20-30s behind at end of lap 2. When I was
-slacking a bit, he got back to ~10ish s. Then at the little climb just before
-17k he was at ~20s again, the just straight up stopped/walked. Diff goes to
-~80s, then he lost another 20 or so to the finish
+The woman in black from my little group went on to win the 14.1 km race in a
+time of 55:47. <!-- bib 2227 --> Orange short and shoes was doing the half and
+finished 21st in 1:25:29. <!-- bib 3376 --> I found him in Strava's Flyby and
+it turns out he managed to stay somewhat close to me after I took over. At the
+end of lap 2 he was 20 to 30 seconds behind. After my slight slacking, he
+brought it back to about 10 seconds. I regained composure and brought it back
+to 20 seconds. Then on a tiny incline around km 17 he seems to have straight up
+stopped or walked.  The difference went up to 80s. Finally he lost another 20
+seconds between there and the finish. I had some trouble finding white shirt,
+but I think it is because the front of his singlet is red instead of white.
+This would make him 15th in 1:23:04. <!-- bib 3190 -->
+
+I waited around a bit for Johannes, but sadly I had not seen him arrive yet at
+1:30:00. Eventually he ended up 51st in 1:32:25. We took some pictures and had
+some water and tea. The girlfriend arrived another 8 minutes later in 1:40:51
+(115 overall, 12th female). We did not stay long after the race since we still
+had to check out of our hotel (and I was getting really cold after standing
+around for 20 minutes).
 
 ## Future
 
+In the near future I think I will use my current shape and have a go at
+improving my 10 km and 5 km PRs. Just a matter of finding a flat race of the
+right distance. Not always simple in my neck of the woods.
 
+Beyond that I will have to see about a spring goal.
 
 [strava]: https://www.strava.com/activities/1945104373
 [results]: https://www.davengo.com/event/result/15-teltowkanal-halbmarathon-2018/search?category=21,1%20km%20Laufen
@@ -278,3 +337,4 @@ slacking a bit, he got back to ~10ish s. Then at the little climb just before
 [vo2max4times1000]: https://www.strava.com/activities/1850314222
 [finallongrun]: https://www.strava.com/activities/1931964381
 [racepace]: https://www.strava.com/activities/1935442150
+[lisahahner]: https://en.wikipedia.org/wiki/Lisa_Hahner
