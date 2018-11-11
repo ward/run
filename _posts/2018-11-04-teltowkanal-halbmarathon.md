@@ -130,7 +130,7 @@ In chronological order.
    rather, where I did not pick a pace with which I completely blew up. It was
    a glorious feeling at the time. The only nagging doubt was whether I perhaps
    picked too slow a pace then. In retrospect, looking at what I have run
-   since, I believe it was pretty much spot on.
+   since, I believe it was pretty correct.
 2. [Long run: 16 km @ 4:21][finallongrun] on 28 October 2018 (7 days out). It
    it a bit cheating to take something from the more tapered body, but this run
    (and the next one) were such confidence boosters that I cannot exclude it.
@@ -205,12 +205,19 @@ Lidl), I felt my stomach cramping. I do not know if it was that bread, if it
 was the pho from the night before, or something else. It hurt and it would hurt
 whenever I ate something for that entire day.
 
-After returning from a shakeout at the Hasenheide parkrun on Saturday, the
-healing process started. By this I mean that I had diarrhoea throughout the
-rest of the day. It sucked, but my stomach area felt a little bit better after
-the first round. I tried my best to drink enough water to not get dehydrated.
-Beside that I just let myself be miserable all day and hoped my body would fix
-itself by the time the race started.
+Saturday morning I went for a shakeout at the Hasenheide parkrun, Johannes'
+local parkrun.  After some jogging I let myself get a bit caught up in passing
+people, but no harm done.  After the parkrun, Johannes introduced me to a
+friend of his who was also doing Teltow on Sunday.  The friend has a better PR,
+but was feeling unsure about his current form. He stated he might run with
+me/pace me. Cannot complain about that!
+
+After returning from the shakeout, my body's healing process started. By this I
+mean that I had diarrhoea throughout the rest of the day. It sucked, but my
+stomach area felt a little bit better after the first round. I tried my best to
+drink enough water to not get dehydrated.  Beside that I just let myself be
+miserable all day and hoped my body would fix itself by the time the race
+started.
 
 Morning of the race, this did not quite seem to be the case. Stomach still felt
 so-so and there was still some bowel emptying.  I had a banana and some
@@ -219,12 +226,13 @@ on getting everything out the body while putting enough water in. In-between we
 picked up the bibs from the start area.  I made good use of our hotel near the
 start (~1 km away) by just preparing and using the toilet right there in our
 room.  Eventually the girlfriend and I jogged over at about 10:15, 15 minutes
-before the start of the race. I did not see Johannes and people were already
-moving to line up at the start.  We walked in the same direction as the crowd,
-I took a quick pee in the bushes on the side, and squeezed in around the fifth
-row.  With a minute or two before the race start, I heard my name. Johannes was
-another five rows or so back from me.  I waved him good luck and got ready to
-race. I just hoped my bowels would leave me alone.
+before the start of the race. I did not see Johannes, or his friend that might
+pace me, and people were already moving to line up at the start. We walked in
+the same direction as the crowd, I took a quick pee in the bushes on the side,
+and squeezed in around the fifth row.  With a minute or two before the race
+start, I heard my name. Johannes was another five rows or so back from me. I
+waved him good luck and got ready to race. I just hoped my bowels would leave
+me alone.
 
 ## Race
 
@@ -253,6 +261,11 @@ dropped.
 > (no official splits, just estimating both distance and pace from GPS after
 > the fact)
 
+[VID: Running in my little group, shortly after starting lap two. My singlet
+has the white diagonal stripe. Note that I did not notice yellow socks (right
+behind me) at any time in the race and only realised he must have been in our
+group from watching this video.][lap2start]
+
 It goes great until 8 to 9 km in. Around then a few metre
 gap appears between orange shorts and woman in black.  My watch tells me she is
 going too slow. I move to close the gap, she tries to hold on.  The pacing
@@ -262,6 +275,9 @@ either of them stays on my tail, if at all.  For the rest of the race I have
 to do my own pacing again.
 
 > Lap 2: ~27:45 (~4:01 / km)
+
+[PIC: Alone at the start of lap 3. Thanks to Johannes' mum for taking the
+picture.][lap3start]
 
 Pacing myself goes well until the start of the third lap. I start feeling a bit
 tired and noticeably slow down some seconds per kilometre. My legs were
@@ -299,6 +315,9 @@ final stairs, squeeze out any sprint I still have left, and take it home.
 
 > Lap 3: ~28:10 (~4:05 / km)
 
+[PIC: Finish line relief is a real thing. Once more thanks to Johannes' mum for
+the picture.][finishlinerelief]
+
 ## Results
 
 The [results] peg me at 1:23:48, [Strava] is a second quicker. Note that the
@@ -328,14 +347,21 @@ stopped or walked.  The difference went up to 80s. Finally he lost another 20
 seconds between there and the finish. I had some trouble finding white shirt,
 but I think it is because the front of his singlet is red instead of white.
 This would make him 15th in 1:23:04. <!-- bib 3190 --> Zooming blue shirt
-finished 14th in 1:22:59.
+finished 14th in 1:22:59. <!-- bib 3078 --> Yellow socks from the video, who I
+guess was in my group, but did not notice during the race, finished 19th in
+1:25:05. <!-- bib 3040 -->
 
 I waited around a bit for Johannes, but sadly I had not seen him arrive yet at
 1:30:00. Eventually he ended up 51st in 1:32:25. We took some pictures and had
-some water and tea. The girlfriend arrived another 8 minutes later in 1:40:51
-(115 overall, 12th female). We did not stay long after the race since we still
-had to check out of our hotel (and I was getting really cold after standing
-around for 20 minutes).
+some water and tea. I also saw Johannes' friend at that time. Apparently he
+felt good that day after all. While starting a few rows behind me, he
+apparently passed me in the hectic first two km and went on to run a PB in
+1:20:51, good for a ninth spot overall.  The girlfriend arrived another 8
+minutes after Johannes in 1:40:51 (115 overall, 12th female). We did not stay
+long after the race since we still had to check out of our hotel (and I was
+getting really cold after standing around for 20 minutes).
+
+[PIC: Moosing it up with Johannes.][moosing]
 
 ## Future
 
@@ -380,3 +406,7 @@ though.
 [racepace]: https://www.strava.com/activities/1935442150
 [lisahahner]: https://en.wikipedia.org/wiki/Lisa_Hahner
 [bxl20k]: {{ site.baseurl }}{% post_url 2018-05-27-20km-door-brussel %}
+[lap2start]: https://imgur.com/c6xC2Hh
+[lap3start]: https://imgur.com/A6dVNJD
+[finishlinerelief]: https://imgur.com/nFv1qRc
+[moosing]: https://imgur.com/MwPEbb6
