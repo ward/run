@@ -70,3 +70,51 @@ point. "What is the point of this workout?" is something he likes to repeat.
   suggestion: 400m hard, 400m jog with possible walk the last 10-20 meter.
   Maximum per week: min(8k, 5% * weekly distance). Single interval should max
   out at ~2 minutes.
+
+# Chapter 11: 5k to 10k training
+
+*Addition to R section: mile pace? He mentions it in PII of his 5k plan. Of
+course with other races can just use his VDOT tables.*
+
+Primarily aerobic events. 5k performed at 95-98% of VO2max. 10k performed at
+90-94% of VO2max. Maximize aerobic power, move economy, lactate threshold
+through mix of R, I, and T.  Which to focus depends on runner. Can only find
+out by doing a lot of it.
+
+* Phase I: Basebuilding if you come off a break of running. Skip otherwise.
+  Types of run: E, light uphill, strides several times a week. Add L as you get
+  further. Some supplemental training can help injury prevention later on.
+* Phase II: Focus is on R. For his low plan (64-80k/w): W1 has R, R, L. W2 has
+  R, R+T, L. W3 has R, I, M.  Repeat for another 3 weeks to make 6.  For his
+  high plan (97-112k/w): W1 has R, R+T+R, L. W2 has  R, R+T, L. W3 has R, I, M.
+  Also repeat.
+* Phase III: Focus shifts to I. Low and high plan: Alternating L and M. Other
+  two Q are back to back (wed-thu): I followed by T or T+R.  If you have a race
+  on Sat (what about Sun?), then move the Q-Q up a day or drop the first and
+  move the second to Tue.
+* Phase IV: Focus T with some R and I here and there. Racing 5ks is good now,
+  do not forget the 2-3 days E before and after.  Low plan: L on Sundays.
+  Assumes races on Sat. T on Tue. If no race, Fri becomes an I. If race on
+  Sunday, move Tue before it to Wed. If race, cut the L the day after to 90m.
+  High plan: Same except H instead of I on Fri.
+
+# Chapter 13: Half-Marathon Training
+
+Pace of a half marathon is close to T (if you are fast enough...). Should not
+need energy intake to get through it. Fluid intake may be necessary depending
+on the weather. Every phase in his plan is six weeks long.
+
+* Phase I: If you have not been running recently. Has E, strides, L. Increase
+  distance as you go through it.
+* Phase II: Focus on R. Also T since it is so similar to half pace. Rest 1
+  minute for every 5-6 T. Throw in E days to fill up. Have an L run per week,
+  sometimes an M. Could make it shorter or longer than 6 weeks, but try to keep
+  minimum 4.
+* Phase III: Toughest. Focus is on I or H. Wed and Thu are Quality days. Wed is
+  I or H, alternates per week. Thu is T, sometimes with some R thrown after the
+  T parts. Keep at least 4 weeks of this phase. If you have a race in one of
+  the weeks, drop the I and move the T to 3-4 days out.
+* Phase IV: Focus is on T. Only one Quality session besides the L: variations
+  of T workouts on Thu. For a race week: "half your number of 1 mile T sets,
+  maximum 3-4 of them". 2-3 days E before the race, 1 E day per 3k raced after
+  the race. Again keep minimum 4 weeks of this phase.
