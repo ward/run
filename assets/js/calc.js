@@ -640,3 +640,67 @@ document.addEventListener('DOMContentLoaded', function(event) {
   });
   updateZones();
 });
+
+
+/**
+ * Event listener for race splits
+ */
+
+function race_splits_update() {
+  let distance = parseInt(document.getElementById('race-splits-distance').value);
+  let split_distance = parseInt(document.getElementById('race-splits-split-distance').value);
+  let time = race_split_parse_time(document.getElementById('race-splits-time').value);
+  let number_of_splits = Math.floor(distance / split_distance);
+  let s_per_m = time / distance;
+
+  let table_body = document.getElementById('race-splits-out');
+  while (table_body.firstChild) {
+    table_body.removeChild(table_body.lastChild);
+  }
+  for (let i = 0; i <= number_of_splits; i++) {
+    let curr_distance = split_distance * i;
+    let curr_time = s_per_m * curr_distance;
+    table_body.appendChild(race_splits_new_row(curr_distance, curr_time));
+  }
+  let leftover_distance = distance - (number_of_splits * split_distance);
+  if (leftover_distance > 0) {
+    table_body.appendChild(race_splits_new_row(distance, time));
+  }
+}
+
+function race_splits_new_row(distance, time) {
+  let new_row = document.createElement('tr');
+  let distance_cell = document.createElement('td');
+  distance_cell.innerHTML = distance;
+  let time_cell = document.createElement('td');
+  let time_value = CALC.util.secToHMS(time);
+  if (time_value[0] > 0) {
+    time_cell.innerHTML = `${time_value[0]}:${time_value[1]}:${time_value[2]}`;
+  } else {
+    time_cell.innerHTML = `${time_value[1]}:${time_value[2]}`;
+  }
+  new_row.appendChild(distance_cell);
+  new_row.appendChild(time_cell);
+  return new_row;
+}
+
+function race_split_parse_time(val) {
+  // Form is hh:mm:ss
+  let hour = parseInt(val.substring(0, 2));
+  let minute = parseInt(val.substring(3, 5));
+  let second = parseInt(val.substring(6, 8));
+  return second + minute * 60 + hour * 3600;
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  let inputs = [
+    document.getElementById('race-splits-distance'),
+    document.getElementById('race-splits-time'),
+    document.getElementById('race-splits-split-distance')
+  ];
+  inputs.forEach(function(input) {
+    input.addEventListener('change', function(event) {
+      race_splits_update();
+    });
+  });
+});

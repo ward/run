@@ -162,6 +162,20 @@ Using the numbers and categories in *Faster Road Racing*. Good book, go get it.
   </tbody>
 </table>
 
+# Race Splits
+
+Given a race length, goal time, and split distance, give the split at every point.
+
+<input type="number" class="narrow" placeholder="metre" id="race-splits-distance" min="0" />
+<input type="time" placeholder="metre" id="race-splits-time" min="0" step="1" />
+<input type="number" class="narrow" placeholder="metre" id="race-splits-split-distance" min="0" />
+
+<table>
+<thead><tr><th>Distance</th><th>Time</th></tr></thead>
+<tbody id="race-splits-out"></tbody>
+<tfoot><tr><th>Distance</th><th>Time</th></tr></tfoot>
+</table>
+
 # Others' Calculators
 
 * [The Running Calculator](http://www.runfastcoach.com/calc2/index.php) by
