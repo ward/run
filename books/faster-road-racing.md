@@ -19,6 +19,30 @@ With two extra:
 1. general aerobic, increases overall fitness
 2. recovery to get ready again for the workouts
 
+### Lactate Threshold
+
+LT pace is the pace at which you produce the exact amount of lactate that your
+body manages to clear. Once you go past it, you will end up with too much
+lactate acid in your body. It is the pace you can race at for an hour when
+properly rested. LT workouts should be comfortably hard.
+
+To train it, he considers four different types of workouts. Common wisdom used
+to be to train at LT pace. More recent studies say slightly faster than LT
+pace.
+
+1. Classic Tempo Run. LT pace to 6s/km faster than LT pace. Steady block of 20
+   to 40 minutes.
+2. LT intervals (also called cruise intervals). LT pace to 6s/km faster than LT
+   pace. Several smaller blocks in order to get in some more time at the
+   effort. Recovery length does not seem to be defined in the book.
+3. LT hills. LT effort based on HR. (80-91% of max heart rate _or_ 75-88% of
+   heart rate reserve)
+4. Change-of-Pace Tempo Run. Alternating between slightly harder (3-9s/km) than
+   LT and slightly lower (6s/km) than LT for 20 to 45 minutes. First fast one
+   should be ~4 minutes, subsequent ones 1-4 minutes. Slow ones should be at
+   least 4 minutes. Also possible when terrain goes up and down: hard uphill,
+   back off a bit downhill.
+
 ## Chapter 3: Supplementary Training (p55)
 
 Optimize training with supplementary workouts (strength, flexibility, other
