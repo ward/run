@@ -10,7 +10,7 @@ A lot of training plans use seven day cycles. It is easier to plan around given
 just about everyone has a consistent seven days to work with.  It is, however,
 trickier for recovery. Most plans cram three workouts in those seven days. If
 you want recovery days of easier running in-between those three, then you might
-try something like: `rrwrwrw` for a week. For two of the workouts, you will
+try something like: r-r-w-r-w-r-w for a week. For two of the workouts, you will
 have but one day of recovery until the next workout. Depending on your body,
 that can be not ideal.
 
