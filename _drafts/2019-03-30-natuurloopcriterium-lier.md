@@ -43,95 +43,72 @@ not do much wrong.
 
 ### The Plan
 
-<!-- Not using for now
-<div class="cycle d6">
-<div class="day rest"><div class="date">11 Feb</div><div class="what">Rest</div></div>
-<div class="day easy"><div class="date">12 Feb</div><div class="what"></div></div>
-<div class="day repetition"><div class="date">13 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">14 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">15 Feb</div><div class="what"></div></div>
-<div class="day endurance"><div class="date">16 Feb</div><div class="what"></div></div>
-</div>
-<div class="cycle d6">
-<div class="day rest"><div class="date">17 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">18 Feb</div><div class="what"></div></div>
-<div class="day repetition"><div class="date">19 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">20 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">21 Feb</div><div class="what"></div></div>
-<div class="day endurance"><div class="date">22 Feb</div><div class="what"></div></div>
-</div>
-<div class="cycle d6">
-<div class="day easy"><div class="date">23 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">24 Feb</div><div class="what"></div></div>
-<div class="day threshold"><div class="date">25 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">26 Feb</div><div class="what"></div></div>
-<div class="day easy"><div class="date">27 Feb</div><div class="what"></div></div>
-<div class="day endurance"><div class="date">28 Feb</div><div class="what"></div></div>
-</div>
-<div class="cycle d6">
-<div class="day"><div class="date">1 Mar</div><div class="what"></div><div class="total">7</div></div>
-<div class="day"><div class="date">2 Mar</div><div class="what"></div><div class="total">12</div></div>
-<div class="day"><div class="date">3 Mar</div><div class="what"></div><div class="total">16</div></div>
-<div class="day"><div class="date">4 Mar</div><div class="what"></div><div class="total">10</div></div>
-<div class="day"><div class="date">5 Mar</div><div class="what"></div><div class="total">11</div></div>
-<div class="day"><div class="date">6 Mar</div><div class="what"></div><div class="total">21</div></div>
-</div>
-<div class="cycle d6">
-<div class="day"><div class="date">7 Mar</div><div class="what"></div><div class="total"></div></div>
-<div class="day easy"><div class="date">8 Mar</div><div class="what">GA</div><div class="total">10</div></div>
-<div class="day easy"><div class="date">9 Mar</div><div class="what">GA</div><div class="total">12</div></div>
-<div class="day easy"><div class="date">10 Mar</div><div class="what">Recovery</div><div class="total">10</div></div>
-<div class="day easy"><div class="date">11 Mar</div><div class="what">GA</div><div class="total">10</div></div>
-<div class="day endurance"><div class="date">12 Mar</div><div class="what">Long</div><div class="total">16</div></div>
-</div>
-<div class="cycle d6">
-<div class="day"><div class="date">13 Mar</div><div class="what"></div><div class="total"></div></div>
-<div class="day easy"><div class="date">14 Mar</div><div class="what">GA</div><div class="total">12</div></div>
-<div class="day endurance"><div class="date">15 Mar</div><div class="what">Long</div><div class="total">21</div></div>
-<div class="day easy"><div class="date">16 Mar</div><div class="what">GA</div><div class="total">12</div></div>
-<div class="day threshold"><div class="date">17 Mar</div><div class="what">Threshold</div><div class="total">16</div></div>
-<div class="day easy"><div class="date">18 Mar</div><div class="what">GA</div><div class="total">12</div></div>
-</div>
-<div class="cycle d6">
-<div class="day"><div class="date">19 Mar</div><div class="what"></div></div>
-<div class="day endurance"><div class="date">20 Mar</div><div class="what">Long</div><div class="total">22</div></div>
-<div class="day easy"><div class="date">21 Mar</div><div class="what">GA</div><div class="total">12</div></div>
-<div class="day easy"><div class="date">22 Mar</div><div class="what">Recovery</div><div class="total">11</div></div>
-<div class="day race"><div class="date">23 Mar</div><div class="what">Race 5 km</div><div class="total">16</div></div>
-<div class="day easy"><div class="date">24 Mar</div><div class="what">GA</div><div class="total">12</div></div>
-</div>
-<div class="cycle d6">
-<div class="day rest"><div class="date">25 Mar</div><div class="what"></div></div>
-<div class="day interval"><div class="date">26 Mar</div><div class="what">Race pace</div><div class="total">12</div></div>
-<div class="day easy"><div class="date">27 Mar</div><div class="what">Recovery</div><div class="total">10</div></div>
-<div class="day easy"><div class="date">28 Mar</div><div class="what">Recovery</div><div class="total">10</div></div>
-<div class="day easy"><div class="date">29 Mar</div><div class="what">Recovery</div><div class="total">6</div></div>
-<div class="day race"><div class="date">30 Mar</div><div class="what">Race 10 km</div><div class="total">14</div></div>
-</div>
--->
+I went through eight six day cycles in the run up to the race. Right before the
+first one, I also had a seven day one that I count as part of the decision to
+run this race.  Thus, you could see it as nine cycles. By default, every cycle
+had a long run on its last day.  The other workout was placed on the third day
+of each cycle. Easy-easy-workout-easy-easy-long.  I will use Jack Daniels
+terminology to say what the workout entailed.
+
+The first three cycles had **R**eptition workouts: repeats of 200 or 400 metre
+with equidistant rest. Pace is from JD tables, but might be around 1 km race
+pace or faster? Not sure as I do not race those distances. The first two went
+alright, I think I kinda like this short fast work. Reassuring since I have
+been having half a mind of doing a training cycle focused on 1500 metre to 3000
+metre.  Speaking of which, curious about the state my body was in, I replaced
+the R workout of the third cycle with a mile time trial. Result: few seconds
+slower than what I had in November, but I might just have been more tired now.
+Did not taper for either.
+
+For the next five cycles I wanted to alternate **T**hreshold (about 20-30
+minutes around 1 hour race pace) and **I**ntervals (reps of 3-5 minutes at 3-5
+km race pace, rest about half to 90% of the time). In other words T, I, T, I,
+T. The first and second cycle felt alright. In the third one (a lower volume
+cycle), my body felt too tired and I ended up dropping the T. Then for
+scheduling I switched around the next two cycles.  Finally, I turned that last
+I workout into a parkrun race. So the workouts of the five cycles ended up as
+T, I, none, T, I-as-race.
+
+Mini race report in race report: I ran 4-5 km to get to the parkrun start,
+considered that my warmup.  From the start I first tried to keep up with the
+first two guys. A few 100 metre in, when checking the pace, I noticed I had
+forgotten to press start on the watch. Oops.  Little bit further, having
+pressed start, I checked again, and noticed that the pace was going to be way
+too much to hold for 5 km. Especially since we started up a hill.  I started
+slowing, leaving three guys ahead of me. Soon after, another guy passed me
+pushing me down to fifth position. One of the original three was also fading
+though, probably having made the same mistake as I did. I passed him soon
+after. It stayed like this for a bit as I was trying to find a pace that was
+just easy enough to carry me to the end. The course consists of two loops and
+the second time up the main hill of the course, the guy I had overtaken
+earlier, went past me again. He quickly made a decent sized gap. I tried to
+close it on the downhill, where I was faster, but did not manage. Eventually I
+settled to just run home fifth spot. The final few 100 metre, a friend came
+sprinting alongside me, which made me briefly go faster again. All in all it
+went OK, time was 18:07. If I had known I would have been close to dipping
+under 18 again (remember, forgot to start the watch), I probably would have
+pushed a bit more the last km or so. Oh well.
+
+The ninth cycle was a taper cycle. Reduced volume and a race pace test on
+Tuesday with the race coming up on Saturday. Throughout this taper, my legs
+felt tired. I am inclined to blame it on two non-running related factors.
+First, TAing had restarted, adding 12 hours per week of time on feet. Second,
+my sleep had been bad. Bad sleep is a reoccurring problem in my life, but this
+time around I was not even able to sleep in from time to time to "reset" the
+counter. Body was not letting me. Even the day before the race, a short
+recovery with some strides, my legs felt like they had nothing to give. The
+strides felt horrible.
 
 ## Goals and Strategy
 
 The main goal was to PR. I had run 39 low back in October on a hilly and muddy
 course, that was likely short. I figured it evened out though. Before that, I
-would have to go back to that previous edition of this race that I did and its
+would have to go back to that previous edition of this race back in 2016 and its
 39:45.
 
 More specifically, I looked at some other times I had run to decide on the pace
 I wanted. I went for my mile time trial. Based on that, I would have to run
 a 37:30 or faster in this 10 km. A 3:45 pace was going to be the goal.
-
-## Getting There
-
-Sleep has been on the bad side (story of my life). Usually I manage to sleep in
-from time to time though. This had not happened the week and then some before
-the race though, so that got me worried slightly. Besides that I had about a
-week of taper, after my parkrun the Saturday before.
-
-Total pain to get there
-with public transport, which, alas, was our only option. Luckily the race was
-not till 13:50, so plenty of time to wake up in peace and still get there on
-time.
 
 ## Race
 
