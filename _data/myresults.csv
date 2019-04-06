@@ -21,12 +21,12 @@ date,name,distance,time,agegrade
 2017-10-01,Jogging '80,10.0,44:37,59.88
 2017-11-19,Les Foulées Joyeuses,10.0,40:39,65.72
 2018-02-04,Les Hivernales du RCB,10.0,41:16,64.74
-2018-04-08,Jogging den bos rond,16.7,1:10:34,???
+2018-04-08,Jogging den bos rond,16.7,1:10:34,>62.35
 2018-04-22,Les 10 km de l'ULB,10.0,43:18,61.70
 2018-05-23,Mooseleague 500m<sup>track</sup>,0.5,1:33,???
 2018-05-27,20 km door Brussel,20.0,1:27:59,62.79
 2018-06-19,Mooseleague 1200m<sup>track</sup>,1.2,4:05,???
-2018-07-21,Mooseleague 1500m<sup>gps</sup>,1.5,5:24,???
+2018-07-21,Mooseleague 1500m<sup>gps</sup>,1.5,5:24,63.58
 2018-07-21,Mooseleague 400m<sup>gps</sup>,0.4,1:16,???
 2018-08-14,Mooseleague 10 minutes<sup>track</sup>,2.767,10:00,???
 2018-09-01,Brickfields Parkrun,5.0,19:19,67.29
@@ -34,5 +34,7 @@ date,name,distance,time,agegrade
 2018-10-20,Brussels Canal Run,9.0,34:14,???
 2018-11-04,Teltowkanal Halbmarathon<sup>short?</sup>,21.1,1:23:48,69.66
 2018-11-17,Victoria Dock parkrun,5.0,17:16,74.81
-2018-11-29,Solo a mile<sup>track</sup>,1.609,5:17,...
-2019-02-19,Solo a mile<sup>track</sup>,1.609,5:21,...
+2018-11-29,Solo a mile<sup>track</sup>,1.609,5:17,70.28
+2019-02-19,Solo a mile<sup>track</sup>,1.609,5:21,69.41
+2019-03-23,Haga parkrun,5.0,18:07,71.75
+2019-03-30,Natuurloopcriterium Lier,10.4,39:25,>67.78
