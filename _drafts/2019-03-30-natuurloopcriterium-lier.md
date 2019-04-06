@@ -173,6 +173,8 @@ seventh.
 
 > GPS split: 3:54.
 
+{% include image.html domain=site.baseurl url='/assets/img/20190330-natuurlooplier.jpg' description='Red, me, and white preparing our final moves.' %}
+
 With under a kilometre to go, we were all perhaps trying to look strong,
 running more side-by-side than behind one another. There is of course a
 difference between still looking strong and still being strong. From my
