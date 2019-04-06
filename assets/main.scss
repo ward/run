@@ -93,36 +93,10 @@ input {
 /**
  * Style plans
  */
-.cycle {
-  display: grid;
-  margin-top: 1em;
-  margin-bottom: 1em;
-
-  .day {
-    text-align: center;
-  }
-  .repetition {
-    background-color: #f0e442;
-  }
-  .endurance {
-    background-color: #0072b2;
-  }
-  .easy {
-    background-color: #56b4e9;
-  }
-  .threshold {
-    background-color: #009e73;
-  }
-  .interval {
-    background-color: #e69f00;
-  }
-  .race {
-    background-color: #ff00ff;
-  }
-}
-.d6 {
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-}
-.d7 {
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-}
+/* Colour variables */
+$repetition: #f0e442;
+$endurance: #0072b2;
+$easy: #56b4e9;
+$threshold: #009e73;
+$interval: #e69f00;
+$race: #ff00ff;
