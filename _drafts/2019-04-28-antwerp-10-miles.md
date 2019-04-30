@@ -16,6 +16,10 @@ be grasped at. I had a race and a crazy goal to aim for.
 
 ## Course Details
 
+The first 2 km are pretty much flat. After that you turn onto a highway, which means climbing up the ramp.
+After that first climb you get a brief respite as you descend into a tunnel under the Schelde river.
+Of course, that also means climbing back out of it. After emerging on the other side of the river, you take the ramp off the highway. This one sends you
+through another quick tunnel.
 Pretty much flat. Four turns that are too sharp. Two tunnels totalling two to
 three kilometre. Probably some cobble sections (TODO: Update afterwards)
 
