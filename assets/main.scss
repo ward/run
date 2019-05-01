@@ -91,6 +91,21 @@ input {
 }
 
 /**
+ * Style the race report splits
+ */
+div.race-splits {
+  margin: 1em;
+  font-size: 1.1em;
+  font-style: italic;
+  color: grey;
+}
+div.race-splits::before, div.race-splits::after {
+  content: "⏱⏱⏱";
+  font-style: normal;
+  color: black;
+}
+
+/**
  * Style plans
  */
 /* Colour variables */
