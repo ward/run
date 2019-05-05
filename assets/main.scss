@@ -91,18 +91,25 @@ input {
 }
 
 /**
- * Style the race report splits
+ * Style the race report splits. See _include/racesplit.html.
  */
-div.race-splits {
-  margin: 1em;
-  font-size: 1.1em;
-  font-style: italic;
-  color: grey;
+.racesplit {
+  display: flex;
+  align-items: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
-div.race-splits::before, div.race-splits::after {
-  content: "⏱⏱⏱";
-  font-style: normal;
-  color: black;
+.racesplit-icon {
+  width: 10%;
+  font-size: 2em;
+  text-align: left;
+}
+.racesplit-content {
+  width: 90%;
+  font-style: italic;
+  font-size: 1.1em;
+  color: grey;
+  text-align: justify;
 }
 
 /**

@@ -148,10 +148,10 @@ with climbs compared to others. After the climb, I followed two guys as we kept
 up a high pace heading down into the tunnel.  Climbing back out of the tunnel
 did not go as smoothly and I had to let them go.
 
-<div class="race-splits">
+{% include racesplit.html content='
 GPS splits: 3:33, 3:41, 3:53. Fourth km I was on sub 3:37 pace when I hit the
 tunnel and lost GPS. Also no fifth km because of that.
-</div>
+' %}
 
 I passed their 5 km sign somewhere in the low 18 minutes (the first sign I
 noticed, supposedly there were signs every km). I should have started manually
@@ -173,10 +173,10 @@ honestly do not really remember much from it, even right after the race. I was
 dying and my brain must have gone into some partial shut down just to keep the
 legs moving.
 
-<div class="race-splits">
+{% include racesplit.html content='
 Official halfway split: 29:47 and in 183rd position. Assuming an 18:10 as an
 estimate for the first 5 km sign, the previous 3 km were at 3:49 pace.
-</div>
+' %}
 
 I do remember swearing at every cobble section we hit and there were quite a
 few. Luckily, the longest stretch of cobbles had a tiny edge (maybe 50 cm?) of
@@ -203,12 +203,10 @@ was a downhill, which means I would probably want to bank some time for my
 eventual slower uphill. I latched onto the guy (largely dark clothes and with
 headphones in) and we raced into the tunnel.
 
-<div class="race-splits">
-Official split at 13.3 km, the tunnel entrance: 50:08 and 200th position.
+{% include racesplit.html content='Official split at 13.3 km, the tunnel entrance: 50:08 and 200th position.
 Since the halfway split we had been running 3:52s average, a far cry from my
-goal pace. Cumulative pace was now at 3:46, or around 60:47 10 miler.
-(Ignoring rounding errors)
-</div>
+goal pace. Cumulative pace was now at 3:46, or around a 60:47 10 miler.
+(Ignoring rounding errors)' %}
 
 Going downhill was nice and it lasted quite a while. We passed quite some
 people and everything started feeling alright again.  Passing the 14 km marker
@@ -224,12 +222,12 @@ climbing I do in Brussels. We got out of the tunnel (still needing to climb a
 few 100 metre further) and I noticed how much nicer a slight breeze was in
 terms of perceived warmth.
 
-<div class="race-splits">
+{% include racesplit.html content='
 Official split at 15.1 km, the tunnel exit: 57:04 and 197th position. This
 would make my pace in the tunnel 3:51 average. I expected it to be faster,
 but they do say you cannot make up uphill pace in the downhill. Projected
 finish time: 60:49.
-</div>
+' %}
 
 At this point I still thought I could make my goal so I gathered everything I
 had left and kept the pace high. There was no indication of how far you still
