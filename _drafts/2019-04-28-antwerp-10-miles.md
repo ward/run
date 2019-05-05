@@ -14,27 +14,6 @@ around the low 6Xs for most of my PRs.  My [parkrun in
 November][parkrunvictoria] however gave me a time of 59 high. Straw, prepare to
 be grasped at. I had a race and a crazy one hour goal to aim for.
 
-## Course Details
-
-The first 2 km are pretty much flat. After that you turn onto a highway, which
-means climbing up its ramp. After that first climb you get a brief respite as
-you descend into a tunnel under the Schelde river.  Of course, that also means
-climbing back out of it. After emerging on the other side of the river, you
-take the ramp off the highway. This one sends you through another quick tunnel.
-After climbing back out, you get a nice π turn to really slow you down. This
-all covers the first 7ish km of the race.
-
-Next up you run towards the older parts of the city. The streets get a bit more
-narrow, there are some more turns, but it is all flat. Main downside: a decent
-amount of cobble sections. I lost track of how much exactly. Cobbles suck
-though.
-
-After 13 km, you have left the old city behind you, make another π turn and
-almost immediately head into a tunnel back to the other side of the Schelde
-river. A long tunnel, about 1.8 km. Half of it is heading down, the other half
-is climbing back out.  When you leave the tunnel, you are 15.1 km into the
-race. One final π turn puts you on the final 500 some metre.
-
 ## Training
 
 I detailed most of my training in my [last race report][lier] on the
@@ -91,6 +70,28 @@ on to him with everything I have in my body and I should be good.
 
 For reference, the pace to aim for is 3:43.6 per km.
 
+## Course Details
+
+The first 2 km are pretty much flat. After that you turn onto a highway, which
+means climbing up its ramp. After that first climb you get a brief respite as
+you descend into the Kennedytunnel under the Schelde river.  Of course, that
+also means climbing back out of it. After emerging on the other side of the
+river, you take the ramp off the highway. This one sends you through another
+quick tunnel.  After climbing back out, you get a nice π turn to really slow
+you down. This all covers the first 7ish km of the race.
+
+Next up you run towards the older parts of the city. The streets get a bit more
+narrow, there are some more turns, but it is all flat. Main downside: a decent
+amount of cobble sections. I lost track of how much exactly. Cobbles suck
+though.
+
+After 13 km, you have left the old city behind you, make another π turn and
+almost immediately head into the Waaslandtunnel back to the other side of the
+Schelde river. A long tunnel, 2.1 km with about 1.8 km of covered area. Half of
+it is heading down to 37 metre below sea level, the other half is climbing back
+out.  About 4% each way. When you leave the tunnel, you are 15.1 km into the
+race.  One final π turn puts you on the final 500 some metre.
+
 ## Pre Race Agony
 
 My sleep was largely OK in the final days leading up to the race. On the day
@@ -136,17 +137,16 @@ the pacer".
 ## Race
 
 Nothing came to mind. As I crossed the start line, the one hour pacer did not
-seem too far away. The "run harder" plan was on (hindsight spoiler, I checked
-their detailed results afterwards, the pacer, bib 2209, crossed the start line
-43 seconds ahead of me). I ran on the edge of the road and passed plenty of
-people that first two km. The rain had stopped minutes before starting, but
-there were puddles still. Some people made crazy cat jumps to avoid hitting
-one, but I just stormed through the puddles. They were not very deep anyway.
+seem too far away. The "run harder" plan was on. I ran on the edge of the road
+and passed plenty of people that first two km. The rain had stopped minutes
+before starting, but there were puddles still. Some people made crazy cat jumps
+to avoid hitting one, but I just stormed through the puddles. They were not
+very deep anyway.
 
 Going on to the highway ramp slowed me down some, I always seem to have trouble
 with climbs compared to others. After the climb, I followed two guys as we kept
-up a high pace heading down into the tunnel.  Climbing back out of the tunnel
-did not go as smoothly and I had to let them go.
+up a high pace heading down into the Kennedytunnel.  Climbing back out of the
+tunnel did not go as smoothly and I had to let them go.
 
 {% include racesplit.html content='
 GPS splits: 3:33, 3:41, 3:53. Fourth km I was on sub 3:37 pace when I hit the
@@ -169,9 +169,9 @@ start slowing down slightly. My mental game always has some trouble with these
 moments. There was no plan or assessment as to who to follow and I soon found
 myself behind a ginger guy in a red shirt who seemed to be doing alright. The
 next kilometres are a bit of a haze as I followed him as much as I could. I
-honestly do not really remember much from it, even right after the race. I was
-dying and my brain must have gone into some partial shut down just to keep the
-legs moving.
+honestly do not really remember much from this part, even when trying to right
+after the race.  I was dying and my brain must have gone into some partial shut
+down just to keep the legs moving.
 
 {% include racesplit.html content='
 Official halfway split: 29:47 and in 183rd position. Assuming an 18:10 as an
@@ -193,15 +193,16 @@ The girlfriend was waiting for me somewhere along the 9-10 km mark, but I did
 not notice. I was not expecting her this side of the river. She managed to snap
 some pictures though.
 
-<!-- TODO: Place picture here -->
+{% include image.html domain=site.baseurl url='/assets/img/20190428-antwerp10miles.9kmark.jpg' description='Following ginger around the 9-10 km mark. White shirt hung with us for quite a while, but I did not register exactly how long.' %}
 
 Eventually we left the old city. However, my mind remains a haze as to anything
 particular that might have happened.  I did not snap out of it till right
-around we started descending into the final and longest tunnel. Somebody passed
-me and ginger red shirt and I realised I should start speeding up too.  This
-was a downhill, which means I would probably want to bank some time for my
-eventual slower uphill. I latched onto the guy (largely dark clothes and with
-headphones in) and we raced into the tunnel.
+around we started descending into the final and longest tunnel, the
+Waaslandtunnel. Somebody passed me and ginger red shirt and I realised I should
+start speeding up too. This was a downhill (checking it later puts it around 4%
+for 1 km), which means I would probably want to bank some time for my eventual
+slower uphill. I latched onto the guy (largely dark clothes and with headphones
+in) and we raced into the tunnel.
 
 {% include racesplit.html content='Official split at 13.3 km, the tunnel entrance: 50:08 and 200th position.
 Since the halfway split we had been running 3:52s average, a far cry from my
@@ -209,17 +210,18 @@ goal pace. Cumulative pace was now at 3:46, or around a 60:47 10 miler.
 (Ignoring rounding errors)' %}
 
 Going downhill was nice and it lasted quite a while. We passed quite some
-people and everything started feeling alright again.  Passing the 14 km marker
+people and everything started feeling alright again. Passing the 14 km marker
 even made me think I could still be on track for my sub 1h goal without much
-effort. As evidenced by the above calculation, that is likely incorrect, though
-depending on how hard we were storming downhill, maybe it was not too far off.
-I will admit I do not trust my mind much after everything written above _and_ I
-remember staring at my time and giving up with a guesstimate rather than trying
-any actual calculations. After the downhill came the uphill and I quickly had
-to let headphones go. More people started passing me, some I tried to briefly
-latch on to. You would think I would be better at climbing with all the
-climbing I do in Brussels. We got out of the tunnel (still needing to climb a
-few 100 metre further) and I noticed how much nicer a slight breeze was in
+effort. As evidenced by the above race split calculation, that is likely
+incorrect, though depending on how hard we were storming downhill, maybe it was
+not too far off.  I will admit I do not trust my mind much after everything
+written above _and_ I remember staring at my time and giving up with a
+guesstimate rather than trying any actual calculations. After the downhill came
+the uphill (also about 4% over 1 km) and I quickly had to let headphones guy
+go. More people started passing me, some I tried to briefly latch on to. You
+would think I would be better at climbing with all the climbing I do in
+Brussels. We got out of the covered part of the tunnel (still needing to climb
+a few 100 metre further) and I noticed how much nicer a slight breeze was in
 terms of perceived warmth.
 
 {% include racesplit.html content='
@@ -232,17 +234,19 @@ finish time: 60:49.
 At this point I still thought I could make my goal so I gathered everything I
 had left and kept the pace high. There was no indication of how far you still
 had to go besides a "100m to go" banner in the distance. I figured I might come
-there with x seconds to spare, figure this would boost me for a crazy final
-sprint. Instead, when I glanced at my watch I saw the dreaded 1:00:00 had
-passed by. Goodbye goal. I saw a photographer at the line and managed a moose
-sign as I crossed the line.
+there with x seconds to spare, figure this would boost me for a crazy final 100
+metre sprint. Instead, when I glanced at my watch I saw the dreaded 1:00:00 had
+already passed by. Goodbye my goal. I saw a photographer at the line and
+managed a moose sign as I crossed the line.
+
+{% include image.html domain=site.baseurl url='/assets/img/20190428-antwerp10miles.finish.jpg' description='Moosing across the line. I do not know what is up with my mouth either. Cap was turned back since there was no rain and I got some extra wind on my forehead this way.' %}
 
 ## Results
 
 The [final verdict][mypageresults] is 60:28 and 195th position. So close, yet
-so far. You can also peruse my [strava activity][strava] as well as the [full
-official results][results]. Here an overview of the official splits (and the 5k
-estimate) with paces.
+so far. You can also have a look at my [Strava activity][strava] as well as the
+[full official results][results]. Here an overview of the official splits (and
+my 5k estimate) with paces.
 
 |---+---+---+---+---|
 |Distance|Time|Cumul pace|Block's pace|Projected|
@@ -253,7 +257,36 @@ estimate) with paces.
 |15100|57:04|3:47|3:51|60:49|
 |16093|60:28|3:45|3:25|60:28|
 
+<!-- Wim Herman, bib 2209, https://www.strava.com/activities/2329587342 -->
+
+I found the pacer in the results afterwards. He crossed the start line 43
+seconds before I did. However, looking at the Strava FlyBy information, I never
+actually got closer to him during my attempt to catch up to him. I reckon that
+means he also started a bit harder than one hour pace. It does explain why it
+feels like I could not get closer despite definitely going harder than goal
+pace for several kilometres. Makes me wonder if I could have bridged the gap
+otherwise, with the mental boost of seeing them get closer.
+
+<!-- Benjamin van de Velde, bib 1157 -->
+
+I put 11 seconds on my impromptu pacer (ginger red shirt) in that final three
+kilometre. However, he had also started before me, so his time is a little bit
+slower still: 61:03.
+
+As usual a far cry from the winner, who did it in 48:42. The female winner
+managed 57:58.
+
 ## Future
+
+In the near future I have first got the VUB's 12 urenloop planned (relays of
+550 metre each for 12 hours), but that will likely just be a fucked up long
+run.  After that follows the 20 km door Brussel, though I do not see that as a
+real goal. I will likely just train through it or have a minimal taper. I just
+figure that I should be able to easily PR if the weather is not horrendous.
+
+I will almost certainly move back to a seven day cycle, just because the
+planning easier. The workouts I will fill it with will be 1500m-3000m racing
+oriented until I find an actual fall goal to aim for.
 
 [strava]: https://www.strava.com/activities/2325665089
 [results]: http://www.chronorace.be/Classements/classement.aspx?eventId=1187184795226934&IdClassement=19130&mode=large
