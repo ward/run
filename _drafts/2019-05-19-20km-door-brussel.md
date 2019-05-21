@@ -80,23 +80,80 @@ somewhat warm. By 9:50 I squeezed into the crowd, few rows down from the front
 line. My coworker (aiming for a sub 1:30) found me and we chatted briefly. I
 spotted a 1:20 pacer, but he went into the "elite" corral in front of us. The
 other 1:20 pacers joined him there. I was getting worried for a repeat of the
-Antwerp 10 Miles pacer mishap. Luckily before starting the race, they removed
-the barrier between wave 1 and the elite wave, so we could join up behind them.
-I got near one of the pacers and decided he was going to be the one to follow.
-In total I spotted four of them. One on the other side of the corral I ignored.
-One I was standing right behind. The other two were several rows up ahead.
+Antwerp 10 Miles pacer mishap, where the pacer I wanted to follow was in some
+special separate corral and I never got close to him. Luckily before starting
+the race, they removed the barrier between wave 1 and the elite wave, so we
+could join up behind them.  I got near one of the pacers and decided he was
+going to be the one to follow.  In total I spotted four of them. One on the
+other side of the corral I ignored.  One I was standing right behind. The other
+two were several rows up ahead.
 
 To kill time while we waited for the start signal, I chatted for a bit with an
-older man with glasses who was also planning on following the pacer.
+older man with glasses who was also planning on following the pacer. He was
+hoping for really even splits, I preferred them going out slightly slower since
+the first part has quite some climbing.
 
 ## Race
 
+The gun was shot and we had the usual slow walk towards the starting line. It
+is a pretty significant bottleneck so this happens every year. Once we started,
+the pacer I had intended on following seemed to have some trouble with the
+crowd. Like he had never been in a crowded race. He went at a pedestrian pace
+and did not weave between people at all. I figured he would have some trouble
+for the next km and then be forced to make up time. I was not in the mood for
+such an uneven start, so I left this pacer behind and went my own pace, using
+the gaps I saw. If he did what I suspected, he would catch up to me again
+anyway and I could follow him then.
+
+This went smooth enough and not even a kilometre into the race, I noticed I was
+already pretty close to the other two pacers I had seen several rows ahead of
+me at the start. I decided I would slowly bridge the gap and roll from there.
+About 1.5 km to the race, I was behind them and feeling confident.
+
+As we turned up in front of the Royal Palace, suddenly someone started talking
+to me.  "Hey, I'm the guy who messaged you on reddit". About 10 days earlier
+someone had asked me a question about group runs in Brussels. He had recognised
+my ARTC singlet. I was a bit weirded out at first, but we made conversation the
+next few 100 metre. Turns out he did not know the course, so I gave him a quick
+overview of what to expect. I noticed I had fallen behind slightly on the
+pacers while talking and did a quick speed up to be back with them. I looked
+around and realised the guy had not followed. Oh well. We turned in front of
+the Palace of Justice and I spotted a km marker for the first time.
 
 {% include racesplit.html content='
-Official split at 15.1 km, the tunnel exit: 57:04 and 197th position. This
-would make my pace in the tunnel 3:51 average. I expected it to be faster,
-but they do say you cannot make up uphill pace in the downhill. Projected
-finish time: 60:49.
+Split at the 3 km marker was 12:05, so 4:01-4:02 average for the first three km.
+On pace for a 1:20:xx.
+The first 3 km goes a bit up and down but you end up around the same height as you started so I was OK with that pace.
+' %}
+
+After this you pretty quickly drop into a first of three tunnels. Part of the
+reason I decided to go for solely manual lapping on this race. I stick close to
+the two pacers through the first tunnel. Heading into the second tunnel, the
+pacers are no longer sticking together. I decide to follow the faster one of
+the two. After the second tunnel, I spot another km marker.
+
+{% include racesplit.html content='
+From 3 to 5 km was done in 7:55. Sub 4:00s while going uphill and two tunnels thrown in.
+Cumulative 20:00 for the first 5 km which translates to a round 1:20:00.
+' %}
+
+I see the split time on my watch and notice the pacer has no goal of slowing
+down some.  I decide this pacer is going faster than I wanted to go.  With all
+the climbing in this half I expected to go out slightly _slower_ than goal
+pace, not faster.  I always go out too fast in this race when pacing myself. Is
+it ironic that the one time I do not is when I decide to first follow and then
+ignore the pacer? I do not think too much about what pace I am holding, but I
+let the pacer go. I figure the dropped pacer would catch up to me anyway if it
+turns out I went too slow.
+
+We enter Terkamerenbos and I start feeling the effort a little. However, I know
+there will be some reprieve soon and just try to stay consistent.  Before we
+reach the top, I spot the dropped pacer in the corner of my eye. I ensure I
+stay either abreast or in front of him.  We reach the top and I spot another
+distance marker.
+
+{% include racesplit.html content='
+From 5 to 7 km was done in 7:57. Still sub 4:00s, still uphill.
 ' %}
 
 ## Results
