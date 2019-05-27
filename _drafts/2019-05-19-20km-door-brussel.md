@@ -9,10 +9,11 @@ tags:
 The [Antwerp 10 Miles][antwerp10miles] was my main spring goal. However, I also
 signed up for the 20 km door Brussel again. Last year I broke into the top
 1000, running 1:27:59 on a hot sunny day. I figured if the weather turned out
-better this year, I could easily PR. Not only am I in better shape, but hot
-weather also really affects me. As the date drew nearer, the weather seemed to
-be almost as good as it can get for this time of year. Guess I would be taking
-it slightly more seriously.
+better this year, I could easily break that course PR. Not only am I in better
+shape, but hot weather also really affects me. As the date drew nearer, the
+weather seemed to be almost as good as it can get for running this time of
+year: 16ish C, likely cloudy. Guess I would be taking it slightly more
+seriously.
 
 ## Training
 
@@ -33,8 +34,8 @@ this 20 km race.
 I had planned on somewhat training through the 20 km, but not really expected
 to run that much just a few days before. Now I did not have much of a choice. I
 resolved to run the laps at a really easy pace. Did not quite work out. I ended
-up running them around 4:10 pace, faster than my regular running pace, it might
-be about my hypothetical marathon pace. I stayed around all day, running 36
+up running them around 4:10 pace, faster than my regular running pace. It might
+be about my hypothetical marathon pace? I stayed around all day, running 36
 laps. I did not run the final hour as I started feeling a weird twitch around
 my right ankle. I was willing to sacrifice freshness, but I was not going to
 get injured for this. After that Wednesday, I ran 6, 10, and 6 again in the
@@ -45,7 +46,7 @@ great.
 
 At first I just wanted to PR, then I figured if the weather was alright, 1:25
 should be easily attainable. There is no 1:25 pacer though, but there is a 1:20
-one.  Based on my Antwerp time, I have a 1:16 low 20 km in my legs. Antwerp is,
+one. Based on my Antwerp time, I have a low 1:16 20 km in my legs. Antwerp is,
 however, considerably flatter. It crossed my mind to just follow the 1:20
 pacer.  The idea was in my head and it was there to stay. I figured I was OK
 with blowing up anyway, my spring goal had already passed three weeks earlier.
@@ -54,9 +55,7 @@ it. Follow the 1:20 pacer and see what happens.
 
 ## Course Details
 
-Just check the previous race reports.
-
-<!-- TODO Link those old ones -->
+Just check the [previous][bxl2015] [race][bxl2016] [reports][bxl2018].
 
 ## Pre Race
 
@@ -70,10 +69,10 @@ Tried to use the toilet often enough. Left around 8:30 to head to
 Cinquantenaire. It was lightly raining and would do so till the start. Once
 there (around 9:15) I passed by the tent of Brussels studentsport. I had signed
 up through university and still had to pick up my bib there. Nice extras: I
-could easily drop my bag there and afterwards there would be more fruit,
+could easily drop my bag off and afterwards they would provide fruit,
 sportdrink, water, ... By 9:30 I went for a little jog around the park to
-arrive at my wave. Had a peak at the lines for the toilet, but decided I did
-not feel like waiting in line.
+arrive at my wave. It was raining so I put on my hat. I had a peak at the lines
+for the toilet, but decided I did not feel like waiting in line.
 
 Once in the wave, I kept walking around some and doing some stretches to keep
 somewhat warm. By 9:50 I squeezed into the crowd, few rows down from the front
@@ -175,20 +174,116 @@ Split 7 to 9 km was 7:09, but I think they might have placed the sign for the 9 
 Tenth km was 4:15, but likely a bit long then.
 ' %}
 
-Bottle thrower.
+I passed the midway point quite ahead of the 1:20 goal I had in mind. After a
+last little bump you can enjoy some downhill for quite a while to recover. In
+previous editions I have managed to be sometimes be so dead by this point that
+I could not even enjoy a speedy downhill recovery. Today, I felt largely
+alright and was already starting to feel pretty sure about going sub 1:20.
+First that little bump though.
 
-??? Did anything else even happen till seeing the pacer turn backwards?
+After passing the 10 km mark, you climb up for about 1.5 km again. The height
+difference is negligible compared to what you have done so far, but if you blew
+up some already, this really sucks. As it stands, I was alright. At that point,
+something a little fucked up happened.
+
+The road is turning left here and for the next several kilometres. If you are
+running tangents, you aim for the inside of that turn of course.  This is made
+slightly more difficult by the charity runners you pass. There is this thing
+where a group will push somebody (mostly mentally) handicapped in a special
+wheelchair. They start before the race starts, so you spend most of the race
+passing different groups. This goes well, if sometimes a bit tight.  This
+particular group was taking up the inner two lanes of the left turn we were in.
+There are three car lanes total.  Usually there are some gaps to squeeze
+in-between, but not so with this group.  Some other runner almost bumped into
+one of the group's runners. The group's runner gets really mad and yells at the
+guy that "there is another lane to the right for you to use". I retort "use it
+then" as I pass the group's runner myself.  I figure they are not in it to race
+nor to run a particular time. The guy must not have appreciated my comment as I
+suddenly see a half full water bottle flying past me and hitting a runner in
+the legs. Shit, dude, take some anger management classes.
+
+Either way, I was alright and crested the little hill shortly after. Nothing
+really happened the next few kilometre as we went either downhill or on
+flattish grounds. In retrospect I maybe should have tried pushing this part a
+bit more. I do not quite remember how I felt.
+
+{% include racesplit.html content='
+Splits 11 through 16 at 3:48, 4:02, 3:29, 3:48, 3:57, and 3:55.
+That makes the 5 km split 19:04.
+' %}
+
+After 16 km my predicted finish time was just sub 1:18 (I notice that now, I
+did not make that calculation during the run). Of course, the Tervurenlaan was
+still to come, starting around the 17th kilometre and ending around 18.5.
+Before making the turn onto the Tervurenlaan, I see Fast Pacer in the distance
+jogging backwards. I guess he realised he was way ahead of the 1:20 he was
+pacing. I hope those that actually followed him did not blow up completely
+before the climb to come.
+
+We start the climb and I try to find a pace where I do not blow up, but also am
+not my usual slow climbing self. The not blowing up part seems to work at
+least. I do seem to recall my legs burning a little, though I am not sure at
+what point it happened.  Suddenly I notice someone to the left of me that I
+recognise: the older guy with glasses from right before the start. It is clear
+he is going up the hill faster than I am and I decide to just follow him till
+the top.  This speed-up does not feel particularly bad, so I must not have been
+climbing fast enough. Eventually we get past the hill and I decide it is time
+to immediately kick up the pace again.
+
+{% include racesplit.html content='
+Missed the 17 km marker, bit of a pity since that should be around the start of the climb.
+18 km marker split at 8:26.
+Eyeballing it I would say the 17th km was just sub 4:00 again, which would make the 18th around 4:30.
+' %}
+
+While I am pressing the lap button whenever I see a km marker, I am not really
+paying attention to the time that is shown on the watch face. Just trying to
+push out an effort I think I can carry till the end.  I think I only pass
+people in this section.  Fast Pacer jogs backwards some more and I pass him
+too.  The cobbles at the end are annoying as always, but I get through them
+without doing something dumb with my ankles.
 
 ## Results
 
+[Official results][results] peg me at 1:18:20, [Strava][strava] agrees. The
+last two km were done in 3:49 and 3:46. I finished 287th out of 30k finishers.
+I took a quick breather, got a banana, some water, my medal. I thanked Fast
+Pacer and Dropped Pacer, but pointed out Fast Pacer went way too fast. He
+apologised. I realised I felt alright. Too alright? After other editions I was
+always feeling rather dead.  Now I went for a recovery jog and felt... fine.
+It put a slight damper on largely satisfied feelings. Could I easily have done
+much better still? A week later I am still not sure how I feel about it.  I
+likely will not soon be this lucky with the weather again so this course PR
+will probably stand for a few years.  It would be a shame if it was not the
+best I could do on the day.  My jog ended at the studentsport stand where I
+changed and happily used the food and drinks they provided.
+
+The winner did it in 1:00:34. I would have needed a 1:12:51 for the top 100 and
+a 1:16:34 for the top 200. Still lots of room for improvement. The female
+winner ran 1:13:04. Of the women, I only had to let the podium finish ahead of
+me.
+
+The older guy with glasses finished in 1:18:36. The coworker aiming for sub
+1:30 succeeded in his goal (1:28:44), but my own PRing doubled the timegap
+between us. As long as no crazy runner joins the office, I should be safe for
+now.
 
 ## Future
 
+This ends my spring. I guess next up I should follow through on my "try out a
+1500-3000m plan" idea.  I also should start thinking about what race I want to
+make my fall goal though. That will definitely shape my plans.  I am leaning
+towards a flat and certified half marathon. Finding a track race around my
+level would also be nice though.
+
 
 [strava]: https://www.strava.com/activities/2379454884
-[results]: http://www.chronorace.be/Classements/classement.aspx?eventId=1187184795226934&IdClassement=19130&mode=large
+[results]: http://prod.chronorace.be/result/sibp/Classement20km.aspx?eventId=1188297191766039 
 [tinman]: http://www.runfastcoach.com/calc2/index.php
-[antwerp10miles]: {{ site.baseurl }}{% post_url 2019-04-28-antwerp-10-miles %}
+[antwerp10miles]: {{ site.baseurl }}{% post_url 2019-04-28-antwerp-10-miles %} "2019 Antwerp 10 Miles race report"
 [lier]: {{ site.baseurl }}{% post_url 2019-03-30-natuurloopcriterium-lier %}
 [12uren2017]: {{ site.baseurl }}{% post_url 2017-05-14-12-urenloop-and-plantentuinjogging %}
 [12uren2018]: {{ site.baseurl }}{% post_url 2018-05-09-12-urenloop %}
+[bxl2015]: {{ site.baseurl }}{% post_url 2015-05-31-20km-door-brussel %} "2015 20 km door Brussel race report"
+[bxl2016]: {{ site.baseurl }}{% post_url 2016-05-29-20km-door-brussel %} "2016 20 km door Brussel race report"
+[bxl2018]: {{ site.baseurl }}{% post_url 2018-05-27-20km-door-brussel %} "2018 20 km door Brussel race report"
