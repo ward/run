@@ -12,14 +12,15 @@ signed up for the 20 km door Brussel again. Last year I broke into the top
 better this year, I could easily break that course PR. Not only am I in better
 shape, but hot weather also really affects me. As the date drew nearer, the
 weather seemed to be almost as good as it can get for running this time of
-year: 16ish C, likely cloudy. Guess I would be taking it slightly more
+year: around 16C and likely cloudy. Guess I would be taking it slightly more
 seriously.
 
 ## Training
 
 Most of my spring training is detailed in my previous two race reports: first
-[Lier][lier], then [Antwerp][antwerp10miles]. In this section I will just
-describe the past three weeks since that Antwerp 10 Miles race.
+the [Lier natuurloopcriterium 10.4 km][lier], then the [Antwerp 10
+miles][antwerp10miles]. In this section I will just describe the past three
+weeks since that Antwerp 10 Miles race.
 
 Week one was a recovery week, totalling 55 km. Week two I went back to higher
 volume (85 km), but kept intensity at regular running (GA/Recovery). Originally
@@ -32,26 +33,28 @@ however, they ended up moving the race back a week. Now it fell in the week of
 this 20 km race.
 
 I had planned on somewhat training through the 20 km, but not really expected
-to run that much just a few days before. Now I did not have much of a choice. I
+to run that much just a few days before. Now I did not have much of a choice. A
+smarter man might have tried to find a way to not have to run. Instead, I
 resolved to run the laps at a really easy pace. Did not quite work out. I ended
-up running them around 4:10 pace, faster than my regular running pace. It might
-be about my hypothetical marathon pace? I stayed around all day, running 36
-laps. I did not run the final hour as I started feeling a weird twitch around
-my right ankle. I was willing to sacrifice freshness, but I was not going to
-get injured for this. After that Wednesday, I ran 6, 10, and 6 again in the
-days before the 20 km race. My legs felt better day after day, but still not
-great.
+up running them around 4:10 pace, definitely faster than my regular running
+pace. It might be about my hypothetical marathon pace? I stayed around all day,
+running 36 laps, which combines to at least 20 km. I did not run the final hour
+as I started feeling a weird twitch around my right ankle. I was willing to
+sacrifice freshness, but I was not going to get injured for this. After that
+Wednesday, I ran 6, 10, and 6 again in the days before the 20 km race. My legs
+felt better day after day, but still not great.
 
 ## Goals and Strategy
 
-At first I just wanted to PR, then I figured if the weather was alright, 1:25
+At first I just wanted to PR. I also figured if the weather was alright, 1:25
 should be easily attainable. There is no 1:25 pacer though, but there is a 1:20
-one. Based on my Antwerp time, I have a low 1:16 20 km in my legs. Antwerp is,
-however, considerably flatter. It crossed my mind to just follow the 1:20
-pacer.  The idea was in my head and it was there to stay. I figured I was OK
-with blowing up anyway, my spring goal had already passed three weeks earlier.
-After a lot of internal debate and bouncing the idea off others, I settled on
-it. Follow the 1:20 pacer and see what happens.
+one. Based on my Antwerp time, [Tinman's equivalence calculator][tinman] tells
+me I have a low 1:16 20 km in my legs. Antwerp is, however, a flatter course than Brussels.
+It crossed my mind to just follow the 1:20 pacer. The idea was in my head and
+it was there to stay. I figured I was OK with blowing up anyway, my spring goal
+had already passed three weeks earlier. After a lot of internal debate and
+bouncing the idea off others (and being told 1:25 is a dumb sandbagging goal),
+I settled on it. Follow the 1:20 pacer and see what happens.
 
 ## Course Details
 
@@ -63,30 +66,31 @@ Nothing really special in the days leading up to it. Just ensured I had a calm
 Saturday.
 
 I based my Sunday morning planning on notes from last year. Woke up at 7:00
-with race start planned for 10:00.  Had 100g muesli and a cup and a half of
-black tea as quickly as I could.  Listened to upbeat 90s music to help wake up.
+with race start planned for 10:00. Had 100g muesli and a cup and a half of
+black tea as quickly as I could. Listened to upbeat 90s music to help wake up.
 Tried to use the toilet often enough. Left around 8:30 to head to
 Cinquantenaire. It was lightly raining and would do so till the start. Once
 there (around 9:15) I passed by the tent of Brussels studentsport. I had signed
-up through university and still had to pick up my bib there. Nice extras: I
+up through my university and still had to pick up my bib there. Nice extras: I
 could easily drop my bag off and afterwards they would provide fruit,
 sportdrink, water, ... By 9:30 I went for a little jog around the park to
-arrive at my wave. It was raining so I put on my hat. I had a peak at the lines
+arrive at my wave. It was raining so I put on my hat. I had a peek at the lines
 for the toilet, but decided I did not feel like waiting in line.
 
 Once in the wave, I kept walking around some and doing some stretches to keep
-somewhat warm. By 9:50 I squeezed into the crowd, few rows down from the front
-line. My coworker (aiming for a sub 1:30) found me and we chatted briefly. I
-spotted a 1:20 pacer, but he went into the "elite" corral in front of us. The
-other 1:20 pacers joined him there. I was getting worried for a repeat of the
-Antwerp 10 Miles pacer mishap, where the pacer I wanted to follow was in some
-special separate corral and I never got close to him. Luckily before starting
-the race, they removed the barrier between wave 1 and the elite wave, so we
-could join up behind them.  I got near one of the pacers and decided he was
-going to be the one to follow.  In total I spotted four of them. One on the
-other side of the corral I ignored.  One I was standing right behind, we will
-call him Start Pacer. The other two were several rows up ahead, we will call
-those Fast Pacer and Dropped Pacer for reasons that will become clear later on.
+somewhat warm. By 9:50 I squeezed into the crowd, a few rows down from the
+front line. My coworker (aiming for a sub 1:30) found me and we chatted
+briefly. I spotted a 1:20 pacer, but he went into the "elite" corral in front
+of us. The other 1:20 pacers joined him there. I was getting worried for a
+repeat of the Antwerp 10 Miles pacer mishap, where the pacer I wanted to follow
+was in some special separate corral and I never got close to him. Luckily
+before starting the race, they removed the barrier between wave 1 and the elite
+wave, so we could join up behind them.  I managed to get near one of the pacers
+and decided he was going to be the one to follow.  In total I spotted four of
+them. One on the other side of the corral I ignored.  One I was standing right
+behind, we will call him Start Pacer. The other two were several rows up ahead,
+we will call those Fast Pacer and Dropped Pacer for reasons that will become
+clear later on.
 
 To kill time while we waited for the start signal, I chatted for a bit with an
 older man with glasses who was also planning on following the pacer. He was
@@ -95,15 +99,18 @@ the first part has quite some climbing.
 
 ## Race
 
-The gun was shot and we had the usual slow walk towards the starting line. It
-is a pretty significant bottleneck so this happens every year. Once we started,
-the Start Pacer I had intended on following seemed to have some trouble with the
-crowd. Like he had never been in a crowded race. He went at, what felt in those
-first few moments, a pedestrian pace and did not weave between people at all. I
-figured he would have some trouble for the next km and then be forced to make
-up time. I was not in the mood for such an uneven start, so I left Start Pacer
-behind and went my own pace, using the gaps I saw. If he did what I suspected,
-he would catch up to me again anyway and I could follow him then.
+For the 40th edition of this race, the gun was shot by King Filip of Belgium.
+We had the usual slow walk towards the starting line. It is a pretty
+significant bottleneck so this happens every year. Once we started, the Start
+Pacer I had intended on following seemed to have some trouble with the crowd.
+It was almost as if he had never been in a crowded race. He went at, what felt
+in those first few moments, a pedestrian pace and did not weave between people
+at all. I figured he would have some trouble for the next km and then be forced
+to make up time. I was not in the mood for such an uneven start, so I left
+Start Pacer behind and went my own pace, using the gaps I saw. If he did what I
+suspected, he would catch up to me again anyway and I could follow him then.
+
+<!-- TODO: Crowded start photo -->
 
 This went smooth enough and not even a kilometre into the race, I noticed I was
 already pretty close to the other two pacers (Fast Pacer and Dropped Pacer) I
@@ -165,7 +172,7 @@ sports drink gave me a heavy feeling in the gut. I ignore this aid station. Not
 like I really need to drink much on a 20 km race that is not blazing hot.
 
 Nothing really happens in this section, I spot Dropped Pacer in the corner of
-my eye on the uphill parts, drop him again on the downhill parts. 
+my eye on the uphill parts, drop him again on the downhill parts.
 
 {% include racesplit.html content='
 Halfway in 39:21, so estimated finish time is double that: 1:18:42.
@@ -278,12 +285,12 @@ level would also be nice though.
 
 
 [strava]: https://www.strava.com/activities/2379454884
-[results]: http://prod.chronorace.be/result/sibp/Classement20km.aspx?eventId=1188297191766039 
+[results]: http://prod.chronorace.be/result/sibp/Classement20km.aspx?eventId=1188297191766039
 [tinman]: http://www.runfastcoach.com/calc2/index.php
-[antwerp10miles]: {{ site.baseurl }}{% post_url 2019-04-28-antwerp-10-miles %} "2019 Antwerp 10 Miles race report"
-[lier]: {{ site.baseurl }}{% post_url 2019-03-30-natuurloopcriterium-lier %}
-[12uren2017]: {{ site.baseurl }}{% post_url 2017-05-14-12-urenloop-and-plantentuinjogging %}
-[12uren2018]: {{ site.baseurl }}{% post_url 2018-05-09-12-urenloop %}
+[antwerp10miles]: {{ site.baseurl }}{% post_url 2019-04-28-antwerp-10-miles %} "Antwerp 10 Miles race report (28 April 2019)"
+[lier]: {{ site.baseurl }}{% post_url 2019-03-30-natuurloopcriterium-lier %} "Natuurloopcriterium Lier 10.4 km race report (30 March 2019)"
+[12uren2017]: {{ site.baseurl }}{% post_url 2017-05-14-12-urenloop-and-plantentuinjogging %} "12 urenloop VUB and Plantentuinjogging Meise race report (2017)"
+[12uren2018]: {{ site.baseurl }}{% post_url 2018-05-09-12-urenloop %} "12 urenloop VUB report (2018)"
 [bxl2015]: {{ site.baseurl }}{% post_url 2015-05-31-20km-door-brussel %} "2015 20 km door Brussel race report"
 [bxl2016]: {{ site.baseurl }}{% post_url 2016-05-29-20km-door-brussel %} "2016 20 km door Brussel race report"
 [bxl2018]: {{ site.baseurl }}{% post_url 2018-05-27-20km-door-brussel %} "2018 20 km door Brussel race report"
