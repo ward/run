@@ -110,7 +110,7 @@ to make up time. I was not in the mood for such an uneven start, so I left
 Start Pacer behind and went my own pace, using the gaps I saw. If he did what I
 suspected, he would catch up to me again anyway and I could follow him then.
 
-<!-- TODO: Crowded start photo -->
+{% include image.html domain=site.baseurl url='/assets/img/20190519-20kbxl.crowdedstart.jpg' description='100-200 metre into the race. Can you spot the ARTC shirt?' %}
 
 This went smooth enough and not even a kilometre into the race, I noticed I was
 already pretty close to the other two pacers (Fast Pacer and Dropped Pacer) I
@@ -135,7 +135,7 @@ The first 3 km goes a bit up and down but you end up around the same height as y
 ' %}
 
 After this you pretty quickly drop into a first of three tunnels. Part of the
-reason I decided to go for solely manual lapping on this race. I stick close to
+reason I decided to go for manual lapping on this race. I stick close to
 the two pacers through the first tunnel. Heading into the second tunnel, the
 pacers are no longer sticking together. I decide to follow the faster one, Fast
 Pacer, of the two. After the second tunnel, I spot another km marker.
@@ -148,34 +148,37 @@ Cumulative 20:00 for the first 5 km which translates to a round 1:20:00.
 I see the split time on my watch and notice Fast Pacer has no goal of slowing
 down some.  I decide this pacer is going faster than I wanted to go.  With all
 the climbing in this half I expected to go out slightly _slower_ than goal
-pace, not faster.  I always go out too fast in this race when pacing myself. Is
-it ironic that the one time I do not is when I decide to first follow and then
-ignore the pacer? I do not think too much about what pace I am holding, but I
-let the pacer go. I figure Dropped Pacer would catch up to me anyway if it
-turns out I went too slow.
+pace, not faster.  I always go out way too fast in the first half of this race
+when pacing myself. Is it ironic that the one time I have some more self
+control is when I decide to ignore the pacer that was supposed to help me? I do
+not think too much about what pace I am holding, but I let the pacer go. I
+figure Dropped Pacer would catch up to me anyway if it turns out I start going
+too slow.
 
 We enter Terkamerenbos and I start feeling the effort a little. However, I know
-there will be some reprieve soon and just try to stay consistent.  Before we
-reach the top around the 7 km mark, I spot Dropped Pacer in the corner of my
-eye. I ensure I stay either abreast with or in front of him.  We reach the top
-and I spot another distance marker.
+there will be some reprieve soon and just try to stay consistent. Somewhere
+around these parts, I spot Dropped Pacer in the corner of my eye. I ensure I
+stay either abreast with or in front of him. We reach a top around the 7 km
+mark and I spot another distance marker.
 
 {% include racesplit.html content='
 From 5 to 7 km was done in 7:57. Still sub 4:00s, still uphill.
 ' %}
+
+{% include image.html domain=site.baseurl url='/assets/img/20190519-20kbxl.6.5k.jpg' description='Climbing towards the top around the 7 km mark. Dropped Pacer in the background.' %}
 
 Next there is some reprieve as we blast down a hill. There are some bumps back
 upwards, but most of the next 3 km can probably be described as descending.
 Somewhere around here we pass an aid station with only sports drinks. I recall
 a note from last year's race report in which I stated drinking two sips of the
 sports drink gave me a heavy feeling in the gut. I ignore this aid station. Not
-like I really need to drink much on a 20 km race that is not blazing hot.
+like I really need to drink much during a 20 km race that is not blazing hot.
 
 Nothing really happens in this section, I spot Dropped Pacer in the corner of
 my eye on the uphill parts, drop him again on the downhill parts.
 
 {% include racesplit.html content='
-Halfway in 39:21, so estimated finish time is double that: 1:18:42.
+Through halfway in 39:21 (predicted: 1:18:42).
 Previous 5 km was in 19:21.
 Split 7 to 9 km was 7:09, but I think they might have placed the sign for the 9 km a bit too early (going by the GPS length of this lap and the next).
 Tenth km was 4:15, but likely a bit long then.
@@ -196,21 +199,22 @@ something a little fucked up happened.
 The road is turning left here and for the next several kilometres. If you are
 running tangents, you aim for the inside of that turn of course.  This is made
 slightly more difficult by the charity runners you pass. There is this thing
-where a group will push somebody (mostly mentally) handicapped in a special
+where a group will push a (mostly mentally?) handicapped person in a special
 wheelchair. They start before the race starts, so you spend most of the race
 passing different groups. This goes well, if sometimes a bit tight.  This
-particular group was taking up the inner two lanes of the left turn we were in.
-There are three car lanes total.  Usually there are some gaps to squeeze
-in-between, but not so with this group.  Some other runner almost bumped into
-one of the group's runners. The group's runner gets really mad and yells at the
-guy that "there is another lane to the right for you to use". I retort "use it
-then" as I pass the group's runner myself.  I figure they are not in it to race
-nor to run a particular time. The guy must not have appreciated my comment as I
-suddenly see a half full water bottle flying past me and hitting a runner in
-the legs. Shit, dude, take some anger management classes.
+particular group though was taking up the inner two lanes of the left turn we
+were in.  There are three car lanes total.  Usually there are some gaps to
+squeeze in-between, but not so with this group.  Some other runner almost
+bumped into one of the group's runners. The group's runner gets really mad and
+yells at the guy that "there is another lane to the right for you to use". I
+retort "use it then" as I pass the group's runner myself.  I figure they are
+not in it to race nor to run a particular time. The guy must not have
+appreciated my comment as I suddenly see a half full water bottle flying past
+me and hitting an unsuspecting runner in the legs. Shit, dude, take some anger
+management classes.
 
 Either way, I was alright and crested the little hill shortly after. Nothing
-really happened the next few kilometre as we went either downhill or on
+really happened the next few kilometre as we went either downhill or were on
 flattish grounds. In retrospect I maybe should have tried pushing this part a
 bit more. I do not quite remember how I felt.
 
@@ -223,19 +227,23 @@ After 16 km my predicted finish time was just sub 1:18 (I notice that now, I
 did not make that calculation during the run). Of course, the Tervurenlaan was
 still to come, starting around the 17th kilometre and ending around 18.5.
 Before making the turn onto the Tervurenlaan, I see Fast Pacer in the distance
-jogging backwards. I guess he realised he was way ahead of the 1:20 he was
+_jogging backwards_. I guess he realised he was way ahead of the 1:20 he was
 pacing. I hope those that actually followed him did not blow up completely
 before the climb to come.
 
-We start the climb and I try to find a pace where I do not blow up, but also am
-not my usual slow climbing self. The not blowing up part seems to work at
-least. I do seem to recall my legs burning a little, though I am not sure at
-what point it happened.  Suddenly I notice someone to the left of me that I
-recognise: the older guy with glasses from right before the start. It is clear
-he is going up the hill faster than I am and I decide to just follow him till
-the top.  This speed-up does not feel particularly bad, so I must not have been
-climbing fast enough. Eventually we get past the hill and I decide it is time
-to immediately kick up the pace again.
+{% include image.html domain=site.baseurl url='/assets/img/20190519-20kbxl.16.5k.jpg' description='Right before the Tervurenlaan climb starts. You still see Dropped Pacer hanging nearby. The woman next to me was falling apart, the guy right behind me would hang on a little while longer.' %}
+
+We start the climb and I try to find a pace where I do not blow up, but also
+try to avoid being my usual slow climbing self. The not blowing up part seems
+to work at least. I do seem to recall my legs burning a little, though I am not
+sure at what point it happened.  Suddenly I notice someone to the left of me
+that I recognise: the older guy with glasses from right before the start. It is
+clear he is going up the hill faster than I am and I decide to just follow him
+till the top.  This speed-up does not feel particularly bad, so I must not have
+been climbing fast enough. 
+
+{% include image.html domain=site.baseurl url='/assets/img/20190519-20kbxl.17.5k.wide.jpg' description='Shortly after starting the final long Tervurenlaan climb. Blue shirt a few places back is the older guy with glasses from the start.' %}
+{% include image.html domain=site.baseurl url='/assets/img/20190519-20kbxl.17.5k.determined.jpg' description='Still climbing. Focus on the end, focus on the end, focus on the end. Guy behind me must have been suffering a bit going by the swinging of his head between photos around this point.' %}
 
 {% include racesplit.html content='
 Missed the 17 km marker, bit of a pity since that should be around the start of the climb.
@@ -243,32 +251,44 @@ Missed the 17 km marker, bit of a pity since that should be around the start of 
 Eyeballing it I would say the 17th km was just sub 4:00 again, which would make the 18th around 4:30.
 ' %}
 
-While I am pressing the lap button whenever I see a km marker, I am not really
-paying attention to the time that is shown on the watch face. Just trying to
-push out an effort I think I can carry till the end.  I think I only pass
-people in this section.  Fast Pacer jogs backwards some more and I pass him
-too.  The cobbles at the end are annoying as always, but I get through them
-without doing something dumb with my ankles.
+Eventually we get past the hill and I decide it is time to immediately kick up
+the pace again.  While I am pressing the lap button whenever I see a km marker,
+I am not really paying attention to the time that is shown on the watch face.
+Just trying to push out an effort I think I can definitely carry till the end.
+I think I only pass people in this section.  Fast Pacer jogs backwards some
+more and I pass him too.  The cobbles at the end are annoying as always, but I
+get through them without doing something dumb with my ankles.
 
 ## Results
 
-[Official results][results] peg me at 1:18:20, [Strava][strava] agrees. The
-last two km were done in 3:49 and 3:46. I finished 287th out of 30k finishers.
-I took a quick breather, got a banana, some water, my medal. I thanked Fast
-Pacer and Dropped Pacer, but pointed out Fast Pacer went way too fast. He
-apologised. I realised I felt alright. Too alright? After other editions I was
-always feeling rather dead.  Now I went for a recovery jog and felt... fine.
-It put a slight damper on largely satisfied feelings. Could I easily have done
-much better still? A week later I am still not sure how I feel about it.  I
-likely will not soon be this lucky with the weather again so this course PR
-will probably stand for a few years.  It would be a shame if it was not the
-best I could do on the day.  My jog ended at the studentsport stand where I
-changed and happily used the food and drinks they provided.
+{% include image.html domain=site.baseurl url='/assets/img/20190519-20kbxl.finish.bliss.jpg' description='Bliss right before the finish. The other guy had a rougher time.' %}
+
+[Official results][results] peg me at 1:18:20 (3:55/km average),
+[Strava][strava] agrees. The last two km were done in 3:49 and 3:46. I finished
+287th out of 30k finishers.  I took a quick breather, got a banana, some water,
+my medal. I thanked Fast Pacer and Dropped Pacer, but pointed out to Fast Pacer
+he went way too fast. He apologised. I realised I felt alright. Too alright?
+After other editions I was always feeling rather dead.  Now I went for a
+recovery jog and felt... fine.  It put a slight damper on largely satisfied
+feelings. Could I easily have done much better still? A week later I am still
+not sure how I feel about it. It is unlikely the weather will be this good
+again soon.  In other words, this course PR may easily stand for a few years.
+It would be a shame if it was not the best I could do on the day.  My jog ended
+at the studentsport stand where I changed and happily used the food and drinks
+they provided.
+
+|Year|Time|Rank|
+|:--:|---:|---:|
+|2015|1:30:41|2833|
+|2016|1:30:40|2345|
+|2018|1:27:59|984|
+|2019|1:18:20|287|
 
 The winner did it in 1:00:34. I would have needed a 1:12:51 for the top 100 and
 a 1:16:34 for the top 200. Still lots of room for improvement. The female
 winner ran 1:13:04. Of the women, I only had to let the podium finish ahead of
-me.
+me. Dropped pacer ran 1:19:05. Cannot be bothered finding Fast Pacer, but
+evidently he was on pace to be much faster than my time.
 
 The older guy with glasses finished in 1:18:36. The coworker aiming for sub
 1:30 succeeded in his goal (1:28:44), but my own PRing doubled the timegap
@@ -281,8 +301,8 @@ This ends my spring. I guess next up I should follow through on my "try out a
 1500-3000m plan" idea.  I also should start thinking about what race I want to
 make my fall goal though. That will definitely shape my plans.  I am leaning
 towards a flat and certified half marathon. Finding a track race around my
-level would also be nice though.
-
+level would also be nice, but I am not even sure where to really start looking
+for such a thing.
 
 [strava]: https://www.strava.com/activities/2379454884
 [results]: http://prod.chronorace.be/result/sibp/Classement20km.aspx?eventId=1188297191766039
