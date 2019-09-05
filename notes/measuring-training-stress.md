@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Measuring Training Stress"
-date: 2018-08-21 12:00:00
+layout: page
+title: Measuring Training Stress
+exclude: true
+updated: 2018-08-21 12:00:00
 tags:
 - training
 - acute-to-chronic
@@ -44,15 +45,18 @@ what you are trying to measure.
 Probably the most simple one is to just take the distance you covered. Ran 5
 km? The metric for this run is 5. Ran 12 km? The metric is 12. I find this one
 an easy and relevant one when you are building base and all your runs are at a
-pretty low intensity anyway. Chances are you are already tracking distance
-anyway.
+pretty low intensity anyway. Chances are you are already tracking distance.
 
-Heart rate can give you a better number. TRIMP zonal points: weight every heart
-rate zone, then calculate how much time was spent in each, multiply and sum.
-Strava's "Suffer Score" seems to be based on this idea. See also
-https://djconnel.blogspot.com/2011/08/strava-suffer-score-decoded.html and
-https://blog.strava.com/suffer-score-how-hard-is-hard-11775/. See also also
-http://fellrnr.com/wiki/TRIMP.
+Heart rate can provide you with a better number. The downside is that heart
+rate is not one number for your entire run, but a new measurement for every
+second or so during your run. You could go by the mean, but that also obscures
+a lot of information. A better approach might be to use TRIMP zonal points.
+TRIMP zonal points give a weight to every heart rate zone. Count the time spent
+in each HR zone and multiply it by the weight of that zone.  Finally you sum up
+everything and get a nice number. Strava's "Suffer Score" seems to be based on
+this TRIMP idea.[^stravasufferscoredecoded][^stravabloghowhardishard]
+
+See also http://fellrnr.com/wiki/TRIMP.
 
 TriScore that GoldenCheetah uses? Look up where that one comes from.
 
@@ -84,9 +88,9 @@ injuries.
 ## Acute and Chronic Training Load
 
 Another, slightly more complicated way, of aggregation is by means of Acute
-Training Load (ATL) and Chronic Training Load (CTL).  These give you a number
+Training Load (ATL) and Chronic Training Load (CTL). These give you a number
 that describes your short term stress and long term stress respectively for a
-given day.  Both are [exponentially (weighted) moving averages][ewmawiki]. You
+given day. Both are [exponentially (weighted) moving averages][ewmawiki]. You
 can read that Wikipedia link for an explanation, or continue reading here.
 
 The exponentially weighted moving average works as follows. Today's workout is
@@ -169,13 +173,13 @@ Difference between ATL and CTL.
 From the GoldenCheetah mailing list:
 
 > Ramp Rate.
-> 
+>
 > The rate at which the long term stress has been increasing.
 > It looks back 7 days, or whatever you have configured in preferences for STS.
-> 
+>
 > So, negative figures indicate CTL/LTS has been dropping recently and positive means its been increasing.
 > Obviously, if you ramp up too quickly - i.e. try to do more miles/intensity too early - then you risk injury.
-> 
+>
 > Its just a way of quantifying the rate of change in training load over the short term.
 > Its been in GC for at least 5 years ;)
 
@@ -198,3 +202,8 @@ https://www.trainingpeaks.com/blog/the-science-of-the-performance-manager/
 Some playing around with ATL/CTL alpha value https://docs.google.com/spreadsheets/d/1HmoaPjfEVsLyhA4owvr9VMPrQ0y90klQAP-GFNcIjpc/edit#gid=0
 
 TODO: A mention of what Stravistix does? People might know it through that.
+
+TODO: A small image of the pipeline run data -> number for a run -> number for a period, might be helpful.
+
+[^stravasufferscoredecoded]: https://djconnel.blogspot.com/2011/08/strava-suffer-score-decoded.html
+[^stravabloghowhardishard]: https://blog.strava.com/suffer-score-how-hard-is-hard-11775/
