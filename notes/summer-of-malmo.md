@@ -5,6 +5,7 @@ permalink: /summer-of-malmo/
 exclude: true
 ---
 
+<!-- TODO: Remove permalink override and place in notes/ ? -->
 The following is not mine. It was written down by [George
 Malley][georgemalley], nicknamed "Malmo". Hence the name.  It is his idea of
 base building of a sorts over summer. I find myself looking it up again from

@@ -2,6 +2,7 @@
 layout: page
 title: books
 permalink: /books/
+exclude: true
 ---
 
 The idea here is that I provide notes or a summary of sorts for books I have read.
@@ -10,4 +11,3 @@ The idea here is that I provide notes or a summary of sorts for books I have rea
 * ["80/20 Running" by Matt Fitzgerald]({{ site.baseurl }}{% link books/80-20-running.md %})
 * ["Daniels' Running Formula" by Jack Daniels]({{ site.baseurl }}{% link books/jack-daniels-running-formula.md %})
 * ["Run Faster From 5k to the Marathon" by Brad Hudson and Matt Fitzgerald]({{ site.baseurl }}{% link books/hudson-run-faster.md %})
-* ["Summer of malmo" by George "Malmo" Malley]({{ site.baseurl }}{% link books/summer-of-malmo.md %}). Not actually a book, but I wanted to categorise it somewhere and this made the most sense at the time.

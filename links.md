@@ -2,6 +2,7 @@
 layout: page
 title: links
 permalink: /links/
+exclude: true
 ---
 
 Some interesting links, categorised where possible. Non-exhaustive list, things
