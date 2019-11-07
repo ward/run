@@ -113,6 +113,19 @@ CALC.util = {
     res[1] = Math.floor((s % 3600) / 60);
     res[2] = s % 60;
     return res;
+  },
+  /**
+   * Utility function, takes seconds and returns array of [h, m, s, milli]
+   */
+  secToHMSm: function(s) {
+    var res = [0, 0, 0, 0];
+    s = s * 10;
+    s = Math.round(s);
+    res[0] = Math.floor(s / 3600 / 10);
+    res[1] = Math.floor((s % (3600 * 10)) / 60 / 10);
+    res[2] = Math.floor((s % (60 * 10)) / 10);
+    res[3] = s % 10;
+    return res;
   }
 };
 
@@ -673,11 +686,15 @@ function race_splits_new_row(distance, time) {
   let distance_cell = document.createElement('td');
   distance_cell.innerHTML = distance;
   let time_cell = document.createElement('td');
-  let time_value = CALC.util.secToHMS(time);
+  let time_value = CALC.util.secToHMSm(time);
+  // Pad seconds to 2 wide in all cases
+  time_value[2] = time_value[2].toString().padStart(2, '0');
   if (time_value[0] > 0) {
-    time_cell.innerHTML = `${time_value[0]}:${time_value[1]}:${time_value[2]}`;
+    // Pad minutes only when there is a preceding hour
+    time_value[1] = time_value[1].toString().padStart(2, '0');
+    time_cell.innerHTML = `${time_value[0]}:${time_value[1]}:${time_value[2]}.${time_value[3]}`;
   } else {
-    time_cell.innerHTML = `${time_value[1]}:${time_value[2]}`;
+    time_cell.innerHTML = `${time_value[1]}:${time_value[2]}.${time_value[3]}`;
   }
   new_row.appendChild(distance_cell);
   new_row.appendChild(time_cell);
