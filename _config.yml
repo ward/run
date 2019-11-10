@@ -15,6 +15,7 @@ rss: RSS
 
 # Build settings
 markdown: kramdown
+mathjax: true
 theme: minima
 plugins:
   - jekyll-feed
