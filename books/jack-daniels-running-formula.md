@@ -71,6 +71,21 @@ point. "What is the point of this workout?" is something he likes to repeat.
   Maximum per week: min(8k, 5% * weekly distance). Single interval should max
   out at ~2 minutes.
 
+# Chapter 10: 1500 to 2 mile training
+
+The 1500 is done at 10-12% higher than VO2max. The 3000 right at VO2max, so
+about the pace during I work. (Will depend on how fast you are, evidently)
+
+* Phase I: Skip if you're already good to go. Just E runs, strides, maybe some
+  light strength work. The higher distance per week plans have some easy R work
+  in the latter 3 weeks too.
+* Phase II: One L and two R per week. R pace based on conservative mile race
+  estimate.
+* Phase III: I and T work. Speed up R pace by 1s per 200m. If feeling good, do
+  again in the latter 3 weeks. Can start doing some races.
+* Phase IV: Try racing a bunch of shorter ones as free speed work. Update R
+  pace with recent race or speed up by 1s per 400m. Mostly R and T work.
+
 # Chapter 11: 5k to 10k training
 
 *Addition to R section: mile pace? He mentions it in PII of his 5k plan. Of
