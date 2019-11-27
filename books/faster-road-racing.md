@@ -214,4 +214,44 @@ when preparing for a race.
 | 2-3 | Resume schedule, adjust workout paces for 1-2 weeks | Revise race goal, start back with 2 weeks of base training, then resume schedule, and adjust workout paces |
 | \>3 | Revise race goal. Start back with base training, then resume schedule and adjust workout paces | Find a new goal race |
 
+## Chapter 9: 5k
 
+Notes to find common denominators:
+
+Lowest plan, per week. Endurance is implied. Usually first workout on Tue,
+second on Fri.
+
+1. strides, LT intervals
+2. strides, VO2max
+3. Speed, LT intervals
+4. (rec) Speed
+5. strides, VO2max
+6. LT, VO2max
+7. strides, VO2max
+8. (rec) slightly harder stride, not really speed yet (150m)? 5k tune up race
+9. strides, VO2max
+10. 150m stride-speed, 5k tune up (or 3k TT)
+11. strides, VO2max
+12. strides, race
+
+Mid and high plan, per week. Endurance is implied. Usually first workout on
+wednesday, second workout on Saturday, day before the long run.
+
+1. LT intervals, strides
+2. VO2max, strides
+3. LT intervals, speed
+4. (rec) speed
+5. VO2max, strides
+6. LT, VO2max
+7. VO2max, strides
+8. (rec) 150m stride-speed, 5k tune up
+9. VO2max, strides
+10. 150m stride-speed, 5k tune up (or 3k TT)
+11. VO2max, strides
+12. strides, race
+
+Quick take: lowest switches order around, putting the harder workout as the
+second. That's why it is on Friday instead of Saturday. Avoiding the hard
+workout the day before the long run. LT only in the first half. Strides is his
+speedwork bread and butter. If you count 5k as VO2max workout, then basically
+continuous VO2max from week 5 onwards.
