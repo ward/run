@@ -15,7 +15,7 @@ Here are some links, I believe I got all of them.
 2. [Physiology of Training Intensities](https://www.reddit.com/r/artc/comments/6qrk62/dissecting_daniels_chapter_two_physiology_of/)
 3. [Training Intensities](https://www.reddit.com/r/artc/comments/6s7jux/dissecting_daniels_part_3_training_intensities/)
 4. [Fitness Benchmarks](https://www.reddit.com/r/artc/comments/6tnemg/dissecting_daniels_part_4_fitness_benchmarks/)
-5. [The Season Plan](https://www.reddit.com/r/artc/comments/6tnemg/dissecting_daniels_part_4_fitness_benchmarks/)
+5. [The Season Plan](https://www.reddit.com/r/artc/comments/6v5cjs/dissecting_daniels_part_5_the_season_plan/)
 6. [All About That Base](https://www.reddit.com/r/artc/comments/6wmsmt/dissecting_daniels_part_6_all_about_that_base/)
 
 # Chapter 4: Training Runs and Intensities
