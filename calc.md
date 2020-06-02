@@ -169,6 +169,9 @@ Given a race length, goal time, and split distance, give the split at every poin
 <input type="number" class="narrow" placeholder="metre" id="race-splits-distance" min="0" />
 <input type="time" placeholder="metre" id="race-splits-time" min="0" step="1" />
 <input type="number" class="narrow" placeholder="metre" id="race-splits-split-distance" min="0" />
+<label title="Start the splits from the finish backwards instead of from the front. Useful for e.g. start/finish line splits if you are running 1000m on a 400m track">Reverse?
+  <input type="checkbox" id="race-splits-reverse" />
+</label>
 
 <table>
 <thead><tr><th>Distance</th><th>Time</th></tr></thead>

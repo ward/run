@@ -663,21 +663,36 @@ function race_splits_update() {
   let distance = parseInt(document.getElementById('race-splits-distance').value);
   let split_distance = parseInt(document.getElementById('race-splits-split-distance').value);
   let time = race_split_parse_time(document.getElementById('race-splits-time').value);
+  let reverse = document.getElementById('race-splits-reverse').checked;
+  if (isNaN(distance) || isNaN(split_distance) || isNaN(time)) {
+    return;
+  }
   let number_of_splits = Math.floor(distance / split_distance);
   let s_per_m = time / distance;
 
   let table_body = document.getElementById('race-splits-out');
+  // Remove existing rows
   while (table_body.firstChild) {
     table_body.removeChild(table_body.lastChild);
   }
+  // Insert new rows
+  let leftover_distance = distance - (number_of_splits * split_distance);
+  let leftover_time = s_per_m * leftover_distance;
   for (let i = 0; i <= number_of_splits; i++) {
     let curr_distance = split_distance * i;
     let curr_time = s_per_m * curr_distance;
+    if (reverse) {
+      curr_distance += leftover_distance;
+      curr_time += leftover_time;
+    }
     table_body.appendChild(race_splits_new_row(curr_distance, curr_time));
   }
-  let leftover_distance = distance - (number_of_splits * split_distance);
   if (leftover_distance > 0) {
-    table_body.appendChild(race_splits_new_row(distance, time));
+    if (reverse) {
+      table_body.prepend(race_splits_new_row(0, 0));
+    } else {
+      table_body.appendChild(race_splits_new_row(distance, time));
+    }
   }
 }
 
@@ -713,7 +728,8 @@ document.addEventListener('DOMContentLoaded', function(event) {
   let inputs = [
     document.getElementById('race-splits-distance'),
     document.getElementById('race-splits-time'),
-    document.getElementById('race-splits-split-distance')
+    document.getElementById('race-splits-split-distance'),
+    document.getElementById('race-splits-reverse')
   ];
   inputs.forEach(function(input) {
     input.addEventListener('change', function(event) {
