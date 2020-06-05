@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Notes on Critical Velocity"
+description: Some of my notes on Critical Velocity (CV), a term seemingly popularised by Tom 'Tinman' Schwartz. About the pace you can race for 30 minutes.
 updated: 2019-07-17 12:00:00
 exclude: true
 tags:

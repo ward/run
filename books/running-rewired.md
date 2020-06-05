@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Running Rewired by Jay D
+title: Running Rewired by Jay Dicharry
+description: My notes on the book "Running Rewired" by Jay Dicharry
 exclude: true
 ---
+
+_Work in progress, but I kinda stopped caring about reading further._
 
 ## Chapter 5
 

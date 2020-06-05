@@ -2,6 +2,7 @@
 layout: page
 title: links
 permalink: /links/
+description: Some links, categorised where possible. Non-exhaustive list, things are simply added when I remember to do so.
 exclude: true
 ---
 

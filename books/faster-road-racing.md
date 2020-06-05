@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Faster Road Racing by Pete Pfitzinger
+description: My notes on the book "Faster Road Racing" by Pete Pfitzinger
 exclude: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Daniels' Running Formula by Jack Daniels
+description: My notes on the book "Daniels' Running Formula" by Jack Daniels
 exclude: true
 ---
 

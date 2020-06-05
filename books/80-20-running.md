@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 80/20 Running by Matt Fitzgerald
+description: My notes on the book "80/20 Running" by Matt Fitzgerald
 exclude: true
 ---
 

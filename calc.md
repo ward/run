@@ -1,6 +1,7 @@
 ---
 layout: page
 title: calc
+description: Some running related calculators running entirely client-side.
 permalink: /calc/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Summer of malmo
+description: The "Summer of malmo" is an intentionally rather vague and generic program aimed at people willing to start running a lot more than they currently do, potentially with friends. The program will "prepare you for the real work in September".
 permalink: /summer-of-malmo/
 exclude: true
 ---
