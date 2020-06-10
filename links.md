@@ -18,7 +18,9 @@ are simply added when I remember to do so.
 * [Strava](https://www.strava.com/dashboard). The "social" one. Not very good
   with the data, but all your friends are on here so you use it.
 
-## Mapping a Route
+## Routes
+
+### Mapping
 
 * [OpenStreetMap](https://www.openstreetmap.org/). A map data provider kept up
   to date by its users. I often find it provides better information on trails
@@ -29,11 +31,21 @@ are simply added when I remember to do so.
   a point, but using actual roads to measure this distance, not just dumping a
   circle around the location. Might be interesting when deciding where to run
   to/from.
-* [AllTrails](https://www.alltrails.com/) gathers trail routes you can discover
-  yourself. I found it useful when in the USA, but lacking in Belgium.
 * [plotaroute.com](https://www.plotaroute.com/myhome) lets you click spots and
   create the actual route. Defaults to Google Maps data, but you can easily
   enable OpenStreetMap.
+
+### Existing
+
+* [Sport Vlaanderen
+  Loopomlopen](https://www.sport.vlaanderen/waar-sporten/sporten-in-de-natuur/loopomlopen/overzicht-vlaamse-loopomlopen/)
+  has a list of running routes that are marked with a coloured triangle with
+  legs under it. The routes are in Flanders and Brussels.
+* [Natuurlopen Vlaanderen](https://www.natuurenbos.be/natuurlopen) is another
+  list of maintained routes (not sure about markings). These focus on being in
+  nature.
+* [AllTrails](https://www.alltrails.com/) gathers trail routes you can discover
+  yourself. I found it useful when in the USA, but lacking in Belgium.
 
 ## Finding a Race
 
