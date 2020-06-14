@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lactate Test and a Training Update"
-date: 2020-06-11 18:00:00
+date: 2020-06-13 18:00:00
 tags:
 - training
 - lactate-test
@@ -15,8 +15,6 @@ another blog post. Time to reflect on the past months of training and cast a
 hopeful glance into the future.
 
 ## Training
-
-_This section was written before the lactate test happened on 13 June 2020._
 
 ### Running
 
@@ -118,7 +116,72 @@ with strides). I was told to be rested for it, so that worked out fine.
 
 ### Strength
 
+During the cool down after the [3000m indoor race][bsk-indoor] at the end of
+February, my abs felt wrecked. I assumed some core work might fix this and have
+started incorporating some strength into my routine. I also reincorporated some
+hip stuff I used to do more often. I kind of gleaned it together from some
+sources, so no great past experiences from others to refer to. Instead I am
+just making a quick note for a future comparison. It took a little to settle on
+something as well as on how often I wanted to do it, but eventually I settled
+on the following routine that I aim to do three times a week. For each I try to
+look up progressions if it gets too easy. This is just the current look of it.
+
+- Regular plank, 40s
+- Side plank, 40s
+- Back plank (or whatever it may be called), 40s
+- Other side plank, 40s
+- Regular plank, 40s
+- Lie on back, feet flat on the floor, knees pointing in the air. Lift hips to
+  form a straight line from head through back through lower legs to knees. Do
+  that 10 times.
+- Previous but extend one leg into the air. 10 times for each leg.
+- Clamshells: 10 regular, 10 reverse, 10 reverse in air. Each side.
+- Lie flat on floor, raise leg. 10 times with toes pointing down, 10 times with
+  toes straight, 10 times with toes upwards. Each side.
+- Donkey kick, 10 times each side.
+- The one that looks lie a peeing dog, 10 times each side.
+- Leg/hip circle forward (knee bent), 10 times forward each side, 10 times
+  backward each side.
+- Cat-cows. 10 times.
+- L-sit progression. Currently still with feet on floor. 4×40s. Rest is like 2
+  minutes.
+
 ## Lactate Test
+
+### Test
+
+The test was planned a bit early in the day and I had to bike 21 km to get
+there (Tim Moriau works on the track in Huizingen). It was thus an early
+morning for me, followed by biking more and faster (to get there on time) than
+I am used to. Not the ideal preparation, but I hope it did not affect the test
+too much. The weather was on the warm side with 20-21C and sun. The track where
+the test took place had no shade. Is it perfect? No. Does it affect the results
+a lot? I hope not, I have no reason to think it did.
+
+To start with, I was told to warm up for about 2 km. There is a ~500m gravel
+path around the track which I used for that. That took 9:09. After that, Tim
+poked a small hole into my ear lobe and the actual testing could begin. To
+start off with, you want two base values. From what I understand, that's two
+measurements of around 2 millimoles (also called millimolar) per litre
+(abbreviated to mmol/l).
+
+The next intervals were on the track, 2000m each time. These were the numbers.
+I am writing down the mmol/l from memory from glancing at Tim's sheet.
+
+|goal|actual|pace|mmol/l|
+|----|------|----|------|
+|9:00|8:57  |4:29|1.2   |
+|8:00|8:10  |4:05|2.0   |
+|7:50|7:47  |3:54|2.low |
+|7:20|7:21  |3:41|3.4   |
+|7:00|6:55  |3:28|5.0   |
+
+It felt quite alright throughout up until the last one. For that one I started
+looking forward to the end. After all that, I ran a 2-3 km cooldown where I
+failed to really get the heart rate down. Unsure if the workout and warmth is
+too blame or just me going too fast with all the real fast guy zooming around.
+
+### Conclusions
 
 ## Future
 
