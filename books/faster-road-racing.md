@@ -5,6 +5,9 @@ description: My notes on the book "Faster Road Racing" by Pete Pfitzinger
 exclude: true
 ---
 
+1. TOC
+{:toc}
+
 ## Chapter 1
 
 Four primary types of training:
@@ -43,6 +46,28 @@ pace.
    should be ~4 minutes, subsequent ones 1-4 minutes. Slow ones should be at
    least 4 minutes. Also possible when terrain goes up and down: hard uphill,
    back off a bit downhill.
+
+### V̇O₂max
+
+Maximal amount of oxygen that your heart can pump (heartrate × stroke volume)
+and your muscles can use (extraction from blood). The maximal rate at which you
+can produce energy aerobically. The more you produce, the faster a pace you can
+maintain. Most important from 1500 to 5000. While still relevant for longer,
+lactate becomes the important one there. Combo of training (stroke volume,
+oxygen extraction) and genetics (heartrate). Unit: ml/kg/min. Higher is better.
+
+Well trained can run at V̇O₂max for ~8 minutes, at 95% for ~15 minutes.
+Can also estimate with 94-98% of max HR or 92-97% of HR reserve.
+
+Best trained at 95-100% intensity of current V̇O₂max. Best done in such a way as
+to maximise time at that intensity. Intervals of 2 to 6 minutes. It takes a
+little to get up to the right range. Run shorter intervals towards faster end
+of your range, longer intervals towards slower end. Total of 5000 to 8000 (15
+to 25 minutes?) is good enough for training and hopefully does not wreck you.
+Once per week tends to be plenty. Recovery jog between reps takes 50-90% of rep
+time, but then he has a table that leans more to 50-75% once reps are 4 minutes
+and longer. Too short recovery = you will not get through the workout. Too long
+= need to build up to V̇O₂max again for too long.
 
 ## Chapter 3: Supplementary Training (p55)
 

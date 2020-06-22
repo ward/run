@@ -5,19 +5,10 @@ description: My notes on the book "Daniels' Running Formula" by Jack Daniels
 exclude: true
 ---
 
+1. TOC
+{:toc}
+
 My notes are about the third version of the book.
-
-# ARTC Review
-
-The ARTC community on reddit reviewed this book through means of a few threads.
-Here are some links, I believe I got all of them.
-
-1. [Understanding Daniels' Running Formula](https://www.reddit.com/r/AdvancedRunning/comments/6pb807/dissecting_daniels_understanding_daniels_running/)
-2. [Physiology of Training Intensities](https://www.reddit.com/r/artc/comments/6qrk62/dissecting_daniels_chapter_two_physiology_of/)
-3. [Training Intensities](https://www.reddit.com/r/artc/comments/6s7jux/dissecting_daniels_part_3_training_intensities/)
-4. [Fitness Benchmarks](https://www.reddit.com/r/artc/comments/6tnemg/dissecting_daniels_part_4_fitness_benchmarks/)
-5. [The Season Plan](https://www.reddit.com/r/artc/comments/6v5cjs/dissecting_daniels_part_5_the_season_plan/)
-6. [All About That Base](https://www.reddit.com/r/artc/comments/6wmsmt/dissecting_daniels_part_6_all_about_that_base/)
 
 # Chapter 4: Training Runs and Intensities
 
@@ -135,3 +126,15 @@ on the weather. Every phase in his plan is six weeks long.
   of T workouts on Thu. For a race week: "half your number of 1 mile T sets,
   maximum 3-4 of them". 2-3 days E before the race, 1 E day per 3k raced after
   the race. Again keep minimum 4 weeks of this phase.
+
+# ARTC Review
+
+The [ARTC](https://reddit.com/r/artc) community on reddit reviewed this book through means of a few threads.
+Here are some links, I believe I got all of them.
+
+1. [Understanding Daniels' Running Formula](https://www.reddit.com/r/AdvancedRunning/comments/6pb807/dissecting_daniels_understanding_daniels_running/)
+2. [Physiology of Training Intensities](https://www.reddit.com/r/artc/comments/6qrk62/dissecting_daniels_chapter_two_physiology_of/)
+3. [Training Intensities](https://www.reddit.com/r/artc/comments/6s7jux/dissecting_daniels_part_3_training_intensities/)
+4. [Fitness Benchmarks](https://www.reddit.com/r/artc/comments/6tnemg/dissecting_daniels_part_4_fitness_benchmarks/)
+5. [The Season Plan](https://www.reddit.com/r/artc/comments/6v5cjs/dissecting_daniels_part_5_the_season_plan/)
+6. [All About That Base](https://www.reddit.com/r/artc/comments/6wmsmt/dissecting_daniels_part_6_all_about_that_base/)
