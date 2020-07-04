@@ -29,17 +29,17 @@ And then the world fell apart. COVID19 hit Belgium and we went into lockdown
 mid March.
 
 That Friday 13 March, I improvised 200m **R**epetition work on a flat-ish
-marked stretch, part boardwalk, too narrow when people are around. It was the
-third up week of 100 km, so the 80 km down week that followed was nice to
+marked stretch, part boardwalk, and too narrow when people are around. It was
+the third up week of 100 km, so the 80 km down week that followed was nice to
 rethink my planning.  It was quickly becoming clear that any tune-up races
 might be out the window.  Tracks were closed down too. Threshold seemed like an
 easy one to keep in the planning as it does not need to be as precise, but I
-did not want to do that two times a week. As second workout I planned in 400m R
-work, figuring I could work on speed a bit. Of course for that one, a track
-_would_ be much better, but I hoped I could mimic it enough by just going hard.
-On longer type workouts (like CV or VO2max) I thought to be more likely to
-settle into a pace that might not be hard enough, without a track to ground me.
-As always, Sundays remained for long runs.
+did not want to do that two times a week. As my second workout of the week I
+planned in 400m R work, figuring I could work on speed a bit. Of course for
+that one, a track _would_ be much better, but I hoped I could mimic it enough
+by just going hard.  On longer type workouts (like CV or VO2max) I thought to
+be more likely to settle into a pace that might not be hard enough, without a
+track to ground me.  As always, Sundays remained for long runs.
 
 The thresholds felt pretty good. I run them by heart rate to keep the effort
 consistent, but the pace surprised me at times. (~18 min 5k) After two weeks,
@@ -110,9 +110,10 @@ Tuesdays. I have done that twice so far, splitting it up as 1200, 1000, 1000,
 
 Talks with the head coach mentioned a lactate testing possibility. I decided to
 give it a try as I had always been curious, but never really knew what to
-expect. Mails with the tester eventually placed it on Saturday 13 June, which
-happened to be a down week (now aiming for 85 km, no workouts, but some days
-with strides). I was told to be rested for it, so that worked out fine.
+expect. Mails with the tester (coach Tim Moriau) eventually placed it on
+Saturday 13 June, which happened to be a down week (now aiming for 85 km, no
+workouts, but some days with strides). I was told to be rested for it, so that
+worked out fine.
 
 ### Strength
 
@@ -166,7 +167,20 @@ measurements of around 2 millimoles (also called millimolar) per litre
 (abbreviated to mmol/l).
 
 The next intervals were on the track, 2000m each time. These were the numbers.
-I am writing down the mmol/l from memory from glancing at Tim's sheet.
+The first one I am writing down from memory, Tim did not end up using it in his
+actual analysis.
+
+|goal|actual|pace|km/h |mmol/l|
+|----|------|----|-----|------|
+|9:00|8:57  |4:29|13.41|1.2   |
+|8:00|8:10  |4:05|14.69|1.7   |
+|7:50|7:47  |3:54|15.42|2.2   |
+|7:20|7:21  |3:41|16.33|3.5   |
+|7:00|6:55  |3:28|17.35|5.0   |
+
+<!--
+These were from memory from glancing at the sheet, but obviously not quit what
+Tim had written down.
 
 |goal|actual|pace|mmol/l|
 |----|------|----|------|
@@ -175,18 +189,103 @@ I am writing down the mmol/l from memory from glancing at Tim's sheet.
 |7:50|7:47  |3:54|2.low |
 |7:20|7:21  |3:41|3.4   |
 |7:00|6:55  |3:28|5.0   |
+-->
 
 It felt quite alright throughout up until the last one. For that one I started
 looking forward to the end. After all that, I ran a 2-3 km cooldown where I
 failed to really get the heart rate down. Unsure if the workout and warmth is
-too blame or just me going too fast with all the real fast guy zooming around.
+too blame or just me going too fast with all the real fast guys zooming around.
 
-### Conclusions
+### Analysis
+
+As mentioned, for the analysis Tim did not use the first interval mentioned
+above. Using the four others an exponential best fit is created for the mmol/l
+measurements in function of the speed in km/h. What kind of best fit I am not
+really sure, it might just be some Excel default. In my case the exponential
+fit looks pretty close to just a linear fit between subsequent measurements,
+though he assured me this is not so for everyone.
+
+Using the exponential fitting function, you then find some key mmol/l points
+and see what speed is expected for those. In Tim's analysis those points were
+the following.
+
+|what      |km/h |pace|
+|----------|-----|----|
+|recovery¹ |12.06|4:58|
+|easy¹     |12.93|4:38|
+|1.5 mmol/l|14.35|4:11|
+|2 mmol/l  |15.10|3:58|
+|4 mmol/l  |16.64|3:36|
+
+¹: In his result sheet it was just mentioned as "Herstelduurloop" and "Rustige
+duurloop", no actual mmol/l values.
+
+He describes up to 2 mmol/l as still burning fat. Past 4 mmol/l, lactate will
+heap up exponentially as you run more and more anaerobically, use more carbs.
+
+In terms of racing, he says it is more relevant for 10 km through the marathon.
+Not necessarily what I am interested in right now, but still nice to know. He
+says 4 mmol/l is more or less your 10 km race pace. That is actually a little
+slower than I had hoped. In my mind the lactate threshold would be more in line
+with racing for an hour when well rested, as per Jack Daniels' books. The
+difference in expected times shows.  If it is 10 km race pace, like Tim says,
+then that makes for a 36:00 10 km, which is equivalent to a 17:15-17:20 5 km
+(my PR from over a year and a half ago) or a just-below-1h 10 miler (my PR from
+last year). A rather disappointing result of this test as it would indicate I
+did not really improve at all. (One caveat here is that he did mention it is
+less indicative of race times under 10k) Conversely, if the 4 mmol/l can be
+associated with a 1 hour race (about 10 mile for me), then the 5k estimate
+drops to about 16:49.
+
+For a marathon, running between 2 and 3 mmol/l is typical. So in my case,
+running sub 4:00/km pace should be quite doable.  Estimating 5 km times is not
+as precise with this, he also just used a calculator for equivalences for this.
+It placed me at 17:15. Sad face, that is what I had 1.5 years ago.
+
+### Use In Training
+
+_All based on what Tim told me._
+
+For training, Tim is pretty vocal on not running between 2 and 4 mmol/l. He
+calls it a dead zone. So no running between 3:36 and 3:58 per km for me.
+
+Running at 1.5 mmol/l improves fat burning. For him that will be a workout like
+6×1000 or 3×2000. Not sure about the rest... (TODO: Check with Maarten). Pace
+would then be 4:00-4:11, preferably the slower side. Do not want to get into
+the dead zone.
+
+Running above 4 mmol/l will improve your V̇O₂max. So for example 6×1000 at 3:30.
+Rather a little bit too fast than too slow. (So the reverse of the previous,
+again to avoid the dead zone)
+
+I asked about the 200m-1000m-2min rest workout (see training above). He
+explained it as: the 200m builds piruvate, the 1000m attempts to use it before
+it turns into lactate. He says the 1000m should be 4:15-4:20 for me.
+
+Caveat: it is a snapshot of this particular moment in time, you will
+improve/get a bit worse throughout a season.
 
 ## Future
 
-- Time trial
-- Set some goals if competition restarts in August
+I am a bit disappointed with the results, it puts me slower than I expected.
+Barely an improvement over last year's 10 mile race. Thus I will do a 5000m
+time trial soonish to compare numbers. I reject his reality and substitute my
+own: sub 17 minutes remains my goal and also what I will start out at in that
+time trial.
+
+For his marathoners, he likes to do this test perhaps twice a year. At the
+start of seasons. For the more serious ones, it might be four times a year,
+where the extra one is added about 4-6 weeks before a goal marathon. It enables
+to do any last minute tweaking to the planning if deemed necessary. As for me,
+I do not think I will be doing this test again soon. I am not quite sure it
+adds much over a race yet (see above) and the 75 euro is a little bit steep if
+I do not really see the point. Especially while I am aiming for shorter
+distances, I might as well just do a test race instead.
+
+Beyond that, competition is expected to restart in August. They are still
+finalising the new calendar though, not all race organisers are still as
+willing to organise something. I will have to keep an eye on it and pick some
+races when I can.
 
 [atlemo]: http://atlemo.be "Atletiek Vereniging Molenbeek (ATLE)"
 [bsk-indoor]: {{ site.baseurl }}{% post_url 2020-02-23-bsk-indoor %} "Belgian Indoor 3000m Championship for students (22 Feb 2020)"
