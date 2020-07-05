@@ -2,7 +2,9 @@
 layout: post
 title: "Disappointing 20 km door Brussel"
 date: 2016-05-29 18:00:00
-tags: report
+tags:
+- report
+- road
 ---
 
 The big one. The spring goal. The "[20 km door Brussel][officialsite]" (a.k.a.

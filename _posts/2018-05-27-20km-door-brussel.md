@@ -2,7 +2,9 @@
 layout: post
 title: "20 km door Brussel"
 date: 2018-05-27 12:00:00
-tags: report
+tags:
+- report
+- road
 ---
 
 Here we are again. My third time competing in the [20 km door Brussel][bxl20k]. In the

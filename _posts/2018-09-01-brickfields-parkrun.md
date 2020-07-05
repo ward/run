@@ -6,6 +6,7 @@ tags:
 - report
 - podium
 - victory
+- road
 ---
 
 I happened to be in Dublin, Ireland for the first weekend of September and

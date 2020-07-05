@@ -2,7 +2,10 @@
 layout: post
 title: "Belgian Championship 10 km road"
 date: 2016-08-06 21:00:00
-tags: report
+tags:
+- report
+- bk
+- road
 ---
 
 For the first time ever, a Belgian Championship was to be held for the 10
