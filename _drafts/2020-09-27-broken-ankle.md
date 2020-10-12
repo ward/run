@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Broken Ankle"
+date: 2020-09-27 20:00:00
+tags:
+- injury
+- broken ankle
+- training
+- rehab
+---
+
+On Sunday 6 September I broke my left ankle. I tried to somewhat keep track of the
+recovery process to maybe help someone in a similar predicament frame the
+injury and know what to expect. I will describe significant events as days
+since the accident. Day 0 is 6 September, day 1 is 7 September, and so on.
+
+## Day 0: The Accident
+
+I was avoiding workouts because of a niggle around this time, so had been doing
+new routes and passing by different places in order to slowly work on
+completing all the streets in my (greater) area. Because everything nearby was
+already long done, I had planned a short bike ride (5ish km) to a different
+starting point, saving me the trouble of running there. I got running and just
+shy of 5 km into my run, my planned route was blocked off due to construction.
+My map showed a small grassy path between two fields ran largely parallel and
+rejoined further on, so I decided to go down that path instead.
+
+The grass got longer and the path more narrow. I saw someone come from the
+other direction and, being the good citizen that I am, realised I should think
+how to keep my 1.5 metre distance from him in these COVID19 times. I veered
+more to the side, but got into even worse long grass. The guy signalled he
+would just stop and make way for me, so I went back out of the really long
+grass to the just regularly long grass of the path. However, apparently in the
+few metre I was off the path, there was now a ditch I had to cross. I did not
+quite realise this. Because of the long grass I was half running half jumping.
+A bad combo with that ditch.  I jumped, in essence, onto the slope without
+realising or anticipating. I heard something that might have been a crack and
+fell down in pain.
+
+Now I twist my ankle pretty often, so I was not immediately worried. That came
+a second or two later as I rolled to sit on my ass and actually saw the ankle.
+So. Very. Swollen. I quickly realised what had happened and felt like such an
+idiot. The other guy came to me. It turned out he only knew Spanish so he was
+not much of a help. My little bit of Duolingo did not prepare me for this. Not
+that I think many people could have done something useful in that moment.
+
+I sat there for quite some time as the guy remained next to my side. I wanted
+to feel alone in my stupidity and signalled I would be fine. I limped to the
+end of the path and sat back down. I needed to think what to do, perhaps assess
+what I thought it was. Running was definitely off the table. Taxi home? Taxi to
+a hospital? Walk to my bike and bike home? Despite having run 5 km at this
+point, I had looped back in a way. I was only 1 km from my bike. Biking home
+was also largely downhill. Clearly I was right earlier to feel like an idiot,
+because I decided to walk to my bike.
+
+Walking (limping) was painful, but I still managed in the end. Took 16 minutes
+for 870m. Ye I tracked that, I was curious. I biked home, which actually went
+quite easily and was essentially painless. Just avoided that foot when stopping
+at a light. Eventually I got home and up the flight of stairs. I took off my
+shoes to further inspect the damage. I briefly tried some icing. I looked up
+how to recognise broken ankles. You cannot put any weight on them, so that was
+good, I still could!
+
+Finally I came to my senses though, broken or not, this amount of pain and
+swelling deserved a look by a doctor. Only partial senses though, I *walked* to
+the hospital a few blocks away. (add another ~800m) After 20 minutes
+(guesstimating) in the waiting room before the triage nurse got to me, the
+adrenaline must have worn off. Walking was now way too painful. Good thing I
+went to the ER after all. Had an X-ray taken. Verdict: broken ankle. Fuck I was
+disappointed. Up till that point I was still holding out hope for "really bad
+sprain" or something similar. Hearing it was broken was an immediate verdict of
+being out for 6 weeks. They put a plaster cast on my leg and booked me for a
+visit with an orthopaedist the next day. Surgery might be needed so they wanted
+the specialists to have a better look.
+
+I was given crutches and a prescription for painkillers as well as "Clexane":
+injections you put every 24 hours in your belly to keep the blood flowing,
+otherwise clots may form in the leg and lead to problems elsewhere. Also had to
+lie down with my leg elevated. Fun fun. This first time with crutches was
+difficult, I almost fell going down their ramp.  Heading home was quite hard
+too. Worked up a sweat, but eventually got back. Dropped in the couch and
+embraced feeling like shit for the rest of the day.
+
+## Day 1–12: Half-open Plaster Cast
+
+## Day 12–26: Closed Synthetic Cast
+
+[benparkes]: https://www.youtube.com/channel/UCZPqG0yh_xPm2AyLjffbDvw
+[lactate-test]: {{ site.baseurl }}{% post_url 2020-07-03-5000m-tt %} "5000m TT (of sorts) (7 Jul 2020)"
