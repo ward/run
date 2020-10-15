@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Broken Ankle"
-date: 2020-09-27 20:00:00
+title: "I Broke My Ankle"
+date: 2020-09-06 18:00:00
 tags:
 - injury
 - broken ankle
-- training
-- rehab
 ---
 
-On Sunday 6 September I broke my left ankle. I tried to somewhat keep track of the
-recovery process to maybe help someone in a similar predicament frame the
-injury and know what to expect. I will describe significant events as days
-since the accident. Day 0 is 6 September, day 1 is 7 September, and so on.
+On Sunday 6 September 2020 I broke my left ankle. I tried to somewhat keep
+track of the recovery process to maybe help someone in a similar predicament
+frame the injury and know what to expect. I was first going to dump one big
+post, but decided to split it up instead to show more of a timeline. I will
+describe significant events as days since the accident. Day 0 is 6 September,
+day 1 is 7 September, and so on.
 
-## Day 0: The Accident
+## Context
 
 I was avoiding workouts because of a niggle around this time, so had been doing
 new routes and passing by different places in order to slowly work on
@@ -24,6 +24,8 @@ starting point, saving me the trouble of running there. I got running and just
 shy of 5 km into my run, my planned route was blocked off due to construction.
 My map showed a small grassy path between two fields ran largely parallel and
 rejoined further on, so I decided to go down that path instead.
+
+## Critical Failure
 
 The grass got longer and the path more narrow. I saw someone come from the
 other direction and, being the good citizen that I am, realised I should think
@@ -53,6 +55,8 @@ point, I had looped back in a way. I was only 1 km from my bike. Biking home
 was also largely downhill. Clearly I was right earlier to feel like an idiot,
 because I decided to walk to my bike.
 
+## Walk of Shame
+
 Walking (limping) was painful, but I still managed in the end. Took 16 minutes
 for 870m. Ye I tracked that, I was curious. I biked home, which actually went
 quite easily and was essentially painless. Just avoided that foot when stopping
@@ -79,11 +83,32 @@ otherwise clots may form in the leg and lead to problems elsewhere. Also had to
 lie down with my leg elevated. Fun fun. This first time with crutches was
 difficult, I almost fell going down their ramp.  Heading home was quite hard
 too. Worked up a sweat, but eventually got back. Dropped in the couch and
-embraced feeling like shit for the rest of the day.
+embraced feeling like shit for the rest of the day. Waiting for the girlfriend
+to come home and help me with dinner.
 
-## Day 1–12: Half-open Plaster Cast
+Later in the evening and night, I notice a lot of pressure on the ball of my
+foot because of the plaster.
 
-## Day 12–26: Closed Synthetic Cast
+## Day 1: The Orthopaedist
+
+Despite the hospital being so close-by, I taxi to/from it. Walking with
+crutches is too much effort. Luckily I can go in the handicapped people line at
+the reception. Pass by the ortho who quickly sends me out to radiology for a
+new scan. Not sure why yesterday's pictures would be insufficient, but I assume
+they know what they are doing. My ortho thinks I'm an edge case in terms of
+needing surgery. To be certain, he confers with his colleagues. Eventually they
+decide against surgery. Supposedly this will heal fine in 99% of the cases, so
+the extra risk that comes with a surgery is not deemed worth it.
+
+The nurse puts a new plaster cast on my leg. The previous one was apparently
+closed which is not a good idea when the area around the fracture can still
+swell up. The new one is "half open", meaning there is plaster on three sides
+while the front side just has bandages. This way, any swelling should not cut
+off blood flow or hurt as much.
+
+Spoiler: it will hurt.
+
+<!-- TODO A picture or two -->
 
 [benparkes]: https://www.youtube.com/channel/UCZPqG0yh_xPm2AyLjffbDvw
 [lactate-test]: {{ site.baseurl }}{% post_url 2020-07-03-5000m-tt %} "5000m TT (of sorts) (7 Jul 2020)"
