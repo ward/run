@@ -29,6 +29,12 @@ I place down my bad foot and am punished for the action. Very painful! I
 immediately push myself off again with the good foot to try and catapult myself
 in bed, taking the weight off the good foot. Welp.
 
+On day 3, the girlfriend decides to have some fun drawing on my cast. She
+cannot draw well, but she is having fun with it and I do not mind. Not like I
+will be seeing any people any way.
+
+<!-- TODO: Cast picture here -->
+
 ## Day 4: Rush of Blood
 
 In the afternoon I notice that getting up or sitting somewhat upright is now a
@@ -67,5 +73,53 @@ step, move it a little further.
 
 ## Day 8: ER
 
+In the morning things feel a tiny bit better again, but the colour, bruising,
+and slight numbness to the touch remain. I call the hospital to see if I can
+squeeze in for an earlier appointment, but they tell me they have no free
+spots. After I tell them what I have, they tell me to pass by the ER instead.
+In the afternoon I decide to do so because I do not trust how everything feels.
+
+Waiting in the ER goes a bit slowly, I know I am not in a dire situation
+needing immediate attention so I expected as much. Annoyingly there is no easy
+way to elevate my leg, which is triggering the problem of blood rushing in, it
+swelling, and subsequent pain. It takes ages before they put me in a room where
+I can finally rest on a bed at least. And then... nothing. Nobody shows up.
+After a while I start finding it a bit strange, but I am also not mobile enough
+to easily go looking for people. Eventually, after about an hour, a doctor
+walks in, surprised to find me there. There was a shift change and I had gotten
+lost in the paperwork somehow. The doctor ranted about the previous shift, her
+opinion of them was already low and this was evidently not helping.
+
+After all that, she checks it out and tells me that everything I am
+experiencing is normal. Fuck me. Waste of an afternoon and lots of needless
+pain. At least I am now sure I do not need to worry, just suffer through it.
+
+## Day 9-11: Countdown
+
+By this point, someone had pointed out a [YouTube channel of a
+runner][benparkes] who also had broken his ankle. The videos had made me
+optimistic I might be placed in some particular type of boot that you could at
+least take off for a shower or bath. Hopefully with that on, I could also start
+walking a bit again, put some weight on it. The next appointment wasn't till
+Friday (day 12) though, so I had to go through a few more days of suffering. If
+there had ever been any living for the weekend...
+
+On day 9 I tried sitting up a bit more. Up till now I had been lying flat with
+only the leg elevated in order to keep everything above the heart. The ER
+doctor said I should be able to sit up. After briefly trying it, I felt the
+swelling and pain quickly return though, so I gave up on that. Lying flat
+remains the way to go for now.
+
+I also start noticing a new pain, this one in the tendons and muscles. The
+tendons (or muscles?) on the front of the foot, connecting to the leg, were in
+pain. Perhaps from the pressure of the cast. The muscle right along the
+shin-bone was also rather painful. Just what I needed. In comparison, the area
+around the ankle fracture actually felt better. I keep popping the prescribed
+painkillers. Only helps so-so.
+
+Over the next two days, I feel like things are going the right way as the pain
+remains, but lessens in intensity. On day 11 I do not even use painkillers at
+all. Sitting up still does not really work great, but I get more and more
+hopeful for good news on day 12.
+
 [benparkes]: https://www.youtube.com/channel/UCZPqG0yh_xPm2AyLjffbDvw
-[lactate-test]: {{ site.baseurl }}{% post_url 2020-07-03-5000m-tt %} "5000m TT (of sorts) (7 Jul 2020)"
