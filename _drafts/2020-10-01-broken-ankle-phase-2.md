@@ -139,7 +139,7 @@ painkillers. I have never been good at falling asleep, but the painkillers had
 been really helpful with at least being able to fall asleep in the evening.
 
 At some point some resistance bands I ordered arrive. I start improvising some
-workouts with them to not feel as useless.
+workouts with them to not feel as useless. Eh.
 
 The mood affects my work, I have no motivation to do any of it.
 
