@@ -64,10 +64,98 @@ into my skin. Luckily it did not go deep. From there on she also was more
 careful not to go any deeper than the hard cast. Still, just my luck. So far
 for her safety speech.
 
-Dont recognise leg
+Eventually the cast comes off without any further injuries. I look down at my
+leg and I do not recognise it. This is no exaggeration. All the muscles
+disappeared and it has gotten so tiny that my mind takes some seconds to accept
+that is my leg. Really fucking weird. I try to flex what is left, but I cannot
+even make it move. Yikes. Part of that may be due to the ankle's mobility, or
+lack thereof. I can move it a few degrees up and down, but that is it. Dang,
+four weeks of immobilising ruins things. The foot and ankle are still somewhat
+swollen, but I had already read that this can keep happening for months to
+come. The skin also looks like a mess, but maybe some good washing will fix
+that.
 
-Barely any ankle mobility
+<!-- Picture from that day -->
 
-still swelling
+The nurse gives me a sort of sandal shoe that reaches up to above my ankle. The
+sandal vibes enable it to be used with the varying sizes my foot may have from
+swelling. The high reach I assume is for some modicum of ankle support. It will
+take a bit for that leg to be able to handle my weight of course, so I still
+got to use my crutches and see for myself when I can upgrade my mobility. For
+myself indeed, the doctor says I will need to be my own physiotherapist for the
+next two weeks. No point in seeing a real one yet, supposedly.
 
-No kine needed yet
+## Days 27-31: To Walk Again
+
+I decide to walk (with two crutches) back and forth in the living room every so
+often to keep the blood flowing. I have missed going outside, so I dedicate two
+moments in the day to go for a short walk. These max out at 40 minutes which at
+current speeds means 1.3 km, eventually 1.6 km. Yeah, I'm slow. On the walks I
+try to keep the foot on the ground as you would in a normal situation, though
+the lack of ankle mobility makes me lift it earlier of course. Still, I figure
+by focusing on that, it will also help stretch the muscles a little. The inside
+of the sandal they gave me has something scratchy right in the area where they
+cut me. Evidently not ideal. My solution ends up being: put high socks on +
+wrap a cloth around that area before putting the sandal on (the socks proved
+not to be enough). Socks are tricky at first due to everything still being a
+bit painful when moving and the ankle and foot swelling up easily. Eventually I
+get better at it.
+
+If you read the previous post, you might recall me complaining about the
+tightness of the cast being really painful on my foot. This became evident once
+the cast was taken off. The entire upper side of my foot was blue and bruised.
+The area near the pinky toe was red, as was the pinky toe. The lateral side of
+the foot, along the edge of the sole, was also blue and bruised. Lastly a
+bruise on the medial side, between the heel and the bone sticking out on that
+side of the ankle. A lot of suffering to heal something else! By the end of
+this period, the bruise on top has largely cleared up (or maybe another day or
+two, I do not recall). The ones on the side are more persistent. The pinky toe
+also improves daily.
+
+As mentioned above, the skin also was a mess. The soles looked awful (like
+layers upon layers of dead skin) and everything just looked like it needed to
+be bathed in lotion. Some soaking baths later, the worst was gone, but my skin
+would suffer for a while still. Everyday it was peeling and I kept on pulling
+off some skin.
+
+## Day 32-33: Losing a Crutch
+
+One of my walks this day was managed entirely with one crutch! I am still
+carrying the other crutch along as a precaution, but things are going the right
+way. My speed is still pretty much the same: awfully slow. Oh well, going
+outside is nice.
+
+Later in the day I decide I need to focus some more on ankle mobility. I recall
+an exercise where you draw the alphabet with your foot that I have used in the
+past after light sprains. That might be too advanced for me right now: I hurt
+myself doing it. The next day I decide not to do any ankle mobility to give it
+some rest. I also look online for something more appropriate for my level.
+
+## Day 34-35: Look Ma, No Hands!
+
+<!-- Sa 10/10, Su 11/10 -->
+
+On a whim, I decide to try walking without any crutches in the living room and
+I actually manage (slowly, carefully). So happy! I only do a few back and
+forths, but it feels amazing to manage that again. I cannot put into words how
+happy that made me feel at the time. I cannot do this outside yet of course,
+the footing inside is just way flatter, smoother, and safer.
+
+<!-- TODO: Video -->
+
+By this point in time, the swelling definitely is not as bad any more. My foot
+does still turn red pretty easily when standing up though. Oh well, as long as
+it does not bother me.
+
+I found a PDF online from a hospital that they seem to use as a flyer for
+people who had a broken ankle and are fresh out of their cast. Could it be any
+more relevant? In the evening I do their beginner exercises. The beginner
+exercises are hard for me, but at least they do not hurt me like the alphabet
+did.
+
+<!-- TODO Link PDF -->
+
+The next day I do the mobility exercises in the morning right before my walk.
+The flyer recommends to do them three-four times a day. Doing it right before
+my walk might not have been the best idea, the exercises do rough up the ankle
+a little. The walk does not feel too great.
