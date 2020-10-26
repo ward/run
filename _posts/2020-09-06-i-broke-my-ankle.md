@@ -22,7 +22,7 @@ completing all the streets in my (greater) area. Because everything nearby was
 already long done, I had planned a short bike ride (5ish km) to a different
 starting point, saving me the trouble of running there. I got running and just
 shy of 5 km into my run, my planned route was blocked off due to construction.
-My map showed a small grassy path between two fields ran largely parallel and
+My map showed a small grassy path between two fields that ran largely parallel and
 rejoined further on, so I decided to go down that path instead.
 
 ## Critical Failure
@@ -55,6 +55,8 @@ point, I had looped back in a way. I was only 1 km from my bike. Biking home
 was also largely downhill. Clearly I was right earlier to feel like an idiot,
 because I decided to walk to my bike.
 
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/01.20200906.right-after.jpg' description='Contemplating my options after limping to the end of the path.' %}
+
 ## Walk of Shame
 
 Walking (limping) was painful, but I still managed in the end. Took 16 minutes
@@ -65,6 +67,9 @@ shoes to further inspect the damage. I briefly tried some icing. I looked up
 how to recognise broken ankles. You cannot put any weight on them, so that was
 good, I still could!
 
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/02.20200906.back-home.jpg' description='Assessing whether I need to go to the hospital.' %}
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/03.20200906.hospital-wait.jpg' description='Yeah I think you know where this is going.' %}
+
 Finally I came to my senses though, broken or not, this amount of pain and
 swelling deserved a look by a doctor. Only partial senses though, I *walked* to
 the hospital a few blocks away. (add another ~800m) After 20 minutes
@@ -73,7 +78,7 @@ adrenaline must have worn off. Walking was now way too painful. Good thing I
 went to the ER after all. Had an X-ray taken. Verdict: broken ankle. Fuck I was
 disappointed. Up till that point I was still holding out hope for "really bad
 sprain" or something similar. Hearing it was broken was an immediate verdict of
-being out for 6 weeks. They put a plaster cast on my leg and booked me for a
+being out for at least six weeks. They put a plaster cast on my leg and booked me for a
 visit with an orthopaedist the next day. Surgery might be needed so they wanted
 the specialists to have a better look.
 
@@ -88,6 +93,8 @@ to come home and help me with dinner.
 
 Later in the evening and night, I notice a lot of pressure on the ball of my
 foot because of the plaster.
+
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/04.20200906.first-cast.jpg' description='The first cast, set on my leg by the ER folk.' %}
 
 ## Day 1: The Orthopaedist
 
@@ -106,9 +113,9 @@ swell up. The new one is "half open", meaning there is plaster on three sides
 while the front side just has bandages. This way, any swelling should not cut
 off blood flow or hurt as much.
 
-Spoiler: it will hurt.
+Spoiler: it will still hurt.
 
-<!-- TODO A picture or two -->
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/05.20200907.second-cast.jpg' description='The second cast, placed a day later at the ortho.' %}
 
 [benparkes]: https://www.youtube.com/channel/UCZPqG0yh_xPm2AyLjffbDvw
 [lactate-test]: {{ site.baseurl }}{% post_url 2020-07-03-5000m-tt %} "5000m TT (of sorts) (7 Jul 2020)"
