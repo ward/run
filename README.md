@@ -16,3 +16,20 @@ website.
 
 With everything installed, you can use `bundle exec jekyll serve` for some live
 viewing or just `bundle exec jekyll build` if you want the result.
+
+## Adding Images
+
+When adding an image, it is advised to
+
+- Shrink the image, no point in 4000x3000 pixels when it shows up way smaller
+  in the blog. The following keeps the aspect ratio. `newimgfile` can be equal
+  to `imgfile`.
+
+    ```
+    convert imgfile -resize 800x800 newimgfile
+    ```
+- Scrub geodata from the image (and other things?)
+
+    ```
+    exiftool -geotag= imgfile
+    ```
