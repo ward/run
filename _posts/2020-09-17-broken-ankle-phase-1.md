@@ -33,7 +33,7 @@ On day 3, the girlfriend decides to have some fun drawing on my cast. She
 cannot draw well, but she is having fun with it and I do not mind. Not like I
 will be seeing any people any way.
 
-<!-- TODO: Cast picture here -->
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/06.20200909.tina-drawing.jpg' description='Modern day Picasso.' %}
 
 ## Day 4: Rush of Blood
 
@@ -70,6 +70,8 @@ are occupied holding two crutches. Imagine doing things in the kitchen, but you
 cannot move your feet while holding anything. You really have to plan where you
 put what so you can get around, taking a step, move something, take another
 step, move it a little further.
+
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/07.20200914.bruising-toe.jpg' description='I just cannot trust how that looks.' %}
 
 ## Day 8: ER
 
@@ -122,4 +124,4 @@ remains, but lessens in intensity. On day 11 I do not even use painkillers at
 all. Sitting up still does not really work great, but I get more and more
 hopeful for good news on day 12.
 
-[benparkes]: https://www.youtube.com/channel/UCZPqG0yh_xPm2AyLjffbDvw
+[benparkes]: https://www.youtube.com/channel/UCZPqG0yh_xPm2AyLjffbDvw "Ben Parkes"
