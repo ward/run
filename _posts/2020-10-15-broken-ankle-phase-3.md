@@ -28,7 +28,7 @@ to really show me my injury. While they had evidently described things, that
 only does so much.
 
 Now in the actual doctor's office, he invited me to look at his computer screen
-displaying my fracture. My heart dropped as he pointed out the fracture. He
+displaying my fracture. My heart dropped as he pointed out the still visible fracture. He
 explained it was a type A fracture of the fibula. I looked at it and it still
 looked clearly broken. A clear line separated a tiny piece of fibula from the
 rest of the bone. Had I not been healing? Luckily the doctor's narrative did
@@ -75,21 +75,21 @@ swollen, but I had already read that this can keep happening for months to
 come. The skin also looks like a mess, but maybe some good washing will fix
 that.
 
-<!-- Picture from that day -->
-
 The nurse gives me a sort of sandal shoe that reaches up to above my ankle. The
 sandal vibes enable it to be used with the varying sizes my foot may have from
 swelling. The high reach I assume is for some modicum of ankle support. It will
 take a bit for that leg to be able to handle my weight of course, so I still
 got to use my crutches and see for myself when I can upgrade my mobility. For
 myself indeed, the doctor says I will need to be my own physiotherapist for the
-next two weeks. No point in seeing a real one yet, supposedly.
+next two weeks. No point in seeing a real one yet, supposedly. I would have preferred the guidance, but he knows best.
+
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/11.20201002.no-calf.jpg' description='Whose leg is this?' %}
 
 ## Days 27-31: To Walk Again
 
 I decide to walk (with two crutches) back and forth in the living room every so
 often to keep the blood flowing. I have missed going outside, so I dedicate two
-moments in the day to go for a short walk. These max out at 40 minutes which at
+moments in the day to go for a short walk. These eventually max out at 40 minutes which at
 current speeds means 1.3 km, eventually 1.6 km. Yeah, I'm slow. On the walks I
 try to keep the foot on the ground as you would in a normal situation, though
 the lack of ankle mobility makes me lift it earlier of course. Still, I figure
@@ -112,10 +112,14 @@ this period, the bruise on top has largely cleared up (or maybe another day or
 two, I do not recall). The ones on the side are more persistent. The pinky toe
 also improves daily.
 
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/12.20201004.bruised-foot.jpg' description='Bruising. You can also see where the nurse sawed into my leg and chafing from the shoe.' %}
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/13.20201004.bruised-foot-2.jpg' description='More bruising.' %}
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/14.20201006.arrow-bruised-foot.jpg' description='Sort of looks like an arrow.' %}
+
 As mentioned above, the skin also was a mess. The soles looked awful (like
 layers upon layers of dead skin) and everything just looked like it needed to
 be bathed in lotion. Some soaking baths later, the worst was gone, but my skin
-would suffer for a while still. Everyday it was peeling and I kept on pulling
+would suffer for a while still. Every day it was peeling and I kept on pulling
 off some skin.
 
 ## Day 32-33: Losing a Crutch
@@ -136,7 +140,7 @@ some rest. I also look online for something more appropriate for my level.
 <!-- Sa 10/10, Su 11/10 -->
 
 On a whim, I decide to try walking without any crutches in the living room and
-I actually manage (slowly, carefully). So happy! I only do a few back and
+I actually manage (slowly, carefully, tiny steps). So happy! I only do a few back and
 forths, but it feels amazing to manage that again. I cannot put into words how
 happy that made me feel at the time. I cannot do this outside yet of course,
 the footing inside is just way flatter, smoother, and safer.
@@ -147,15 +151,51 @@ By this point in time, the swelling definitely is not as bad any more. My foot
 does still turn red pretty easily when standing up though. Oh well, as long as
 it does not bother me.
 
-I found a PDF online from a hospital that they seem to use as a flyer for
-people who had a broken ankle and are fresh out of their cast. Could it be any
-more relevant? In the evening I do their beginner exercises. The beginner
+I found [a flyer for people who had a broken ankle and are fresh out of their
+cast][brokenanklephysiotherapy]. Could it be any more relevant? In the evening
+I do their beginner exercises. Just a series of stretches really. The beginner
 exercises are hard for me, but at least they do not hurt me like the alphabet
 did.
 
-<!-- TODO Link PDF -->
-
 The next day I do the mobility exercises in the morning right before my walk.
-The flyer recommends to do them three-four times a day. Doing it right before
+The flyer recommends to do them three to four times a day. Doing it right before
 my walk might not have been the best idea, the exercises do rough up the ankle
 a little. The walk does not feel too great.
+
+## Day 36-38: Playing It Safe
+
+As I notice the swelling of the foot does not dissipate as easily as before, I
+decide to give up on the walking for now. My limiting factor is no doubt my
+mobility at this point, so I prioritise those exercises. That is what I say to
+myself to not feel too disappointed at least. I still walk a little bit back
+and forth in the living room, because I cannot help myself. Those are with
+either one crutch or no crutches.
+
+On day 38, I notice that the bruising on the medial side of the heel and the
+bruising along the edge of the sole on the lateral side has substantially
+lessened. It is almost gone now.
+
+## Day 39: Anticipation
+
+Waking up with a sore left calf. It is easy to overdo it when you have no
+strength left.
+
+I try testing out how flexible my ankle is at the moment. I place my big toe
+against the skirting board (maybe one centimetre thick?) and try to touch the
+wall with my knee. Physically impossible. For comparison's sake, my right foot
+manages from about 8-9 centimetre away from the board. I am not a flexible
+person to begin with, so you may easily go from further still.
+
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/15.20201015.inflexible-ankle.jpg' description='Not even close to the wall.' %}
+
+I also give our elliptical a short spin. Ten minutes, low rotations per minute,
+low resistance. It seems almost normal, but not exactly right. I am thinking I
+might be able to use it in a few more days.
+
+Besides all that, I am living in anticipation of tomorrow's hospital visit. I
+am hoping it will be my last time, but I also feel the fracture site from time
+to time. I do not know whether that is sore muscles/tendons in the area or the
+bone itself. The uncertainty means I assume the worst, which in turn makes me
+worried about the day to come. Still. A man can dream.
+
+[brokenanklephysiotherapy]: {{ site.baseurl }}/assets/img/broken-ankle/16.broken-ankle-physiotherapy.pdf
