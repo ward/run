@@ -46,9 +46,10 @@ Either way, a snug fitting cast was applied and I was off to the races. And by
 races I mean off back home to lie down some more. Since I still could not use
 the leg and foot, I would also have to keep on giving myself shots of Clexane
 in the belly. Gotta ensure my blood does not clot up and cause issues
-elsewhere. Also still got to keep it elevated.
+elsewhere. Also still got to keep the ankle elevated.
 
-<!-- TODO: Purple cast picture here. Also no cast picture -->
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/09.20200918.between-casts.jpg' description='A brief reprieve between two casts. The ankle is actually looking somewhat normal? Still a bit swollen, but better than I expected.' %}
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/08.20200918.third-cast.jpg' description='Shiny new cast.' %}
 
 ## Day 13: A New Pain
 
@@ -65,14 +66,14 @@ All the pressure had one advantage: I could no longer move my foot around in
 the cast. In the previous one I had ended up having too much room and
 "swimming" in the cast. I had been easily able to shift the position of my
 ankle upwards and downwards. I had been also able to move my foot up and down.
-All not ideal for moving I am sure. On top of that, my body had gotten really
+All not ideal for the whole idea of immobilising the ankle. On top of that, my body had gotten really
 intent on triggering morning stretches for that leg. I assume because it did
 not like the lack of movement. Such movement was rather painful though, so as
 soon as I noticed the automatism, I had to do my best not to stretch. Very
 annoying. Nothing of that in this new cast, I could not move inside the cast.
 
 In the evening I noticed my appetite had lessened. We had ordered Chinese food.
-Whereas I usually eat 1.5 to 2 dishes, now I was done after 1. The lack of
+Whereas I usually eat one and a half to two dishes, now I was done after just the one. The lack of
 movement must have caught up to my energy needs.
 
 ## Day 14-17: More Pain
@@ -108,8 +109,6 @@ to my will? Literally. I grabbed some pliers, used it to grab the cast near the
 toe, and started forcing it outwards. After a while of this, the pressure had
 eased some. So simple and it took me so long to think about!
 
-<!-- TODO: Pliers picture, bent cast picture -->
-
 Later that day I have some first proper attempts at sitting up and working
 again. Careful optimism that things will be better from here on out.
 
@@ -130,6 +129,8 @@ for too long, dropping back down in the couch to stick my leg in the air and
 wait for the blood to run back out.
 
 At the time I wrote down: "SO SICK OF THIS".
+
+{% include image.html domain=site.baseurl url='/assets/img/broken-ankle/10.20200928.roomy-cast.jpg' description='Day 22. A view of the spacious home my calf now has.' %}
 
 ## Day 22-25: Moody
 
