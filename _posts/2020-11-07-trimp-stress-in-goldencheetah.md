@@ -34,7 +34,8 @@ stress comes in two parts:
 
 1. Assign a number to an activity. The number indicates how much stress the
    activity placed on the body. In the context of this post, we will consider
-   TRIMP values. How exactly these are calculated does not matter here.
+   TRIMP values. How exactly these are calculated does not necessarily matter
+   here.
 2. Summarise these numbers over time. These numbers may then indicate, for
    example, your Long Term Stress (LTS, form) or your Short Term Stress (STS,
    fatigue). This summary was slightly different than what I was used to.
@@ -95,5 +96,28 @@ value as $\alpha$. Likely there is some other paper I missed, I am no expert
 either. Of course, for all these metrics, you should tweak them in function of
 how you actually feel. That also counts for this $\alpha$, the recovery of an
 older person is not the same as for a younger person.
+
+## TRIMP
+
+I used that adjusted stress formula to see which activity metric matches up to
+the stress metrics. This was just some trial and error of throwing the numbers
+in. TRIMP won out. For completeness sake, I will explicitly state what this
+TRIMP score signifies. As mentioned in GoldenCheetah, this is the "Training
+impulse according to Morton/Bannister with Green et al coefficient".
+
+Calculating it is just a matter of throwing together some information from your
+activity.  First grab the average heart rate and see how it stacks up to your
+maximum and resting heart rate.
+
+$$
+HR_{rel} = \frac{HR_{avg} - HR_{rest}}{HR_{max} - HR_{rest}}
+$$
+
+Then combine that relative heart rate with the time you spent exercising and a
+$k$ adjusted to your sex: $1.92$ for men, $1.67$ for women.
+
+$$
+TRIMP = t_{min} * HR_{rel} * 0.64 * exp\left( k_{sex} * HR_{rel} \right)
+$$
 
 [measuringstress]: {{ site.baseurl }}/notes/measuring-training-stress.html
