@@ -34,6 +34,9 @@ are simply added when I remember to do so.
 * [plotaroute.com](https://www.plotaroute.com/myhome) lets you click spots and
   create the actual route. Defaults to Google Maps data, but you can easily
   enable OpenStreetMap.
+* [Trail Router](https://trailrouter.com/) tries to find you a running route
+  where you maximise greenery, trails, or no-traffic. Quite some configuration
+  options too! [Cycle.travel](https://cycle.travel/map) is similar for biking.
 
 ### Existing
 
