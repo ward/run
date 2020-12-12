@@ -438,6 +438,22 @@ CALC.hrzones = {
   }
 };
 
+CALC.trimp = {
+  hr_rel: function(hr_avg_activity, hr_rest, hr_max) {
+    return (hr_avg_activity - hr_rest) / (hr_max - hr_rest);
+  },
+  /**
+   * @param sex 1 if a woman, 0 if man (default: man)
+   * @return number Stress for the activity as defined by Morton/Bannister with
+   *                Green et al coefficient.
+   */
+  calc: function(time_minutes, hr_rel, sex) {
+    // 1.67 for women, 1.92 for men
+    let k = (sex === 1) ? 1.67 : 1.92;
+    return time_minutes * hr_rel * 0.64 * Math.pow(Math.E, k * hr_rel);
+  }
+};
+
 /**
  * Event listeners for pace/speed
  */
