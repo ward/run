@@ -9,7 +9,7 @@ url: "https://run.wxm.be" # the base hostname & protocol for your site
 author: Ward Muylaert
 
 # Social
-strava_username: wardmuylaert
+# strava_username: wardmuylaert
 # smashrun_username: ward
 rss: RSS
 
