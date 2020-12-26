@@ -13,7 +13,7 @@ track of the recovery process to maybe help someone in a similar predicament
 frame the injury and know what to expect. I will describe significant events as
 days since the accident. Day 0 is 6 September, day 1 is 7 September, and so on.
 
-This post describes days 40 (Friday 16 October) through 67 (Friday 13 November).
+This post describes days 40 (Friday 16 October) through 68 (Friday 13 November).
 
 <!-- TODO: Link to previous -->
 
