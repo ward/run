@@ -168,7 +168,7 @@ Using the numbers and categories in *Faster Road Racing*. Good book, go get it.
 Given a race length, goal time, and split distance, give the split at every point.
 
 <input type="number" class="narrow" placeholder="metre" id="race-splits-distance" min="0" />
-<input type="time" placeholder="metre" id="race-splits-time" min="0" step="1" />
+<input type="number" class="narrow" id="race-splits-time-hours" min="0" value="0" step="1" />:<input type="number" class="narrow" id="race-splits-time-minutes" min="0" value="0" step="1" />:<input type="number" class="narrow" id="race-splits-time-seconds" min="0" value="0" step="1" />
 <input type="number" class="narrow" placeholder="metre" id="race-splits-split-distance" min="0" />
 <label title="Start the splits from the finish backwards instead of from the front. Useful for e.g. start/finish line splits if you are running 1000m on a 400m track">Reverse?
   <input type="checkbox" id="race-splits-reverse" />

@@ -678,7 +678,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 function race_splits_update() {
   let distance = parseInt(document.getElementById('race-splits-distance').value);
   let split_distance = parseInt(document.getElementById('race-splits-split-distance').value);
-  let time = race_split_parse_time(document.getElementById('race-splits-time').value);
+  let time = race_split_parse_time(document.getElementById('race-splits-time-hours').value, document.getElementById('race-splits-time-minutes').value, document.getElementById('race-splits-time-seconds').value);
   let reverse = document.getElementById('race-splits-reverse').checked;
   if (isNaN(distance) || isNaN(split_distance) || isNaN(time)) {
     return;
@@ -732,18 +732,19 @@ function race_splits_new_row(distance, time) {
   return new_row;
 }
 
-function race_split_parse_time(val) {
-  // Form is hh:mm:ss
-  let hour = parseInt(val.substring(0, 2));
-  let minute = parseInt(val.substring(3, 5));
-  let second = parseInt(val.substring(6, 8));
+function race_split_parse_time(h, m, s) {
+  let hour   = parseInt(h);
+  let minute = parseInt(m);
+  let second = parseInt(s);
   return second + minute * 60 + hour * 3600;
 }
 
 document.addEventListener('DOMContentLoaded', function(event) {
   let inputs = [
     document.getElementById('race-splits-distance'),
-    document.getElementById('race-splits-time'),
+    document.getElementById('race-splits-time-hours'),
+    document.getElementById('race-splits-time-minutes'),
+    document.getElementById('race-splits-time-seconds'),
     document.getElementById('race-splits-split-distance'),
     document.getElementById('race-splits-reverse')
   ];
