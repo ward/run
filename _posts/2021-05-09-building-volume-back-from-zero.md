@@ -265,7 +265,6 @@ where I need this)
 ## Footnote
 
 As I safely got through those final two 100 km weeks, my body decided to
-<!-- [self-sabotage on the final Saturday][ribs]. -->
-self-sabotage on the final Saturday (post to follow).
+[self-sabotage on the final Saturday][ribs].
 
 [ribs]: {{ site.baseurl }}{% post_url 2021-05-20-i-need-bubble-wrap-armour %}
