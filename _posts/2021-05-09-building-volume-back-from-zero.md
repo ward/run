@@ -11,8 +11,6 @@ tags:
 - zero to a hundred real slow real slow
 ---
 
-TODO: Add pictures from training log?
-
 On Sunday 6 September 2020 I broke my left ankle. It led to a lot of rehab, as
 a I described in my Broken Ankle Chronicles. Now, eight months later, I am back
 around the volume I was running pre-break. In this post I will describe how I
@@ -227,4 +225,47 @@ With that extra delay, I was finally ready for it. A 100 km week. Two of them
 even. Following the idea of 3 weeks up, 1 week down, I wanted to do two of them
 and then a down week (evidently I count the previous 85 km week as another up
 week). I also decided that getting through those two weeks was the end of my
-(volume) base building period. An extra reward to make me not do anything dumb.
+(volume) base building period. An arbitrary goal line as an extra reward to
+make me not do anything dumb.
+
+- Mo: Recovery
+- Tu: GA with strides
+- We: Recovery doubles
+- Th: Lactate threshold workout
+- Fr: GA
+- Sa: Recovery
+- Su: Endurance
+
+Not too much difference between the two weeks. Still increasing the long run
+slowly (23 km, then 24 km). I adjust the recovery doubles in function of that.
+For the rest aim for 13 km for GA, 10 km for recovery, 16 km for the midweek
+workout.
+
+For the workout the first week, I decided on Threshold work as described by
+Jack Daniels. Did it mostly by feel and heart rate. Kept it short enough with
+4×5 minutes, 1 minute rest in-between. This ended up being about 3:37 pace per
+rep as measured by GPS running along the canal. The second week I did a
+similar, but a little bit faster pace. A CV workout as described by Tinman
+(again, some notes can be found elsewhere on this site). I opted for 5×1000
+metre on the track. Pacewise I aimed for pre-break values: 3:30 per rep. Rest
+(shuffle jog) about one third of the rep time. It went well enough, though I
+started feeling a bit low on carby energy by the final rep. Bit too fast for
+where I am currently at? I do not think I ate enough either to be fair.
+Regardless, it was fun.
+
+## Conclusion
+
+Daniels' plan looked a bit aggressive when I first got my eyes on it, but in
+the end it seems to have worked out fine. The only setbacks were because of
+shoes needing replacements and hurting my knees through something unrelated to
+running. In terms of running, I seem to have survived the build up without
+issue. Good to know for next time! (Please do not ever let there be a next time
+where I need this)
+
+## Footnote
+
+As I safely got through those final two 100 km weeks, my body decided to
+<!-- [self-sabotage on the final Saturday][ribs]. -->
+self-sabotage on the final Saturday (post to follow).
+
+[ribs]: {{ site.baseurl }}{% post_url 2021-05-20-i-need-bubble-wrap-armour %}
