@@ -33,3 +33,4 @@ When adding an image, it is advised to
     ```
     exiftool -geotag= imgfile
     ```
+- Make pngs smaller, use pngquant or similar.
