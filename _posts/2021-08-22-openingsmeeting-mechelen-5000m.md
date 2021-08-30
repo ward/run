@@ -97,6 +97,10 @@ we went out too slow or too fast. I ended up pacing that part mostly correct
 and stayed in the lead for the first few laps. Nobody seemed inclined to take
 over of their own accords.
 
+{% include image.html domain=site.baseurl url='/assets/img/202108-mechelen/20210822_100704_12_laps_togo.jpg' description='Leading the pack.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202108-mechelen/20210822_100706_12_laps_togo.jpg' description='Leading the pack.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202108-mechelen/20210822_100821_11_laps_togo.jpg' description='Leading a smaller group. From front to back: me, Dieter, Jonas, Jurgen, Sander.' %}
+
 Somewhat swiftly we had a little lead group. I don't know how many were in
 there or if they were the ones I had managed to recruit (I had recruited three
 others), but they were all hanging behind me. I did not look back to check.
@@ -105,24 +109,28 @@ did not look behind me, but yelled over my shoulder something along the lines
 of "still got the energy to take over?". Someone did! One of the ones I had
 recruited, Dieter, passed me on the outside and took over the leading. I stuck
 right behind him and kept hugging the cord. Dieter did the leading for about
-two laps, then another one I had recruited, ???, moved to the front. With him
+two laps, then another one I had recruited, Jurgen, moved to the front. With him
 followed someone I had _not_ recruited, Jonas. I also felt there was nobody
 behind me, so that meant Sander (the third guy I had recruited) was no longer
 with us. Seeing some photos afterwards showed that Sander was dropped after
 about 1.5 laps.
 
-With ??? in the front, Dieter was now second, and I kept following Dieter on
+{% include image.html domain=site.baseurl url='/assets/img/202108-mechelen/20210822_101110_9_laps_togo.jpg' description='Dieter took over, 9 laps to go.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202108-mechelen/20210822_101350_7_laps_togo.jpg' description='Jurgen in the lead, 7 laps to go. I ensure to keep hugging the inside.' %}
+
+With Jurgen in the front, Dieter was now second, and I kept following Dieter on
 the inside. Jonas was slightly ahead of me, but I was not going to slow down
 for him to slide inbetween me and Dieter. He seemed content to be slightly more
 on the outside. We're all still in lane 1 at this point so I imagine it does
-not matter _that_ much. I was beginning to feel the effort too by this point
-and it sometimes felt like a mental challenge just to hang on. After two laps,
-??? seemed to have overdone it a little and he faded away. I stuck behind him a
-little too long and Jonas moved in behind Dieter. I then passed ??? and tried
-my best to hang on to Jonas. I was having a rough time _and_ I knew we were
-still going too slow for 16:40 pace too, from the few times I had glanced at my
-watch. I was also helped by Raf shouting lap times from the sideline when we
-passed (mostly we heard him saw 1:21, so that says enough).
+not matter _that_ much in terms of distance. I was beginning to feel the effort
+too by this point and it sometimes felt like a mental challenge just to hang
+on. After two laps, Jurgen seemed to have overdone it a little and he faded away.
+I stuck behind him a little too long and Jonas moved in behind Dieter. I then
+passed Jurgen and tried my best to hang on to Jonas. I was having a rough time
+_and_ I knew we were still going too slow for 16:40 pace too, from the few
+times I had glanced at my watch. I was also helped by Raf shouting lap times
+from the sideline when we passed (mostly we heard him say 1:21, so that says
+enough).
 
 With under 5 laps to go, Jonas moved to the front for the first time in the
 race. I was happy to hang behind Dieter and was honestly having a little bit of
@@ -136,11 +144,14 @@ Worst of all, he looked very smooth still. Unless he blew up spectacularly, I
 was not going to catch him. I correctly assumed at the time that he knew
 exactly what he was doing.
 
+{% include image.html domain=site.baseurl url='/assets/img/202108-mechelen/20210822_101914_3_laps_togo.jpg' description='Jonas with a sizable gap and three laps to go.' %}
+
 I figured all I could do now was to keep the pace honest, see if I could still
 PR, and try to hold on to second place. After the little surge to try to hold
 on to Jonas, I had a small lead on Dieter. Of course, once I realised Jonas was
-gone, I slowed down a little as compensation for going a little faster. With
-two laps to go, Dieter was right on my tail. I was not going to ask him to take
+gone, I slowed down a little as compensation for going a little faster. I say
+compensation cause it sounds nicer than saying I overdid it a little. With two
+laps to go, Dieter was right on my tail. I was not going to ask him to take
 over again and figured I would just lead till the line, hoping he would not
 outkick me.
 
@@ -152,6 +163,8 @@ name when they noticed his attempt. I tried to use this as fuel myself to keep
 pushing. I did not glance backwards, but I glanced sideways and never saw or
 felt him come beside me. He was still right there though so I had to keep
 pushing till the line. I managed to hold him off and got second.
+
+[Video of our dead man sprint for second](https://peertube.stream/w/0c0b3323-2688-4cc3-829c-f4c8cf2c141f).
 
 ## Results
 
@@ -177,13 +190,15 @@ time where I use the official finish time (girlfriend's final time was only
 
 So I did not PR and definitely did not hit 16:40, but in the end I don't feel
 disappointed. It's almost the same as last year's PR and now it is officially
-timed, giving that little bit of extra certainty vs hand timing.
+timed, giving that little bit of extra certainty vs hand timing. I put this run
+[on strava][strava] too.
 
-Our sprint for second place looks even closer in the results. Just 0.33s
-separate Dieter and I. Jonas on the other hand was about 15s ahead of us. I
-doubt he kept pushing to the line either. Behind us, ??? finished fourth (?) in
-??:??. Sander said it was not his day and he finished about a minute behind in
-??:??.
+Our sprint for second place looks even closer in the results (the results are
+split by category, so there is one for the [senior men][results] and one for
+the [masters men][results2]). Just 0.33s separate Dieter and I. Jonas on the
+other hand was about 15s ahead of us. I doubt he kept pushing to the line
+either. Behind us, Jurgen finished fourth in 17:12. Sander said it was not his
+day and he finished about a minute behind in 17:43.
 
 ## Future
 
@@ -202,5 +217,6 @@ is that I would need more of a taper before and a recovery afterwards to do it
 
 [huizingen3000m]: {{ site.baseurl }}{% post_url 2021-08-14-flanders-cup-oeh-3000m %} "3000m @ Flanders Cup OEH (14 Aug 2021)"
 [5ktt]: {{ site.baseurl }}{% post_url 2020-07-03-5000m-tt %} "5000m TT (of sorts) (7 Jul 2020)"
-[results]: https://www.atletiek.nu/wedstrijd/uitslagenonderdeel/35030/3000m/ "TODO UPDATE ME"
-[strava]: https://www.strava.com/activities/5793293459 "TODO UPDATE ME"
+[results]: https://www.atletiek.nu/wedstrijd/startlijst/405127/78/ "Results SEN-M"
+[results2]: https://www.atletiek.nu/wedstrijd/startlijst/405103/78/ "Results MAS-M"
+[strava]: https://www.strava.com/activities/5832713409
