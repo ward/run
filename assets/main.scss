@@ -51,6 +51,15 @@ table {
   }
 }
 
+div.post-content figure {
+  img {
+    margin: 0 auto;
+  }
+  figcaption {
+    text-align: center;
+  }
+}
+
 /**
  * Input styling for JavaScript client side calculators
  */
