@@ -64,6 +64,32 @@ point. "What is the point of this workout?" is something he likes to repeat.
   Maximum in a single training session: min(8k, 5% * weekly distance). Single
   interval should not exceed ~2 minutes.
 
+# Chapter 7: Fitness training
+
+The colour plans are given in time, but he still gives a reference distance for
+each.
+
+## Gold Elite Plan
+
+Distance of 100 km or more per week. Six or seven days of running per week. If
+you do a race: 2-3 E days before the race, 1 E day per 3k of racing. His
+suggestion for last quality pre-race (so before the E days): 3×5 minutes T, 2
+minutes rest between.
+
+Four phases of four weeks each, so 16 total. The weeks of one phase all look
+the same. Remember that H and I are similar, so I assume you can change the
+Hard parts with Intervals if you prefer the structure.
+
+1. Tuesday R. Friday T. Sunday L. Strides on Wed, Thu, and Fri (warmup and
+   cooldown).
+2. Tuesday H. Friday R. Sunday L. Strides on Wed, Thu, and Fri (warmup).
+3. Tuesday H. Friday T. Sunday L. Strides on Tue (warmup) and Friday.
+4. Tuesday H and R. Friday T. Sunday L. Strides on Friday (cooldown).
+
+Easier days you can also split up the run into two shorter ones if you prefer.
+They are there to fill up the weekly distance without killing you for the
+workouts.
+
 # Chapter 10: 1500 to 2 mile training
 
 The 1500 is done at 10-12% higher than VO2max. The 3000 right at VO2max, so
