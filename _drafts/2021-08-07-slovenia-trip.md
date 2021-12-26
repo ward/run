@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slovenia Trip"
-date: 2021-08-07 05:00:00
+date: 2021-12-26 10:00:00
 tags:
 - trip
 - slovenia
@@ -20,6 +20,14 @@ total we ended up spending seven days there that I could say something
 meaningful about, so I will just go through those one by one. (We arrived late
 the day before day 1 and just immediately went to bed)
 
+I wrote all of this in the weeks following the trip and selected photos at the
+time too. Then I completely ignored finishing the report till I figured at the
+end of December that I really should get it done. I processed the photos and
+did a final proofread. Procrastination at its finest.
+
+Maybe one more TODO: umap (or just a picture) with the locations we passed by
+(numbered).
+
 ## Day 1: Lost in the Woods and Too Much Hiking
 
 ### A Run
@@ -32,6 +40,8 @@ the forests were not marked trails. I was not aware of this fact, nor did I
 realise it actually mattered. Instead these seemed to be paths used for logging
 and, as such, were not quite as consistent with the map as I had hoped. My
 original path ended up stopping in a tree wasteland.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_084308.webp' description='Tree wasteland. Lots of those on this run.' %}
 
 No worries, there was a side path that seemed to get me in largely the right
 direction! I followed that instead. Repeat this process a few times.
@@ -55,6 +65,8 @@ After that I stuck to some roads, found an actual marked trail up to a view
 point, and finished the rest of the 10 km in less time than those first 3 km
 had taken me.
 
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_092348.webp' description='The view point I found in the end. Eagles something TODO Check name + confirm that the lake in the middle of the picture is the one we passed by a lot. Lake Bohinj next to Stara Fuzina?' %}
+
 ### A Hike
 
 {% include location.html lat=46.2947 lon=13.8754 description="The first viewpoint on our climb, we went a little further still." %}
@@ -68,12 +80,16 @@ across a 2.5 km stretch. That makes it pretty steadily around 20%. I am not
 sure what I expected on this trip, but that was a bit of a rougher start than
 anticipated.
 
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_120122.webp' description='Watching paragliders jump off the hill.' %}
+
 There were two nice viewpoints at the top and we watched paragliders take off
-from the side of the hill for a while. A nice and relaxing for us, before we
+from the side of the hill for a while. A nice and relaxing moment for us, before we
 bombed back down ourselves, no easy feat at that steepness. The terrain was
 also _very_ rocky, so you had to keep paying attention throughout. All in all
 that ended up being a nearly 9 km walk with over 2h30 of moving time. Legs were
 tired from the steepness, but I figured that was it for the day.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_132950.webp' description='Rocky, steep. Got to stay focused.' %}
 
 We immediately went to a restaurant in the village there (Residence Triglav {%
 include location.html lat=46.28408 lon=13.89142 description="The restaurant is
@@ -99,6 +115,8 @@ passed by the west side of the lake. Apparently there were three view points up
 there. When the girlfriend and her sister had made this trip about two years
 ago, they had only managed to do one of them, getting lost after that and not
 caring enough to press on. So up we went.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_191141.webp' description='Lake Bled. Nice enough, but I did not care that much. Especially seeing it several times from just slightly different angles.' %}
 
 The view is nice enough, you see the lake from above, you get a good view on
 the church on the island in the middle. Postcard picture. The different view
@@ -126,7 +144,10 @@ and the Šum waterfall at the end ("Slap Šum", Slap being Slovenian for
 waterfall). The walk was pretty, the waterfall itself underwhelming. Coming at
 the end of July might have made there not be enough water to make it a nice
 sight. The girlfriend later assured me it had looked much better when she had
-gone there before. Bummer.
+gone there in a different season. Bummer.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210727_104529.webp' description='Gorgeous Gorge. Mist hanging over the water.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210727_105353.webp' description='Gorgeous Gorge.' %}
 
 After getting back, we went to the girlfriend to say hi and rest briefly. We
 then bought some lunch in the supermarket, checked out the castle on the north
@@ -143,6 +164,8 @@ dinner. Tonight's dinner was more traditional, in the "Gostilnica Štrudl" ( {%
 include location.html lat=46.27262 lon=14.95303 description="Gostilnica Štrudl
 restaurant." %}) where I consumed too many strudls and had some nice local
 craft beer (Jezernik Summer Ale by Lintvern brewery).
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210727_190419.webp' description='A wonderful dip into Lake Bled to clean myself after running around it.' %}
 
 ## Day 3: Lake Bohinj and Viševnik
 
@@ -162,6 +185,8 @@ quickly cools down significantly. Cold mountain water I presume. The area can
 get pretty crowded with people, but I was lucky to be early enough and had some
 peace and quiet. First truly relaxing moment of the trip? I enjoyed it, things
 had been a bit too intense so far.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_105138.webp' description='A wonderful dip into Lake Bohinj to clean myself after running around it.' %}
 
 Afterwards I made my way back to the girlfriend. I don't know if it was
 something in the lake, but I was followed by a swarm of flies for almost a
@@ -187,11 +212,17 @@ little. About 2/3rds up the climb the complaining started and I had to stretch
 and rest my legs a few times. I am not the most bendy at the ankles to begin
 with, I imagine this does not help when going up so steep a climb.
 
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_142443.webp' description='Views!' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_145634.webp' description='That white patch is ice/snow. We had to cross it to then go up the mountain in the background.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_153114.webp' description='Looking back on the plateau with snow in it.' %}
+
 As we neared the top, we saw what we think is an Alpine Ibex. The horns were a
 bit short, so it would have to be a younger specimen (... or just some mountain
 goat). Evidently it was a bit shy so we could not get close for the most
 precise view, but until told differently, we assume it was one. It is the
 cooler story after all.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_155919.webp' description='View from at or very near the top. This is the other side, not the side we went up by.' %}
 
 We got to the top eventually at 2050m. There was a couple sitting there
 enjoying the view. I overheard them and they were Belgian. Figures that you
@@ -202,6 +233,9 @@ bombing down than going up, so I just went at comfortable-for-me pace and
 waited from time to time for the girlfriend and her sister who took a more
 careful approach. The entire walked ended up totalling just 6.3 km, but took us
 2h15 of moving (3h52 with all the breaks).
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_161837.webp' description='The little trail is the start of the way back down. We went down another path than the one we took going up.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_163900.webp' description='Just bombed down this side. Looking back at the girlfriend and her sister taking a slower and safer approach.' %}
 
 {% include location.html lat=46.27249 lon=13.98188 description="Penzion Resje restaurant." %}
 
@@ -238,6 +272,8 @@ technically drive up, though I don't recall much parking space to speak of at
 the top. It is also the way you would take when biking up and down. We took
 this way down to make it a bit easier on ourselves.
 
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210729_132114.webp' description='The switchback countdown painted on the trees. Motivating or the opposite?' %}
+
 At the top is a border marker stone, some monuments aimed at promoting the
 friendship between the countries, and mementos of how the border used to be.
 The Austrian side also gives you a magnificent view on a big valley. Walk a bit
@@ -252,6 +288,9 @@ spotted quite a few of them indicating the Slovenian-Italian border. A sizeable
 portion of the path is right next to the border so you can spot them between
 the trees a few meters in.
 
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210729_134831.webp' description='View from the top, looking towards the Austrian side. The little building there has a restaurant and the cable cart connection taking you down the Austrian side.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210729_155540.webp' description='One of the views on the way back down. If I recall there was a sign there with which mountain in the view is which. I have, of course, completely forgotten this information.' %}
+
 {% include location.html lat=46.49252 lon=13.73752 description="Zelenci natural reserve, its main observation point." %}
 
 By the time we got back down (13 km total, nearly 4 hrs), most of the day was
@@ -264,23 +303,23 @@ sister would walk around a little. The run was... not ideal.
 
 {% include location.html lat=46.47437 lon=13.78376 description="Lake Jasna" %}
 
-I quickly felt a rather strong need to poop, luckily getting to a toilet
+I quickly felt a rather strong need to poop (TMI? Suck it up, this is my blog), luckily getting to a toilet
 eventually. Then I had done all the roads at the lake, and running around the
 lake was not an option: it was tiny and there were too many people. Instead I
 went up into the mountains. This went OK for a while, the path was a wide
 packed gravel path that could probably fit a car or two. Easy peasy. Figures
 that on that exact path I manage to twist my left ankle while still being a
-while away from where we had parked the car. I did not feel the ankle going
+while away from where we had parked the car. The ankle was not painful going
 upwards, but it was hell when running back down. I had to be real careful with
 it and was glad when I finally reached the car. The section where I twisted my
 ankle was basically flat and, as mentioned before, not very difficult terrain.
 Perhaps the tiredness was catching up to me in terms of not paying enough
-attention (it was a small rock that caused the twisting) and the body being
+attention (I believe it was a small rock that caused the twisting) and the body being
 tired leading to easier injury.
 
 We were going straight to another restaurant from here, so I still needed to
 clean myself. Third lake in a row, here I come! Sadly for me, the sun had set
-behind the mountains by now and the lake was _cold_. I dipped my toe in and
+behind the mountains by now and the lake was _cold_. _Really_ cold. I dipped my toe in and
 wanted to nope out of that. Eventually I braced myself and jumped in. The
 pressure change did not feel good on the ankle, but what was worse was the
 cold.  You know that description people give of little daggers stabbing you all
@@ -306,7 +345,7 @@ Brussels, the view was magnificent, reminiscent of our trip in the Mojave
 Desert. You could easily see the Milky Way, enough stars to make me confused
 about which constellations I was looking at, and near the horizon we also
 spotted a bright blob that I later figured out was probably Jupiter. I wish
-there wasn't as much light pollution in Belgium as there is, some more
+there wasn't so much light pollution in Belgium, some more
 stargazing would be nice.
 
 ## Day 5: Cannot Move Much
@@ -317,8 +356,10 @@ was still pretty painful, especially when put into weirder positions. I might
 have been able to put it through a gentle run, but I decided to be responsible
 and not push my luck.
 
-We did a brief (and for me: careful) walk to a viewpoint at the edge of the
-village. By noonish we had done some shopping in a supermarket in Bohinjska
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210730_095957.webp' description='The viewpoint at the edge of the village, but now more zoomed in on the lake in the middle of the day 1 picture.' %}
+
+We did a brief (and for me: careful) walk to the viewpoint at the edge of the
+village (remember the run on the first day?). By noonish we had done some shopping in a supermarket in Bohinjska
 Bistrica. Next we went west a little to park the car just outside of Ribčev Laz
 and walked into and past the village to get to... Lake Bohinj again. I had said
 how chilling in this lake after my run had been one of the nicest and calmest
@@ -333,6 +374,8 @@ After an hour or two I finally chilled out some. Afterwards we went to a bar
 nearby (Karakter Bar), had some drinks (two more from Lintvern brewery: Black
 IPA and Bohinjski Čatež), played some card game (Go Sushi or something?), and
 stuck around long enough to eventually have dinner there too.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210730_150742.webp' description='A slightly more quiet part of beach around Lake Bohinj.' %}
 
 After dinner we went back home and I got very tired and moody again. Maybe I
 was just exhausted: as soon as we were back at the airbnb (_maybe_ 21:00,
@@ -349,6 +392,8 @@ felt fine, the ankle was holding up, and I figured I could do the full 10 km.
 About 5.5 km in, it started raining _hard_. Thunder and lightning followed
 quickly. As soon as I had felt it starting to pour, I had gone into the nearest
 shed. I figured it would blow over soon and I could be on my way.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210731_094852.webp' description='Clouds moving in. Maybe someone with more experience would have recognised this as a «hmm I should head back» moment.' %}
 
 "Soon" ended up being around 25 minutes of constant thunders. With the lay of
 the land between me and the airbnb (only about 1 km but a wide open field), I
@@ -372,6 +417,10 @@ more impressive than the Slap Šum waterfall from day 2, but that was not a tall
 bar to clear. We took some pictures and walked back. Ended up being nearly 10
 km of walking, but pretty easy compared to other days.
 
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210731_131739.webp' description='Happy tree, happy trail.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210731_134328.webp' description='Mostnica gorge.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210731_135804.webp' description='Local fauna in Mostnica gorge.' %}
+
 We had a relatively early dinner at a restaurant & pizzeria ({% include
 location.html lat=46.26795 lon=13.90982 description="Pr’ Pristavc Gostlina in
 Pizzerija." %}).  I think I had another stew-y dish and half of the
@@ -382,6 +431,8 @@ we decided to make it an early night back to the Airbnb and made it home before
 views and some beers I had bought earlier in the week. Might be the first day
 that I truly felt was a relaxing day. Figures that we'd be heading home the
 next day.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210731_192719.webp' description='A beer, a view, and no worries. What else do you need?' %}
 
 ## Day 7: Ljubljana
 
@@ -414,18 +465,27 @@ on one of the squares. We looked on for a set, but did not care _that_ much
 either, so we continued on. Saw some more things, found a place for dinner and
 a drink. We took our time with that because the plane was likely to be delayed.
 Afterwards we got an ice cream from a pretty fancy place with some exotic
-sounding selections.  If you are ever in Ljubljana, you might as well check
+sounding selections. If you are ever in Ljubljana, you might as well check
 them out. They're called "Cacao" ({% include location.html lat=46.0515768
 lon=14.5071166 description="Cacao ice cream parlor." %}) and are located in the
-centre, near the Tromostovje bridge across the Ljubljanica. After all that, we
-made our way back to the car (totalled about 9 km of walking around Ljublana)
+centre, near the Tromostovje bridge across the Ljubljanica river. After all that, we
+made our way back to the car (totalled about 9 km of walking around Ljubljana)
 and from there to the airport. Had to wait quite a while for our much delayed
 plane, but in the end we got back home safe and sound.
+
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210801_114556.webp' description='Ljubljana dragons!' %}
 
 Parting note: the entire week I finished maybe 2 streets in Citystrides (see
 [Heatmap Goals][heatmapgoals]), mostly because roads in tiny villages in
 Slovenia do not get a name, a house just has _village name, number_ as address.
 The walking around Ljubljana finished about 25, because streets did have names
 there.
+
+Parting parting note: If you want more detail on parts of this trip in order to
+plan your own, feel free to shoot me a message.
+
+Parting parting parting note: As you perhaps can tell, the photos are
+compressed down a bunch to save bandwidth. If you want any in better quality, I
+do still have the originals.
 
 [heatmapgoals]: {{ site.baseurl }}{% post_url 2021-05-21-heatmap-goals %} "Heatmap Goals (21 May 2021)"
