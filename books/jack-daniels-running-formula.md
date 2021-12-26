@@ -86,6 +86,13 @@ Hard parts with Intervals if you prefer the structure.
 3. Tuesday H. Friday T. Sunday L. Strides on Tue (warmup) and Friday.
 4. Tuesday H and R. Friday T. Sunday L. Strides on Friday (cooldown).
 
+| phase | Mon | Tue              | Wed     | Thu     | Fri                 | Sat | Sun |
+| ----  | --- | ---              | ---     | ---     | ---                 | --- | --- |
+| 1     |     | R                | Strides | Strides | T and strides wu/cd |     | L   |
+| 2     |     | H                | Strides | Strides | R and strides wu    |     | L   |
+| 3     |     | H and strides wu |         |         | T and strides       |     | L   |
+| 4     |     | H and R          |         |         | T and strides cd    |     | L   |
+
 Easier days you can also split up the run into two shorter ones if you prefer.
 They are there to fill up the weekly distance without killing you for the
 workouts.
