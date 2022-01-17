@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slovenia Trip"
-date: 2021-12-26 10:00:00
+date: 2022-01-16 10:00:00
 tags:
 - trip
 - slovenia
@@ -23,10 +23,11 @@ the day before day 1 and just immediately went to bed)
 I wrote all of this in the weeks following the trip and selected photos at the
 time too. Then I completely ignored finishing the report till I figured at the
 end of December that I really should get it done. I processed the photos and
-did a final proofread. Procrastination at its finest.
+did a final proofread... and ignored it for a while longer still.
+Procrastination at its finest.
 
-Maybe one more TODO: umap (or just a picture) with the locations we passed by
-(numbered).
+<!-- TODO: umap (or just a picture) with the locations we passed by (numbered).
+Perhaps exclude Ljubljana. -->
 
 ## Day 1: Lost in the Woods and Too Much Hiking
 
@@ -38,8 +39,9 @@ I had only planned a 10k run this morning and spotted a loop on the map that
 would take me through some forests as well as the next town over. The parts in
 the forests were not marked trails. I was not aware of this fact, nor did I
 realise it actually mattered. Instead these seemed to be paths used for logging
-and, as such, were not quite as consistent with the map as I had hoped. My
-original path ended up stopping in a tree wasteland.
+and, as such, were not quite as consistent with the map as I had hoped. I think
+they might change on a yearly or similar basis. My original path ended up
+stopping in a tree wasteland.
 
 {% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_084308.webp' description='Tree wasteland. Lots of those on this run.' %}
 
@@ -55,8 +57,8 @@ ahead. There was no path, but (1) I figured it was generally the right
 direction, and (2) I was hoping there might be a path popping up that was not
 on the map. As luck would have it, a path did appear! I followed this for a
 while, thinking it would lead somewhere. It did. You guessed it. Another tree
-wasteland. However! In the distance I could make out an actual road, so once
-more I decided to just push through the woods. Slow going, but the right
+wasteland. However! In the distance I could make out an actual asphalt road, so
+once more I decided to just push through the woods. Slow going, but the right
 direction. I was a bit over this forest run. I ended up finding some fields,
 running straight through those and making it to the road in the end. I was
 maybe 3 km into the run and 40 minutes had passed. Whoops.
@@ -65,20 +67,20 @@ After that I stuck to some roads, found an actual marked trail up to a view
 point, and finished the rest of the 10 km in less time than those first 3 km
 had taken me.
 
-{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_092348.webp' description='The view point I found in the end. Eagles something TODO Check name + confirm that the lake in the middle of the picture is the one we passed by a lot. Lake Bohinj next to Stara Fuzina?' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_092348.webp' description='The view from the viewpoint I found in the end, Vodnikov Razglednik. In the distance, in the middle of the picture, you may just make out Lake Bohinj (Bohinjsko Jezero), where we will be passing by a few times this trip. It was more obvious before putting it through a camera and some photo compression.' %}
 
 ### A Hike
 
 {% include location.html lat=46.2947 lon=13.8754 description="The first viewpoint on our climb, we went a little further still." %}
 
-The hike planned today started in the village of Stara Fužina. We would end up
-here a few more times this trip. From Stara Fužina, we went north-westish to
-climb up to Vogar. I am still not sure if this is an actual named hill or the
-name of the few houses at the top there. Either way, it was upwards from where
-we started. Steeply upwards. We climbed around 500 vertical meter, most of it
-across a 2.5 km stretch. That makes it pretty steadily around 20%. I am not
-sure what I expected on this trip, but that was a bit of a rougher start than
-anticipated.
+The hike planned today started in the village of Stara Fužina, next to Lake
+Bohinj (Bohinjsko Jezero). We would end up here a few more times this trip.
+From Stara Fužina, we went north-westish to climb up to Vogar. I am still not
+sure if this is an actual named hill or the name of the few houses at the top
+there. Either way, it was upwards from where we started. Steeply upwards. We
+climbed around 500 vertical meter, most of it across a 2.5 km stretch. That
+makes it pretty steadily around 20%. I am not sure what I expected on this
+trip, but that was a bit of a rougher start than anticipated.
 
 {% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_120122.webp' description='Watching paragliders jump off the hill.' %}
 
@@ -101,22 +103,23 @@ Slovenia, but was pretty fancy and looked nice.
 
 {% include location.html lat=46.3682 lon=14.1086 description="The village of Bled." %}
 
-After that we went to the village of Bled, known for its lake with a church on
-the island in the middle. I figured it would just be some sightseeing and
-scoping out a place for the girlfriend, who had to work the next day and needed
-a place with better WiFi than our Airbnb provided. We walked a little bit, had
-a drink in a café that seemed to have good WiFi for tomorrow, then continued
-walking some more. The plan was to stroll around the lake a bit.
+After that we went to the village of Bled, known for its lake (Lake Bled,
+Blejsko jezero) with a church on the island in the middle. I figured it would
+just be some sightseeing and scoping out a place for the girlfriend, who had to
+work the next day and needed a place with better WiFi than our Airbnb provided.
+We walked a little bit, had a drink in a café that seemed to have good WiFi for
+tomorrow, then continued walking some more. The plan was to stroll around the
+lake a bit.
 
 {% include location.html lat=46.35705 lon=14.07461 description="The top of our second climb of the day, having started in the center of Bled on the east side of the lake." %}
 
 The stroll turned into a "let's climb this mountain on the other side" when we
-passed by the west side of the lake. Apparently there were three view points up
+passed by the west side of the lake. Apparently there were three viewpoints up
 there. When the girlfriend and her sister had made this trip about two years
 ago, they had only managed to do one of them, getting lost after that and not
 caring enough to press on. So up we went.
 
-{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_191141.webp' description='Lake Bled. Nice enough, but I did not care that much. Especially seeing it several times from just slightly different angles.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210726_191141.webp' description='Lake Bled. Nice enough, but I did not care that much. Especially seeing it several times more from just slightly different angles.' %}
 
 The view is nice enough, you see the lake from above, you get a good view on
 the church on the island in the middle. Postcard picture. The different view
@@ -147,13 +150,13 @@ sight. The girlfriend later assured me it had looked much better when she had
 gone there in a different season. Bummer.
 
 {% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210727_104529.webp' description='Gorgeous Gorge. Mist hanging over the water.' %}
-{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210727_105353.webp' description='Gorgeous Gorge.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210727_105353.webp' description='This little drop looked more impressive than the actual waterfall.' %}
 
 After getting back, we went to the girlfriend to say hi and rest briefly. We
 then bought some lunch in the supermarket, checked out the castle on the north
-side of Bled and then the toboggan on the south side of Bled. Looking back at
-this, the walking was not super crazy, but my legs were a bit fed up with the
-need to keep moving. I ended up walking nearly 14 km total.
+side of Bled, and finally the toboggan on the south side of Bled. Looking back
+at this, the walking was not super crazy, but my legs were a bit fed up with
+the apparent need to keep moving. I ended up walking nearly 14 km total.
 
 Once the girlfriend was done work, I changed into running clothes. She and her
 sister would walk around the lake, I would run two laps to get to 13 km. After
@@ -222,9 +225,9 @@ goat). Evidently it was a bit shy so we could not get close for the most
 precise view, but until told differently, we assume it was one. It is the
 cooler story after all.
 
-{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_155919.webp' description='View from at or very near the top. This is the other side, not the side we went up by.' %}
+{% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210728_155919.webp' description='View from at or very near the top. This is the other side of the mountain, not the side we went up by.' %}
 
-We got to the top eventually at 2050m. There was a couple sitting there
+We got to the top eventually at 2050m of elevation. There was a couple sitting there
 enjoying the view. I overheard them and they were Belgian. Figures that you
 travel halfway across Europe and up a mountain only to find compatriots. I
 ignored them entirely, of course. We too enjoyed the views, took some pictures,
@@ -275,13 +278,13 @@ this way down to make it a bit easier on ourselves.
 {% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210729_132114.webp' description='The switchback countdown painted on the trees. Motivating or the opposite?' %}
 
 At the top is a border marker stone, some monuments aimed at promoting the
-friendship between the countries, and mementos of how the border used to be.
+friendship between the countries, and mementos of how the border used to be (read: more border guards, less happy friendship).
 The Austrian side also gives you a magnificent view on a big valley. Walk a bit
 further east from the border marker, staying on the Austrian side, and you will
 find two cafés/restaurants and a cable cart taking you up and down to the
 village of Arnoldstein. We hung around a bit at the top, had a drink and a bite
 in one of the two places, and eventually made our way back down the easier of
-the two Slovenian options.
+the two Slovenian routes.
 
 With the newfound knowledge of what border marker stones look like, we suddenly
 spotted quite a few of them indicating the Slovenian-Italian border. A sizeable
@@ -291,6 +294,8 @@ the trees a few meters in.
 {% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210729_134831.webp' description='View from the top, looking towards the Austrian side. The little building there has a restaurant and the cable cart connection taking you down the Austrian side.' %}
 {% include image.html domain=site.baseurl url='/assets/img/202107-slovenia/20210729_155540.webp' description='One of the views on the way back down. If I recall there was a sign there with which mountain in the view is which. I have, of course, completely forgotten this information.' %}
 
+<!-- TODO: Do I not have a picture of the sign? That sounds like something I would do... -->
+
 {% include location.html lat=46.49252 lon=13.73752 description="Zelenci natural reserve, its main observation point." %}
 
 By the time we got back down (13 km total, nearly 4 hrs), most of the day was
@@ -298,17 +303,17 @@ already behind us. We did a quick stop at the Zelenci natural reserve. From
 their parking lot it is only a 400-500 metre flat walk to the main spot of this
 reserve. This made it a bit disappointing as it was overcrowded with instagram
 girls and people with no respect for nature. We quickly continued on to Lake
-Jasna, where I would get my run (again 13 km) in while the girlfriend and her
+Jasna, where I would get my run (again 13 km, I was keeping this week simple to keep the planning simple) in while the girlfriend and her
 sister would walk around a little. The run was... not ideal.
 
 {% include location.html lat=46.47437 lon=13.78376 description="Lake Jasna" %}
 
 I quickly felt a rather strong need to poop (TMI? Suck it up, this is my blog), luckily getting to a toilet
-eventually. Then I had done all the roads at the lake, and running around the
+eventually. Soon I had passed by all the roads at the lake, and running around the
 lake was not an option: it was tiny and there were too many people. Instead I
 went up into the mountains. This went OK for a while, the path was a wide
 packed gravel path that could probably fit a car or two. Easy peasy. Figures
-that on that exact path I manage to twist my left ankle while still being a
+that on that exact easy peasy path I manage to twist my left ankle while still being a
 while away from where we had parked the car. The ankle was not painful going
 upwards, but it was hell when running back down. I had to be real careful with
 it and was glad when I finally reached the car. The section where I twisted my
@@ -440,7 +445,8 @@ next day.
 
 My body decided to wake up much earlier than all previous days (6ish?), so I
 downed some food and went for my run. Shocker, I know. I decided on about 13
-km, I was still a little bit weary about the ankle so did not want to throw my
+km (why always 13 km you may ask? It takes me about an hour so it feels right),
+I was still a little bit weary about the ankle so did not want to throw my
 long run at it. I had already given up on this week anyway in terms of good
 running. Hope the hiking compensated a little bit for the missed running. I ran
 up nearly 300m to reach the next village over, which was much too steep to be
@@ -485,7 +491,7 @@ Parting parting note: If you want more detail on parts of this trip in order to
 plan your own, feel free to shoot me a message.
 
 Parting parting parting note: As you perhaps can tell, the photos are
-compressed down a bunch to save bandwidth. If you want any in better quality, I
-do still have the originals.
+compressed down a bunch to save bandwidth (yours and mine). If you want any in
+better quality, I do still have the originals.
 
 [heatmapgoals]: {{ site.baseurl }}{% post_url 2021-05-21-heatmap-goals %} "Heatmap Goals (21 May 2021)"
