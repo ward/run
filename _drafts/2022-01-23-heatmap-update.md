@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heatmap Update"
-date: 2022-01-17 10:00:00
+date: 2022-01-23 10:00:00
 tags:
 - heatmap
 - citystrides
@@ -15,6 +15,9 @@ behind us, I felt like giving an update and writing out what I see
 myself focusing on in 2022.
 
 ## Brussels Update
+
+_Situation at the end of the year. Things slightly changed again by the time I
+got this post out._
 
 | Municipality         | Done     | Inc   | Total streets |
 | ------------         | -------: | ---:  | ------------: |
@@ -45,26 +48,28 @@ terms of the ranking on CityStrides, I went up to the second spot in Brussels.
 First place was around 84% last I checked. I am still behind, but slowly
 closing in.
 
-I used good weather days to get the far side of Brussels done. Calm bike ride
-over, do a run, bike back. Sadly that is not possible on workdays, it just
-takes too much time. Big focus of that approach was Ukkel.
+I used good weather days to get parts of the far side of Brussels done. Calm
+bike ride over, do a run, bike back. It is quite nice when not too cold and
+with some sun out. Sadly that is not possible on workdays, it just takes too
+much time. Big focus of that approach was Ukkel.
 
-In October I briefly started going to the office more again. I switched all my
-work day running to be lunch time runs in that area. This enabled me to focus
-on Etterbeek, Elsene, and Watermaal-Bosvoorde. Alas, work from home laws came
-back into effect following yet another COVID-19 surge and that approach was
-largely put back on hold.
+In October I briefly started going to the office again. I switched all my work
+day running to be lunch time runs in that area. This enabled me to focus on
+Etterbeek, Elsene, and Watermaal-Bosvoorde. Alas, work from home laws came back
+into effect following yet another COVID-19 surge and that approach was largely
+put back on hold.
 
 I have made a video showing the progress on Brussels streets in 2021. The first
-view is prior to any running, every change is another month.
-
-<!-- TODO: Add link to tech blog where the explanation is of how to make one. -->
+view is prior to any 2021 running, every change is another month of progress.
 
 <video controls style="max-width: 100%; margin-bottom: 1em;" preload="metadata">
   <source src="/assets/vids/20220117-heatmap-brussels-timelapse.mp4" type="video/mp4">
   Your browser does not support HTML5 videos.
   Here is <a href="/assets/vids/20220117-heatmap-brussels-timelapse.mp4">a link</a> instead.
 </video>
+
+I described elsewhere [how to make such a
+video](https://blog.wxm.be/2021/12/31/timelapse-video-of-screen-parts.html).
 
 ## Cross Belgium
 
@@ -84,25 +89,23 @@ Belgian-Dutch border and a bit in the Knokke area. Not a lot of progress, but
 touching the border there already feels like a nice achievement and will look
 nice later on.
 
-<!-- TODO: Picture of current situation -->
+{% include image.html domain=site.baseurl url='/assets/img/20220123.heatmap-update.belgium.webp' description='Current situation of my Belgian heatmap. Still a lot of work on each end.' %}
 
 ## Run the Coast
 
-<!-- TODO
-  1. Length of coastal run?
-  2. The ~% I have done.
-  3. Picture of current situation.
-  -->
+{% include image.html domain=site.baseurl url='/assets/img/20220123.heatmap-update.coast.webp' description='The 70-75 km of Belgian coast. A trip to the south-west side is in order.' %}
 
-The plan had already formed before the trip to Knokke, but that solidified it.
-I want to run across the entire Belgian coast. That is less impressive than it
-might sound. It is only around 70 km of running total and pretty well serviced
-by public transport. It is really just a matter of heading out there.
+This plan had already formed before the trip to Knokke mentioned in the
+previous section, but that Knokke trip solidified it: I want to run across the
+entire Belgian coast. If you are unfamiliar with the Belgian coast, that might
+sound like a lofty goal. Trust me though, it is not. It is only around 70-75 km
+of running total and pretty well serviced by public transport. It is really
+just a matter of heading over to that side of Belgium.
 
 Thus, when I was in Knokke, after making the Belgian-Dutch border connection, I
 spent another morning taking the tram out so I could run back to where we were
-staying. With barely any running, I already have more than a third done, I
-think.
+staying. With barely any running, I now already have a little more than a third
+of the coast complete.
 
 ## The Blob
 
@@ -111,7 +114,12 @@ get some new streets whenever possible. That said, sometimes I do go out of my
 way for a "folieke" just because it looks nice on the map or because I am in a
 mood.
 
-<!-- TODO: Perhaps give a table of the nearest Flemish villages here? -->
+{% include image.html domain=site.baseurl url='/assets/img/20220123.heatmap-update.blob.webp' description='Current blob situation, with some tendrils cut off.' %}
+
+During the year I got some heatmapping done in Mechelen and Tervuren. They are
+both a bit out of the way, but it is tempting to connect them to the blob. I
+would also like to connect Opwijk to Affligem (in the north-west) and Dworp to
+Waterloo (in the south). Beyond that, nothing particular comes to mind.
 
 ## Pennsylvania
 
@@ -121,6 +129,7 @@ more into the Philadelphia suburbs to visit the girlfriend's family. Back in
 2015 we had done some minor heatmapping effort, but that had quickly sizzled
 back out (just like most my heatmapping had) and since then most of the running
 had been done along the Chester Valley Trail or in the Valley Forge area.
+Always the same few routes.
 
 This time around, I arrived with a newfound motivation. Having taken it so
 seriously in Brussels, it was easy to continue the habit there. Easy to
@@ -133,8 +142,8 @@ to get streets done is to drive to a neighbourhood, park there, run the
 neighbourhood, and go to another one. Not very pleasant.
 
 This is a bit of a drag, especially with our car situation while there.
-Instead, I decided to not focus too much on the actual street count and instead
-try to connect up the different bits of heatmap I had. Sound familiar? We're
+Instead, I decided to not focus too much on the actual street count and tried
+to connect up the different bits of heatmap I had. Sound familiar? We're
 creating another blob, ladies and gentlemen! One downside: them dangerous
 streets. I had made up my mind though, I had packed my fluorescent running vest
 before heading state side and I figured I would give it an honest try.
@@ -146,7 +155,7 @@ the reason, it was not as busy as I remembered it being the past years. Most
 streets I could handle fine with the tiny bit of shoulder that was given to me
 and the patches of grass I could hop onto if necessary. Several places were not
 as forgiving, but I did my best to tackle those as defensively as possible:
-always wait for the cars to do their things, try to wait it out so you don't
+always wait for the cars to do their things, try to wait it out so you do not
 see a car coming in the distance, run the dangerous part with a certain urgency
 (no all out sprint to ensure full focus). For some, I also managed to convince
 the girlfriend to drop me off in one spot, have her drive to a place where
@@ -155,10 +164,10 @@ run over. That helped _a lot_, good thing we are all so used to having to drive
 to get any safe running done in this area.
 
 When I was in a situation where I could not connect any parts on that day, I
-instead decided to risk brief moments of danger to reach other neighbourhoods
-and do some good ol' street hunting.
+instead decided to risk other brief moments of danger to reach other nearby
+neighbourhoods and do some good ol' street hunting.
 
-<!-- TODO: The difference picture -->
+<!-- TODO: The difference picture with a link to a blog post (to be made still) -->
 
 ## Plans For 2022
 
@@ -175,7 +184,9 @@ and do some good ol' street hunting.
   in the off case that we decide to head to the coast for a weekend, I will
   suggest going to an area I have not yet completed. Might as well.
 - **Blob**. Not a specific focus, but I am sure I will sometimes just feel like
-  biking to the edges and do a random long run.
+  biking to the edges and do a random long run. Some desire to connect to
+  Mechelen and to Tervuren, as well as making Opwijk-Affligem and
+  Dworp-Waterloo connections.
 - **Pennsylvania**. We should be able to start heading over more regularly
   again, so I expect I will continue connecting parts and expanding the blob
   there. Mainly I want to connect my main blob to the Downingtown-Marsh Creek
