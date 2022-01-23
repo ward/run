@@ -167,7 +167,8 @@ When I was in a situation where I could not connect any parts on that day, I
 instead decided to risk other brief moments of danger to reach other nearby
 neighbourhoods and do some good ol' street hunting.
 
-<!-- TODO: The difference picture with a link to a blog post (to be made still) -->
+<!-- TODO: link to a tech blog post (to be posted still) -->
+{% include image.html domain=site.baseurl url='/assets/img/20220123.heatmap-update.pennsylvania.webp' description="Situation near the girlfriend's parents. Purple is what I already had, red is what I added on this trip. If possible, it would be nice to connect the west side to the main blob and to expand the east side further east to reach Philadelphia." %}
 
 ## Plans For 2022
 
@@ -192,13 +193,17 @@ neighbourhoods and do some good ol' street hunting.
   there. Mainly I want to connect my main blob to the Downingtown-Marsh Creek
   connection I have to the west of it. Due to dangerous roads I will probably
   have to do a big detour to achieve this, but I have a bit of a plan in my
-  mind for that. Beyond that one, everything will always be heavily in function
-  of time and car situation so I hesitate to state any further goals.
-- **Other**. Brussels might not always be possible on the day. Perhaps I can
-  work on one of the Flemish villages outside the Brussels border? Not sure yet
-  which one though.  Might feel like splitting this up into two approaches. (1)
-  a closer side where I could still run to on long runs, or take the bus to and
-  run back home (2) a further side that requires biking, or similar, over,
-  running there, and biking back home.
+  mind for that. Another nice to have would be expanding the east side further
+  east to reach the center of Philadelphia. It is about 9 km to the Art Museum
+  (Rocky steps), 11 km to the city hall, and 13 km to the Liberty Bell. Sadly I
+  never tracked any walks or runs there in the past, so the entire area still
+  looks pristine. Beyond those two ideas, everything will always be heavily in
+  function of time and car situation so I hesitate to state any further goals.
+- **Other**. Brussels might not always be possible or what I am in the mood for
+  on a given day. Perhaps I can work on one of the Flemish villages outside the
+  Brussels border? Not sure yet which one though.  Might feel like splitting
+  this up into two approaches. (1) a closer side where I could still run to on
+  long runs, or take the bus to and run back home (2) a further side that
+  requires biking, or similar, over, running there, and biking back home.
 
 [heatmapgoals]: {{ site.baseurl }}{% post_url 2021-05-21-heatmap-goals %} "Heatmap Goals (21 May 2021)"
