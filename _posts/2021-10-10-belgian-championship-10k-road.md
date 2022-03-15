@@ -6,6 +6,7 @@ tags:
 - report
 - road
 - length:10000
+- bk
 ---
 
 After [last week's 5000m][pkvb5000], this 10 km would be the closing of my

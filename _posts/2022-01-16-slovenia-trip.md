@@ -7,6 +7,7 @@ tags:
 - slovenia
 - runcation
 - report
+- running
 - walking
 ---
 
