@@ -14,50 +14,51 @@ fall][bk10k]. I of course stand no chance to compete with the big dogs (or the
 medium dogs for that matter), but I still like taking part in these
 championships because there are bound to be enough fast people to run with...
 and it helps that it still sounds cool to me to be able to say you take part in
-the Belgian Championship. Anyway, I heard about this one about a month in
-advance. I had no other plans. I figured I might as well hop in and see what I
-could manage.
+the Belgian Championship. Anyway, I heard about this half marathon about a
+month in advance. I had no other plans. I figured I might as well hop in and
+see what I could manage.
 
 ## Training
 
-I only decided on this race about a month out, but I will give some more
-training context here. A month does not paint much of a picture. Instead I will
-start from the week of 6 December, giving you 14 weeks of context, race week
-included. I will refer to them counting down from 14 to 1.
+While I only decided on this race about a month out, I will give some more
+training context than that here. A month does not paint much of a picture.
+Instead I will start from the week of 6 December, giving you 14 weeks of
+context, race week included. I will refer to them counting down from 14 to 1.
 
 In a normal week, I would be aiming for about 108 km total: every day has some
-running, two workout days, one long run of ~27 km. I am not fiddling much with
-the total weekly distance, I like the consistency, and there is only so much
-time I can give to my running. Every third or fourth week is a down week.
-Workout paces are based on my fall PRs in the 5 and 10k. I have also been
-trying to start eating a bit during long runs. By which I mean some sort of
-energy bar or similar, maybe halfway through the run. In December and January,
-there were not as many normal weeks as one might hope, but you will read more
-about that further down.
+running, two of them are workout days, one is a long run of ~27 km. I am not
+fiddling much with the total weekly distance at the moment, I like the
+consistency, and there is only so much time I can give to my running. Every
+third or fourth week is a down week. Workout paces are based on my fall PRs in
+the 5 and 10 km. I have also been trying to start eating a bit during long
+runs. By which I mean some sort of energy bar or similar, maybe halfway through
+the run. In December and January, there were not as many normal weeks as one
+might hope, but you will read more about that further down.
 
 Notations are Jack Daniels'. R is Repetition is intervals at ~1500-mile race
 pace, rest 2-3 times the time spent on the rep. T is Threshold (the lactate
-one), so around 1 hour race pace.
+one), so around 1 hour race pace. I do not feel like I hit the right paces very
+often, but as I tell myself when that happens: at least I am doing _something_.
 
 Week 14 (107k) went alright. I had just done a down week the week prior.
 Tuesday workout was 10×400m R. I aimed for 74s per rep, but afterwards realised
-I should have maybe done 73s instead. At the time I noted not being sure how
-possible that felt on the day though. Thursday I did 2×10 min T in a hilly
-forest with iffy roads. Pace was a bit all over the place, but the heart rate
-also did not creep as high as I wanted. Either way, I figured it was all better
-than nothing. For future reference in this section: ideally T pace is about
-3:35 per km, so if I define time spent in terms of distance, you can work back
-to actual minutes.
+I had planned 73s instead. At the time I noted not being sure how possible that
+felt on the day though. Thursday I did 2×10 min T in a hilly forest with iffy
+roads. Pace was a bit all over the place, but the heart rate also did not creep
+as high as I wanted. Either way, I figured it was all better than nothing. For
+future reference in this section: ideally T pace is about 3:35 per km, so if I
+talk about T work in terms of distance, you can calculate back to actual
+minutes.
 
 Week 13 (68k) had two T workouts, both 5×5 minutes, both not quite hitting
-paces due to terrain, turns, hills. I was also combining things with
-[heatmapping Brussels][heatmapupdate] which made it all far from ideal. Then
-Thursday afternoon I started feeling shit, had stomach problems again (see
-[last 20k BXL][bxl20k]). I skipped Friday, tried a Saturday run which also
-felt shit, skipped Sunday. Tried Monday still shit, skipped Tuesday. Kept rest
-of week 12 (75k) mostly easy and short, then squeezed out a 25k long run on
-Saturday. No running Sunday either due to a long flight and being stuck in an
-airport for a layover that kept getting delayed.
+paces due to terrain, turns, hills. I was also combining workouts (and easy
+runs) with [heatmapping Brussels][heatmapupdate] which made it far from ideal
+to properly focus. Then Thursday afternoon I started feeling shit, had stomach
+problems again (see [last 20k BXL][bxl20k]). I skipped Friday, tried a Saturday
+run which also felt shit, skipped Sunday. Tried Monday still shit, skipped
+Tuesday. Kept rest of week 12 (75k) mostly easy and short, then squeezed out a
+25k long run on Saturday. No running Sunday either due to a long flight and
+being stuck in an airport for a layover that kept getting delayed.
 
 Week 11 (105k) was more normal again. Started off easy, then did a T workout on
 Friday: 2k on, short jog, 4k on. Sleep was way short, but it was flat,
@@ -70,16 +71,17 @@ Week 9 (70k) was planned as a down week when it came to running. This was also
 done to make it fit with a hiking trip in Utah we had planned. I was going to
 make a travel report on that trip, buuuut I have been lazy with it so far.
 Maybe it will pop up one day. Just like in [Slovenia][slovenia], the hiking
-ended up taking a bit too much of my time/will. I am OK with some combo, but I
-do still vastly prefer keeping my running alright. We failed getting that
-balance right. I got tired, I skipped a day of running, I ended up calling an
-earlier end to my hiking (i.e., I spent the penultimate day mostly napping).
-The right balance (to me) is not quite there yet on these hiking trips where
-the girlfriend's sister tags along. Hiking is her top priority so she
-understandably wants to maximise it. I then also lost Sunday and Monday. We
-spent all of Sunday travelling, landed Monday, and I did not want to risk
-running on those tired legs on Monday. The rest of that week 8 (95k) was taken
-easy in terms of workouts. Distance was readded immediately though.
+ended up taking a bit too much of my time/will. I am OK with some combo of the
+two, but I do still vastly prefer keeping my running alright. We failed getting
+that balance right for me. I got tired, I skipped a day of running, I ended up
+calling an earlier end to my hiking (i.e., I spent the penultimate day mostly
+napping). The right balance, again, to me, is not quite there yet on these
+hiking trips where the girlfriend's sister tags along. Hiking is her top
+priority so she understandably wants to maximise it. I then also lost Sunday
+and Monday. We spent all of Sunday travelling, landed Monday, and I did not
+want to risk running on those tired legs on Monday. The rest of that week 8
+(95k) was taken easy in terms of workouts. Distance was readded immediately
+though.
 
 Week 7 (97k) had another missed day. I got my COVID-19 boostershot on Monday
 afternoon and was knocked out by it on Tuesday. I decided to skip one of the
@@ -88,23 +90,25 @@ mud and construction messes. Paces were not quite what I was aiming for.
 
 Week 6 (109k) was _finally_ a normal week again. Tuesday I did 5×2k T...ish,
 was slower and in the hilly forest again. Still, I was running faster than
-normal for those intervals. Thursday was a track workout: 3×400, 4×400, 3×400
-R, longer jogs between sets. Mostly hitting the 73-74s I was aiming for. I did
-get sore/tired feeling in various parts of my upper body. I have been very lazy
-when it comes to strength work and I took this as a hint that I should get back
-on that.
+normal easy runs for those intervals. When I don't hit paces, I can always just
+say I am training like Jakob Ingebrigtsen. Small victories. Thursday was a
+track workout: 3×400, 4×400, 3×400 R, longer jogs between sets. Mostly hitting
+the 73-74s I was aiming for. I did get sore/tired feeling in various parts of
+my upper body. I have been very lazy when it comes to strength work and I took
+this as a hint that I should get back on that.
 
 Week 5 (87k) I did a down week to align it with the race, which I by then had
-decided to run. Now I could have three regular weeks and then a bit of a taper
-the week of the race. I also did some pilates a few times this week.
+decided to run. Now I could have three regular weeks (4, 3, 2) and then a bit
+of a taper the week of the race (1). I also did some pilates a few times this
+week.
 
 Week 4 (109k) I did two T workouts: 3×2k T and 4×2k T. Paces still a bit all
-over due to the combo with heatmapping and forest running. Either way it was
-good to have a normal week. Especially as it did not last long. That weekend I
-was an idiot and overdid the strength work a bit. Essentially I jumped straight
-back in to a routine that I was doing when I was doing consistent strength work
-ages ago (like... over a year ago). Hip did not feel quite right after that,
-quite sore.
+over the place due to the combo with heatmapping and forest running. Either way
+it was good to have a normal week again. Especially as it did not last long.
+That weekend I was an idiot and overdid the strength work a bit. Essentially I
+jumped straight back in to a routine that I was doing when I was doing
+consistent strength work ages ago (like... over a year ago). Hip did not feel
+quite right after that, quite sore.
 
 Week 3 (109k) I felt the consequences of my stupidity when I did my Tuesday
 workout. I did 3-4-3 × 400m R, started feeling the left hip at some point and
@@ -149,10 +153,11 @@ Instead, I threw this fall's PRs into some calculators.
   linear approach, that makes it 1:16:57.
 
 In other words, they all seem to agree somewhat. I did not know whether I was
-in the same shape as in fall, per se, but I thought I might as well aim for
-1:17, aka 1:16:59. The course is supposed to be flat and I do not see any
-obvious difficult turns, so that is an even 3:39 (well, 3:38.9) pace. In
-important splits that is
+in the same shape as in fall, per se, due to the less than ideal past months. I
+thought I might as well aim for 1:17, i.e., 1:16:59, though. The course was
+supposed to be flat and I did not see any obvious difficult turns, so that
+works in my favour. The goal pace is an even 3:39 (well, 3:38.9) per kilometre.
+In important splits that is
 
 | Distance | Time    |
 | -------: | ---:    |
@@ -162,21 +167,21 @@ important splits that is
 | 20 km    | 1:12:58 |
 | Half     | 1:16:59 |
 
-If I find someone to run with, that would be ideal. In reality with these
-things it will be a bit messy the first 5-10 km probably before we all settle
+If I could find someone to run with, that would be ideal. In reality with these
+things it will probably be a bit messy the first 5-10 km before we all settle
 into our paces.
 
 ## Pre-Race
 
-Had to wake up at 6:00 to get ready and catch my ride. Had my, now usual, bowl
-of muesli with soy milk (150g muesli, 300g soy milk). A cup of black tea. A few
-trips to the bathroom. I went on over to a friend that would also be running
-today to catch a ride. We got at the race location by about 8:20, start of the
-race at 9:30. Calmly getting ready, grab bibs, few bathroom attempts, talk to
-some other faces we recognised. Did my leg swings to warm up the hips muscles.
-Jogged four laps on the track as warmup. Avoided strides or anything in case
-the hips would not be happy with it. It all felt fine, though the lower back of
-my left thigh felt a tiny bit sore oddly enough.
+I had to wake up at 6:00 to get ready and catch my ride. Had my, now usual,
+bowl of muesli with soy milk (150g muesli, 300g soy milk). A cup of black tea.
+A few trips to the bathroom. I went on over to a friend that would also be
+running today to catch a ride. We arrived at the race location by about 8:20,
+start of the race was going to be at 9:30. Calmly getting ready, grab bibs, few
+bathroom attempts, talk to some other faces we recognised. Did my leg swings to
+warm up the hips muscles. Jogged four laps on the track as warmup. Avoided
+strides or anything in case the hips would not be happy with it. It all felt
+fine, though the lower back of my left thigh felt a tiny bit sore oddly enough.
 
 Eventually we all lined up at the start. I placed myself towards the latter
 half of the pack: you have to run 1h20 or faster to take part in this one, so
@@ -194,6 +199,8 @@ without screeching brakes. About half a km in I found myself at the front of a
 pack, with another pack just ahead. Not quite sure what pace I was going or
 what, I decided to quickly bridge the gap. Easier to fall back in a km or two
 than the other way around. I settled in at the back of that pack.
+
+{% include image.html domain=site.baseurl url='/assets/img/20220313.bkhalf.webp' description='I believe this is when I (in the background, white singlet with blue and black diagonal stripe) was trying to quickly bridge the gap. Looking a lot more tired or struggling than I felt at the time.' %}
 
 Also at the back of that pack was a woman that seemed to have two pacers, or at
 least two guys that seemed to be running right in front of her as a block. No
@@ -227,15 +234,16 @@ here.
 
 We reached the Schelde river just under 7k into the race and I felt like we had
 slowed down a bit too much. I also figured there would now a bit of a tailwind,
-so I would not kill myself by moving to the front. I promptly did so and pushed
-the pace. I also figured by leading now, perhaps people would be guilted into
-leading again later on. We ran northwards till about 9k, then westwards till
-just under 11k, when we turned away from the water. I led for most of this
+so I would not kill myself if I moved to the front. I promptly did so and
+pushed the pace. I also figured by leading now, perhaps people would be guilted
+into leading again later on. We ran northwards till about 9k, then westwards
+till just under 11k, when we turned away from the water. I led for most of this
 section. You felt the wind coming from the south while running westwards, but
-not in a way that you felt you were fighting it like when running southwards.
+not in a way that you felt you were fighting it like when we ran southwards
+earlier.
 
 Looking at the results afterwards, I crossed the 10 km timing mat at the head
-of a group of at least 10 people. More still if you see a 3s gap as still being
+of a group of at least 10 people. More still if you consider a 3s gap as still being
 the same group.
 
 {% include racesplit.html content='
@@ -278,13 +286,13 @@ our group had at least 8 runners and some more stragglers just behind.
 
 On a longer straight section around 13-14k we were forced into single file. I
 was in 3rd-4th position and sort of made the other guy move into third, I
-settled into fourth. By the end of the single file section, the third guy was
-having trouble and a little gap was forming on the front two.  Someone behind
-me shouted to stay connected to the other two. I glanced back and saw someone
-that hadn't been near the front of our group all day. Sadly he was right and I
-did not want that gap to form either. I could not go the petty way and not
-react, forcing him to do the bridging himself. I passed the third guy and
-briefly pushed a bit harder to close the gap again. The guy that had yelled
+settled into fourth. By the end of the single file section though, the third
+guy was having trouble and a little gap was forming on the front two.  Someone
+behind me shouted to stay connected to those front two. I glanced back and saw
+someone that had not been near the front of our group all day. Sadly he was
+right and I did not want that gap to form either. I could not go the petty way
+and not react, forcing him to do the bridging himself. I passed the third guy
+and briefly pushed a bit harder to close the gap again. The guy that had yelled
 happily just followed me.
 
 We turned onto the Schelde again and I moved into second or alongside the other
@@ -299,7 +307,7 @@ through another water station and the group split apart entirely.
 Somebody passed me around the 17k mark and I decided to try to match his pace.
 It was noticeably faster, but I figured it was time to start squeezing my body
 for what was left still. 6-700 metre further I did have to let him go, it was
-going a little too fast. Shortly after he also slowed down though and I ran
+going a little _too_ fast. Shortly after he also slowed down though and I ran
 maybe 10 metre behind him for a while as we ran westwards along the river.
 
 The 18.1k timing mat tells me I crossed it in the company of three other guys,
@@ -333,7 +341,7 @@ hanging on to the pace that felt fast enough, but not that fast that I'd die
 before reaching the finish. There was another section with a bit of a headwind,
 but I had nobody near me at this point. I just focused on my stride and on the
 guy I could see ahead of me. If our distance suddenly grew, I would know to
-check I was not slowing down.
+mentally check I was not slowing down.
 
 I turned back on the track, slowly trying to reel in a guy before me in the
 final 200-250 metre there was left. I had been closing in, but there was not
@@ -356,10 +364,10 @@ Evidently not the case.
 ## Results
 
 [Official results][results] have me finishing in 1:16:48, but as I mentioned
-that is guntime. My [watch][strava] gives me 1:16:43, which would match up with
-chip time if the results showed it. I guess that is the downside of the elite
-wave at these events, as I had experienced in the Brussels 20k last fall. I am
-taking the supposed chip time as my shiny new PR. Sue me.
+that is guntime. My [watch][strava] gives me 1:16:43, which would definitely
+match up with chip time if the results showed it. I guess that is the downside
+of the elite wave at these events. I had a similar experience in the Brussels
+20k last fall. I am taking the supposed chip time as my shiny new PR. Sue me.
 
 I finished in 134th position. I quite like the progression of my position
 throughout the race, based on their timing mats.
@@ -377,17 +385,24 @@ of this race, it puts them at 58:31 and 1:12:44, respectively. Of course I had
 only ran a 10 miler the one time years ago in Antwerp and my 20 kms usually
 happen in Brussels where it is rather hilly.
 
+I think the woman I tried to follow early on ended up finishing in 1:15:46.
+Seventh female, third Belgian. Probably would have had trouble hanging on to
+that in the latter part of the race. Not quite sure about others I (briefly)
+ran alongside of. There are not many pictures to find bib numbers with.
+
 ## Future
 
-My hip was not as beat up as I had feared going by the week prior to the race.
-There are some sore spots, but all in all it seems OK. I will be laying off the
-workouts for a while though. I know those sore spots could easily get worse
-again. Instead I will make sure the hip is fully healed before I push the body
-again. Sadly that also means no races in the immediate future. I had hoped to
-squeeze in a track 5000m over the coming months, but I will have to see how
-that goes. Beyond that, I do still hope to get revenge for my failed Brussels
-20k. That would be the last weekend of May. A new personal course record should
-be doable. A PR for the distance seems out of reach after this one.
+My hip was not as beat up afterwards as I had feared going by the week prior to
+the race. There were some sore spots, but all in all it seems OK. Later in the
+week it still is a bit nagging uncomfortable at various moments. I will be
+laying off the workouts for a while to ensure it heals. I know those sore spots
+could easily get worse again. Sadly that also means no races in the immediate
+future. I had hoped to squeeze in a track 5000m over the coming months, but I
+will have to see how the hip evolves. I have to be a 100% sure everything is OK
+again before I throw that at it. Beyond that 5000m plan, I do still hope to get
+revenge for my failed Brussels 20k. That would be the last weekend of May. A
+new personal course record should be doable. A PR for the distance seems out of
+reach after shattering it during this race.
 
 [bk10k]: {{ site.baseurl }}{% post_url 2021-10-10-belgian-championship-10k-road %} "BK 10k (10 Oct 2021)"
 [teltowhalf]: {{ site.baseurl }}{% post_url 2018-11-04-teltowkanal-halbmarathon %} "Teltowkanal Halbmarathon (4 Nov 2018)"
