@@ -48,6 +48,11 @@ table {
         text-align: right;
       }
     }
+    th {
+      &.time {
+        text-align: right;
+      }
+    }
   }
 }
 

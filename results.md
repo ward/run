@@ -11,7 +11,7 @@ permalink: /results/
     <tr>
       <th>Distance</th>
       <th>Date</th>
-      <th>Time</th>
+      <th class="time">Time</th>
     </tr>
   </thead>
   <tbody>
@@ -24,6 +24,10 @@ permalink: /results/
 {% endfor %}
   </tbody>
 </table>
+
+† Result derived through linear interpolation of a longer race's result. In
+other words, take the pace of the longer race and apply it as is to the shorter
+distance.
 
 ## Results
 
