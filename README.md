@@ -33,4 +33,9 @@ When adding an image, it is advised to
     ```
     exiftool -geotag= imgfile
     ```
-- Make pngs smaller, use pngquant or similar.
+- Switch to webp! Eventually to [avif](https://caniuse.com/avif) and [jpeg
+  xl](https://caniuse.com/jpegxl) when there is enough support. For now, to convert to webp:
+
+    ```
+    cwebp file.png -o file.webp
+    ```
