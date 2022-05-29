@@ -3,9 +3,9 @@ layout: post
 title: "20 km door Brussel"
 date: 2022-05-29 12:00:00
 tags:
-- report
-- road
-- length:20000
+  - report
+  - road
+  - length:20000
 ---
 
 After [last fall's][bxl2021] disappointment due to food poisoning, I had
@@ -52,7 +52,68 @@ could be appropriate.
 
 ## Pre Race
 
+My night was not perfect, but nowhere near as bad as before the last 20 km.
+There was some festival happening a kilometre or so away and their music was
+_so loud_. I could not drown it out while in the bedroom with earplugs in even.
+I had hoped to (try to) sleep by around 22:00. Instead it was not till 1:00,
+when the festival finally ended. I got tempted to call the police about a noise
+complaint. I have gotten old.
+
+Woke up as planned at 7:00, basically copying older schedules. Quickly try to
+get my breakfast (140g muesli, double that soy milk) and a cup of black tea
+down. Spend the rest of the morning trying to use the toilet as much as
+possible. Left home a little past 8:30, not quite sure I was all emptied out,
+but it would have to be enough. Arrived by 9:30ish at the "Les Gazelles de
+Bruxelles" tent I was expecting to find in the same location as last time. Said
+some "hi"s, did some leg swings to warm up the hips. Went to have a look at a
+port-a-potty just in case, but the line was long and in the end there was no
+toilet paper anyway.
+
+Did a bit of jogging back and forth, then went to sneak into the elite corral.
+No way was I going to start in box 1 mostly behind 6000 people in the
+"1:14:00-1:34:59" range. I was not the only one to do this. Them running out of
+elite bibs made it a bit of a shitshow perhaps. Either way, gave my wife my
+sweater and jogged some more in the corral. Bumped into Dieter, who I had met
+at a race in Mechelen back in maybe September and then again at the last 20 km.
+We talked a bit, shared goals, got on with our warmups. An off-hand comment the
+day before had made me think about something though: Dieter and I were
+neck-and-neck in the 5000 we raced in Mechelen, why not just stick with him?
+
+The officials made another attempt at filtering out non-elite people, but that
+was a mess and I avoided "detection". I lined up a few rows down in the elite
+box, ready for racing.
+
 ## Race
+
+Just like last year, we were placed a little ways away from the actual start
+line. I have no clue why they keep doing that. Looking over people (it helps to
+be taller than your average distance runner), I noticed the start line's bottle
+neck was even worse than usual. Besides being just a bit wider than a van, as
+usual, there were also two about knee-height hills on each side, around where
+the wheels of said van would be. I had no clue what that was about, my guess is
+something from the park service to keep cars out? I did however realise I would
+want to aim for the exact middle of the start line. Those hills looked a mess.
+
+The gun went off and there was the usual congested jog towards the start line
+(well, besides from those actually trying to win the race). I was not stressed.
+It helped that I did _not_ have an elite bib now, so I knew I was going to get
+chip time instead of gun time. The pace picked up and as we cross around the
+start line, the little hills are doing what I feared... but only to others.
+Some people struggling, at least one falling. Unrelated to the hill, a guy
+right in front of me fell over a circular sewer access TODO WHAT WORD. Rather,
+the access was a bit lower than the rest of the surface, creating a little
+step. Guy in front of me must have hit it and he face planted. Whoops. I yelled
+what a mess this was, waved my arms to warn others, and ran past the guy on the
+floor. There must have been more casualties of either that or the two hills, a
+guy two or three runners in front of me was rubbing and looking at his upper
+leg / lower butt.
+
+With that behind us, I focused on what felt like an OK effort. The first TODO
+HOW LONG is still downhill, so the pace is high. After that we are running
+towards the royal park, a bit more ups, still some downs. I was passing people,
+people were passing me, it was the usual mess in the early parts of a race.
+Looking at my watch, the pace was a bit hot, but I had decided on glancing at
+my heart rate instead of my pace by this point and that was still fine.
 
 ## Results
 
@@ -63,12 +124,13 @@ could be appropriate.
 | [2018][bxl2018] | 1:27:59 |  984 |
 | [2019][bxl2019] | 1:18:20 |  287 |
 | [2021][bxl2021] | 1:21:09 |  372 |
-| 2022            | x:xx:xx |  xxx |
+|      2022       | 1:12:14 |  139 |
 
 ## Future
 
 [results]: https://todo.example
 [strava]: https://todo.example
+
 [bxl2015]: {{ site.baseurl }}{% post_url 2015-05-31-20km-door-brussel %} "2015 20 km door Brussel race report"
 [bxl2016]: {{ site.baseurl }}{% post_url 2016-05-29-20km-door-brussel %} "2016 20 km door Brussel race report"
 [bxl2018]: {{ site.baseurl }}{% post_url 2018-05-27-20km-door-brussel %} "2018 20 km door Brussel race report"
