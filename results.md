@@ -42,6 +42,7 @@ just keep it as question marks.
     <tr>
       <th>Date</th>
       <th>Name</th>
+      <th>Surface</th>
       <th>Distance</th>
       <th>Time</th>
       <th>Age Grade</th>
@@ -52,6 +53,7 @@ just keep it as question marks.
     <tr>
       <td class="date">{{ race.date | date: "%-d %b %Y" }}</td>
       <td class="name">{{ race.name }}</td>
+      <td class="surface">{{ race.surface }}</td>
       <td class="distance">{{ race.distance }}</td>
       <td class="time">{{ race.time }}</td>
       <td class="agegrade">{{ race.agegrade }}</td>
