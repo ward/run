@@ -179,7 +179,7 @@ about 15 places in those last few kilometres of downhill. This following image
 is quite telling, it shows my time compared to some others on Strava who took part
 in the race. I am the red line.
 
-![redline]
+{% include image.html domain=site.baseurl url='/assets/img/20160207.redline.webp' description="Red line is me, other colours are others." %}
 
 This race definitely did not go as planned. Whining about it will not help though,
 so it is best to see what can be learned from it and move on.
@@ -214,4 +214,3 @@ all. My self destruction had not been completely useless.
 [results]: http://www.toptiming.be/2016/02/les-hivernales-du-rcb-93km-watermael.html
 [strava]: https://www.strava.com/activities/488054858
 [myrtl]: https://www.youtube.com/watch?v=2GLrKr54yA0
-[redline]: https://farm2.staticflickr.com/1700/24887689966_eef93bde0e_o.png
