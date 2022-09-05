@@ -39,3 +39,7 @@ When adding an image, it is advised to
     ```
     cwebp file.png -o file.webp
     ```
+
+## Todo: make images load lazily
+
+[mdn page](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
