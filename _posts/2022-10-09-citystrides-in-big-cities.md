@@ -27,8 +27,8 @@ decided to scrape all the cities and go from there. The scraping of cities was
 done from 28 to 30 September 2022 from the main city index. Armed with a list
 of 170,000 cities, I then selected those with 5000 or more streets. For those I
 scraped the first page of striders running in that city, so that is a maximum
-of 12 top striders per city. I always made sure to play nice and not make more
-than six requests a minute.
+of 12 top striders per city. This scraping was done on 9 October. I always made
+sure to play nice and not make more than six requests a minute.
 
 ### What Is A City?
 
@@ -61,7 +61,7 @@ statistics. These are calculated after some data cleanup:
 
 You might think the caveat of the second bullet surely cannot matter much, but
 it turns out there are a lot of cities with almost no streets. For the about
-170k streets, these are the numbers.
+170k cities, these are the numbers.
 
 |                  | street count |
 | ---------------- | -----------: |
@@ -213,12 +213,12 @@ Brussels just makes the cut with 5007 streets. Happy little accidents.
 
 The astute reader might spot some oddities. Calling the Loire (spot 11) a city
 is a stretch. Indeed, I think this is a Citystrides issue that I will report
-separately. Similarly, the top ones are various gigantic swats of land in and
-around Cairo, Egypt, though I do not see an alternative for those areas. Spots
-6 and 7 seem to be the same city, though with slightly different boundaries.
-One of them will have to be removed. Same for spots 121 and 122. Those, and
-many other duplicates I bumped into, have been reported in [this CS forum
-post][csdupes].
+separately. Similarly, the top ones in Arabic script are various gigantic swats
+of land in and around Cairo, Egypt, though I do not see an alternative for
+those areas. Spots 6 and 7 seem to be the same city, though with slightly
+different boundaries. One of them will have to be removed. Same for spots 121
+and 122. Those, and many other duplicates I bumped into before, have been
+reported in [this CS forum post][csdupes].
 
 ## Most Completed Cities
 
@@ -397,7 +397,8 @@ Jupyter Notebook with it too.
 ## Conclusion
 
 That is all for now. I was in a mood to look at these numbers and do not know
-when I will be in a mood again, so just throwing this one out there.
+when I will be in a mood again, so just throwing this one out there before I
+start overthinking things.
 
 I warned you there would not be any groundbreaking conclusions.
 
