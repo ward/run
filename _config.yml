@@ -20,8 +20,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
   - publish.sh
   - Dockerfile
+
+# Plugin settings
+jekyll-archives:
+  enabled:
+    - tags
