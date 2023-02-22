@@ -9,6 +9,13 @@ $content-width:    40em;
 
 @import "minima";
 
+/** Make tag links in the index not demand all the attention */
+.post-meta {
+  a {
+    /* Colour is from the minima theme */
+    color: #828282;
+  }
+}
 
 /**
  * Tables (added by ward 2015-02-09)
