@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some Racing, Some Training"
-date: 2022-10-08 20:00:00
+title: "Some Racing, Some Training. Summer-Fall-Winter of 2022"
+date: 2023-03-11 10:00:00
 tags:
   - report
   - road
@@ -11,7 +11,13 @@ tags:
   - 4×1500
   - provincial championships
   - parkrun
+  - ekiden
 ---
+
+I had started writing this in the fall of 2022 because I had been lazy with the
+training updates. Then I got lazy with the update of the updates. Anyway,
+quickly finished this now and just pushing it out as is to not keep on
+delaying.
 
 Just catching up on the past summer months and the last bit of the track
 season. Some highs and lows, PRs and recurring little injuries, training a bit
@@ -47,7 +53,7 @@ Weeks overview:
 - 85 km, easy running and a travel day
 - 111 km, hot, humid, hilly, but easy beyond that
 
-## Local Road Race with a Chance of First Place
+## Local Road Race with a Chance at First Place
 
 The "CCRS Tuesday Ice Cream in the Park 5k series" caught my eye, largely
 because there were not many other options in the area. The two previous races,
@@ -87,11 +93,11 @@ For the next kilometre or so I was a bit out of it. I still tried to keep the
 pace honest, but also needed a slight recovery. By around 2-2.5 km I heard
 third place catch up to me. When he did, I decided to switch my focus to
 finishing ahead of him. He had the same idea and we traded places several
-times, sticking close together. He seemed to mostly try on the slight
-"uphills", then I would throw it back at him in the "downhill" after it. I put
-them in quotation marks since most of these were more anthill than anything,
-though there was one uphill grassy section at 3.7 km where he might have almost
-gotten me.
+times, sticking close together. He seemed to mostly try to drop me by pushing
+the pace on the slight "uphills", then I would throw it back at him in the
+"downhill" afterwards. I put them in quotation marks since most of these were
+more anthill than anything, though there was one uphill grassy section at 3.7
+km where he might have almost gotten me.
 
 Eventually I managed to break him. Less than a kilometre from the finish, I did
 my best to keep one of the downhill surges for longer, maybe even till the
@@ -114,12 +120,18 @@ lucky with these post-race raffles I feel like.
 
 ## Training and Travel
 
-TODO Fill in this section with GoldenCheetah open.
+Not too much happened the next few weeks besides getting a blood blister when a
+hole in one of my socks started _really_ acting up during a run. I did not know
+what was happening so ran through it as it got more painful. Then noticed the
+mess afterwards and was stuck with it for at least a week after. Ended up
+popping it at least daily. That made it OK to run with.
 
 - 95 km, race on Tuesday. Day off the day after because no time to run.
-- 75 km, missed two days because too tired due to travel. [Aug]
+- 75 km, missed two days because blood blister and too tired due to travel.
+  [Aug]
 - 113 km, LT workout.
-- 107 km, missed a day due to travel. In the hot south of France climate.
+- 107 km, missed the Monday due to travel. In the hot south of France climate
+  the rest of the week.
 
 ## Track Racing: Exists
 
@@ -129,7 +141,8 @@ championships that Saturday. I figured it was time to jump back into real
 racing and said sure. It ended up being a pretty small race. Only six teams
 were fielded and half of those were mostly master runners. The other, faster
 than me, guys of my club also were planning to make this more of a workout than
-a race. I figured I would still try to run all out though.
+a race. I figured I would still try to run all out though. If only because I
+had never raced a 1500.
 
 I got placed as the first leg runner, which worked out nicely for me. I could
 pace off of the other people. If you run any of the other legs, chances are you
@@ -151,22 +164,20 @@ home with a silver medal. (VICE-) PROVINCIAL CHAMPIONS, BABY!
 Our total time ended up being [17:30.7][pkresults]. That averages to 4:22.x per
 1500m.
 
-- 113 km for the week, with some light (TODO: confirm and add into paragraph)
-  LT work and a race on Saturday.
+- 113 km for the week, with some light LT work and a race on Saturday.
 
 ## Race a 5000
 
 Incensed by that track race, I went looking at what races were still left at
-the tail end of the season. (TODO: confirm that I had not decided yet till
-after the PK) I spotted a 5000m the following weekend that I figured I would
-hop into, I still wanted to run under 16:30 at some point and figured I would
-need a few more tries to get it right. It was also a planned down week that
-week, so I figured maybe the lower volume would help a bit too. Thus that
-Saturday I once again packed my spikes and went, coincidentally, to the exact
-same track as the weekend before.
+the tail end of the season. I spotted a 5000m the following weekend that I
+figured I would hop into, I still wanted to run under 16:30 at some point and
+figured I would need a few more tries to get it right. It was also a planned
+down week that week, so I figured maybe the lower volume would help a bit too.
+Thus that Saturday I once again packed my spikes and went, coincidentally, to…
+the exact same track as the weekend before. I am so well-travelled.
 
 It was a day without wind, but the temperature was still 25C. Most of the race
-was clouded though, so that helped. The first lap was too fast, as is
+was under cloud cover though, so that helped. The first lap was too fast, as is
 tradition. A guy in a green shirt took the lead and set a more steady pace for
 our little group that had formed. I saw a faster group pull away in front of us
 and was not sure whether I should follow them or not. In the end decided to
@@ -179,7 +190,7 @@ little attempt. The guys I had tried to leave behind caught back up to me and
 we formed a group of four: me, green shirt, black shirt, and red-white shirt. I
 let the others lead while I got my shit back together, hanging mostly in third
 or fourth spot. Green took the lead, black took over for a while, then green
-led some again. I led them do their thing, the pace felt alright. Eventually,
+led some again. I let them do their thing, the pace felt alright. Eventually,
 redwhite shirt made a move to the front and I just felt like I had to react, it
 seemed like it might be a breaking point. I followed him and settled into
 second.
@@ -269,20 +280,21 @@ Official time took a few days to come online: 4:30.70. Bleh.
 
 ## A Breather
 
-After that race, nothing on the calendar looked good for the next weekend
-(TODO: Or did I decide to give a little bit of rest? Check notes). The two
-weekends after that, I was not going to be in Belgium. The week after that, I
-was probably going to do another track race. The event I was looking at had
-both a 1500m and a 5000m. After this failure, I was starting to lean towards
-giving the 1500m another try. I already had my new 5000m PR anyway. Either way,
-for the time being it was just going to be regular running.
+After that race, nothing on the calendar looked good for the next weekend. The
+niggle in the left hip probably could do with the bit of extra rest anyway. The
+two weekends after that, I was not going to be in Belgium. The week after those
+two weeks, I was probably going to do another track race. The event I was
+looking at had both a 1500m and a 5000m. After this failure, I was starting to
+lean towards giving the 1500m another try. I already had my new shiny 5000m PR
+anyway. Either way, for the time being it was just going to be regular running.
 
 To play it safe with the hip niggle, I did not do any fast running. I did throw
 in a long run. The week after I tried some strides, but they did not feel quite
-right yet. The long run still felt fine, though that was done in Madrid where
-summer had _not_ ended yet. I experienced a slight bonk running in the deserty
-wasteland on the south east side of the city. Nothing to worry about. Also a
-good amount of walking while there.
+right yet. Just did not feel as smooth as I am used to them feeling. The long
+run still felt fine, though that was done in Madrid where summer had _not_
+ended yet. I experienced a slight bonk running in the deserty wasteland on the
+south east side of the city. Nothing to worry about. Also a good amount of
+touristy walking while there.
 
 The week after that, I still kept the runs easy. I was going to be in
 Manchester that weekend and decided I should pay a local parkrun a visit, that
@@ -291,16 +303,150 @@ had been forever.
 - 114 km, all easy, a long run.
 - 113 km, easy, a long run. Some strides that did not feel quite right and
   smooth.
-- 112 km, easy. Parkrun + long run combo on Saturday.
+- 112 km, easy. Parkrun + long run combo on Saturday. [Sep-Oct]
 
 ## Peel Parkrun
 
-[Strava][peelparkrunstrava]. [Official][peelparkrun].
+This part is written waaaaay after the fact. I am too lazy to dig for the
+details, so will just go off the description I put in Strava.
+
+Felt pretty dogshit all morning. I blame not getting enough sleep because of
+not reaching the hotel till past midnight. Around three hours short of what I
+would call a good night's sleep? Legs weren't in the mood during the warmup or
+the long run afterwards. Both felt sluggish.
+
+As usual for these smaller events, I lined up at the front with the idea of
+vying for first. First was, however, out of reach from very early on. I went
+slightly too hard trying to keep up. Reevaluated before it got too bad and
+slowed down a bit. Two people passed me and pulled away. I never let them get
+too far from me though. Caught up to one of them just over halfway first lap.
+The other one was further up ahead still, but I didn't feel like trying to
+bridge the gap. Seemed like it would be too much effort. Hanging back turned
+out to be a good call because he faded about ⅓ into the second lap. Then some
+other guy of our group took the lead before a very grassy and muddy section. He
+got a slight gap, I closed it shortly after the grass. I sat on his tail for a
+while and then kicked with maybe 500m to go. Ended up in second with a [few
+seconds slower than 17:00][peelparkrunstrava] ([results][peelparkrun]). Bummer,
+could have had my first parkrun sub-17 if it wasn't for the patch of mud I
+think.
+
+The course was nice enough, though three parts were "lose most to all of your
+speed, and then start up again: the first sharp turn, the very muddy section,
+and the 90 degree turn after the straight after the muddy section. So six
+annoying points total because of doing the route twice.
 
 ## Attempt At 1500 Revenge
 
+Also writing this way after the fact.
+
+After the parkrun weekend, I wanted to give this final goal of the season a
+proper go. So I ran a bit less total the week of the 1500m. Tuesday I did an
+easier workout (some pace around supposed 2mmol/l lactate point). Just
+stretching the legs some. Saturday was the race. Final spikes of the season.
+
+This time I did get placed in the faster heat, filling in my previous time was
+_just_ enough to be allowed in. Lucky break. I was the slowest of the fast
+runners rather than the fastest of the slow runners.
+
+The plan was to just aim for 4:25. Looks pretty and I thought it was within
+reach. Before the race started another guy said he and his club mate were doing
+3 min first km and then speed up for the 4:25. He suggested we all go for it
+together. That sounded good in theory and I mumbled agreement. The gun went and
+I hung around them, but after 100-200 metre I thought "wait, I don't _have_
+that kind of kick". I moved up and tried to close the small gap on a guy
+further ahead of the 3-min-and-kick club mates. I never really closed the gap,
+never really let it get real big. Hard to make serious adjustments in a race
+this short. Either way, keeping the guy in sight was good enough to pace off. I
+do not have exact splits but glanced at watch and saw a 0:50-0:52 first 300m
+and then a 2:01-02 700m. No more watch glancing after that. The two club mates
+from before zoomed past with 150m to go. Seeing their pace, I thought that was
+indeed not a kick I would have been capable of. Glad I pushed a little more
+earlier. I tried to use them to pace me to the end despite the quick gap they
+got on me. Just a reference point. Then I let up a tiny bit too early I think.
+My finish time was [4:25.27][1500revenge]. If I had done a lean and raced to
+the line, maybe it would have been sub 4:25. Pity that. Maybe next season I'll
+give it another go. 
+
+- 90 km for the week. 2mmol workout on Tuesday, race on Saturday.
+
 ## Brussels Ekiden
 
+I was going to take it easy for a while, but my club contacted me to see
+whether I was interested in running the Brussels Ekiden. So I only had the one
+week of laziness, before it was time for another race week. They put me in
+their first team, running a 5k. The concept of this Ekiden is six runners:
+5-10-5-10-5-7.2 to make up a marathon distance.
+
+- 113k, week of easy running. Some strides still, a long run.
+- 113k, week of the Ekiden. Did not cut volume for this one, just shuffled
+  things around. In retrospect maybe I should have.
+
+(Still writing well after the fact)
+
+It was to be another Saturday race day, this time just around the corner from
+where I live. That was easy at least, I could walk to the start: the Koning
+Boudewijnstadium, home of the Brussels Diamond League. Start and finishes are
+in this stadium, the run itself is in and around a rather hilly park nearby.
+
+My sleep had been iffy for two weeks, but I hoped it would not affect me. The
+race was also in the afternoon, which meant I was not sure what to do foodwise.
+Seems whatever I did, I messed it up, because during the warmup I felt my belly
+was not right. Did a few toilet trips, but it still felt off. Bumped into
+Bashir Abdi (Tokyo Olympic marathon bronze medallist) and asked him for a
+picture. At least one win out of this day, because the rest was not going to be
+it.
+
+I barely wrote down anything cause of disappointment and (let's be honest) this
+just being a tacked on goal I was not heavily invested in. Basically boils down
+to: the cramps continued. Since I was the fifth runner, there was also nobody
+to race against. The person ahead started 30-60s earlier, the person behind, no
+clue. You're also overtaking all the slower teams, so you don't even see your
+competitors. So I was alone with my cramps. Did not go great, never got moving
+right, finished in a disappointing [18:05][bxlekiden]. Our team finished fourth
+in the end and I had lost 30-60s on the fifth place runner of the third place
+team. Ye. That's annoying.
+
+And with that, it really was the end of my fall season.
+
+## Winter
+
+Ok, winter was not yet starting, but I decided to take it easy in the coming
+months. Light on workouts, just build the volume up some. Let the hip fully
+heal, then see what I end up doing come spring and summer. Seems to have gone
+alright, I went up to a consistent 120 km per week and got to the start of next
+season's training in one piece.
+
+- 113k
+- 90k, some careful strides [Oct-Nov]
+- 117k. Started adding a mid week long run (22-23k) to handle these weekly
+  distances.
+- 117k. A threshold workout attempt, but that was not quite appreciated by the
+  body yet. This might have been when the no workouts for a while was actually
+  decided.
+- 120k. More! More!
+- 93k. Down week, throw in two days with strides. [Nov-Dec]
+- 116k. Long, midweek long, day with strides.
+- 120k. Same as previous week.
+- 110k. Lost a day because of flying, it happens.
+- 87k. Down week, but also lost a day because I had some nose-throat-chest
+  thing going on. It was not COVID, it did require a day of proper rest.
+  [Dec-Jan]
+- 122k. Another long, midweek long, and day with strides. Strides are not a
+  workout, but still worth mentioning when you are not doing much.
+- 109k. Lost a day because I got food poisoning. Did not want a repeat of the
+  2021 20 km door Brussel.
+- 121k. Back to the usual schedule.
+- 94k. Squished into six days because of travelling, fine for a down week.
+  [Week ending on 29 Jan]
+
+## Future
+
+The weeks following that, I started introducing workouts again. Those will get
+talked about in the next race report, which is the Belgian Championship Half
+Marathon on 12 March 2023. Also known as: tomorrow, the day after this is
+published. Now let's hope I can get that one out the door with less of a delay.
+
+[bxl20k]: {{ site.baseurl }}{% post_url 2022-05-29-20km-door-brussel %} "20 km door Brussel (29 May 2022)"
 [pkresults]: https://www.atletiek.nu/wedstrijd/startlijst/501131/132/
 [pkstrava]: https://www.strava.com/activities/7709375408
 [5000results]: https://www.atletiek.nu/wedstrijd/uitslagenonderdeel/37430/5000m/
@@ -308,3 +454,5 @@ had been forever.
 [wbresults]: https://live.juryathle.be/2022/gpracing/menu.html
 [peelparkrunstrava]: https://www.strava.com/activities/7892865552
 [peelparkrun]: https://www.parkrun.org.uk/peel/results/51/
+[1500revenge]: https://www.strava.com/activities/7930938146
+[bxlekiden]: https://www.strava.com/activities/8001615002
