@@ -391,10 +391,22 @@ in this stadium, the run itself is in and around a rather hilly park nearby.
 My sleep had been iffy for two weeks, but I hoped it would not affect me. The
 race was also in the afternoon, which meant I was not sure what to do foodwise.
 Seems whatever I did, I messed it up, because during the warmup I felt my belly
-was not right. Did a few toilet trips, but it still felt off. Bumped into
-Bashir Abdi (Tokyo Olympic marathon bronze medallist) and asked him for a
-picture. At least one win out of this day, because the rest was not going to be
-it.
+was not right. Did a few toilet trips, but it still felt off.
+
+On the way back to my team's stand, some guy was walking in the opposite
+direction. I thought I recognised him, so maybe stared a bit too long, but he
+also was looking back at me somewhat. He smiled a bit, I gave a non-committal
+nod. The one where you feel like you should say hi, but you don't remember
+where you know the person from or who they are, so you don't want to commit to
+saying hi and starting a conversation. I continued on and a few seconds later
+it hits me. That was Bashir Abdi (Tokyo Olympic marathon bronze medallist)! I
+contemplated turning back and asking for a picture, but it felt a bit weird. In
+my mind, it's not something I really do. I glanced back and I see someone
+walking up to him, asking for a picture. Fuck it, I might as well get one too.
+And so I did. At least one win out of this day, because the rest was not going
+to be it.
+
+{% include image.html domain=site.baseurl url='/assets/img/20230311.bashirabdi.webp' description='Selfie with Bashir Abdi, bronze medal at the Tokyo Marathon (left).' %}
 
 I barely wrote down anything cause of disappointment and (let's be honest) this
 just being a tacked on goal I was not heavily invested in. Basically boils down
