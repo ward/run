@@ -451,6 +451,15 @@ season's training in one piece.
 - 94k. Squished into six days because of travelling, fine for a down week.
   [Week ending on 29 Jan]
 
+## Summary
+
+Because it got a bit long and all over the place, the main takeaways.
+
+- Left hip niggle came back a few times
+- Vice-Provincial Champion in the 4×1500
+- 16:29 5000 metre PB
+- 4:25 1500 metre PB (and also the first times running it)
+
 ## Future
 
 The weeks following that, I started introducing workouts again. Those will get
