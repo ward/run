@@ -105,54 +105,140 @@ on their toes (badumtsj).
 
 ## Goal and Strategy
 
-My obvious goal was to PR, beating last year's 1:16:43. I was not sure what
-shape I was actually in though. I had been running a decent amount, but not as
-much of it fast. What could I run? Eventually I thought "sub 1:15 looks pretty,
-let's do that". Was I capable of it? No clue. Did I mind blowing up trying?
-Nah, just go for it. A true scientific approach. (Note: this is why I did the
-workout I did the Tuesday before the race, I wanted _some_ feel of the pace)
+My obvious goal was to PR, beating [last year][bkhalf]'s 1:16:43. I was not
+sure what shape I was actually in though. I had been running a decent amount,
+more than ever before, but not much of it fast. What could I run? Eventually I
+thought "sub 1:15 looks pretty, let's do that". Was I capable of it? No clue.
+Did I mind blowing up trying? Nah, just go for it. A true scientific approach.
+Note: this is why I did the workout I did the Tuesday before the race, I wanted
+_some_ feel of the pace.
 
 ## Pre-Race
 
 I had to wake up at 6:00 to get ready and catch my train. Had my usual bowl of
 muesli with soy milk (150g muesli, 300g soy milk). Did not have time for tea,
 so just had some water. I took the metro to catch a train and brought a bike
-along. Once dropped in Ghent by the train, I biked the last 4 km to the stadium
-from which he race starts. Could have also taken a bus for that part, but would
-have involved more waiting around in the station.
+along. Once dropped off in Ghent by the train, I biked the last 4 km to the
+stadium from which he race starts. Could have also taken a bus for that part,
+but would have involved more waiting around in the station.
 
 Tried to use the bathroom (and would continue doing that periodically prerace
 just in case). Grabbed my bib. Went to sit in the cafeteria to pin the bib onto
 my singlet and the guy on the next table over was mentioning the wind might
-make this tricky. It did not seem to have bothered him in the end… :)
+make this tricky. It did not seem to have bothered him _that_ much in the end…
+:)
 
-_Bashir Abdi image and mention his finish time._
+{% include image.html domain=site.baseurl url='/assets/img/20230312.bashirabdi.webp' description='Bashir Abdi would end up winning the race in 59:51, a Belgian national record. He did conclude it could have been better with better weather.' %}
 
-Started some stretches, tried to time my getting ready to not stand around too
-long. It was around 8C and cloudy. Shorts and singlets would be fine for
+I started some stretches and tried to time my getting ready to not stand around
+too long. It was around 8C and cloudy. Shorts and singlets would be fine for
 running, not as much for standing still. Eventually changed and dropped off my
 bag.<!-- The bag drop off looked well managed. You hand it off to a person and
 it is put in an area that others cannot enter. Felt safe to leave all my stuff
 and not wear running belt. -->
 
-Ran maybe 2 km total as a warmup. Did two strides. They announced the start
-would be soon so went on over the start area. The organisation had placed some
-signs so you knew where to line up: sub 65, 65-70, 70-75, and 75-80 minutes.
-The signs also said there would be pacers from 75 minutes and faster, spread
-out around every 2-3 minutes. None of us where I was lined up actually saw the
-75 minute pacer though. Oh well. After a bit of an extra wait because the
-police was still clearing the course, we eventually got ready and waited for
-the gun.
+I ran maybe 2 km total as a warmup. Did two strides. They announced the start
+would be soon so I went on over the start area. The organisation had placed
+some signs so you knew where to line up: sub 65, 65-70, 70-75, and 75-80
+minutes. The signs also said there would be pacers from 75 minutes and faster,
+spread out around every 2-3 minutes. None of us where I was lined up actually
+saw the 75 minute pacer though. Oh well. After a bit of an extra wait because
+the police was still clearing the course, we eventually got ready and waited
+for the gun.
 
 ## Race
 
+At the start line I had noticed a younger looking guy, bit taller than me,
+shirt was for RAAB club or some such. After the gun, he was in front of me, so
+I semi-followed him over the first 500 metre as a sort of pacing guide. We were
+both on the inside of the track so that worked out. Getting out of the track
+was a bit cramped, but then we were on the streets and things were fine.
+Everybody is a bit looking for their pace so just focus on keeping things under
+control and doing it right™. According to my watch, the pace was a few seconds
+per km fast, but I figure that is just how these things start.
+
+After about 2-3 km, I found myself at the front of a little group, with another
+group maybe 10-20 metre ahead of us. The other group did not really pull away
+and from time to time someone would zoom past me to get to that group.
+Eventually I looked back, saw maybe 3 or 4 people, so I too decided to bridge
+the gap. A brief acceleration later, I latched onto the back of my new group of
+25(!) people (I counted the official 5 km split). I was happy here and hung at
+the back of this group for the next several km. The pace kept perhaps a few
+seconds faster than I wanted, but I was not going to let go of this group just
+yet. The wind picked up along the water and it was interesting to see how we
+all manoeuvred to try to not get hit too much by it. Did not feel like I was
+protected much though. At some point along the water I also saw someone lying
+face forward in the grass along the path. He looked like he might have been one
+of the elite or pacing African runners. I wondered how you could be so dead so
+shortly into a half marathon and whether he would be OK.
+
+Around 6-6.5 km, we turn away from the water and shortly after the path also
+narrows. Some jostling for position actually saw me move up in the group
+without intending to. I felt good though and, without changing how the effort
+felt, seemed to be slowly moving up in the group. The feeling did not last too
+long. Around 8.5 km, when passing under a highway bridge, I felt a side stitch
+developing. It did not hurt yet, but I recognised the signs and reined myself
+in. I went backwards in the group, sort of hung on for a bit, and then went out
+the back. But at least I did not have a side stitch.
+
+As I tried to find the right effort again, I noticed I was alongside or in
+front of a woman. I only mention it because in situations like these she,
+rightfully so since she was maybe 10th at that time, gets more attention from
+the crowd with constant shouts of encouragement for "Elke". We ran together for
+a little bit, but by the time I hit the water again (around 10.5 km), I must
+have gapped her: the shouts were further behind me.
+
+At some point a guy with a shirt that said "Ploegsteert" passed me and I
+latched on. We ran together for at least the second half of the path along the
+river. He did most of the work in front, I must admit. When we passed the spot
+where earlier the runner had been lying face forward, there now were two
+ambulances on the one-car-wide path. We had to squeeze past them. Now I really
+wondered what the hell had happened to the guy. Anyway, I had my own suffering
+to focus on.
+
+Ploegsteert and I left the river path and stuck together. At some point a guy
+with some fluo yellow patches on his shirt passed us. I had spotted him a few
+times before as we yoyoed around one another. This time I decided to follow. It
+seemed fine. However.
+
+When we hit the bridge area again, around 16.5 km, I had a side stitch issue
+again. Now it was straight into pain. I tried to keep myself focused on the
+pace, but it actually hurt, so I slowed down a little. I had to let fluo yellow
+go. Soon, the side stitch was gone again. I think it was around the same spot
+as it had disappeared the round prior. My conclusion: that stretch of road is
+cursed. (Looking at the GPS splits, I am probably to blame though)
+
+From here on, things are a bit more vague in my mind. I think Ploegsteert
+passed me again and, feeling better, I decided to hang on to him. I seemed
+alright again and started looking forward to the finish, breaking down the kms
+into "just _x_ more minutes of holding on". We passed RAAB club guy, throughout
+the race I had seen him up ahead, but had never got close to him. I switch to
+following some guy in a triathlon suit, I assume he passed us and I latched on.
+
+At around 20 km I decided it was time to just squeeze out anything I still had
+left. I sped up, repeating to myself it was almost over anyway, just ignore any
+complaints from the body. Back on the track where we started, I went into what
+I choose to describe as a sprint, but probably did not look like anything. I
+was passing other people though. As I came out of the final bend, two people
+were also sprinting for the line and for a moment there all three of us were
+abreast, racing our hearts out. It lifted my spirit and I tried my best to
+outkick them. I failed, they beat me. I crossed the line and had no clue what
+time I had. In my tunnelvision to sprint to the line and beat those guys, I had
+not even thought about looking at the clock on the finish line or my watch at
+any point in the past km.
+
 ## Results
+
+Once past the line, I did check my watch. I did it, sub-75. Turns out "I'll go
+out at sub-75 pace because it looks pretty" _is_ a valid tactic. [Official
+results][results] place me at 1:14:52. There's also my [Strava] for gazing at
+the map and splits.
 
 ## Future
 
-[bkhalf]: {{ site.baseurl }}{% post_url
-2022-03-13-belgian-championship-half-marathon %} "BK half marathon (13 Mar
-2022)"
-[bkhalf]: {{ site.baseurl }}{% post_url 2023-03-11-some-racing-some-training %} "Some Racing, Some Training: Summer-Fall-Winter of 2022"
-[results]: 
-[strava]: 
+Rotterdam.
+
+[bkhalf]: {{ site.baseurl }}{% post_url 2022-03-13-belgian-championship-half-marathon %} "BK half marathon (13 Mar 2022)"
+[winterbase]: {{ site.baseurl }}{% post_url 2023-03-11-some-racing-some-training %} "Some Racing, Some Training: Summer-Fall-Winter of 2022"
+[results]: https://my.raceresult.com/236006/results
+[strava]: https://www.strava.com/activities/8700582918
