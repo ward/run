@@ -149,13 +149,13 @@ for the gun.
 ## Race
 
 At the start line I had noticed a younger looking guy, bit taller than me,
-shirt was for RAAB club or some such. After the gun, he was in front of me, so
-I semi-followed him over the first 500 metre as a sort of pacing guide. We were
-both on the inside of the track so that worked out. Getting out of the track
-was a bit cramped, but then we were on the streets and things were fine.
-Everybody is a bit looking for their pace so just focus on keeping things under
-control and doing it right™. According to my watch, the pace was a few seconds
-per km fast, but I figure that is just how these things start.
+shirt was for RAAC club. <!-- Kevin Alfers --> After the gun, he was in front
+of me, so I semi-followed him over the first 500 metre as a sort of pacing
+guide. We were both on the inside of the track so that worked out. Getting out
+of the track was a bit cramped, but then we were on the streets and things were
+fine. Everybody is a bit looking for their pace so just focus on keeping things
+under control and doing it right™. According to my watch, the pace was a few
+seconds per km fast, but I figure that is just how these things start.
 
 After about 2-3 km, I found myself at the front of a little group, with another
 group maybe 10-20 metre ahead of us. The other group did not really pull away
@@ -171,6 +171,11 @@ protected much though. At some point along the water I also saw someone lying
 face forward in the grass along the path. He looked like he might have been one
 of the elite or pacing African runners. I wondered how you could be so dead so
 shortly into a half marathon and whether he would be OK.
+
+<!-- There is a picture of the very front of our group, but it seems a bit
+strung out. Not sure at what exact point the photo was taken, but it is along
+the water. Can't see me, think I'm outside of the picture. Next picture is of
+the next group. -->
 
 Around 6-6.5 km, we turn away from the water and shortly after the path also
 narrows. Some jostling for position actually saw me move up in the group
@@ -188,18 +193,20 @@ the crowd with constant shouts of encouragement for "Elke". We ran together for
 a little bit, but by the time I hit the water again (around 10.5 km), I must
 have gapped her: the shouts were further behind me.
 
+{% include image.html domain=site.baseurl url='/assets/img/20230312.ikke.halverwege.webp' description='Somewhere around the halfway point. Elke in the background. Think white shirt is Ploegsteert. Runner furthest in the back is probably fluo yellow patches.' %}
+
 At some point a guy with a shirt that said "Ploegsteert" passed me and I
-latched on. We ran together for at least the second half of the path along the
-river. He did most of the work in front, I must admit. When we passed the spot
-where earlier the runner had been lying face forward, there now were two
-ambulances on the one-car-wide path. We had to squeeze past them. Now I really
-wondered what the hell had happened to the guy. Anyway, I had my own suffering
-to focus on.
+latched on. <!-- Possibly Siegert Lefevere --> We ran together for at least the
+second half of the path along the river. He did most of the work in front, I
+must admit. When we passed the spot where earlier the runner had been lying
+face forward, there now were two ambulances on the one-car-wide path. We had to
+squeeze past them. Now I really wondered what the hell had happened to the guy.
+Anyway, I had my own suffering to focus on.
 
 Ploegsteert and I left the river path and stuck together. At some point a guy
-with some fluo yellow patches on his shirt passed us. I had spotted him a few
-times before as we yoyoed around one another. This time I decided to follow. It
-seemed fine. However.
+with some fluo yellow patches on his shirt passed us. <!-- Joeri Ameye? --> I
+had spotted him a few times before as we yoyoed around one another throughout
+the race. This time I decided to follow. It seemed fine. However.
 
 When we hit the bridge area again, around 16.5 km, I had a side stitch issue
 again. Now it was straight into pain. I tried to keep myself focused on the
@@ -211,7 +218,7 @@ cursed. (Looking at the GPS splits, I am probably to blame though)
 From here on, things are a bit more vague in my mind. I think Ploegsteert
 passed me again and, feeling better, I decided to hang on to him. I seemed
 alright again and started looking forward to the finish, breaking down the kms
-into "just _x_ more minutes of holding on". We passed RAAB club guy, throughout
+into "just _x_ more minutes of holding on". We passed RAAC club guy, throughout
 the race I had seen him up ahead, but had never got close to him. I switch to
 following some guy in a triathlon suit, I assume he passed us and I latched on.
 
