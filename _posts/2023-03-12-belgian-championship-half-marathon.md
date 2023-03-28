@@ -129,7 +129,7 @@ my singlet and the guy on the next table over was mentioning the wind might
 make this tricky. It did not seem to have bothered him _that_ much in the end…
 :)
 
-{% include image.html domain=site.baseurl url='/assets/img/20230312.bashirabdi.webp' description='Bashir Abdi would end up winning the race in 59:51, a Belgian national record. He did conclude it could have been better with better weather.' %}
+{% include image.html domain=site.baseurl url='/assets/img/20230312.bashirabdi.webp' description='Bashir Abdi, a.k.a. the guy on the next table over, would end up winning the race in 59:51, a Belgian national record. He did conclude it could have been better with better weather.' %}
 
 I started some stretches and tried to time my getting ready to not stand around
 too long. It was around 8C and cloudy. Shorts and singlets would be fine for
@@ -250,9 +250,9 @@ gazing at the map and splits.
 Assuming I got their names right, the people I specifically mentioned finished
 as follows. All times chip times. RAAC guy 1:15:01. Ploegsteert 1:14:29, so he
 really dropped me. Fluo patches 1:15:00. Elke 1:15:46. Ah and of course Bashir
-Abdi, who set a Belgian national record in 59:51. He told the media he could
-have done better if it had not been for the wind. You and me both, Bashir, you
-and me both.
+Abdi, who set a Belgian national record in 59:51. He told the media afterwards
+he could have done better if it had not been for the wind. You and me both,
+Bashir, you and me both.
 
 Of the 25 person group I was in at the 5k point, 12 finished ahead of me, 11
 finished behind me, and 1 DNFed.
