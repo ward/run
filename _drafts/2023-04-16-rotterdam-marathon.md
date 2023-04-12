@@ -77,7 +77,68 @@ signed up for the Rotterdam marathon.
 
 ## Training
 
-_Continue from BK half training._
+I will only give a detailed overview of what happened since the [Belgian Half
+Marathon Championships][bkhalf] 35 days (5 weeks) prior to this race. For more
+details, check out that report. Basically during winter I had built up to 120
+km per week and kept that steady, not really doing workouts. Six weeks prior to
+that race (so 11 weeks prior to this marathon), I reintroduced workouts. LT
+work and some Marathon pace attempts.
+
+After the race, the plan was to do a recovery week, then two up weeks around
+120 km with workouts. Finally two taper weeks with the race at the last Sunday.
+I will count down to one in my weeks.
+
+_Week 6_. Week of the half marathon race. Some lower volume as a mini taper for
+the race. Race pace workout on Tuesday. Race on Sunday. Good effort, new PR,
+yadeyade, see the other report.
+
+_Week 5_. Planned post race recovery time. 10-13-13-13-13 for the weekdays.
+Lower side of the belly felt sore. Legs more sore than they had been in a
+while. Nothing worrying, just racing shenanigans. The night of Friday to
+Saturday, things went to shit. Literally. I had a stomach bug, flu, whatever
+you want to call it and everything had to go. I forced some puking to hopefully
+resolve the situation, but kept on feeling bad. Saturday I quickly decided to
+not go for my planned long run. [Fool me once][20kbxl-sickly], don't get fooled
+again, and all that. The non-literal runs continued, I had zero appetite, and
+whatever I did have seemed to go straight through. I thought I'd suffer for a
+day, but no, it continued for days on end. I lost Sunday too. Just 64 km for
+the week.
+
+_Week 4_. I continued being sick and lost another three days of running. Five
+days down the shitter. I lost 4 kg in the process and I do not have much to
+lose. When I finally seemed past it, I dared to try running again. My body had
+taken a beating though, everything felt like a lot of effort, I still needed to
+regain all the energy I had lost barely eating for days. Rest of the week was
+6, 10, 13, and 13 km. 42 km total. I did also manage a 17 km walk on Saturday.
+Running too much too soon felt risky, but I figured a walk was more easily kept
+easy or abandoned.
+
+_Week 3_. I needed a good week still before the race and this one had to
+suffice. I ran 120 km for the week, but did not feel quite right yet to do a
+workout yet. Long run (30k) and mid-week long run (23k) went fine though. Also
+made sure to have another go at practising taking in gels. That seemed fine
+too, no stomach issues. For the 30 km I took five of them. First one at 2 km,
+then another one every 4 km. 88 kcal per gel, 22 gram carbs.
+
+_Week 2_. And then it was already taper time. It felt weird after just the one
+up week because of the illness, but I felt more like playing this one safe.
+Whether it was the right choice, I will never know. I put the plan for this
+together rather belatedly, settling on 90 km for the week: 14, 10, 15, 10, 11,
+21, and 9 km. Strides on Monday and Friday. A CV workout on Wednesday. If I had
+not been sick and actually done workouts the two weeks prior, I would have done
+VO2max then, and probably now too. In the current situation, I decided to not
+try my first VO2max in a while just 10 days before the marathon. I did 4×1000
+aiming for about 3:21 to 3:26. Actual splits: 3:27, 3:23, 3:19, and 3:21. Had
+actually wanted to do five reps, but something felt a bit off on the fourth
+one, so I called it a day. Rest was about 1:10.
+
+_Week 1, race week_. Not much running left at this point: 11, 10, 13, 10, 8, 6,
+race day. Total prior to race day: 58 km. Wednesday I did 3 km at marathon
+pace, but the GPS went all wonky and I was constantly speeding up and slowing
+back down to get the pacing right. Maybe I should have done it on a track just
+to be sure the one time. Considerations for another time. Either way, paces
+were a bit all over the place, but it did not worry me. Strides on Monday and
+Friday.
 
 ## Goal and Strategy
 
@@ -89,7 +150,7 @@ _Continue from BK half training._
 
 ## Future
 
-[bkhalf]: {{ site.baseurl }}{% post_url 2022-03-13-belgian-championship-half-marathon %} "BK half marathon (13 Mar 2022)"
-[winterbase]: {{ site.baseurl }}{% post_url 2023-03-11-some-racing-some-training %} "Some Racing, Some Training: Summer-Fall-Winter of 2022"
-[results]: https://my.raceresult.com/236006/results "Runners' Lab Halve Marathon Gent, 12/03/2023 :: my.race|result"
-[strava]: https://www.strava.com/activities/8700582918
+[bkhalf]: {{ site.baseurl }}{% post_url 2023-03-12-belgian-championship-half-marathon %} "BK half marathon (13 Mar 2022)"
+[20kbxl-sickly]: {{ site.baseurl }}{% post_url 2021-09-12-20km-door-brussel %} "20 km door Brussel (12 Sep 2021)"
+[results]: https://example.com
+[strava]: https://example.com
