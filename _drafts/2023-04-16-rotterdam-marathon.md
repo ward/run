@@ -96,16 +96,16 @@ _Week 5_. Planned post race recovery time. 10-13-13-13-13 for the weekdays.
 Lower side of the belly felt sore. Legs more sore than they had been in a
 while. Nothing worrying, just racing shenanigans. The night of Friday to
 Saturday, things went to shit. Literally. I had a stomach bug, flu, whatever
-you want to call it and everything had to go. I forced some puking to hopefully
-resolve the situation, but kept on feeling bad. Saturday I quickly decided to
-not go for my planned long run. [Fool me once][20kbxl-sickly], don't get fooled
-again, and all that. The non-literal runs continued, I had zero appetite, and
-whatever I did have seemed to go straight through. I thought I'd suffer for a
-day, but no, it continued for days on end. I lost Sunday too. Just 64 km for
-the week.
+you want to call it, and everything had to go. I forced some puking to
+hopefully resolve the situation, but kept on feeling bad. Saturday I quickly
+decided to not go for my planned long run. [Fool me once][20kbxl-sickly], don't
+get fooled again, and all that. The non-literal runs continued, I had zero
+appetite, and whatever I did have seemed to go straight through. I thought I'd
+suffer for a day, but no, it continued for days on end. I lost Sunday too. Just
+64 km for the week.
 
 _Week 4_. I continued being sick and lost another three days of running. Five
-days down the shitter. I lost 4 kg in the process and I do not have much to
+days down the shitter. I lost 4 kg in the process and I do not have many to
 lose. When I finally seemed past it, I dared to try running again. My body had
 taken a beating though, everything felt like a lot of effort, I still needed to
 regain all the energy I had lost barely eating for days. Rest of the week was
@@ -114,7 +114,7 @@ Running too much too soon felt risky, but I figured a walk was more easily kept
 easy or abandoned.
 
 _Week 3_. I needed a good week still before the race and this one had to
-suffice. I ran 120 km for the week, but did not feel quite right yet to do a
+suffice. I ran 120 km for the week, but did not feel quite right enough to do a
 workout yet. Long run (30k) and mid-week long run (23k) went fine though. Also
 made sure to have another go at practising taking in gels. That seemed fine
 too, no stomach issues. For the 30 km I took five of them. First one at 2 km,
@@ -142,7 +142,66 @@ Friday.
 
 ## Goal and Strategy
 
+### Pace
+
+Back when I first considered running this marathon, my then half marathon PR
+put me just shy of 2:40. My PRs on the shorter distances put me under 2:40.
+That looked pretty, but also probably just out reach. Then in March I ran
+1:14:52 on the half marathon, which translates to a 2:36:35. All calculations
+in this paragraph based on JD's vdot calculator.
+
+So. Ye. That's really tempting. At first I was hesitant to go out that
+aggressively on my first marathon. Surely it was safer to go out at 2:45? Play
+it safe, don't blow up, keep the fast work for a future marathon. Alas, the
+more I thought about it, the more I realised I wanted that sub 2:40. 2:40:xx or
+2:41? Maybe, but probably not satisfied. Slower still? I think I would just be
+disappointed. I am not trying to qualify for anything, I am not trying to beat
+anyone. It's intrinsic motivation only and that one is now all in on sub 2:40.
+
+So that is the **goal time: 2:39:59. That is 3:47.5 per km**. I think I will
+just aim for that pace from the start. Banking time sounds risky, even with the
+hypothetical few seconds per km I supposedly could go faster according to the
+calculator. Starting too slow sounds risky too, cause that expects me to be
+able to speed up in the second half. I don't know yet whether I will dare to
+speed up if I do happen to feel good later on in the race. Either way, that is
+a decision that I won't need to make till maybe 34 km into the race. Worries
+for beat-up-by-the-marathon-me. We cross a bridge twice and go through a tunnel
+twice, but besides that I don't think there is any elevation. So not much to
+plan for on that end.
+
+### Nutrition
+
+I have a bunch of the gels I tried three weeks out (88kcal, 22g carbs). They
+will have to do. I will bring at least six along. I am thinking take one at 2,
+6, 10, 14, 18, 22 km. Have not quite worked that out yet as I am typing this a
+few days prior to the race. There are water stands every five or so km, so be
+sure to take some sips of that every time.
+
+### The Others
+
+I like the racing aspect of, well, racing. In a 5000m you can gamble to try and
+follow somebody's move even if it feels hot. Probably a bit riskier to do that
+in your first marathon. I picked Rotterdam cause there should be a good number
+of people around my pace. I just have to make sure they do not lure me into
+running too fast. Definitely run my own race the first 20-30 km, then evaluate
+after. But damn, it may be difficult to rein myself in. I will have to tell
+myself this a few times in the corral and during the first few kilometre.
+
 ## Pre-Race
+
+### The Week
+
+I found myself not thinking about the marathon as much as I would have expected
+going by other people's accounts. Maybe cause it still feels like something
+extra, not a main goal I have worked towards over months. It is running, how
+much worse can it be than the suffering I always put myself through? I planned
+out my logistics of course, but never sat around fretting. By this point I had
+settled on my goal pace as well, so there was nothing that could be done any
+more.
+
+### The Weekend
+
+### The Day
 
 ## Race
 
