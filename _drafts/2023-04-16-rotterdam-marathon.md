@@ -209,6 +209,10 @@ suffering I always put myself through? I planned out my logistics of course,
 but never sat around fretting. By this point I had settled on my goal pace as
 well, so there was nothing that could be done any more.
 
+I slept less than I usually do, just waking up earlier. Maybe the lower volume
+left me rested. I also wore a face mask in public transport more often again.
+Did not want to get sick.
+
 ### The Weekend
 
 My wife and I made our way to Rotterdam on Saturday. It is an easy train ride
@@ -304,14 +308,16 @@ be ready with bottles or gels, some biking between spots, some briefly biking
 along to hand over what was needed. A squeezy bottle did seem a lot easier to
 drink from than the paper cups we got from the organisation. I just carried my
 own gels and had another one of those around 13-14 km. I think I aimed it for
-the next water stand. Help digesting with some fluids. After the 15 km water
-stand I suddenly found myself a bit ahead of my group. I don't know whether I
-subconsciously speed up through them or whether everyone else slows way down.
-Briefly thought about waiting for them specifically again, but decided to just
-hang at the pace I was hitting. The next five are a bit of a blur, but I
-remember getting some more headwind. I had gel number four at some point. My
-mental math with the splits was failing me, so I was just waiting for the
-halfway mark to have a better idea. 2:40 divided by 2 I could still handle.
+the next water stand. Help digesting with some fluids.
+
+After the 15 km water stand I suddenly found myself a bit ahead of my group. I
+don't know whether I subconsciously speed up through them or whether everyone
+else slows way down. Briefly thought about waiting for them specifically again,
+but decided to just hang at the pace I was hitting. The next five are a bit of
+a blur. I think I was still mostly running with others. I had gel number four
+at some point. My mental math with the splits was failing me, so I was just
+waiting for the halfway mark to have a better idea. 2:40 divided by 2 I could
+still handle.
 
 Somewhere in this block I was also thinking how kinda boring it was. You are
 racing, but it is mostly a game of ensuring you do not push too hard. OK, every
@@ -322,6 +328,46 @@ first half.
 {% include racesplit.html content='
 15 km: 56:52, 20 km: 1:15:47, half marathon: 1:19:58.
 1s, 3s, and 2s ahead of schedule.
+' %}
+
+At some point I found myself alone again, possibly after the 20 km water
+stands. After the halfway point, you also hit a lonelier stretch in terms of
+crowd support. Finally there was some headwind to top it all off. I tried to
+stay focused, just ticking away the kilometres. Not sure whether I had an
+opinion on any of the GPS km splits that I saw. I think I caught up to a group
+a little before the 25 km mark. No clue whether I was still on track for
+sub-2:40.
+
+{% include racesplit.html content='
+25 km: 1:34:59. 11 seconds _behind_ schedule.
+' %}
+
+I ran with my new group for a little bit. Around 26.5 km into the race, we take
+a turn and the Erasmusbridge is showing itself again in all its glory. I felt
+awed by the sight of it. So tall and hulking, a beautiful piece of engineering.
+Shortly after I got smacked around by it as we climbed upwards. I quickly
+decided not to have my heart rate shoot up trying to keep pace with my group
+and switched tempo. There were also so many spectators here, I made sure to not
+make them hype me up too much that I would blast up the bridge after all. Soon
+I found myself descending again and creeping closer towards my group. I also
+spotted an official photographer. I decided to flash a moose antler sign, but
+as I raised my hands for it, the crowd went absolutely wild. The decibels shot
+up. I felt slightly seen and turned my movement in a sort of raising the roof
+moment. The cheering got me real hyped. I briefly thought about trying it again
+50 metres further, but felt too self-conscious and feared I might get left
+hanging.
+
+I think I joined some people (or at least one person) again by the end of the
+bridge. The HR had shot up a little after descending, I was confused about that
+at the time, but in retrospect I am inclined to blame it on the crowds. Either
+way, we continued on and after an annoying π turn, had to go in a short tunnel
+just past the 28 km point. The tunnel part is fine, but on the climbing out of
+it, I decided to take it slower than those around me again. I do not really
+remember anything about the next bit though recall the lane before the 30 km
+water stand being a bit narrow.
+
+{% include racesplit.html content='
+30 km: 1:54:06. 21 seconds behind schedule. Not according to keikaku.
 ' %}
 
 ## Results
