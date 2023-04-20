@@ -84,9 +84,9 @@ km per week and kept that steady, not really doing workouts. Six weeks prior to
 that race (so 11 weeks prior to this marathon), I reintroduced workouts. LT
 work and some Marathon pace attempts.
 
-After the race, the plan was to do a recovery week, then two up weeks around
-120 km with workouts. Finally two taper weeks with the race at the last Sunday.
-I will count the weeks down to one in this overview.
+After the half marathon race, the plan was to do a recovery week, then two up
+weeks around 120 km with workouts. Finally two taper weeks with the marathon
+race at the last Sunday. I will count the weeks down to one in this overview.
 
 _Week 6_. Week of the half marathon race. Some lower volume as a mini taper for
 the race. Race pace workout on Tuesday. Race on Sunday. Good effort, new PR,
@@ -339,23 +339,25 @@ a little before the 25 km mark. No clue whether I was still on track for
 sub-2:40.
 
 {% include racesplit.html content='
-25 km: 1:34:59. 11 seconds _behind_ schedule.
+25 km: 1:34:59. 11 seconds behind schedule.
 ' %}
 
 I ran with my new group for a little bit. Around 26.5 km into the race, we take
 a turn and the Erasmusbridge is showing itself again in all its glory. I felt
 awed by the sight of it. So tall and hulking, a beautiful piece of engineering.
-Shortly after I got smacked around by it as we climbed upwards. I quickly
-decided not to have my heart rate shoot up trying to keep pace with my group
-and switched tempo. There were also so many spectators here, I made sure to not
-make them hype me up too much that I would blast up the bridge after all. Soon
-I found myself descending again and creeping closer towards my group. I also
-spotted an official photographer. I decided to flash a moose antler sign, but
-as I raised my hands for it, the crowd went absolutely wild. The decibels shot
-up. I felt slightly seen and turned my movement in a sort of raising the roof
-moment. The cheering got me real hyped. I briefly thought about trying it again
-50 metres further, but felt too self-conscious and feared I might get left
-hanging.
+I had seen and crossed the bridge a few times in the past already and never had
+that feeling, so I am attributing it partially to running emotions. Shortly
+after my admiring, I got smacked around by the bridge as we climbed upwards. I
+quickly decided not to have my heart rate shoot up trying to keep pace with my
+group and switched tempo. There were also so many spectators here, I made sure
+to not make them hype me up too much that I would blast up the bridge after
+all. Soon I found myself descending again and creeping closer back towards my
+group. I also spotted an official photographer. I decided to flash a moose
+antler sign, but as I raised my hands for it, the crowd went absolutely wild.
+The decibels shot up. I felt slightly seen and turned my movement in a sort of
+raising the roof moment. The cheering got me real hyped. I briefly thought
+about trying it again 50 metres further, but felt too self-conscious and feared
+I might get left hanging.
 
 I think I joined some people (or at least one person) again by the end of the
 bridge. The HR had shot up a little after descending, I was confused about that
@@ -369,6 +371,66 @@ water stand being a bit narrow.
 {% include racesplit.html content='
 30 km: 1:54:06. 21 seconds behind schedule. Not according to keikaku.
 ' %}
+
+I believe around 31 km I suddenly started hearing a helicopter. I saw some
+police motorcycles drive by. I knew what was coming. Soon I saw them, Bashir
+Abdi and some other guy leading the race together crossed me in the opposite
+direction. Sadly there was the end of a tram stop separating us. If I had been
+20 seconds faster or slower, I think all that would have stood between us was a
+little red-white ribbon. Either way, when they got as close to me as I was
+going to get, I let out a "KOMAAN BASHIR" as loud as I could manage. Probably
+got lost among the noise, but it was as much to hype myself up as it was to
+shout him on to victory. You have to do something to keep yourself busy during
+a marathon.
+
+Soon after I hit another quieter part of the course. This road is wedged
+between a highway and a large lake and surrounding park (Kralingse plas en
+bos). Not many supporters were present here, though after the race someone
+assured me that it gets quite crowded if you are on the slower end. It is just
+that at this point in the race, all those supporters are still waiting for
+their loved ones on earlier parts of the course. The road also had a bit of a
+camber going for longer than I liked. Or at least, I remember being annoyed
+with it at the time. I briefly ran behind someone else, but I think they were
+slowing down too much and I left them behind. I had my sixth gel somewhere
+along this stretch, I want to say around 32-33 km. You would think this would
+have been the perfect time for some split calculating to see whether I was
+still on pace. I had not really had a clue since the halfway mark. You would
+think wrong, I recall still struggling with it. It really should not be as
+difficult as I was experiencing at the time. I passed the 35 km mark at some
+point and I think I realised I was behind pace, but I do not think it really
+registered how much behind I was.
+
+{% include racesplit.html content='
+35 km: 2:13:17. 34 seconds behind schedule.
+' %}
+
+Around 36 km you get outside of the more lonely stretch. It is also the moment
+I decided I could stop trying to keep the heart rate under control. Looking
+back at the data afterwards, I: (a) had apparently already crossed the upper
+range (166) of my heart rate in the kilometre before that, and (b) seem to have
+actually gone slower the kilometres after my decision that I could speed up.
+Zooming way way in on the nearly flat Rotterdam marathon elevation chart, there
+is a hint of it going ever so slightly up in comparison to the ever so slightly
+down of the prior kilometres so maybe that is to blame. Either way, I let the
+heart rate creep up to 170.
+
+Around the 38.5 km point, you start running the opposite direction of people
+that are yet to run around the Kralingse plas, on the other side of the road
+from them. To do so, you run perpendicular towards the road they are on, then
+turn left onto their road. I remember spotting people running into the
+turn-right direction, thinking that was where I would have to go next. I also
+saw us being directed to the left instead. I was confused, was there another
+moment where you go left for a bit before turning around? I thought only Slinge
+and the tunnel had a π turn. After the turn I started looking for the turn
+around. It took me a little bit to realise these people were way more numerous
+than what I had been running in _and_ were going noticeably slower. Finally I
+realised this were the people that still had 11ish km to go. I swear I am not
+normally this dumb.
+
+The 40 km point was coming up, besides the 5 km and the 10 km split this was
+the only split I had written on my hand. I figured by this point I might have
+trouble to do split split (hehe) calculations. I was not wrong. I was also not
+quite right going by how much earlier I could have used those.
 
 ## Results
 
