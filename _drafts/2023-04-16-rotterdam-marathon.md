@@ -9,6 +9,8 @@ tags:
   - rotterdam
 ---
 
+<!-- TODO Add 5k time per split -->
+
 The Rotterdam marathon. My first go at racing a marathon.
 
 ## Overly Long Dramatic Intro
@@ -427,14 +429,95 @@ than what I had been running in _and_ were going noticeably slower. Finally I
 realised this were the people that still had 11ish km to go. I swear I am not
 normally this dumb.
 
+Around km 39 and then some I was already starting to feel the extra effort of
+my speed-up-but-not-actually-speed-up I had started at km 36. A little swearing
+at myself for, apparently, starting too soon, but did my best to hold on. I did
+not die entirely I think, so maybe that was just how I was supposed to feel at
+that point. I was counting down the kilometres, figuring it was barely anything
+now, just keep on keeping on.
+
 The 40 km point was coming up, besides the 5 km and the 10 km split this was
-the only split I had written on my hand. I figured by this point I might have
-trouble to do split split (hehe) calculations. I was not wrong. I was also not
-quite right going by how much earlier I could have used those.
+the only split I had written on my hand. I had figured that by this point I
+might have trouble to do split split (hehe) calculations in my head. I was not
+wrong. I was also not quite right. I could have used many more splits on my
+hand.
+
+{% include racesplit.html content='
+40 km: 2:32:37. 56 seconds behind schedule. Shit.
+' %}
+
+So that was a bit of a stroke of clarity. I was way behind the 2:40 goal now. I
+quickly realised that there was no way I would be making up 56 seconds in the
+last 2.195 km of a marathon. Damnit, that was a bit of a mental blow. I had
+known I was behind, but I was not 100% sure how much exactly. I figured with
+starting to push at 36 km I had been closing the gap to make it manageable for
+the last bit. No dice. Despite the disappointment, or because of it, I pushed
+harder. See what I can still do. Keeping it at 2:40:xx was the new goal.
+
+In km 39.x, my heart rate had gone to 171-172, in km 40.x that went up further
+to 173-174. Speedwise, not much actually changed it seems. Elevation data shows
+a little bump here, but I am inclined not to really believe that. Again, The
+Netherlands.
+
+With 1000m to go, there was a marker placed. That motivated me to push harder
+still. The heart rate kept creeping up now. I did not pay attention to it at
+the time, I was just pushing whatever I still could. The 500m point was marked
+in the same manner and from there I started my sprint to the line. 100-200
+metre later I regretted that choice. Lots of gritting my teeth to survive. I
+was passing people still though, so must have been doing something right.
+
+In the last 50-100 metre, I knew I could somewhat celebrate without losing
+pace. Some time ago I had read "Inside a Marathon" by Scott Fauble. In it, he
+mentions approaching the finish line of, I think, NYC marathon and lifting his
+arms, pointing at people in the crowd, enjoying that last moment. That had
+seemed like something I should do at some point. Emboldened by my earlier luck
+on the Erasmusbridge, I went for it. I raised my arms a few times, hands spread
+out and the palms up, asking for some encouragement. The crowd roared in
+response. I swung my right arm in a circle maybe twice to hopefully keep them
+going as I raced the last bit to the line. The clock was ticking away at
+2:41:20ish, but I knew I had a 28 second buffer of the difference between chip
+and gun time.
+
+I crossed the line. Having finally learned from previous races, I did not let
+up on the line to stop my watch. Every second counted. I passed the second
+timing mat. I stopped my legs and my watch. My legs almost immediately started
+to buckle. A crowd of medical personnel was waiting and one immediately came up
+to ensure I did not topple over. I leaned on her, shuffled some steps, pointed
+at the fence on the side and asked her to drop me off there so I could lean on
+it. I hung there for a while, then started to shuffle onwards through the 500
+metre long finishing chute, grabbing drinks and snacks along the way. I quickly
+downed everything. I was cold. My legs were in pain.
+
+I had mixed feelings.
 
 ## Results
 
+[My time was 2:40:55][results] (my [watch was showing 2:40:57][strava] at the
+time and that was all I had to go by). I had the 2:40:xx I had been focusing on
+during that last bit of the race. I also missed out on sub 2:40, the real goal
+I had come here for. It felt so close and yet so far away. At the time, I was
+not sure yet how I felt about it. I leaned towards disappointment, but some
+acceptance. I write this a few days later and it has flipped to acceptance with
+still a little bit of disappointment. "I am a 2:40 guy" sounds fine. I don't
+think I messed anything up on race day, this is about as much as I could have
+squeezed out. Above all, I did not blow up, which is what I really did not want
+to happen.
+
+<!-- TODO IAAF scoring -->
+<!-- TODO My placing -->
+
+Usually I mention the times of some people that I ran with here. Rotterdam
+marathon even makes it easier: everyone has to wear a second bib on their back.
+So I saw many bib numbers. I remembered none of those I actually ran with.
+
+There is one time I can give you. It may come as a surprise that after beating
+me in [the half][bkhalf] five weeks earlier, Bashir Abdi beat me again here. He
+won the race in 2:03:47. He had hoped to beat the European record he already
+holds, but cited bad pacers and wind as two of the reasons it did not work out.
+
 ## Lessons Learned
+
+### General
 
 - Doing the final marathon pace test in the race week might be nicer on a
   track, just to have the exact pacing.
@@ -446,13 +529,35 @@ quite right going by how much earlier I could have used those.
 - Gels every 4 km might have worked in training, but seems like it was
   ambitious for the race. Harder effort than a long run and 4 km goes by
   several minutes more quickly. Either base them on time or just stick to 5 km.
+  Or keep training my stomach of course.
 - Write down waaaay more splits on my arms, calculating things was just not
   working very well. Apparently you can get one of those fake tattoos with
   splits, maybe that is an option too.
+
+### Rotterdam Specific
+
+- Metro is the safest the morning of race day. Trams that head to the center
+  will still do so, but probably reroute some stops. This is also fine, just be
+  sure to check it out. Cars are banned from certain parts, so a taxi or
+  similar may not be the way to go.
+- There are changing rooms, but there is no shower. I saw one person who had
+  packed a washing cloth which he wetted with a water bottle to at least scrub
+  the worst off.
+- If you're meeting up with someone, the end of the finishing chute will be
+  easiest if you're fast enough (I was). I assume once it gets busier, you will
+  want to meet a bit further. Just make sure you check the finishing chute
+  direction when you plan that spot (we had not). For reference: it was heading
+  towards the central station.
+
+## Aftermath
+
+Anecdotes of the day.
+
+Legs that day and the next few.
 
 ## Future
 
 [bkhalf]: {{ site.baseurl }}{% post_url 2023-03-12-belgian-championship-half-marathon %} "BK half marathon (13 Mar 2022)"
 [20kbxl-sickly]: {{ site.baseurl }}{% post_url 2021-09-12-20km-door-brussel %} "20 km door Brussel (12 Sep 2021)"
-[results]: https://example.com
-[strava]: https://example.com
+[results]: https://results.sporthive.com/events/7049372004225601280/races/485352/bib/10969
+[strava]: https://www.strava.com/activities/8900133792
