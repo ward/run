@@ -9,7 +9,7 @@ tags:
   - rotterdam
 ---
 
-<!-- TODO Add 5k time per split -->
+_Will be updated at some point with pictures and an actual proofread._
 
 The Rotterdam marathon. My first go at racing a marathon.
 
@@ -242,11 +242,11 @@ walk to the public transport. The ride showed up soon and brought us to the
 metro station nearby (driving into the city was… difficult because of the
 marathon).
 
-Because of the walking backup buffer, we got to the center of
-Rotterdam a bit earlier than originally planned. We went to the marathon expo
-building again to sit inside where it was dry and warm (it was about 7-8C and
-had started to drizzle a little). I went to the toilet there again and we sat
-around for a while waiting for the start to draw closer.
+Because of the walking backup buffer, we got to the center of Rotterdam a bit
+earlier than originally planned. We went to the marathon expo building again to
+sit inside where it was dry and warm (it was about 7-8C and had started to
+drizzle a little). I went to the toilet there again and we sat around for a
+while waiting for the start to draw closer.
 
 Around 9:10 we started meandering towards my wave. Since I was more near the
 front, we still had to walk down all the waves. There was a large amount of
@@ -297,7 +297,7 @@ the belly be a little unhappy a km or so later, so I decided to put some more
 kms between gels. Another water attempt at 10 km.
 
 {% include racesplit.html content='
-5 km: 18:53, 10 km: 37:50. 4-5 seconds ahead of schedule for both.
+5 km: 18:53, 10 km: 37:50 (18:57 5k). 4-5 seconds ahead of schedule for both.
 ' %}
 
 I think by this point I was in a bit of a group with similarly paced people. I
@@ -328,7 +328,7 @@ quite a while. In a 5k it is more about only slightly killing yourself the
 first half.
 
 {% include racesplit.html content='
-15 km: 56:52, 20 km: 1:15:47, half marathon: 1:19:58.
+15 km: 56:52 (19:02 5k), 20 km: 1:15:47 (18:55 5k), half marathon: 1:19:58.
 1s, 3s, and 2s ahead of schedule.
 ' %}
 
@@ -341,7 +341,7 @@ a little before the 25 km mark. No clue whether I was still on track for
 sub-2:40.
 
 {% include racesplit.html content='
-25 km: 1:34:59. 11 seconds behind schedule.
+25 km: 1:34:59 (19:12 5k). 11 seconds behind schedule.
 ' %}
 
 I ran with my new group for a little bit. Around 26.5 km into the race, we take
@@ -371,7 +371,7 @@ remember anything about the next bit though recall the lane before the 30 km
 water stand being a bit narrow.
 
 {% include racesplit.html content='
-30 km: 1:54:06. 21 seconds behind schedule. Not according to keikaku.
+30 km: 1:54:06 (19:07 5k). 21 seconds behind schedule. Not according to keikaku.
 ' %}
 
 I believe around 31 km I suddenly started hearing a helicopter. I saw some
@@ -403,7 +403,7 @@ point and I think I realised I was behind pace, but I do not think it really
 registered how much behind I was.
 
 {% include racesplit.html content='
-35 km: 2:13:17. 34 seconds behind schedule.
+35 km: 2:13:17 (19:11 5k). 34 seconds behind schedule.
 ' %}
 
 Around 36 km you get outside of the more lonely stretch. It is also the moment
@@ -443,7 +443,7 @@ wrong. I was also not quite right. I could have used many more splits on my
 hand.
 
 {% include racesplit.html content='
-40 km: 2:32:37. 56 seconds behind schedule. Shit.
+40 km: 2:32:37 (19:20 5k). 56 seconds behind schedule. Shit.
 ' %}
 
 So that was a bit of a stroke of clarity. I was way behind the 2:40 goal now. I
@@ -496,15 +496,53 @@ I had mixed feelings.
 time and that was all I had to go by). I had the 2:40:xx I had been focusing on
 during that last bit of the race. I also missed out on sub 2:40, the real goal
 I had come here for. It felt so close and yet so far away. At the time, I was
-not sure yet how I felt about it. I leaned towards disappointment, but some
-acceptance. I write this a few days later and it has flipped to acceptance with
-still a little bit of disappointment. "I am a 2:40 guy" sounds fine. I don't
-think I messed anything up on race day, this is about as much as I could have
-squeezed out. Above all, I did not blow up, which is what I really did not want
-to happen.
+not sure yet how I felt about it. I leaned towards disappointment, but with
+some acceptance. I write this a few days later and the feeling has flipped to
+acceptance with still a little bit of disappointment. "I am a 2:40 guy" sounds
+fine. I don't think I messed anything up on race day, so this is about as much
+as I could have squeezed out that day. Above all, I did not blow up, which is
+what I really did not want to happen. As you can tell from the following table,
+I did positive split, but not in a crazy manner.
 
-<!-- TODO IAAF scoring -->
-<!-- TODO My placing -->
+|   km |    time | 2:40 | last 5k | split pace |
+| ---: | ------: | ---: | ------: | ---------: |
+|    5 |   18:53 |   -5 |   18:53 |       3:47 |
+|   10 |   37:50 |   -5 |   18:57 |       3:47 |
+|   15 |   56:52 |   -1 |   19:02 |       3:48 |
+|   20 | 1:15:47 |   -3 |   18:55 |       3:47 |
+| half | 1:19:58 |   -2 |         |            |
+|   25 | 1:34:59 |  +11 |   19:12 |       3:50 |
+|   30 | 1:54:06 |  +20 |   19:07 |       3:49 |
+|   35 | 2:13:17 |  +34 |   19:11 |       3:50 |
+|   40 | 2:32:37 |  +56 |   19:20 |       3:52 |
+| full | 2:40:55 |  +55 |         |       3:47 |
+
+I finished 312th of 16849 finishers. I think this was a faster year, because
+there was no sun or warmth to deal with. 2:40:55 would have netted you a top
+200 spot in the previous years. There seems to be a 6 hour cutoff. I am
+interested in seeing the bell curve (also compared to other years), but am too
+lazy to whip that together right now. Plus the problem with that for _everyone_
+is that there are a lot of untrained people taking part too. I don't think that
+is representative, but I do not know how to limit the data to
+what-I-consider-relevant results.
+
+As a silly aside, I have been keeping somewhat track of how many World
+Athletics points my time on the different distances net me. I do this only
+cause it is the kind of stuff that entertains me. Either way, this is my first
+result netting me over 700 points. For reference, the maximum is 1400, a man
+would need to run a 1:56:14 marathon with the current tables to achieve that.
+The world record nets you about 1300 it looks like. You get one point for
+running it in 4:25:53. I think it may be more generous for longer distances.
+
+| Distance | My WA points |
+| -------: | -----------: |
+|     800m |          558 |
+|    1500m |          583 |
+|    3000m |          539 |
+|    5000m |          564 |
+|      10k |          603 |
+|     half |          664 |
+|     full |          704 |
 
 Usually I mention the times of some people that I ran with here. Rotterdam
 marathon even makes it easier: everyone has to wear a second bib on their back.
@@ -551,11 +589,69 @@ holds, but cited bad pacers and wind as two of the reasons it did not work out.
 
 ## Aftermath
 
-Anecdotes of the day.
+We went for some Vietnamese food as lunch after I had changed into clean
+clothes. I was worried I would have trouble eating, so I went for a pho since
+at least spooning in soup should work. Turns out my stomach wasn't in that bad
+of a shape. I definitely ate less than I usually would have, but still downed a
+decent amount. Also had a beer.
 
-Legs that day and the next few.
+We meandered around for a bit and passed the course again around the 41k mark.
+As we were walking along it, some guy with a bib saying "Tom" on it had to stop
+running and switched to a walk with a grimace on his face. Me and someone on
+the other side of road immediately started yelling at him (in Dutch) "COME ON
+TOMMY! DON'T QUIT NOW! YOU'RE SO CLOSE! DON'T GIVE UP!". I do not know whether
+he appreciated it.
+
+We got beer in another place, meandered some again, sat down in yet another
+place for two beers and a little snack. In this final place, at some point a
+guy was walking around on the terrace, holding up his Rotterdam marathon medal
+in one hand, holding up a beer in his other hand, looking triumphant. He went
+around the tables, cheering if anyone showed their own medal, bumping the
+glasses against each other in salutation. When he had gone around the tables,
+he walked to one certain table, took off his medal, gave it to a guy sitting
+there, and said "thanks for letting me borrow it for a second". Well played,
+well played.
+
+Eventually we made our way back to the bnb. The legs were tired and I walked
+quite slowly, but they were not feeling terrible. Eventually though they got
+quite sore later in the evening.
+
+The next morning the front of my thighs were killing me, but I had time before
+needing to catch my train back to Brussels (had to be at work in the
+afternoon). I decided to try a 2-3 km jog. The first few steps felt like I was
+Bambi on ice, my legs did not want to support me like that. It quickly went to
+"ok", though I did keep things at a shuffle. Just wanted to get that blood
+flowing. We also walked 30ish minutes to the nearest tram stop to head to the
+train station. All in all, a decent amount of movement.
+
+The second day the fronts of the thighs were still super sore. Going down
+stairs or getting up out of chairs was near impossible without supporting
+myself with my hands.
+
+Third day things had gotten manageable. Fourth day I would say it felt pretty
+much alright. I did a short jog daily, just for the semblance of movement. That
+will continue for another week or two. Have not quite figured out yet what
+exactly I want my recovery to look like.
 
 ## Future
+
+I might do the 20 km door Brussel again. That is the last weekend of May. I
+will also be taking a proper look at the track calendar in the coming two
+months, that should be online by now. Something nice and short again for a
+change.
+
+Future marathons… we'll see. I definitely think it was less enjoyable than a
+speedy track race. The long recovery time is also driving me mad already after
+only a few days of it. It is worse than the marathon taper, at least then you
+have a goal you are aiming for. Maybe I will end up aiming for one marathon a
+year just to get some more experience. Going sub 2:40 will remain a goal too, I
+admit.
+
+With all the time I spend in the USA, maybe I will end up having a go at the
+Boston marathon. Not cause I care for the course (though a point to point does
+look nice on my heatmap) or the race, but mostly because I can already
+anticipate the "so did/will you run Boston" questions when state side. What I
+hear of the logistics makes it sound miserable though.
 
 [bkhalf]: {{ site.baseurl }}{% post_url 2023-03-12-belgian-championship-half-marathon %} "BK half marathon (13 Mar 2022)"
 [20kbxl-sickly]: {{ site.baseurl }}{% post_url 2021-09-12-20km-door-brussel %} "20 km door Brussel (12 Sep 2021)"
