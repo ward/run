@@ -12,7 +12,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%-d %b %Y" }} •
 	{% for tag in post.tags %}
 	  <!-- forloop.index starts counting at 1 -->
-	  <a href="/tag/{{tag | replace: " ","-"}}">{{tag}}</a>{% if forloop.index < forloop.length %}, {% endif %}
+	  <a href="/tag/{{tag | replace: " ","-" | replace: ":","-" | replace: "×","-"}}">{{tag}}</a>{% if forloop.index < forloop.length %}, {% endif %}
 	{% endfor %}
 	</span>
         <h2>
