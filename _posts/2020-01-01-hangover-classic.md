@@ -6,6 +6,8 @@ tags:
 - report
 - podium
 - victory
+- road
+- length:5000
 ---
 
 The girlfriend's sister asked me on Sunday what my next race was. I realised I

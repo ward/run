@@ -4,6 +4,8 @@ title: "Teltowkanal Halbmarathon"
 date: 2018-11-04 18:00:00
 tags:
 - report
+- length:half
+- road
 ---
 
 Somewhere in summer, I was looking for a fall goal to set. The girlfriend felt

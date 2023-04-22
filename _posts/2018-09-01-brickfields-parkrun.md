@@ -7,6 +7,8 @@ tags:
 - podium
 - victory
 - road
+- parkrun
+- length:5000
 ---
 
 I happened to be in Dublin, Ireland for the first weekend of September and

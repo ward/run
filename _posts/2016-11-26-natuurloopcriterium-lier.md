@@ -2,7 +2,10 @@
 layout: post
 title: "Natuurloopcriterium Lier 10 km"
 date: 2016-11-26 21:00:00
-tags: report
+tags:
+- report
+- road
+- length:10000
 ---
 
 One of my goals for 2016 was to drop below 40 minutes on the 10 km. I gave it a

@@ -5,6 +5,7 @@ date: 2015-05-31 17:05:00
 tags:
 - report
 - road
+- length:20000
 ---
 
 Oh boy, the big one, if you're from Belgium. There are longer races, with a

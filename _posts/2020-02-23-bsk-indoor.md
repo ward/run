@@ -7,6 +7,7 @@ tags:
 - indoor
 - track
 - bk
+- length:3000
 ---
 
 As the winter season is coming to a close in Belgium, I wanted to give an

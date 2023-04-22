@@ -4,6 +4,8 @@ title: "Jogging Foyer 5 km"
 date: 2019-09-14 18:00:00
 tags:
 - report
+- road
+- length:5000
 ---
 
 I am planning to join an athletics club, Atlemo, in a few weeks. They organise

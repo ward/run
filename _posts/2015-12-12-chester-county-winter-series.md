@@ -2,7 +2,10 @@
 layout: post
 title: "Chester County Winter Series: Downingtown High School West"
 date: 2015-12-12 18:00:00
-tags: report
+tags:
+- report
+- road
+- length:5000
 ---
 
 I had wanted to do a 10k race to see where I would end up these days, but had

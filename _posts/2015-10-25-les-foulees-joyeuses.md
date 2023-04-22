@@ -2,7 +2,10 @@
 layout: post
 title: "Les Foulées Joyeuses"
 date: 2015-10-25 18:00:00
-tags: report
+tags:
+- report
+- road
+- length:5000
 ---
 
 After the slight disappointment of the [Belfius Brussels 5k][bxl5k] being about

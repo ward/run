@@ -6,6 +6,7 @@ tags:
 - report
 - bk
 - road
+- length:10000
 ---
 
 For the first time ever, a Belgian Championship was to be held for the 10

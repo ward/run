@@ -2,7 +2,10 @@
 layout: post
 title: "Belfius Brussels minimarathon (5k)"
 date: 2015-10-04 18:00:00
-tags: report
+tags:
+- report
+- road
+- length:5000
 ---
 
 My first real race since the injuries after the 20km door Brussel. My first 5km

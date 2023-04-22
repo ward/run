@@ -2,7 +2,9 @@
 layout: post
 title: "Les Hivernales du RCB \"10k\" - Prize Winning Crash and Burn"
 date: 2016-02-07 18:00:00
-tags: report
+tags:
+- report
+- length:10000
 ---
 
 A sobering experience.

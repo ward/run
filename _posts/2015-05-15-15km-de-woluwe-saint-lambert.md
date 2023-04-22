@@ -2,7 +2,10 @@
 layout: post
 title:  "15km de Woluwe-Saint-Lambert"
 date:   2015-05-10 17:28:00
-tags: report
+tags:
+- report
+- road
+- length:15000
 ---
 
 Or should I say 14km? This was the most annoying thing about this race, it

@@ -5,6 +5,7 @@ date: 2016-05-29 18:00:00
 tags:
 - report
 - road
+- length:20000
 ---
 
 The big one. The spring goal. The "[20 km door Brussel][officialsite]" (a.k.a.

@@ -6,6 +6,8 @@ tags:
 - report
 - road
 - podium
+- parkrun
+- length:5000
 ---
 
 I wanted to cash in on my recent [half-marathon][teltow] shape. Any flat 5 or

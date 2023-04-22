@@ -5,6 +5,7 @@ date: 2018-05-27 12:00:00
 tags:
 - report
 - road
+- length:20000
 ---
 
 Here we are again. My third time competing in the [20 km door Brussel][bxl20k]. In the

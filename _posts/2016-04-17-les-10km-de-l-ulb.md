@@ -2,7 +2,9 @@
 layout: post
 title: "Les 10km de l'ULB"
 date: 2016-04-17 17:00:00
-tags: report
+tags:
+- report
+- length:10000
 ---
 
 My training plan for the 20 km door Brussel on 29 May asks for a tune up race.

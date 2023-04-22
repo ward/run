@@ -2,7 +2,10 @@
 layout: post
 title: "5km Anderlecht"
 date: 2016-06-17 21:00:00
-tags: report
+tags:
+- report
+- road
+- length:5000
 ---
 
 After the disappointment that was the [20km door Brussel][20k] almost three
