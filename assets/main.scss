@@ -63,6 +63,10 @@ table {
   }
 }
 
+div#results-wrapper, div#personalrecords-wrapper {
+  overflow-x: scroll;
+}
+
 div.post-content figure {
   img {
     margin: 0 auto;

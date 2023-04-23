@@ -1,21 +1,21 @@
 date,name,surface,distance,time,agegrade
 2015-04-26,Les 10 km de l'ULB,,10.0,44:52,59.54
-2015-05-10,15 km de Woluwe-Saint-Lambert,,14.0,1:04:27,???
-2015-05-31,20 km door Brussel,,20.0,1:30:41,60.92
-2015-08-27,1 Mile Extravaganza Bonanza,,1.6,6:08,???
-2015-10-04,Belfius Brussels Marathon Event: 5k,,4.5,16:10,???
-2015-10-25,Les Foulées Joyeuses,,5.0,18:50,68.93
-2015-12-12,Chester County Running Store 5k Winter Series Race #1,,5.0,18:01,72.06
+2015-05-10,15 km de Woluwe-Saint-Lambert,road,14.0,1:04:27,???
+2015-05-31,20 km door Brussel,road,20.0,1:30:41,60.92
+2015-08-27,1 Mile Extravaganza Bonanza,road,1.6,6:08,???
+2015-10-04,Belfius Brussels Minimarathon: 5k,road,4.5,16:10,???
+2015-10-25,Les Foulées Joyeuses,road,5.0,18:50,68.93
+2015-12-12,Chester County Running Store 5k Winter Series Race #1,road,5.0,18:01,72.06
 2016-01-16,Beckton parkrun #191,,5.0,19:22,67.03
 2016-02-07,Les Hivernales du RCB,,9.3,40:24,???
 2016-04-17,Les 10 km de l'ULB,,10.0,42:47,62.44
 2016-05-15,Plantentuinjogging Meise,,7.2,30:13,???
-2016-05-29,20 km door Brussel,,20.0,1:30:40,60.93
-2016-06-17,5 km Anderlecht,,5.0,19:03,68.15
-2016-08-06,Belgian Championship 10 km road (Optiek Sonck Streetrace),,10.0,41:35,64.24
-2016-10-22,Brussels Canal Run 4 km,,4.0,14:21,???
-2016-11-11,Jogging van de Vrede / Jogging de la Paix 4 km,,4.0,15:10,???
-2016-11-26,Natuurloopcriterium Lier 10 km,,10.0,39:45,67.21
+2016-05-29,20 km door Brussel,road,20.0,1:30:40,60.93
+2016-06-17,5 km Anderlecht,road,5.0,19:03,68.15
+2016-08-06,Belgian Championship 10 km road (Optiek Sonck Streetrace),road,10.0,41:35,64.24
+2016-10-22,Brussels Canal Run 4 km,road,4.0,14:21,???
+2016-11-11,Jogging van de Vrede / Jogging de la Paix 4 km,road,4.0,15:10,???
+2016-11-26,Natuurloopcriterium Lier 10 km,road,10.0,39:45,67.21
 2017-05-14,Plantentuinjogging Meise,,7.2,32:12,???
 2017-08-27,Jaarmarktjogging Jette,,4.0,14:54,???
 2017-10-01,Jogging '80,,10.0,44:37,59.88
@@ -29,15 +29,15 @@ date,name,surface,distance,time,agegrade
 2018-07-21,Mooseleague 1500m<sup>gps</sup>,,1.5,5:24,63.58
 2018-07-21,Mooseleague 400m<sup>gps</sup>,,0.4,1:16,???
 2018-08-14,Mooseleague 10 minutes,track,2.767,10:00,???
-2018-09-01,Brickfields Parkrun,,5.0,19:19,67.29
+2018-09-01,Brickfields Parkrun,road,5.0,19:19,67.29
 2018-10-07,Jogging '80,,10.0,39:16,68.03
-2018-10-20,Brussels Canal Run,,9.0,34:14,???
-2018-11-04,Teltowkanal Halbmarathon,,21.1,1:23:48,69.66
-2018-11-17,Victoria Dock parkrun,,5.0,17:16,74.81
+2018-10-20,Brussels Canal Run,road,9.0,34:14,???
+2018-11-04,Teltowkanal Halbmarathon,road,21.1,1:23:48,69.66
+2018-11-17,Victoria Dock parkrun,road,5.0,17:16,74.81
 2018-11-29,Solo a mile,track,1.609,5:17,70.28
 2019-02-19,Solo a mile,track,1.609,5:21,69.41
-2019-03-23,Haga parkrun,,5.0,18:07,71.75
-2019-03-30,Natuurloopcriterium Lier,,10.4,39:25,>67.78
+2019-03-23,Haga parkrun,road,5.0,18:07,71.75
+2019-03-30,Natuurloopcriterium Lier,road,10.4,39:25,>67.78
 2019-04-28,Antwerp 10 Miles,road,16.1,60:28,72.76
 2019-05-19,20 km door Brussel,road,20.0,1:18:20,70.53
 2019-05-25,Mooseleague 2000m,track,2.0,6:42,???
@@ -50,7 +50,7 @@ date,name,surface,distance,time,agegrade
 2020-01-01,Hangover Classic,road,5.0,17:47,73.19
 2020-01-26,Grote Prijs Electro 80,xc,2.765,9:29,???
 2020-02-22,Belgian Championship Indoor 3000m (for students),indoor track,3.000,10:09.40,72.36
-2020-02-29,Victoria Dock parkrun,,5.0,17:41,73.6
+2020-02-29,Victoria Dock parkrun,road,5.0,17:41,73.6
 2020-07-03,5000m time trial,track,5.000,16:46,77.83
 2021-08-14,Flanders Cup OEH 3000m,track,3.000,9:42.61,75.72
 2021-08-22,Openingsmeeting Mechelen 5000m,track,5.000,16:48.14,77.87
