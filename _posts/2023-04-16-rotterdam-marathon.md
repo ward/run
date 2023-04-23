@@ -9,8 +9,6 @@ tags:
   - rotterdam
 ---
 
-_Will be updated at some point with pictures and an actual proofread._
-
 The Rotterdam marathon. My first go at racing a marathon.
 
 ## Overly Long Dramatic Intro
@@ -22,8 +20,8 @@ to go for, it manages to subconsciously lose its appeal to me. One reason might
 be because of what a dumb distance it is. My running career was nurtured on
 (albeit, badly Belgian measured) 5 kms, 10 kms, and 20 kms. Nice round numbers.
 The marathon? Something with wanting to finish in front of the palace of some
-now dead monarch, if memory serves. I think the major reason was though, that I
-realised I liked trying to run fast. I saw the marathon as something people
+now dead monarch, if memory serves. I think the major reason was, though, that
+I realised I liked trying to run fast. I saw the marathon as something people
 moved up to to avoid having to go through the training to get faster. "Why run
 harder when you can slow down for longer?"
 
@@ -40,29 +38,30 @@ seed was planted when a colleague told me he was the best marathoner at the
 office. He said it as sort of a joke, but he was right: of all those that had
 run a marathon, he was the fastest. He added "and please don't run one". I can
 get a bit competitive about things. Either way, I started thinking about
-marathons. I also thought that while I do not care about the distance now, I
-might start caring in a few years. By that time, some experience could come in
-handy. With most people only racing a marathon 2-3 times a year, building that
-experience would take time. Another point in favour of the marathon.
+marathons. I also thought that while I do not care about the distance right
+now, I might start caring in a few years. By that time, some experience could
+come in handy. With most people only racing a marathon 2-3 times a year,
+building that experience would take time. Another point in favour of doing a
+marathon.
 
 Back in, I want to say, November, I looked around a bit at the options for
-spring marathons. Gent caught my eye because of its proximity. Going by
-conversion from shorter distances, I might have also been able to run a top 20
-(twenty) there. That always looks nice. Rotterdam also caught my eye. It is the
-Netherlands, so it is flat. I had heard it was well organised. I saw the
+spring marathons. Gent caught my eye because of its proximity. Going by a
+conversion my PBs on shorter distances, I might have also been able to run a
+top 20 (twenty) there. That always looks nice. Rotterdam also caught my eye. It
+is the Netherlands, so it is flat. I had heard it was well organised. I saw the
 results from previous years and I was going to have to work to be top 200 (two
 hundred). That meant there would be a lot of people to run with in case the
 going got hard. That has really dragged me through some bad spells in races in
 the past, so if I had to make a choice, Rotterdam would be it. And then I
-shelved the idea and sort of forgot about it.
+shelved the idea and sort of forgot about marathons.
 
 Around the end of January, beginning of February, I thought about the marathon
 again. I opened the Rotterdam marathon website. It had already sold out and...
 I felt a pang of FOMO. That was the very moment that I realised I did want to
 run Rotterdam. Bit late, innit?
 
-Rotterdam marathon also has a "Vraag en Aanbod forum". Basically people with a
-ticket that do not want to use it any more, e.g., because of injury, can offer
+Rotterdam marathon also has a "Vraag en Aanbod forum": people with a ticket
+that do not want to use it any more, e.g., because of an injury, can offer
 their ticket up for sale. Potential buyers then fill in their email address and
 hope the seller picks them to talk to. As I write this, I do not know whether
 they actually offered this in a language other than Dutch. Maybe not, to avoid
@@ -72,8 +71,8 @@ weeks out from the marathon would be fine. I already had my training that kept
 me busy, all that I would need to adjust was some taper time the final weeks
 before the actual race.
 
-Eventually someone contacted me and somewhere in early March, I was officially
-signed up for the Rotterdam marathon.
+Eventually someone contacted me and somewhere in early March I was officially
+signed up for the Rotterdam marathon on 16 April.
 
 <!-- Mailing to get into the wave? -->
 
@@ -115,34 +114,35 @@ regain all the energy I had lost barely eating for days. Rest of the week was
 Running too much too soon felt risky, but I figured a walk was more readily kept
 easy or abandoned.
 
-_Week 3_. I needed a good week still before the race and this one had to
-suffice. I ran 120 km for the week, but did not feel quite right enough to do a
-workout yet. Long run (30k) and mid-week long run (23k) went fine though. Also
-made sure to have another go at practising taking in gels. That seemed fine
-too, no stomach issues. For the 30 km I took five of them. First one at 2 km,
-then another one every 4 km. 88 kcal per gel, 22 gram carbs.
+_Week 3_. I needed a good week still before the race, if for nothing else than
+my confidence. This one had to suffice. I ran 120 km for the week, but did not
+feel quite right enough to do a workout yet. Long run (30k) and mid-week long
+run (23k) went fine though. Also made sure to have another go at practising
+taking in gels. That seemed fine too, no stomach issues. For the 30 km I took
+five of them. First one at 2 km, then another one every 4 km. 88 kcal per gel,
+22 gram carbs.
 
 _Week 2_. And then it was already taper time. It felt weird after just the one
 up week because of the illness, but I felt more like playing this one safe.
 Whether it was the right choice, I will never know. I put the plan for this
-together rather belatedly, getting inspiration from Pfitzinger's "18/85" plan
-(18 week plan, peaking at 137 km or 85 miles). I settled on 90 km for the first
-taper week: 14, 10, 15, 10, 11, 21, and 9 km. Strides on Monday and Friday. A
-CV workout on Wednesday. If I had not been sick and actually done workouts the
-two weeks prior, I would have done VO2max then, and probably now too. In the
-current situation, I decided to not try my first VO2max in a while just 10 days
-before the marathon. I did 4×1000 aiming for about 3:21 to 3:26. Actual splits:
-3:27, 3:23, 3:19, and 3:21. Had actually wanted to do five reps, but something
-felt a bit off on the fourth one, so I called it a day. Rest was about 1:10
-(~1/3rd of the time of a rep).
+together rather belatedly (that is, the Sunday of the previous week), getting
+inspiration from Pfitzinger's "18/85" plan (18 week plan, peaking at 137 km or
+85 miles). I settled on 90 km for the first taper week: 14, 10, 15, 10, 11, 21,
+and 9 km. Strides on Monday and Friday. A CV workout on Wednesday. If I had not
+been sick and actually done workouts the two weeks prior, I would have done
+VO2max then, and probably now too. In the current situation, I decided to not
+try my first VO2max in a while just 10 days before the marathon. I did 4×1000
+aiming for about 3:21 to 3:26. Actual splits: 3:27, 3:23, 3:19, and 3:21. Had
+actually wanted to do five reps, but something felt a bit off on the fourth
+one, so I called it a day. Rest was about 1:10 (~1/3rd of the time of a rep).
 
 _Week 1, race week_. Not much running left at this point: 11, 10, 13, 10, 8, 6,
 race day. Total prior to race day: 58 km. Wednesday I did 3 km at marathon
 pace, but the GPS went all wonky and I was constantly speeding up and slowing
 back down to get the pacing right. Maybe I should have done it on a track just
-to be sure the one time. Considerations for another time. Either way, paces
-were a bit all over the place, but it did not worry me. Strides on Monday and
-Friday.
+to be sure of the pace this one time. Considerations for another training
+cycle. Either way, paces were a bit all over the place, but it did not worry
+me. Strides on Monday and Friday.
 
 ## Goal and Strategy
 
@@ -182,7 +182,7 @@ I was going to remember that range.
 
 ### Nutrition
 
-I had a bunch of the gels I tried three weeks out (88kcal, 22g carbs). They
+I had a bunch of the gels I had tried three weeks out (88kcal, 22g carbs). They
 would have to do. I wanted to take in six of them and ended up packing a
 seventh as backup. The plan was to take one at 2, 6, 10, 14, 18, 22 km. It
 seemed to work in training. There are water stands every five km, so be sure to
@@ -224,8 +224,8 @@ running t-shirt. Walk through all the stands that I did not feel like standing
 around for. Got to rest them legs! We bought what we needed to make some pasta
 in the evening and made our way to the place we were staying. Rest of the
 afternoon and evening was spent sitting around and planning the final details
-of the morning of. The place I had gotten last minute was in a bit of a dead
-zone public transport wise and I did not want to have to walk too much in the
+of the next morning. The place I had gotten last minute was in a bit of a
+public transport dead zone and I did not want to have to walk too much in the
 morning. We settled on getting a ride in the morning to the nearest metro
 station and taking that into the city. Next time: think better about public
 transport options when getting your place.
@@ -282,15 +282,15 @@ heading down I pass some more people. Going downhill is easier for me.
 
 Over the next several km I am mostly trying to find my pace. I do not trust the
 1 km splits too much and instead pay extra attention to my heart rate. That one
-quickly settles around 159-160, smack dab in the middle of the range I planned
-for. I decide then and there to aim for that heart rate for a while, ignoring
-pace till I hit the 5 km marker. I had written down the 5, 10, and 40 km splits
-on my hand as well, so that was easier to compare than doing the mental math
-with 3:47.5 per km. My plan to take a gel at 2 km felt silly since nobody else
-was grabbing anything yet, but at 3.x I decided to grab my first one after all.
-Perhaps a little too early. Around the 5 km point is also a water stand and I
-grab a cub and try to drink some of it. I am sure most of it splashes out, but
-at least some of it I managed to actually drink.
+quickly settles around 159-160, smack dab in the middle of the range I had
+planned for. I decide then and there to aim for that heart rate for a while,
+ignoring pace till I hit the 5 km marker. I had written down the 5, 10, and 40
+km splits on my hand as well, so that was easier to compare than doing the
+mental math with 3:47.5 per km. My plan to take a gel at 2 km felt silly since
+nobody else was grabbing anything yet, but at 3.x I decided to grab my first
+one after all. Perhaps a little too early. Around the 5 km point is also a
+water stand and I grab a cup and try to drink some of it. I am sure most of it
+splashed out, but at least some of it I managed to actually drink.
 
 Similarly continued on the next 5 km. I had another gel around 7.x km and felt
 the belly be a little unhappy a km or so later, so I decided to put some more
@@ -305,21 +305,28 @@ ran at the front for a bit, I purposefully moved a bit further back at some
 point because there was a head wind. I kept an eye on my heart rate and was
 also satisfied with the pacing so far. I did try to keep an eye on the km
 splits too, had to ensure I kept on sub 2:40 pace. We all ran together for a
-good while. Some people in the group had friends, coaches, whatever, that would
-be ready with bottles or gels, some biking between spots, some briefly biking
-along to hand over what was needed. A squeezy bottle did seem a lot easier to
-drink from than the paper cups we got from the organisation. I just carried my
-own gels and had another one of those around 13-14 km. I think I aimed it for
-the next water stand. Help digesting with some fluids.
+good while.
+
+{% include image.html domain=site.baseurl url='/assets/img/20230416.11k.webp' description='Chugging along with a group.' %}
+
+Some people in the group had friends, coaches, whatever, that would be ready
+with bottles or gels, some biking between spots, some briefly biking along to
+hand over what was needed. A squeezy bottle did seem a lot easier to drink from
+than the paper cups we got from the organisation. I just carried my own gels
+and had another one of those around 13-14 km. I think I aimed to eat the gel
+just before the next water stand. Help digesting with some fluids.
 
 After the 15 km water stand I suddenly found myself a bit ahead of my group. I
 don't know whether I subconsciously speed up through them or whether everyone
 else slows way down. Briefly thought about waiting for them specifically again,
-but decided to just hang at the pace I was hitting. The next five are a bit of
-a blur. I think I was still mostly running with others. I had gel number four
-at some point. My mental math with the splits was failing me, so I was just
-waiting for the halfway mark to have a better idea. 2:40 divided by 2 I could
-still handle.
+but decided to just hang at the pace I was hitting.
+
+{% include image.html domain=site.baseurl url='/assets/img/20230416.15k.slinge-tina.webp' description='I had just highfived some kids (which I ended up doing quite often in this race), when I spotted my wife cheering me on.' %}
+
+The next five are a bit of a blur. I think I was still mostly running with
+others. I had gel number four at some point. My mental math with the splits was
+failing me, so I was just waiting for the halfway mark to have a better idea.
+2:40 divided by 2 I could still handle.
 
 Somewhere in this block I was also thinking how kinda boring it was. You are
 racing, but it is mostly a game of ensuring you do not push too hard. OK, every
@@ -347,12 +354,12 @@ sub-2:40.
 I ran with my new group for a little bit. Around 26.5 km into the race, we take
 a turn and the Erasmusbridge is showing itself again in all its glory. I felt
 awed by the sight of it. So tall and hulking, a beautiful piece of engineering.
-I had seen and crossed the bridge a few times in the past already and never had
-that feeling, so I am attributing it partially to running emotions. Shortly
+I had seen and crossed the bridge a few times on a past trip already and never
+had that feeling, so I am attributing it partially to running emotions. Shortly
 after my admiring, I got smacked around by the bridge as we climbed upwards. I
 quickly decided not to have my heart rate shoot up trying to keep pace with my
-group and switched tempo. There were also so many spectators here, I made sure
-to not make them hype me up too much that I would blast up the bridge after
+group and switched tempo. There were also more spectators here again, I made
+sure to not make them hype me up so much that I would blast up the bridge after
 all. Soon I found myself descending again and creeping closer back towards my
 group. I also spotted an official photographer. I decided to flash a moose
 antler sign, but as I raised my hands for it, the crowd went absolutely wild.
@@ -360,6 +367,8 @@ The decibels shot up. I felt slightly seen and turned my movement in a sort of
 raising the roof moment. The cheering got me real hyped. I briefly thought
 about trying it again 50 metres further, but felt too self-conscious and feared
 I might get left hanging.
+
+{% include image.html domain=site.baseurl url='/assets/img/20230416.27k.webp' description='Raising the roof.' %}
 
 I think I joined some people (or at least one person) again by the end of the
 bridge. The HR had shot up a little after descending, I was confused about that
@@ -385,7 +394,7 @@ got lost among the noise, but it was as much to hype myself up as it was to
 shout him on to victory. You have to do something to keep yourself busy during
 a marathon.
 
-Soon after I hit another quieter part of the course. This road is wedged
+Soon after, I hit another quieter part of the course. This road is wedged
 between a highway and a large lake and surrounding park (Kralingse plas en
 bos). Not many supporters were present here, though after the race someone
 assured me that it gets quite crowded if you are on the slower end. It is just
@@ -415,6 +424,8 @@ Zooming way way in on the nearly flat Rotterdam marathon elevation chart, there
 is a hint of it going ever so slightly up in comparison to the ever so slightly
 down of the prior kilometres so maybe that is to blame. Either way, I let the
 heart rate creep up to 170.
+
+{% include image.html domain=site.baseurl url='/assets/img/20230416.38k.webp' description='Around 38 km. It felt lonelier than the long spread out line of people looks like here.' %}
 
 Around the 38.5 km point, you start running the opposite direction of people
 that are yet to run around the Kralingse plas, on the other side of the road
@@ -459,6 +470,8 @@ to 173-174. Speedwise, not much actually changed it seems. Elevation data shows
 a little bump here, but I am inclined not to really believe that. Again, The
 Netherlands.
 
+{% include image.html domain=site.baseurl url='/assets/img/20230416.41k.cubes.webp' description='Around 41 km. Hanging in there.' %}
+
 With 1000m to go, there was a marker placed. That motivated me to push harder
 still. The heart rate kept creeping up now. I did not pay attention to it at
 the time, I was just pushing whatever I still could. The 500m point was marked
@@ -478,15 +491,15 @@ going as I raced the last bit to the line. The clock was ticking away at
 2:41:20ish, but I knew I had a 28 second buffer of the difference between chip
 and gun time.
 
-I crossed the line. Having finally learned from previous races, I did not let
-up on the line to stop my watch. Every second counted. I passed the second
-timing mat. I stopped my legs and my watch. My legs almost immediately started
-to buckle. A crowd of medical personnel was waiting and one immediately came up
-to ensure I did not topple over. I leaned on her, shuffled some steps, pointed
-at the fence on the side and asked her to drop me off there so I could lean on
-it. I hung there for a while, then started to shuffle onwards through the 500
-metre long finishing chute, grabbing drinks and snacks along the way. I quickly
-downed everything. I was cold. My legs were in pain.
+I crossed the line. Having finally learned from previous (mostly track) races,
+I did not let up on the line to stop my watch. Every second counted. I passed
+the second timing mat. I stopped my legs and my watch. My legs almost
+immediately started to buckle. A crowd of medical personnel was waiting and one
+immediately came up to ensure I did not topple over. I leaned on her, shuffled
+some steps, pointed at the fence on the side, and asked her to drop me off
+there so I could lean on it. I hung there for a while, then started to shuffle
+onwards through the 500 metre long finishing chute, grabbing drinks and snacks
+along the way. I quickly downed everything. I was cold. My legs were in pain.
 
 I had mixed feelings.
 
@@ -613,8 +626,8 @@ there, and said "thanks for letting me borrow it for a second". Well played,
 well played.
 
 Eventually we made our way back to the bnb. The legs were tired and I walked
-quite slowly, but they were not feeling terrible. Eventually though they got
-quite sore later in the evening.
+quite slowly, but they were not feeling terrible. They got very sore later in
+the evening.
 
 The next morning the front of my thighs were killing me, but I had time before
 needing to catch my train back to Brussels (had to be at work in the
