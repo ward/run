@@ -242,7 +242,7 @@ walk to the public transport. The ride showed up soon and brought us to the
 metro station nearby (driving into the city was… difficult because of the
 marathon).
 
-Because of the walking backup buffer, we got to the center of Rotterdam a bit
+Because of the walking backup buffer, we got to the centre of Rotterdam a bit
 earlier than originally planned. We went to the marathon expo building again to
 sit inside where it was dry and warm (it was about 7-8C and had started to
 drizzle a little). I went to the toilet there again and we sat around for a
@@ -584,10 +584,13 @@ holds, but cited bad pacers and wind as two of the reasons it did not work out.
 - Write down waaaay more splits on my arms, calculating things was just not
   working very well. Apparently you can get one of those fake tattoos with
   splits, maybe that is an option too.
+- With an extra bib on the back, maybe write your name on it. Or write your
+  name on any of your bibs, I guess. I might have remembered more people I ran
+  with if they were a name instead of a number.
 
 ### Rotterdam Specific
 
-- Metro is the safest the morning of race day. Trams that head to the center
+- Metro is the safest the morning of race day. Trams that head to the centre
   will still do so, but probably reroute some stops. This is also fine, just be
   sure to check it out. Cars are banned from certain parts, so a taxi or
   similar may not be the way to go.
