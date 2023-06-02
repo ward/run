@@ -72,6 +72,9 @@ underwear) for the two runs I did in Aachen the two days after. This went OK.
 Shower washing of clothes is also always an option when things can dry quickly
 enough.
 
+I made sure to cut nails and shave before as well, to not have to worry about
+those while there.
+
 ## Findings
 
 I was very happy to have brought clean clothes for when not running. Nothing
