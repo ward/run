@@ -65,8 +65,6 @@ are simply added when I remember to do so.
 * [Go Running](http://gorunning.be/index_nl.php) is a website that the VAL
   links to, so I assume it is relatively complete in Belgian races. Have not
   tested it thoroughly myself.
-* [Stratenlopen Kalender](http://stratenlopen.be/calendar.php). Enables adding
-  your own races.
 * [Piet van der Nat loopagenda](https://www.phein.nl/loopagenda/). A big excel
   sheet. Mostly races in The Netherlands, also covers many races in Flanders.
 * [Association of International Marathons and Distance
