@@ -34,12 +34,20 @@ are simply added when I remember to do so.
 * [plotaroute.com](https://www.plotaroute.com/myhome) lets you click spots and
   create the actual route. Defaults to Google Maps data, but you can easily
   enable OpenStreetMap.
+* [onthegomap.com](https://onthegomap.com) largely replaced my plotaroute usage
+  because it is easier to reroute and tinker with the route you are making.
+  Uses OpenStreetMap data. Do pay attention to its routing, it will happily
+  route you via railways or through private access roads.
 * [Trail Router](https://trailrouter.com/) tries to find you a running route
   where you maximise greenery, trails, or no-traffic. Quite some configuration
   options too! [Cycle.travel](https://cycle.travel/map) is similar for biking.
 
 ### Existing
 
+* [Waymarked Trails](https://hiking.waymarkedtrails.org/) visualises walking
+  route relations mapped in OpenStreetMap. These are routes for which there are
+  markings present, so you should be able to follow them even without a map.
+  Often these are made by governments to indicate nice nature walks.
 * [Sport Vlaanderen
   Loopomlopen](https://www.sport.vlaanderen/waar-sporten/sporten-in-de-natuur/loopomlopen/overzicht-vlaamse-loopomlopen/)
   has a list of running routes that are marked with a coloured triangle with
