@@ -24,6 +24,23 @@ do. I had been meaning to write it all down in a structured manner, but then
 someone asked about it so brain dump will do. Who knows if and how long it will
 take to get around to bother with a proper presentation.
 
+## I Just Want To Run More
+
+After the first visit, he banned me from running for two weeks. Technically
+just till our next appointment, but that's when I saw him next. Then I was
+allowed to run 20 minutes every third day. I did that for nearly four weeks,
+but that is because I had to be abroad for over a week and then he had vacation
+and so it just took forever to get the next appointment. Maybe it would not
+have taken that long otherwise. After that, I was allowed to up the time by 10
+minutes every third run. During the last visit, about 2.5 months after the
+first one, this was still in effect. He said during that last visit I could up
+the frequency if there was no hint of the patella tendon any more in daily
+stuff. "I rather have you run 1h30 every third day, then up the frequency just
+yet". Of course, now I just ran 1h30 and I am not sure if I can keep pushing
+beyond it. Hope I can self-assess that the more frequency is now allowed. I am
+leaning towards yes, but I will give it another week probably. Possibly. (Of
+course if you make that switch, cut the distance per run way down!)
+
 ## Workouts
 
 Listed roughly in the order that I was given them by the PT.
