@@ -41,6 +41,13 @@ beyond it. Hope I can self-assess that the more frequency is now allowed. I am
 leaning towards yes, but I will give it another week probably. Possibly. (Of
 course if you make that switch, cut the distance per run way down!)
 
+Elliptical was allowed throughout. Walking as long as it was not too much
+(absolute upper limit he gave was 15 km, but that is probably way too much
+already). Biking was allowed after 3ish weeks. Basically everything with
+repetitive impact was definitely avoid. Repetitive motion be careful with.
+Swimming was definitely allowed. He also strongly encouraged stuff without
+repetitiveness like padel, tennis, ... 
+
 ## Workouts
 
 Listed roughly in the order that I was given them by the PT.
