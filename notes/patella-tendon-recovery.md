@@ -88,9 +88,9 @@ was told to do them daily.
 Everything was done 15 times each. Together is it one set. Do two sets total.
 
 - Kneel (so lower legs are resting on the floor). Sit down into it (so butt
-  goes towards heels of feet). Come back up (lower legs remaining on the
-  floor). I do this one daily as the first thing in the set, no matter what
-  routine I do.
+  goes towards heels of feet). Hold the stretch for 3 to 5 seconds. Come back
+  up (lower legs remaining on the floor). I do this one daily as the first
+  thing in the set, no matter what routine I do.
 - Sit on chair, one foot firmly planted on floor, the other will not be used.
   Stand up using just the one leg. Sit back down (controlled, not just falling
   back). Be sure to not use the other leg's thigh to push down on the chair to
