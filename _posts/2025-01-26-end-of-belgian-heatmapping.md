@@ -5,6 +5,7 @@ date: 2025-01-26 18:30:00
 tags:
   - heatmap
   - hexagons
+  - long dumb shit
 ---
 
 Dramatic clickbait title: ✓. Anyway, since I was writing things up yesterday, I

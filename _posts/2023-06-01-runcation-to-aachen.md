@@ -6,6 +6,7 @@ tags:
   - runcation
   - fastpacking
   - heatmap
+  - long dumb shit
 ---
 
 I am still working on expanding my heatmap (and as I write this, I realise I
