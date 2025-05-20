@@ -219,6 +219,14 @@ _~~Suggestions welcome~~ Stupid ideas encouraged._
   it big enough that you cannot miss it when looking at my heatmap and having,
   say, both DC and Philadelphia in view. If feeling less egocentric: draw
   something.
+- In Belgium, I had connect the Netherlands and France borders. Here in
+  Pennsylvania, I found out there is a [Holland, New
+  Jersey](https://www.openstreetmap.org/relation/964662#map=13/40.59336/-75.14297)
+  right across the eastern border with New Jersey. There is also a [Paris,
+  Pennsylvania](https://www.openstreetmap.org/node/153971133#map=13/40.40239/-80.49279)
+  right before the western border with Ohio. The shortest route seems to be
+  about 536 km and I never have to go west like that, so chances are pretty
+  slim, but you know, adding it to the ideas box.
 
 
 The end of this post feels a bit rushed again. I was getting tired of writing
