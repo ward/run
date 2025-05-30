@@ -219,7 +219,7 @@ _~~Suggestions welcome~~ Stupid ideas encouraged._
   it big enough that you cannot miss it when looking at my heatmap and having,
   say, both DC and Philadelphia in view. If feeling less egocentric: draw
   something.
-- In Belgium, I had connect the Netherlands and France borders. Here in
+- In Belgium, I had connected the Netherlands and France borders. Here in
   Pennsylvania, I found out there is a [Holland, New
   Jersey](https://www.openstreetmap.org/relation/964662#map=13/40.59336/-75.14297)
   right across the eastern border with New Jersey. There is also a [Paris,
