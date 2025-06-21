@@ -218,7 +218,9 @@ _~~Suggestions welcome~~ Stupid ideas encouraged._
 - Write my name somewhere that I am unlikely to run through in the future. Make
   it big enough that you cannot miss it when looking at my heatmap and having,
   say, both DC and Philadelphia in view. If feeling less egocentric: draw
-  something.
+  something. Perhaps somewhere along the DC-home route, I can draw an arrow
+  pointing south-west and the text "DC". Have that on the far end of
+  Susquehanna. Have Philly on the near end.
 - In Belgium, I had connected the Netherlands and France borders. Here in
   Pennsylvania, I found out there is a [Holland, New
   Jersey](https://www.openstreetmap.org/relation/964662#map=13/40.59336/-75.14297)
@@ -227,6 +229,9 @@ _~~Suggestions welcome~~ Stupid ideas encouraged._
   right before the western border with Ohio. The shortest route seems to be
   about 536 km and I never have to go west like that, so chances are pretty
   slim, but you know, adding it to the ideas box.
+- Look at current map. Get to edge of heatmap. Run a vaguely circular route.
+  Repeat. Use it to fill in the map with runs and making it look somewhat busy.
+  Not sure how much I want this, but it came to mind while writing this post.
 
 
 The end of this post feels a bit rushed again. I was getting tired of writing
