@@ -136,7 +136,7 @@ aiming for. He wanted a 3:45 pace. I said that would definitely be more than I
 could handle today and 100 metre further I purposefully slowed down a lot,
 letting a group of 10-15 people pass me.
 
-[![Talking about pace]][talkingpace]
+{% include image.html domain=site.baseurl url='/assets/img/20161126.talkingpace.jpg' description='Talking about pace.' %}
 
 I find my own pace, but after the first km auto lap I realise I am going
 slightly too slow. Maybe I should autolap more often during a race where I want
@@ -199,7 +199,7 @@ at me with a grin.
 <!-- TODO Somewhere around the 1k to go point I also start passing sweatpants.
 Then on the lightest of bumps, I lose speed and he passes me again -->
 
-[![Closing in]][closingin]
+{% include image.html domain=site.baseurl url='/assets/img/20161126.closingin.jpg' description='Closing in.' %}
 
 This gives me a mental boost and I slowly pull up next to tight sweatpants guy,
 passing him right before we enter the track to make sure I can choose my path
@@ -210,7 +210,7 @@ them. As I get closer to the finish line, I pass a first timing mat. I think it
 was only placed there so the announcer could see the names of people about to
 finish as immediately after I pass it he says "and here is Ward from Brussels".
 
-[![Finishing]][finish]
+{% include image.html domain=site.baseurl url='/assets/img/20161126.finish.jpg' description='Finishing.' %}
 
 On the right of me I see a photographer and slightly behind him the girlfriend,
 also ready to take pictures. On the left I see three clocks, one for each
@@ -253,11 +253,5 @@ fitness.
 [natuurloop]: https://www.natuurlopenvanlier.be/
 [canalrun]: {{ site.baseurl }}{% post_url 2016-10-22-brussels-canal-run %} "Brussels Canal Run 4 km"
 [vrede]: {{ site.baseurl }}{% post_url 2016-11-11-jogging-van-de-vrede %} "Jogging van de Vrede 4 km"
-[Talking about pace]: https://c7.staticflickr.com/1/275/31978651982_b73d27f269_z.jpg
-[talkingpace]: https://www.flickr.com/photos/wardmuylaert/31978651982/in/album-72157677101300461/
-[Closing in]: https://c2.staticflickr.com/1/673/32127296185_dc2bfccb3d_z.jpg
-[closingin]: https://www.flickr.com/photos/wardmuylaert/32127296185/in/album-72157677101300461/
-[Finishing]: https://c2.staticflickr.com/1/387/32127296065_1835d0587d_z.jpg
-[finish]: https://www.flickr.com/photos/wardmuylaert/32127296065/in/album-72157677101300461/
 [results]: https://tijdregistratie.jahoma.nl/result/180326
 [Strava]: https://www.strava.com/activities/786204517

@@ -186,9 +186,7 @@ carry some water for after the race and a change of clothes.
 There was a brief distraction due to a goose family ending up in the crowd. The
 police helped the troublemakers on their way though.
 
-[![goosepic]][gooselink]  
-*Another agent was present outside this view. Someone else told me they had
-seen five agents discussing the goose situation earlier.*
+{% include image.html domain=site.baseurl url='/assets/img/20180527.geese.jpg' description='Another agent was present outside this view. Someone else told me they had seen five agents discussing the goose situation earlier.' %}
 
 I made sure my watch was on the data screens I wanted. The Forerunner 225 only
 has two screens with up to the three fields each. I picked Time-Distance-HR and
@@ -270,8 +268,7 @@ not tested how my stomach handles it after all. A wise choice: shortly after
 the two sips my stomach felt rather heavy, something that would last for a km
 or two.
 
-[![terkamerenpic]][terkamerenpiclink]
-*I am on the left, in the Belgian tricolore shorts.*
+{% include image.html domain=site.baseurl url='/assets/img/20180527.terkameren.jpg' description='I am on the left, in the Belgian tricolore shorts.' %}
 
 Next we make a sharp right turn to get back out of the forest. During the turn,
 someone on the inside suddenly stops turning, running straight into my path,
@@ -355,8 +352,7 @@ cobbles. While they are, in theory, much easier to run on than the ones in
 front of the royal palace early on in the race, they give me more difficulty.
 My tired body has trouble quickly getting itself through that section.
 
-[![finishpic]][finishpiclink]
-*Longingly looking at the finish line.*
+{% include image.html domain=site.baseurl url='/assets/img/20180527.finish.jpg' description='Longingly looking at the finish line.' %}
 
 Finally the finish line itself is in sight. I use whatever else I have left and
 am glad to have made it in one piece. After crossing, I stumble through to get
@@ -364,8 +360,7 @@ some water, a banana, and my medal.  The girlfriend finds me and we walk on to
 get away from the crowd and to find some shade under the trees. I drop down and
 take over 30 minutes before I feel like moving again to head home.
 
-[![passedoutpic]][passedoutpiclink]
-*Ded.*
+{% include image.html domain=site.baseurl url='/assets/img/20180527.ded.jpg' description='Ded.' %}
 
 <!--
 - bib 1592 was next to me at start and ~28 minutes in. 15 seconds behind me
@@ -440,12 +435,4 @@ factors that made me hesitant after the 2016 edition are still in play:
 [results]: http://prod.chronorace.be/Classements/Classement20km2017.aspx?eventId=1187502622894179&lng=NL
 [paris20k]: http://www.20kmparis.com/
 [bxl20k]: http://www.20kmdoorbrussel.be/_static/en/index.html
-[goosepic]: https://farm2.staticflickr.com/1727/27640545127_11a1437c1b_z.jpg
-[gooselink]: https://www.flickr.com/photos/wardmuylaert/27640545127/in/album-72157695822801391/
 [belgiananthem]: https://www.youtube.com/watch?v=Wtl8VN2lWaI
-[finishpic]: https://farm2.staticflickr.com/1746/41608738465_a60694bcf0_z.jpg
-[finishpiclink]: https://www.flickr.com/photos/wardmuylaert/41608738465/in/album-72157695822801391/
-[terkamerenpic]: https://farm2.staticflickr.com/1755/42459390562_be5b6279c9_z.jpg
-[terkamerenpiclink]: https://www.flickr.com/photos/wardmuylaert/42459390562/in/album-72157695822801391/
-[passedoutpic]: https://farm2.staticflickr.com/1724/41788583654_d70e38278d_z.jpg
-[passedoutpiclink]: https://www.flickr.com/photos/wardmuylaert/41788583654/in/album-72157695822801391/

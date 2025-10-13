@@ -103,7 +103,7 @@ gaining a spot before the finish.  I somewhat let loose and just cruised
 towards the finish line. On the way there I spot a photographer on the side.
 Having plenty of energy and no worries about time or place, I did the moose.
 
-[![Doing the Moose]](https://www.flickr.com/photos/wardmuylaert/30450592264/in/album-72157675794132900/)
+{% include image.html domain=site.baseurl url='/assets/img/20161111.moose.jpg' description='Doing the Moose.' %}
 
 ## Results
 
@@ -128,4 +128,3 @@ up as females. Ha. Ha.
 [canalrun]: {{ site.baseurl }}{% post_url 2016-10-22-brussels-canal-run %}
 [hivernalesrcb]: {{ site.baseurl }}{% post_url 2016-02-07-les-hivernales-du-rcb %}
 [results]: http://1082berchem.brussels/nl/actualiteiten/uitslagen-jogging-van-de-vrede/
-[Doing the Moose]: https://c1.staticflickr.com/6/5702/30450592264_509fe64b55.jpg

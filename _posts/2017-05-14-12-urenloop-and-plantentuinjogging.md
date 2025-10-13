@@ -191,7 +191,7 @@ keep up. I manually click the lap button when I see the 2km pass by (I had
 forgotten to turn on autolap). Just over nine minutes for two km, slower than
 we should be going. My own heart rate is only in the low 160s.
 
-[![The girlfriend and I]][gfandilink]
+{% include image.html domain=site.baseurl url='/assets/img/20170514.gfandi.jpg' description='The girlfriend and I.' %}
 
 As we start climbing again, a girl and her father (?) pass us. The girlfriend
 starts to slow down some more.  The sickness is getting to her. As it gets
@@ -274,5 +274,3 @@ girlfriend showed some interest in Copenhagen).
 [plantentuin2016]: {{ site.baseurl }}{% post_url 2016-05-16-plantentuinjogging-meise %} "Plantentuinjogging Meise 2016"
 [strava12uren]: https://www.strava.com/activities/980129271
 [stravameise]: https://www.strava.com/activities/985862413
-[The girlfriend and I]: https://farm5.staticflickr.com/4251/35013589140_bff70650b3_b.jpg
-[gfandilink]: https://www.flickr.com/photos/wardmuylaert/35013589140/in/album-72157682953043751/

@@ -78,7 +78,8 @@ wide to avoid coming to a complete halt. The course had now entered the park in
 front of the Royal Palace and it was slightly going uphill again here, so I
 decided I could use another breather when I reached the next group, a 40 year
 old guy and a teenager (both ages estimates).
-[A picture of me behind the kid, older guy on my left][sportograf1].
+
+{% include image.html domain=site.baseurl url='/assets/img/20151004.warandepark.jpg' description='A picture of me behind the kid, older guy on my left.' %}
 
 I was pretty close to settling behind these two for a longer while, when a guy
 was starting to pass me on my left as we were nearing the 3 km mark. I decided
@@ -119,11 +120,11 @@ spot, something I did not expect at all. It did explain the emptiness of the
 streets from 2 km onwards. Thinking I now really needed to beat this guy, I
 thought about when to try and place a sprint. He however decided the time was
 now and sped up a bit. I noticed I could not even follow him then, let alone
-sprint past him so I stayed at the pace I was running.
-[Him about to cross the line with me in the background][sportograf2]. More than
-happy with the
+sprint past him so I stayed at the pace I was running. More than happy with the
 result and probably the first time I crossed the line with an actual "fuck yes"
 moment. [Video of the finish][finish].
+
+{% include image.html domain=site.baseurl url='/assets/img/20151004.finish.jpg' description='The guy I was trying to beat as he crosses the line. Me dying in the background.' %}
 
 ## Results
 
@@ -162,6 +163,4 @@ confirmed my suspicion. According to them the race is 4.59k long. Extrapolating
 my time to 5k gives me 17:37. This of course assumes I would be able to hold
 that pace for another few 100m.
 
-[sportograf1]: https://www.flickr.com/photos/wardmuylaert/21340929883/in/album-72157659393962596/
-[sportograf2]: https://www.flickr.com/photos/wardmuylaert/21775148959/in/album-72157659393962596/
 [finish]: https://www.flickr.com/photos/wardmuylaert/21322260334/in/album-72157659393962596/
