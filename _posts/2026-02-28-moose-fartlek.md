@@ -111,7 +111,7 @@ went _that_ high. Top end of my GA range is maybe 155.
 
 Next day felt nothing, so it was light enough on the legs, at least the way
 that I ended up doing it. If I did it again I would probably try to be a little
-bit faster for both on reps. I wish I had given this a try earlier on in this
+bit faster for both "on" reps. I wish I had given this a try earlier on in this
 winter, then I would have had a better alternative than the workout I did the
 other week on a badly cleaned lane of a snowed in track. Anyway, I will
 probably try this one again at some point. Just need to see when I want to fit
