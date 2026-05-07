@@ -122,41 +122,130 @@ being in there like sardines got hit by a "it can always be worse". By the end
 of the 30–40 minute ordeal, I was sweating a little from the heat of the mass
 of people in that cart. Dicht bijeen is warm.
 
-- Uneventful getting to portapotty and start
-- Line up in corral behind elites
+We arrived at the start area with about 40 minutes till the start. Walked to
+the toilets. There were a lot, but the lining up was a bit disorganized, you
+had to kind of guess which line belonged to how many toilets. Anyway, that was
+uneventful and we headed to my corral. Everyone under 62 minutes seed time got
+in the red corral, right behind the elites. I did not really have time to jog
+around for a warm up (and did not want the mess of figuring out a good spot
+nearby to even try that), so I made do with swinging legs, some running in
+place, some jumping up and down. Not ideal, but I also was not really worried
+about it.
 
 ## Race
 
-- Follow Souhail's club mate that seemed to also be running 1h
-- After 2 km realise that my HR is just chilling in the mid 150s (LT is like
-  170-173)
-- Abandon the 1h plan, just start running partly by feel, partly by "can I get
-  this damned hr to rise"
-- Felt fine for a while
-- By about halfway maybe I get that "hmm, wouldnt mind stopping" feeling
-- By about ¾ it's more a "ok, I need to slow down"
-- Decide to let myself go slower, BUT do not allow myself to go slower than the
-  pace I had in mind originally. By this point I've seen the timing clocks at
-  the mile markers and I know I'm over a minute ahead. I want that 58:xx finish
-  time now.
-- A lot of this stretch is spent "right, follow that person"... "ok cant really
-  seem to follow them right now"... "well they're not pulling away very far,
-  keep them in sight", rinse and repeat.
-- Try to push a bit more again the final 800m-1k, but did not have much left to
-  give
-- Squeeze out for the last 100 metre or so after all
+The start was given a bit abruptly and off we were. I started off a bit by feel
+and a bit by glancing at the watch. Early on, there is not much trust you can
+put in that GPS time reading anyway. It felt right though. Once the GPS caught
+on, my feeling was confirmed. I noticed the people around me must also be
+aiming for about that hour, we all just stuck around that same pace.
+Specifically, I tried to stay near a guy that, going by his jersey, was part of
+the club that organised my previous two track races. They have some speedy boys
+and girls and I had noticed a lot of shirts in the start corral.
+
+> Watch splits kilometres one and two, rounded to the second: 3:43, 3:43
+
+Pretty much bang on. After those two first kilometres though, I realise that my
+heart rate is not going up to where it should. Historically, my
+LT-aka-one-hour-race-pace heart rate is around 170–173. My watch said my heart
+rate was around 155. At that point I decided to let the reins go. Speed up by
+feel, keep an eye on the heart rate, and see what happens. Finishing in an hour
+while running an entire race in the high 150s would not have sparked joy.
+
+Anyway, I started blasting.
+
+I picked up the pace and I picked off people. Always a little worrying when you
+suddenly go faster than most people around you, but hey, I had the idea in my
+head now. Things felt fine, running fast is fun.
+
+By about halfway, I did get the first thoughts of "you know, letting the body
+relax could be fun too". We ignore those feelings.
+
+> Kilometres 3–9: 3:34, 3:33, 3:32, 3:36, 3:33, 3:33, 3:34
+
+Since the race is a straight line, you see the city hall from quite far away
+already. A little over halfway, at about 9 km, you finally reach it. With it,
+you also reach the only four turns as you have to go around it. They are not
+tight turns though, so you cant just keep it rolling.
+
+Just a little past the city hall, I spot my wife's bright yellow jacket. I give
+her some silly signs for the picture and she yells at me I'm doing great. I had
+told her about the one hour goal, naturally, so she knew I was ahead of
+schedule.
+
+And ahead I was. The race provided mile markers and a (gun) timer at every one
+of them. For a race where you know you need to run just faster than six minutes
+per mile, that works out to some easy math. I saw my time get further and
+further ahead of every next multiple of six. I was over a minute ahead of
+schedule, so projected finish of 58:xx. I would have to implode pretty badly
+for sub 60 to fail at this point.
+
+Few kilometre later, I realise I have to reign myself in some, I need to slow
+down. While my heart rate is still just hovering around 163–165, i.e., lower
+than I would expect, I feel pretty sure I cannot keep up the pace I was
+running. I don't worry about it though. Accept faith, see if there is someone I
+can follow for a while. I tell myself one thing though: I can't let myself go
+slower than 3:43.6, the pace I had originally had in mind for the entire race.
+I am on track for 58:xx and I want to keep it that way.
+
+> Kilometres 10–13: 3:37, 3:38, 3:42, 3:42
+
+A lot of this stretch is spent thinking "right, follow that person" … "OK, I
+can't really follow them right now" … "Well, they're also not pulling away very
+far, so keep them vaguely in sight". Rinse and repeat. It keeps my mind
+occupied though. I just want to make sure I keep going. I also already am
+thinking about when to start pushing to the finish. Last 800m or so sounds
+good.
+
+Those last bits, there's actually a slight double bend in the road. Everyone
+else seems to be sticking to the lanes painted on the road, I aim for what I
+think is the straighter line. I'm also pushing a bit again, but there's not
+much to push.
+
+> Kilometres 14–16.1: 3:40, 3:41, 3:37+31
 
 ## Results
 
-Honestly, can't complain
+[Official results][results] and [my own GPS][strava].
 
-Mention Belgian showing up
+My official splits (chip time), compared to the goal pace.
 
-Walk back to the car
+| Split |        Time |         Leg | Pace/km | Rank |
+| :---- | ----------: | ----------: | ------: | ---: |
+| 3 mi  | 17:32 (-28) | 17:32 (-28) |    3:38 |  277 |
+| 5 mi  | 29:04 (-56) | 11:32 (-28) |    3:35 |  252 |
+| 7 mi  | 40:45 (-75) | 11:41 (-19) |    3:38 |  257 |
+| 10 mi | 58:28 (-92) | 17:43 (-17) |    3:40 |  268 |
+
+Honestly, can't complain. Sure, the course helps (slight net downhill, one
+direction). Since I was still already going to be happy with sub 60 today,
+going faster makes me happier still.
+
+Right past the finish line, a guy walks up to me and asks me about my Belgian
+themed shirt. Turns out he is a Belgian too. He saw my singlet during the race
+and it motivated him to beat me. He managed to, he finished nine seconds ahead
+of me. We chatted for a bit, commiserating the lack of talking Dutch in our
+respective areas.
+
+After that, I walked to a shuttle that would bring runners back to the nearby
+parking lot. By the time I reached the shuttle, I felt like the parking lot was
+not too far any more anyway and I just walked the rest of the way.
 
 ## Future
 
-... idk man
+I don't really know. Past two months distracted me some from even looking ahead
+much. I'm thinking I'll look for a race in fall just to keep something on the
+horizon.
+
+Near future I want to get my consistency back. I'm thinking along the two
+obvious fronts here: distance per week and workouts. I think my distance per
+week will be back at 70 km per week again easily enough once the week of taking
+it easier post race is past. I want to finally push towards 80 km again. Really
+I want to push beyond that, but given my recent history I will take the build
+up there nice and slow. In terms of workouts I will see what makes sense, but I
+think I will start with just some more LT work, it feels less destructive to
+play around with. I really do like "Repetition", i.e., 200s and 400s, though,
+so who knows.
 
 [prtc3000]: {{ site.baseurl }}{% post_url 2026-03-07-prtc-indoor-3000 %} "PRTC 3000m (7 Mar 2026)"
 [results]: https://results2.xacte.com/#/e/2630/searchable
