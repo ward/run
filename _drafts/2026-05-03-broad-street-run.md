@@ -12,12 +12,13 @@ I had signed up to Philadelphia's "Broad Street Run", a 10 mile race running
 straight along Broad Street, on a bit of a whim. Locally, the race is iconic,
 attracting forty thousand people. I figured I should get around to actually
 running it as part of my integration. I was giving more serious thoughts about
-getting a good training block in for it come February, with first the goal of
-doing well at the [PRTC 3000m indoor][prtc3000].
+getting a good training block in for it come February and planning to have a
+decent eight week block after the [PRTC 3000m indoor][prtc3000] early March.
 
-I had gotten a bit injured right before that race, then managed to make things
-worse the week after the race (though, surprisingly, not during that race).
-That messed up training for Broad Street, but I was going to run it regardless.
+However, I had gotten a bit injured right before that 3000m race, then managed
+to make things worse the week after the race (though, surprisingly, seemingly
+not during that race). That injury messed up training for Broad Street, but I
+was going to run it regardless, even if it were to end up a slower jog.
 
 ## Training
 
@@ -34,52 +35,57 @@ That messed up training for Broad Street, but I was going to run it regardless.
 | 20 Apr (-1) |        70 | LT                            | A careful 2×2 km on the track. Wanted a feel for the 1h 10 mile pace |
 |      27 Apr |        65 | LT                            | Another 2×2 km on the track, same reason. Distance includes the race |
 
-I'm starting here from when things went a little to shit. While doing a long
-run on the Horse Shoe Trail on 28 Feb, I fell. I lost a bit of my ear and,
-worse, hurt my hip. I skipped some runs, made those I still did a lot easier,
-then showed up for the 3000 metre race I had the week after. In the warmup, my
-hip worried me still, I was ready to call it quits immediately, but when the
-race started, my hip felt fine. After the race, my hip even felt better than it
-had all week. Confused, but happy.
+I'm starting this story from when things went to shit. While doing a long run
+on the Horse Shoe Trail on 28 Feb, I fell. I lost a bit of my ear and, worse,
+hurt my hip. I skipped some runs, made those I still did a lot easier, then
+showed up for the 3000 metre race I had the week after. In the warmup, my hip
+worried me still, I was ready to call it quits immediately, but once the race
+started, my hip felt fine. After the race, my hip even felt better than it had
+all week. Confused, but happy.
 
 Thinking things were OK again, I planned a workout on Wednesday. In the first
 rep, my hip immediately said nop. Things felt worse than they had before and
-that continued for a while. I switched to walking instead the rest of the week.
+that continued for a while. I switched to walking instead for the rest of the
+week.
 
 The week after, I tried out jogs on many days. As long as I did not run too
-long, my hip seemed to hold up. Yes, in retrospect, I should have just taken
+long, my hip seemed to hold up. I also did these on the nearby rail trail, to
+keep them flat and easy. Yes, in retrospect, maybe I should have just taken
 more days off. It is so much harder to decide in the moment though. And thus I
-continued that approach for another week. I just wanted to run.
+continued that many jogs approach for another week. I just wanted to run.
 
 The week after that, the week of 30 March, we had a Texas trip planned. This
 involved a lot more walking, especially once we got to Big Bend National Park,
-so I ran a lot less. That one I had already planned for though.
+so I ran a lot less. That gap in training I had already planned for though.
 
 Once back home, I went back to building my base back to "normal", i.e., the
-70 km per week that I had reached prior to breaking myself. I decided to make a
-change though. I had been spreading the 70 km out over five days before and,
-wanting to have fun weekend long runs, threw too much distance at my long runs:
-up to 25 km. Instead, I now spread the 70 km out over six days and aimed for a
-16–18 km long run. I am thinking I will keep it that way for a while longer
-still.
+70 km per week that I had reached prior to breaking myself. I did make a
+change. Before, I had been spreading the 70 km out over five days and, wanting
+to have fun weekend long runs, threw too much distance at my long runs: up to
+25 km. In my less desperate-for-running times, I would have been the first one
+to say that with only 70 km in a week, you should not bother with a long run
+over about 18 km. So I listened to old self (really, to JD) and I now spread
+the 70 km out over six days while aiming for a 16–18 km long run. I am thinking
+I will keep it that way for a while after the race too.
 
-Finally, the week before race week, I figured I should actually try some faster
+Finally, the week before race week, I wanted to actually try some faster
 running again. No hope remained for the time I had originally filled in for
-seeding (58:15), but, being a sucker for pretty numbers, I decided I should
-still aim for sub 1 hour at least. Sixty minutes at race pace tends to be about
-what gets suggested for "Lactate Threshold" (LT / T) kind of workouts. You see
-where I'm going with this. I just did some T work at the pace that would get me
-to the finish in one hour (3:43.6). Did 2×2 km of it on the track because I
-wanted to get the exact right feel and because I wanted the flat stability for
-my hip just in case. It felt… fine? I did it again the week of the race. I had
-not slept anywhere near enough, but got through it on grit. That gave me even
-less confidence in actually managing to hold the pace on race day though. Oops.
+seeding (58:15), but, being a sucker for round numbers, I decided I should
+still aim for sub 60 minutes least. Sixty minutes at race pace tends to be
+about what gets suggested for "Lactate Threshold" (LT / T) kind of workouts.
+You see where I'm going with this. I just did some T work at the pace that
+would get me to the finish in one hour (3:43.6 per km). Did 2×2 km of it on the
+track because I wanted to get the exact right feel and because I wanted the
+flat stability for my hip just in case. It felt… fine? I did the same workout
+again the week of the race. I had not slept anywhere near enough, but got
+through it on grit. That gave me even less confidence in actually managing to
+hold the pace on race day. Oops.
 
 ## Goal and Strategy
 
 As I said, originally I had filled in 58:15. It seemed like a good goal going
 by my [5000m in November][prtc5000] and is supposedly equivalent to just about
-a sub-17 5000m. Again, I'm a sucker for pretty numbers to aim for. Anyway, that
+a sub-17 5000m. Again, I'm a sucker for round numbers to aim for. Anyway, that
 was out the window.
 
 Instead, I was just going to aim for the hour (well, for 59:59), at a pace of
@@ -100,9 +106,9 @@ we live in the suburbs, there was no train option to get to the start early
 enough. Instead, my two options were a last minute $200+ hotel room or waking
 up really early, driving to the parking lot near the finish line, and taking
 the metro up to the start line (the race is point to point along Broad Street).
-I was not going to spend that money.
+I was tempted, but decided not to spend that money.
 
-So the night before, I started my evening routine by like 20:00. Took some
+Thus the night before, I started my evening routine by like 20:00. Took some
 melatonin, went to lie in bed, read the book I had been reading. All the usual
 approaches to when I have trouble falling asleep. To my surprise, that actually
 worked somewhat. I don't know exactly when I fell asleep, but I think I might
@@ -110,40 +116,45 @@ have even gotten six hours of sleep.
 
 My alarm went off at 4:20. Good thing I'm pretty good at immediately getting
 out of bed most of the time. I got going with the usual morning routine, but
-swiftly. I had three bites of the past leftovers from the night before. I had a
-banana. My wife (who was nice enough to tag along for this madness) and I
-headed out the door at 4:40. The drive to the parking lot took about 50 mins,
-we arrived by 5:30 or so. I changed into my running gear, threw a sweater over,
-was too cold, but we made our way to the metro station that was right there.
-Got to the metro platform by about 5:38–39, waited five minutes for the express
-train to arrive, got in like sardines, and after some more delay we were on our
-way. The express line still stopped a few more times and every time our idea of
-being in there like sardines got hit by a "it can always be worse". By the end
-of the 30–40 minute ordeal, I was sweating a little from the heat of the mass
-of people in that cart. Dicht bijeen is warm.
+with more purpose than usual. I had three bites of the pasts leftovers from the
+night before. I had a banana. My wife (who was nice enough to tag along for
+this madness) and I headed out the door at 4:40. The drive to the parking lot
+took about 50 mins, we arrived by 5:30 or so. I changed into my running gear,
+threw a sweater over, was too cold, but we made our way to the metro station
+that was right there. Got to the metro platform by about 5:38–39 (I remember
+looking at the clock too often, waiting for a metro to show up), waited five
+minutes for the express train to arrive, got in like sardines, and after some
+more delay we were on our way. The express line still stopped a few more times
+and every time our idea of being in there like sardines got hit by a "it can
+always be worse". By the end of the 30–40 minute ordeal, I was sweating a
+little from the heat of the mass of people in that cart. Dicht bijeen is warm.
 
 We arrived at the start area with about 40 minutes till the start. Walked to
 the toilets. There were a lot, but the lining up was a bit disorganized, you
-had to kind of guess which line belonged to how many toilets. Anyway, that was
-uneventful and we headed to my corral. Everyone under 62 minutes seed time got
-in the red corral, right behind the elites. I did not really have time to jog
-around for a warm up (and did not want the mess of figuring out a good spot
-nearby to even try that), so I made do with swinging legs, some running in
+had to kind of guess which line belonged to what number of toilets. Anyway,
+that was uneventful and we headed to my corral. Everyone under 62 minutes seed
+time got in the red corral, right behind the elites. I did not really have time
+to jog around for a warm up (and did not want the mess of figuring out a good
+spot nearby to even try that), so I made do with swinging legs, some running in
 place, some jumping up and down. Not ideal, but I also was not really worried
-about it.
+about it? It helps that I did not expect a PR here.
+
+TODO: Corral picture.
 
 ## Race
 
-The start was given a bit abruptly and off we were. I started off a bit by feel
-and a bit by glancing at the watch. Early on, there is not much trust you can
-put in that GPS time reading anyway. It felt right though. Once the GPS caught
-on, my feeling was confirmed. I noticed the people around me must also be
-aiming for about that hour, we all just stuck around that same pace.
+The start was given a bit abruptly and off we were. I started off partly by
+feel and partly by glancing at the watch. Early on, there is not much trust you
+can put in that GPS time reading anyway. The pace felt right though. Once the
+GPS caught on, my feeling was confirmed. I assumed the people around me must
+also be aiming for an hour and we all just stuck around that same pace.
 Specifically, I tried to stay near a guy that, going by his jersey, was part of
 the club that organised my previous two track races. They have some speedy boys
-and girls and I had noticed a lot of shirts in the start corral.
+and girls and I had noticed a lot of their shirts in the start corral.
 
 > Watch splits kilometres one and two, rounded to the second: 3:43, 3:43
+
+TODO: Is tina's early picture usable?
 
 Pretty much bang on. After those two first kilometres though, I realise that my
 heart rate is not going up to where it should. Historically, my
@@ -166,12 +177,14 @@ relax could be fun too". We ignore those feelings.
 Since the race is a straight line, you see the city hall from quite far away
 already. A little over halfway, at about 9 km, you finally reach it. With it,
 you also reach the only four turns as you have to go around it. They are not
-tight turns though, so you cant just keep it rolling.
+tight turns though, so you can just keep it rolling.
 
 Just a little past the city hall, I spot my wife's bright yellow jacket. I give
 her some silly signs for the picture and she yells at me I'm doing great. I had
 told her about the one hour goal, naturally, so she knew I was ahead of
 schedule.
+
+TODO: City hall picture
 
 And ahead I was. The race provided mile markers and a (gun) timer at every one
 of them. For a race where you know you need to run just faster than six minutes
@@ -180,7 +193,7 @@ further ahead of every next multiple of six. I was over a minute ahead of
 schedule, so projected finish of 58:xx. I would have to implode pretty badly
 for sub 60 to fail at this point.
 
-Few kilometre later, I realise I have to reign myself in some, I need to slow
+A few kilometre later, I realise I have to reign myself in some, I need to slow
 down. While my heart rate is still just hovering around 163–165, i.e., lower
 than I would expect, I feel pretty sure I cannot keep up the pace I was
 running. I don't worry about it though. Accept faith, see if there is someone I
@@ -204,6 +217,8 @@ much to push.
 
 > Kilometres 14–16.1: 3:40, 3:41, 3:37+31
 
+TODO: official watermarked picture? they kinda suck though
+
 ## Results
 
 [Official results][results] and [my own GPS][strava].
@@ -219,7 +234,11 @@ My official splits (chip time), compared to the goal pace.
 
 Honestly, can't complain. Sure, the course helps (slight net downhill, one
 direction). Since I was still already going to be happy with sub 60 today,
-going faster makes me happier still.
+going faster makes me happier still. Technically this is a PR since it is only
+the second 10 mile race I have ever run. In reality, the pace of my half
+marathon PR was a 57:06, without even accounting for being able to run it
+faster if there is no expectation of another five km tacked on after it. Ah, to
+be in that shape again.
 
 Right past the finish line, a guy walks up to me and asks me about my Belgian
 themed shirt. Turns out he is a Belgian too. He saw my singlet during the race
@@ -233,19 +252,25 @@ not too far any more anyway and I just walked the rest of the way.
 
 ## Future
 
-I don't really know. Past two months distracted me some from even looking ahead
-much. I'm thinking I'll look for a race in fall just to keep something on the
-horizon.
+I think my main takeaway from this race is my body might have been lacking in
+endurance and my mind in the will to push through the pain. That will be a
+matter of running more again and running harder more often again, both in
+workout settings as in race settings. Time will tell whether I manage.
 
-Near future I want to get my consistency back. I'm thinking along the two
-obvious fronts here: distance per week and workouts. I think my distance per
-week will be back at 70 km per week again easily enough once the week of taking
-it easier post race is past. I want to finally push towards 80 km again. Really
-I want to push beyond that, but given my recent history I will take the build
-up there nice and slow. In terms of workouts I will see what makes sense, but I
-think I will start with just some more LT work, it feels less destructive to
-play around with. I really do like "Repetition", i.e., 200s and 400s, though,
-so who knows.
+As for actual future plans, I don't really know. Past two months distracted me
+some from even looking ahead much. I'm thinking I'll look for a race in fall
+just to keep something on the horizon. Probably should do some smaller stuff
+sooner.
+
+In the near future I want to get my consistency back. I'm thinking along the
+two obvious fronts here: distance per week and workouts. I think my distance
+per week will be back at 70 km per week again easily enough once the week of
+taking it easier post race is past. I want to finally push towards 80 km again.
+Really I want to push beyond that, but given my recent history I will take the
+build up there nice and slow. In terms of workouts I will see what makes sense,
+but I think I will start with just some more LT work, it feels less destructive
+to play around with. I really do like "Repetition", i.e., 200s and 400s,
+though, so who knows.
 
 [prtc3000]: {{ site.baseurl }}{% post_url 2026-03-07-prtc-indoor-3000 %} "PRTC 3000m (7 Mar 2026)"
 [results]: https://results2.xacte.com/#/e/2630/searchable
