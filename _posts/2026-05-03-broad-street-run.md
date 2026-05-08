@@ -139,8 +139,6 @@ spot nearby to even try that), so I made do with swinging legs, some running in
 place, some jumping up and down. Not ideal, but I also was not really worried
 about it? It helps that I did not expect a PR here.
 
-TODO: Corral picture.
-
 ## Race
 
 The start was given a bit abruptly and off we were. I started off partly by
@@ -154,7 +152,7 @@ and girls and I had noticed a lot of their shirts in the start corral.
 
 > Watch splits kilometres one and two, rounded to the second: 3:43, 3:43
 
-TODO: Is tina's early picture usable?
+{% include image.html domain=site.baseurl url='/assets/img/20260503-broadstreetrun/1.first-few-100.avif' description='Always too much energy early on.' %}
 
 Pretty much bang on. After those two first kilometres though, I realise that my
 heart rate is not going up to where it should. Historically, my
@@ -179,12 +177,11 @@ already. A little over halfway, at about 9 km, you finally reach it. With it,
 you also reach the only four turns as you have to go around it. They are not
 tight turns though, so you can just keep it rolling.
 
-Just a little past the city hall, I spot my wife's bright yellow jacket. I give
-her some silly signs for the picture and she yells at me I'm doing great. I had
-told her about the one hour goal, naturally, so she knew I was ahead of
-schedule.
+{% include image.html domain=site.baseurl url='/assets/img/20260503-broadstreetrun/2.city-hall.avif' description='Right past the city hall makes for pretty pictures.' %}
 
-TODO: City hall picture
+Just a little past the city hall, I spot my wife's bright yellow jacket. She
+yells at me I'm doing great. I had told her about the one hour goal, naturally,
+so she knew I was ahead of schedule.
 
 And ahead I was. The race provided mile markers and a (gun) timer at every one
 of them. For a race where you know you need to run just faster than six minutes
@@ -216,8 +213,6 @@ think is the straighter line. I'm also pushing a bit again, but there's not
 much to push.
 
 > Kilometres 14–16.1: 3:40, 3:41, 3:37+31
-
-TODO: official watermarked picture? they kinda suck though
 
 ## Results
 
